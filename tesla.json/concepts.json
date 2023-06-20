@@ -1,0 +1,1472 @@
+[
+  {
+    "Id": "10000000-024a-44e5-8844-998342022971",
+    "Title": "Midjourney Core",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0000-0000-0000-000000000000",
+    "Title": "TBD",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-6261-48d7-82d4-8e051efdce08",
+    "Title": "ArtMedium",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-382e-4e9d-bfe2-7e2e5a57bfb1",
+    "Title": "Environment",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-4bb8-4f9a-aa2d-3a6f3398e64d",
+    "Title": "Lighting",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-fbbd-423e-ab0b-fb77e2eceee7",
+    "Title": "Color",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-dd51-4d68-ab02-fee99dfc3fb7",
+    "Title": "Mood",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0fce-4598-a3b8-83f8190b08ac",
+    "Title": "Composition",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-3ca8-46fb-b72c-835096b1c6b2",
+    "Title": "Artur Bordalo",
+    "PluralTitle": null,
+    "Description": "Artur Bordalo, also known as Bordalo II, is known for his striking street art sculptures made from found objects, often conveying environmental messages. His three-dimensional compositions inhabit urban environments and share stylistic qualities with other street artists such as Vhils and Banksy."
+  },
+  {
+    "Id": "10000000-31b4-4786-b3d8-c84760c47cbf",
+    "Title": "Street art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-20d6-4ef1-8003-8e5aeb82f181",
+    "Title": "Sculpture",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0768-41fe-9956-49be4b5a222d",
+    "Title": "Found objects",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-9095-4653-911c-1187a319ce96",
+    "Title": "Urban",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-b2c6-4862-9713-5dfacb79ac90",
+    "Title": "Three-dimensional",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0830-4c3e-9ba6-7ac965bf4c67",
+    "Title": "Arturo Souto",
+    "PluralTitle": null,
+    "Description": "Arturo Souto was a Spanish painter known for his impressionistic and cubist works. His paintings, often politically charged, are characterized by vibrant color usage and figurative compositions. His style and themes find resonance with artists like Pablo Picasso and Joan Mir\u00F3."
+  },
+  {
+    "Id": "10000000-8664-421a-8186-22402b44e1e1",
+    "Title": "Impressionism",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-755c-4aee-a941-efc8f662e345",
+    "Title": "Cubism",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-ac3c-4380-8499-670813fbb683",
+    "Title": "Painting",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-f42c-42f2-9bbe-2dc14b195baf",
+    "Title": "Vibrant",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-e467-45bc-bed6-9f9e796fa25c",
+    "Title": "Political",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-d2e9-4507-bccd-54eded8a0b16",
+    "Title": "Figurative",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-9e2a-4f63-910b-a263496c450e",
+    "Title": "Ary Scheffer",
+    "PluralTitle": null,
+    "Description": "Ary Scheffer was a Dutch-French Romantic painter. His works are often figurative, portraying melancholic moods through subdued colors. His style is closely associated with other Romantic artists like Eug\u00E8ne Delacroix and Th\u00E9odore G\u00E9ricault."
+  },
+  {
+    "Id": "10000000-fe54-4990-bd56-a8be1b1a257d",
+    "Title": "Romanticism",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-97d3-442b-a75c-04ec8db1f850",
+    "Title": "Subdued",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-c6ca-4716-a3a5-cad91e3e4926",
+    "Title": "Melancholic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8010-465b-8dab-0fad57bc231f",
+    "Title": "Asaf Hanuka",
+    "PluralTitle": null,
+    "Description": "Asaf Hanuka is a noted Israeli comic artist and illustrator, known for his vivid color usage and satirical, cartoonish compositions in graphic novels and comic art. His style is akin to other illustrators like his twin brother Tomer Hanuka and Guy Delisle."
+  },
+  {
+    "Id": "10000000-5fe3-49e5-b13c-a84146feb855",
+    "Title": "Graphic novels",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-3654-4d83-9792-b0579b678abc",
+    "Title": "Comic art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-6123-4c29-ba7c-54dd8d209923",
+    "Title": "Illustration",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-5284-46f3-96ac-ec3486e86911",
+    "Title": "Vivid",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-ea9c-4922-b761-2fa4f604c62f",
+    "Title": "Satirical",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8de4-443b-8b13-7040df53f3c8",
+    "Title": "Cartoonish",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-7fd5-410e-9f36-c7a7f4f31248",
+    "Title": "ASCII",
+    "PluralTitle": null,
+    "Description": "ASCII art is a form of digital art made using the characters defined by the ASCII standard. Its compositions are typically monospace and abstract, allowing for intricate designs to be created purely from text. While many anonymous artists have contributed to this form, specific notable artists are hard to pinpoint."
+  },
+  {
+    "Id": "10000000-a646-492d-95fc-91dcd3d7ffed",
+    "Title": "Digital art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-a791-431b-acb1-8e1fc6f6f1a4",
+    "Title": "Text",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-2248-4869-8fc5-79ecfe94e428",
+    "Title": "Abstract",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-5119-4362-bcad-ee09f00dcf01",
+    "Title": "Monospace",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-30b7-4fb6-b216-904a420b1836",
+    "Title": "Asger Jorn",
+    "PluralTitle": null,
+    "Description": "Asger Jorn was a Danish painter and one of the founding members of the Cobra and Situationist movements. His work is known for its vibrant colors, rebellious mood, and abstract compositions, characteristics shared with artists like Pierre Alechinsky and Karel Appel."
+  },
+  {
+    "Id": "10000000-e974-434d-afa1-fd3a04374ba5",
+    "Title": "Cobra",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-04e3-49f4-b8af-d41a69068d7a",
+    "Title": "Situationist",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-7c8a-4026-af28-aaf0348a89bc",
+    "Title": "Rebellious",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-ead8-4e57-8d1d-2c1ded56665a",
+    "Title": "Ashley Wood",
+    "PluralTitle": null,
+    "Description": "Ashley Wood is an Australian comic book artist and illustrator known for his work in graphic novels and concept art. His style is characterized by dark moods, muted colors, and figurative compositions, resembling the works of artists like Ben Templesmith and Kent Williams."
+  },
+  {
+    "Id": "10000000-2791-401b-af63-060abab88080",
+    "Title": "Concept art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-00a2-4153-b74b-cfe00c59f85a",
+    "Title": "Muted",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-e652-448b-b5bf-153eb23ad7e5",
+    "Title": "Dark",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-52a4-40c7-b5f8-24fab00b841f",
+    "Title": "AssasinMonkey",
+    "PluralTitle": null,
+    "Description": "AssasinMonkey, an internet pseudonym, is recognized for digital art, often depicting fantastical and vibrant scenes. The artist\u0027s compositions are generally figurative, showcasing characters and creatures in dynamic scenarios. Artists like Noah Bradley and Dan Dos Santos work in a similar vein."
+  },
+  {
+    "Id": "10000000-e0da-4a83-96c6-b2a5b4a62496",
+    "Title": "Digital",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-f85f-4f94-b497-e41a5407eaf9",
+    "Title": "Fantastical",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-7da9-47af-bb94-288807c3aff5",
+    "Title": "Assassin\u0027s Creed",
+    "PluralTitle": null,
+    "Description": "Assassin\u0027s Creed is a popular video game franchise known for its immersive historical settings and adventurous mood. The art style includes realistic digital renderings, distinctive environmental design, and dynamic compositions. Notable artists involved include Raphael Lacoste and Martin Deschambault."
+  },
+  {
+    "Id": "10000000-2ee6-4a0e-a073-9ebafb0aa8c3",
+    "Title": "Video game art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-04d7-4ebb-aa92-d1877a97ec35",
+    "Title": "Historical",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-48b5-4ef9-a59e-4004f31aee9e",
+    "Title": "Adventurous",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8c82-4d47-87df-d64356783dc4",
+    "Title": "Immersive",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-884b-4c92-8dc8-5ff9bb93c08b",
+    "Title": "Assemblage",
+    "PluralTitle": null,
+    "Description": "Assemblage refers to an artistic style where three-dimensional compositions are made from combining various elements, often discarded materials. It is a form of modern and abstract art, with artists like Joseph Cornell and Louise Nevelson notable for their assemblage works."
+  },
+  {
+    "Id": "10000000-0506-4924-a36b-36e05118878d",
+    "Title": "Joseph Cornell",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-396b-4f0c-8e00-d07540f75fba",
+    "Title": "Louise Nevelson",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-9210-4606-b0ea-3f19538370d7",
+    "Title": "Modern art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-4a05-4860-83f6-d0b716d6815e",
+    "Title": "Abstract art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-2ecb-451f-a837-b6ca7796bbc4",
+    "Title": "Mixed Media",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0323-46cc-a904-82d242da6cff",
+    "Title": "Astro Boy",
+    "PluralTitle": null,
+    "Description": "Astro Boy is a well-known manga and anime created by Osamu Tezuka. Its art style is characterized by monochrome illustrations, futuristic themes, and panel-based composition typical of manga. The creator, Osamu Tezuka, is a pivotal figure in the manga industry."
+  },
+  {
+    "Id": "10000000-a515-4f8d-bb35-0fbe63743362",
+    "Title": "Manga",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-a4d1-464b-8aea-8c7783896973",
+    "Title": "Anime",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8b2f-4bae-97a2-5f3e74adcb96",
+    "Title": "Monochrome",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-9562-4c9a-abd2-75d4af9d11b6",
+    "Title": "Futuristic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-2e85-4b5e-af46-6639d7c86b4b",
+    "Title": "Panel",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-e2a3-4c3a-855e-211da10c66a2",
+    "Title": "Astrophotography",
+    "PluralTitle": null,
+    "Description": "Astrophotography is a style of photography that focuses on capturing celestial bodies in outer space. The style often involves natural lighting and varied color schemes to highlight celestial compositions. Prominent astrophotographers include Michael Shainblum and David Malin."
+  },
+  {
+    "Id": "10000000-3cbd-475f-b2ab-d5cad5c3df26",
+    "Title": "Michael Shainblum",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-71d6-4ec5-99bf-2ef217bb638d",
+    "Title": "David Malin",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-3fa2-4258-812d-6a7bf8c1c091",
+    "Title": "Photography",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-23fe-4a28-ba69-df21932cf526",
+    "Title": "Outer Space",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-4b20-4132-8c28-323496b73ed8",
+    "Title": "Natural",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-2aec-4702-9626-5fbaff8863a8",
+    "Title": "Varied",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-d9d0-4096-81fb-431de9923712",
+    "Title": "Celestial",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-a8a4-4e7f-897b-d9adae76dc23",
+    "Title": "Astropunk",
+    "PluralTitle": null,
+    "Description": "Astropunk is a sub-genre of science fiction that combines futuristic outer space themes with a rebellious punk aesthetic. This style can be seen across various media, with compositions featuring unconventional, gritty takes on future space environments. Artists like Moebius and H.R. Giger have significantly influenced this genre."
+  },
+  {
+    "Id": "10000000-fb9e-4af0-9650-5aa7872eb918",
+    "Title": "Moebius",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-2e20-448a-a142-ebb7eb28c0e8",
+    "Title": "H.R. Giger",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-59aa-4b9a-b5de-20c4f72b8b3f",
+    "Title": "Sci-Fi",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-fd63-4caa-87a1-172f2386406e",
+    "Title": "Punk",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-6184-4068-b810-943d808f9fab",
+    "Title": "Various",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-a963-46f0-a5f3-96a90f5f9af7",
+    "Title": "Atelier Olschinsky",
+    "PluralTitle": null,
+    "Description": "Atelier Olschinsky is a Vienna-based design studio founded by Peter Olschinsky and Verena Weiss. Known for their abstract and digital art, their works are characterized by vivid colors, geometric compositions, and an experimental mood. They explore boundaries of design, illustration, and photography in their creations."
+  },
+  {
+    "Id": "10000000-9050-484e-90c8-9df25a168b3b",
+    "Title": "Digital Art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-38f7-45cc-b021-126c0d4f39ad",
+    "Title": "Abstract Art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-b098-4951-aced-1a914d590eb8",
+    "Title": "Experimental",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-bfd2-43fe-891a-509be1c6ab44",
+    "Title": "Geometric",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-d76b-41ac-a86a-2dd5d9af1070",
+    "Title": "Atey Ghailan",
+    "PluralTitle": null,
+    "Description": "Atey Ghailan is a digital artist known for his work in concept art. His style often depicts vibrant, fantastical environments and figurative compositions. His artwork, marked by a strong sense of narrative, resembles the works of other concept artists like Alex Ross and Iain McCaig."
+  },
+  {
+    "Id": "10000000-437a-40f8-b3ec-eb76ae8de229",
+    "Title": "Concept Art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-3c4e-44c5-92c0-a0242653f636",
+    "Title": "Fantasy",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-5288-4b78-86a9-c5bd802b544e",
+    "Title": "Atompunk",
+    "PluralTitle": null,
+    "Description": "Atompunk is a cultural art movement, a subset of retrofuturism, focusing on the post-war era\u0027s optimistic vision of the future. The style is often depicted in various media, presenting futuristic compositions set in an optimistic post-war environment. Artists like Syd Mead and Norman Bel Geddes embody this aesthetic in their work."
+  },
+  {
+    "Id": "10000000-5eb3-4247-b6e6-f6b6bd351c81",
+    "Title": "Syd Mead",
+    "PluralTitle": null,
+    "Description": "Syd Mead, known as a \u0027visual futurist\u0027, was a renowned American artist, best known for his work in the field of concept art and illustrations. His style was marked by vivid color usage, mechanical compositions, and a visionary sense of optimism about the future. He has influenced and shares similarities with artists like Ralph McQuarrie and Moebius."
+  },
+  {
+    "Id": "10000000-0641-450a-b99e-f4d89db91373",
+    "Title": "Norman Bel Geddes",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0b47-4e5c-a430-aefe38cf6cae",
+    "Title": "Retrofuturism",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-bf10-4c7f-ba5e-07666aa2e4e5",
+    "Title": "Post-War Era",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-baf1-4e03-90a1-e4d0af5f4998",
+    "Title": "Optimistic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-d4ac-4cc4-b267-380179200c8e",
+    "Title": "Attack on Titan",
+    "PluralTitle": null,
+    "Description": "Attack on Titan is a popular manga and anime series created by Hajime Isayama. The art style is characterized by intense, dark-colored illustrations that depict a dystopian environment. The composition of the artwork is dynamic, reflecting the series\u0027 action-packed narrative."
+  },
+  {
+    "Id": "10000000-0c36-4a9d-89c4-63077ef0b5d2",
+    "Title": "Dystopian",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-b3bf-47ef-85b9-51aaeeae8819",
+    "Title": "Intense",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-ab12-4f56-b0ba-0280b32ffc1a",
+    "Title": "Dynamic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-d31f-4eb2-a37c-453aba34add8",
+    "Title": "Aubrey Beardsley",
+    "PluralTitle": null,
+    "Description": "Aubrey Beardsley was a prominent English illustrator and author known for his black ink drawings that epitomize the Art Nouveau style. His work is noted for its monochrome color scheme, stylized compositions, and provocative mood. Similar artists include Alphonse Mucha and Henri de Toulouse-Lautrec."
+  },
+  {
+    "Id": "10000000-2fe1-4ea9-8b02-4db0ba8717a3",
+    "Title": "Art Nouveau",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-cf55-414d-98e0-ab57e231e3ad",
+    "Title": "Ink",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0ebc-4969-aea0-746ae5601f4d",
+    "Title": "Provocative",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-98d1-46be-aa99-8b235ab2192a",
+    "Title": "Stylized",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-12f6-4f44-afc2-1aa66b6f49ed",
+    "Title": "Aubusson tapestry",
+    "PluralTitle": null,
+    "Description": "Aubusson tapestry refers to the tapestry art tradition of the Aubusson region in France. It is characterized by historical and narrative compositions, varied colors, and is executed in textile medium. Jean Lur\u00E7at and Michel Tourli\u00E8re are among the artists known for Aubusson tapestry."
+  },
+  {
+    "Id": "10000000-1771-4a8d-b012-08ecb79505b9",
+    "Title": "Jean Lur\u00E7at",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-3154-432c-9d7d-f25c0a7ca9af",
+    "Title": "Michel Tourli\u00E8re",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-4e12-41b2-936a-b51509cd8ee9",
+    "Title": "Tapestry art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-61f9-4c5b-bcd4-57585f6517c4",
+    "Title": "Textile",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-c656-4a1d-bc81-70e2322c5d66",
+    "Title": "Narrative",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-df41-492c-a10b-08edf03e698c",
+    "Title": "Audrey Kawasaki",
+    "PluralTitle": null,
+    "Description": "Audrey Kawasaki is a Los Angeles-based painter known for her distinct style that blends elements of manga and Art Nouveau. Her work, rendered in oil, often features pastel colors, mysterious moods, and figurative compositions set in fantastical environments. Artists James Jean and Yoshitaka Amano have similar styles."
+  },
+  {
+    "Id": "10000000-735e-4983-b72c-1a921e5ee9ee",
+    "Title": "Oil",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-ee90-442f-b00e-4b41f3aad1bb",
+    "Title": "Pastel",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-721d-488a-887a-d7f32ed0717c",
+    "Title": "Mysterious",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-456e-4e99-a056-67fdbd3e28a7",
+    "Title": "August Macke",
+    "PluralTitle": null,
+    "Description": "August Macke was a German painter and one of the leading figures of the Expressionist movement. His style is characterized by bright colors, abstract compositions, and emotional undertones, rendered primarily in painting medium. His style shares similarities with artists like Franz Marc and Robert Delaunay."
+  },
+  {
+    "Id": "10000000-dcb3-468a-9659-a1cf5015ab40",
+    "Title": "Expressionism",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-3e59-47c2-b471-4afb55acc030",
+    "Title": "Orphism",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0dbc-4ec4-99eb-7fabacfcd444",
+    "Title": "Bright",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-980d-4d50-945d-5d4529eef6c9",
+    "Title": "Emotional",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-6e0b-4ee0-936f-05fba144a510",
+    "Title": "August Sander",
+    "PluralTitle": null,
+    "Description": "August Sander was a German photographer known for his portraiture work and a neutral, realistic approach to his subjects. He often employed natural lighting and a monochrome color scheme. His style has influenced other photographers, including Diane Arbus and Richard Avedon."
+  },
+  {
+    "Id": "10000000-26e0-45c2-a38a-2615fa8e0fb6",
+    "Title": "Portraiture",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0604-4c8c-9d10-b81b052addde",
+    "Title": "Neutral",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-770f-449f-8a55-e5b30909ce41",
+    "Title": "Realistic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-b6d6-4f0d-91ea-109acc0e2ee7",
+    "Title": "Augusta Savage",
+    "PluralTitle": null,
+    "Description": "Augusta Savage was a significant African-American sculptor associated with the Harlem Renaissance. Her work is characterized by monochrome color schemes, realistic moods, and figurative compositions, predominantly in the medium of sculpture. Her style is in line with artists like Aaron Douglas and Jacob Lawrence."
+  },
+  {
+    "Id": "10000000-5875-4f7c-9f12-752bb4fc0724",
+    "Title": "Harlem Renaissance",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-4199-4885-b01a-38e64fb25ef1",
+    "Title": "Futurism",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-bfff-447c-8a0b-80f210c2d9af",
+    "Title": "Mechanical",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-b648-4092-98f9-4e0b5ce96c09",
+    "Title": "Biopunk",
+    "PluralTitle": null,
+    "Description": "Biopunk is a subgenre of science fiction that focuses on the implications of biotechnology. The style is often depicted in various media, with dark colors, grim moods, and futuristic compositions set in dystopian environments. Authors like William Gibson and Paolo Bacigalupi have explored this genre."
+  },
+  {
+    "Id": "10000000-5470-49bd-b81c-7eaaa901f5d4",
+    "Title": "William Gibson",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0d3c-4ae5-bf61-aa71135d081e",
+    "Title": "Paolo Bacigalupi",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-ecbb-4c5c-80ca-71753593ebf7",
+    "Title": "Science Fiction",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-3946-41b3-8f9a-876560456562",
+    "Title": "Grim",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-e303-49be-b78a-458ad26bdc5a",
+    "Title": "Bioshock",
+    "PluralTitle": null,
+    "Description": "Bioshock is a popular video game known for its distinct Art Deco inspired style. The game\u0027s artwork, primarily in digital medium, features an underwater environment with muted colors, mysterious mood, and a narrative-driven composition. Ken Levine, the game\u0027s creator, is a significant figure associated with this style."
+  },
+  {
+    "Id": "10000000-f534-4305-8832-a121e8f470fb",
+    "Title": "Art Deco",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-aba5-4203-bae0-4a5f859df50c",
+    "Title": "Underwater",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-c6a1-4ac1-a66e-27498e098728",
+    "Title": "Bird\u0027s eye view",
+    "PluralTitle": null,
+    "Description": "Bird\u0027s eye view refers to an elevated perspective of an object, often used to create panoramic compositions in art. The style can be applied in various mediums and typically features aerial environments. Notable artists who have used this perspective include Pieter Bruegel the Elder and Leonardo da Vinci."
+  },
+  {
+    "Id": "10000000-c5c4-43da-9d21-88dc4aa75cec",
+    "Title": "Pieter Bruegel the Elder",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-aa79-4531-81d4-d0914603258b",
+    "Title": "Leonardo da Vinci",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-2f10-4e14-bb87-bdc4e6e29dea",
+    "Title": "Realism",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-52dd-4e21-9b62-4d7eac4b46c4",
+    "Title": "Aerial",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-ff8b-4d88-93b5-f0a58a334c9f",
+    "Title": "Panoramic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-9c5d-4fc9-88e9-a11e6c8c1831",
+    "Title": "Bjarke Ingels",
+    "PluralTitle": null,
+    "Description": "Bjarke Ingels is a Danish architect known for his innovative approach to modern architecture. His work, primarily in the medium of architecture, features urban environments with geometric compositions. His style can be compared to architects like Rem Koolhaas and Zaha Hadid."
+  },
+  {
+    "Id": "10000000-3ed2-4c32-8e9c-2fbd0af7fb4b",
+    "Title": "Modern Architecture",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-85e5-48db-91a0-a6c77de19d22",
+    "Title": "Architecture",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-06f2-42b2-8701-eabfa09c32c2",
+    "Title": "Black Butler",
+    "PluralTitle": null,
+    "Description": "Black Butler is a popular anime and manga series created by Yana Toboso. The artwork in Black Butler features a dark, Gothic mood and figurative compositions set in a Victorian environment. It primarily uses the medium of illustration."
+  },
+  {
+    "Id": "10000000-0b6b-4bf9-bbd6-47a2a789bb19",
+    "Title": "Victorian Era",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-d49f-4639-a079-ea5122b07fcb",
+    "Title": "Gothic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-569e-46d6-a574-2e7be35c7e03",
+    "Title": "Black Lagoon",
+    "PluralTitle": null,
+    "Description": "Black Lagoon is a renowned anime and manga series created by Rei Hiroe. The style of Black Lagoon is known for its vivid color schemes, action-filled moods, and dynamic compositions set in urban environments, rendered mainly through animation."
+  },
+  {
+    "Id": "10000000-2815-4f55-9876-49bb3381597b",
+    "Title": "Animation",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-5808-4c83-a6d7-2f83bc6a1e7f",
+    "Title": "Action",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-2d4f-47be-9f1d-48e315fd6a73",
+    "Title": "Blackboard",
+    "PluralTitle": null,
+    "Description": "Blackboard style refers to artwork created with chalk on a blackboard, often for informative or educational purposes. This style of art is characterized by monochrome color schemes and text-based compositions. Artists like David Ellis and Hans-Peter Feldmann have used this technique in their work."
+  },
+  {
+    "Id": "10000000-e294-49ea-9858-09165289cefc",
+    "Title": "David Ellis",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-4fee-4164-9877-a5e422b564ed",
+    "Title": "Hans-Peter Feldmann",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0a49-4de9-b97f-f09df580b16e",
+    "Title": "Chalk Art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-69fa-4fbe-9e1d-32b9fc2c2144",
+    "Title": "Chalk",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-4a2d-4981-baae-272ed6d72973",
+    "Title": "Informative",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-6d3b-4398-a8db-394667eabe68",
+    "Title": "Text-based",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-b86f-4440-b205-51b5c2228d16",
+    "Title": "Blacklight paint",
+    "PluralTitle": null,
+    "Description": "Blacklight paint is a type of paint that glows under ultraviolet light, used in psychedelic and surrealist art. This style features fluorescent colors, surreal moods, and abstract compositions, rendered primarily in paint. Artists like Kenny Scharf and Alex Grey are known for utilizing this style."
+  },
+  {
+    "Id": "10000000-2eae-4182-9dec-8ce2503d0972",
+    "Title": "Kenny Scharf",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-1674-400e-baae-ac3f6b218f00",
+    "Title": "Alex Grey",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-17c3-4144-85d3-21ad68e4d01f",
+    "Title": "Psychedelic Art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0f28-4bf5-b9bf-18a8e5e34c1e",
+    "Title": "Paint",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-f492-4825-943b-e9c2e9e2b18c",
+    "Title": "Ultraviolet",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-291f-4bd1-b9a4-584d0a93dea7",
+    "Title": "Fluorescent",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-598e-4abb-b4ed-8ff36e0a8016",
+    "Title": "Surreal",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-bd1a-4565-b86f-90175f00dece",
+    "Title": "Blame",
+    "PluralTitle": null,
+    "Description": "Blame is a manga series created by Tsutomu Nihei. It\u0027s noted for its dark, cybernetic environment, monochrome colors, and futuristic compositions. The artwork of Blame is primarily rendered in illustration."
+  },
+  {
+    "Id": "10000000-45f6-4d09-b2f4-822853ab5441",
+    "Title": "Cybernetic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-86f3-4c13-baf4-11130a3c7a75",
+    "Title": "Bleach",
+    "PluralTitle": null,
+    "Description": "Bleach is a popular anime and manga series created by Tite Kubo. Its art style is characterized by vivid colors, action-filled moods, and figurative compositions set in supernatural environments. The art of Bleach is mainly realized in animation."
+  },
+  {
+    "Id": "10000000-daa0-4b35-81ac-82db5b786db0",
+    "Title": "Supernatural",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-25db-45d9-9b8b-9e97c7393be0",
+    "Title": "Bill Jacklin",
+    "PluralTitle": null,
+    "Description": "Bill Jacklin, an artist known for his abstract expressionism, uses vibrant colors in his paintings. His compositions are dynamic, conveying an energetic atmosphere."
+  },
+  {
+    "Id": "10000000-a60e-47de-b043-1bdae12c05f0",
+    "Title": "Abstract expressionism",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-5414-4921-b8f6-ddb3c0eb5451",
+    "Title": "Bill Mantlo",
+    "PluralTitle": null,
+    "Description": "Bill Mantlo is known for his work in the comic book style, with drawing being the primary medium. His narratives are widely recognized in the comic industry."
+  },
+  {
+    "Id": "10000000-b95b-4c18-9724-e0e07e6fe5e3",
+    "Title": "Comic book",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8b3e-4bd4-8dbc-91d01260152a",
+    "Title": "Drawing",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-f64e-4b7a-b9cf-20b00af7c42a",
+    "Title": "Bill Sienkiewicz",
+    "PluralTitle": null,
+    "Description": "Bill Sienkiewicz is a comic book artist known for his unique drawing style. His work is characterized by an innovative visual storytelling technique."
+  },
+  {
+    "Id": "10000000-3e1b-48e0-9c04-102869b8cc68",
+    "Title": "Bill Traylor",
+    "PluralTitle": null,
+    "Description": "Bill Traylor, an outsider artist, is known for his vibrant and simplified drawings. His work reflects his personal experiences and views of the world."
+  },
+  {
+    "Id": "10000000-23f6-4065-8d6c-b21c095f901a",
+    "Title": "Outsider art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-fc18-40e8-b050-e478b1f2b720",
+    "Title": "Simplified",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-9377-47c7-b2ff-d44dd82c97ef",
+    "Title": "Bill Viola",
+    "PluralTitle": null,
+    "Description": "Bill Viola is a renowned video artist. His work often involves varied lighting and creates an introspective mood, exploring the depths of human experiences."
+  },
+  {
+    "Id": "10000000-4256-49f3-bcbc-949b5b35de17",
+    "Title": "Video art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-01d8-430d-879a-6edba88c1d2e",
+    "Title": "Video",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-64e2-49e3-858f-04746a3d0a2c",
+    "Title": "Introspective",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-afeb-4995-b35d-365d9d6fae58",
+    "Title": "Bill Watterson",
+    "PluralTitle": null,
+    "Description": "Bill Watterson is the creator of \u0027Calvin and Hobbes\u0027, and his style is defined by the comic strip medium. His work combines humor with deep philosophical themes."
+  },
+  {
+    "Id": "10000000-eeee-4b01-b051-e40a86666157",
+    "Title": "Comic strip",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-ff9e-4723-aeed-c8977fbbade3",
+    "Title": "Bill Willingham",
+    "PluralTitle": null,
+    "Description": "Bill Willingham is a comic book writer known for his intricate narratives. His storytelling techniques have greatly influenced the drawing styles of the comics he\u0027s involved with."
+  },
+  {
+    "Id": "10000000-5ae1-4fb0-9da8-790756047664",
+    "Title": "Billy Childish",
+    "PluralTitle": null,
+    "Description": "Billy Childish is recognized for his raw and vibrant painting style that borrows elements from both expressionism and naive art."
+  },
+  {
+    "Id": "10000000-3691-400a-8e6d-0da8765f25ce",
+    "Title": "Naive art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-932a-4a1c-a380-ccfd2446b5a3",
+    "Title": "Raw",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-e829-49a3-92d2-8b2b29837804",
+    "Title": "Biological illustration",
+    "PluralTitle": null,
+    "Description": "Biological illustration style is a type of scientific illustration, mainly conveyed through detailed drawings with realistic colors, used to represent biological entities."
+  },
+  {
+    "Id": "10000000-03f2-497c-9eba-78239b170dcf",
+    "Title": "Ernst Haeckel",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-3b18-4e77-b620-f514024afdf0",
+    "Title": "Maria Sibylla Merian",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-1482-4293-9ffe-776da082fb62",
+    "Title": "Scientific illustration",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-2852-4ffb-82da-974a170fb7c6",
+    "Title": "Detailed",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-d44b-4a67-a4ea-4af546af29d3",
+    "Title": "Christopher Balaskas",
+    "PluralTitle": null,
+    "Description": "Christopher Balaskas is a digital artist specializing in conceptual art, often creating vivid, fantasy landscapes."
+  },
+  {
+    "Id": "10000000-7fc3-4874-9f09-f826283a35e8",
+    "Title": "Conceptual Art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8a12-4a8f-a604-662d7f97a402",
+    "Title": "Digital Painting",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-f74d-4f70-b335-7adc229e16aa",
+    "Title": "Fantasy Landscapes",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-1f9d-46ae-804b-0e26e584450c",
+    "Title": "Christopher Nolan",
+    "PluralTitle": null,
+    "Description": "Christopher Nolan is a renowned film director known for his complex narratives, high-contrast lighting, and suspenseful moods."
+  },
+  {
+    "Id": "10000000-824d-4874-b5b6-af895d0d1e35",
+    "Title": "Cinematic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-cc82-4408-9f2e-ebf2957779bb",
+    "Title": "High Contrast",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-9868-437d-b848-c44648ee6362",
+    "Title": "Suspenseful",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-7699-4dc2-9ac2-3f4196b1ec2e",
+    "Title": "Complex Narratives",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-020d-4268-b164-7fff7c6fa3ed",
+    "Title": "Christopher R. W. Nevinson",
+    "PluralTitle": null,
+    "Description": "Christopher R. W. Nevinson was a painter best known for his grim depictions of war zones in Futurism and Cubism styles."
+  },
+  {
+    "Id": "10000000-80c1-497a-8532-5e89d6074bc9",
+    "Title": "War Zones",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-c26f-4528-87ed-c3a5917a62c8",
+    "Title": "Christopher Ryan McKenney",
+    "PluralTitle": null,
+    "Description": "Christopher Ryan McKenney is a photographer known for his surreal, conceptual photography predominantly in natural environments."
+  },
+  {
+    "Id": "10000000-35b5-48ef-a04d-ce158b6c1085",
+    "Title": "Conceptual Photography",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8f4e-4450-ac38-5b949fe369f7",
+    "Title": "Natural Light",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-df5e-4ec4-8eef-39ef4ab9165a",
+    "Title": "Christopher Wool",
+    "PluralTitle": null,
+    "Description": "Christopher Wool is a painter known for his contemporary art style, typically creating monochromatic, text-based imagery."
+  },
+  {
+    "Id": "10000000-50f1-490c-bd7d-3ef65691cdd2",
+    "Title": "Contemporary Art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-2ee2-4364-b6fd-46f3b7a1b570",
+    "Title": "Monochromatic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-a310-43de-ac0a-c19f0278c107",
+    "Title": "Text-based Imagery",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-22d3-4367-ad83-8f5f21016b2f",
+    "Title": "Chromolithography",
+    "PluralTitle": null,
+    "Description": "Chromolithography is a printmaking style that uses stone lithography to produce multi-colored, layered imagery."
+  },
+  {
+    "Id": "10000000-0dcc-4f32-bd1a-653b83d4cf91",
+    "Title": "Louis Prang",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-a3db-4969-881d-c9ec925ecdc3",
+    "Title": "Printmaking",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-6417-451d-bf91-329923546003",
+    "Title": "Stone Lithography",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-5694-44bf-8b03-29ac8845ca13",
+    "Title": "Multi-color",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-69da-4397-b8ac-c8c3d514e980",
+    "Title": "Layered Imagery",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-cd5e-4707-a40c-961b126be905",
+    "Title": "Chuck Close",
+    "PluralTitle": null,
+    "Description": "Chuck Close is a renowned painter known for his Photorealism style. His works often utilize a grid-based composition and a full spectrum of colors."
+  },
+  {
+    "Id": "10000000-16ed-498b-ae4e-1b81b3414852",
+    "Title": "Photorealism",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8ea9-4a89-8bb1-239ae26d31e6",
+    "Title": "Full Spectrum",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-78dd-49e8-a0da-bef603b12dcd",
+    "Title": "Grid-based",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-a2fa-463e-971c-eb89c847612c",
+    "Title": "Cibulak porcelain",
+    "PluralTitle": null,
+    "Description": "Cibulak porcelain is a style of porcelain art that features ceramics with predominantly blue and white colors and floral motifs."
+  },
+  {
+    "Id": "10000000-3741-4eaa-905c-e3fdee3807c4",
+    "Title": "Porcelain Art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-a60a-4ccc-8828-6fdb64c6cc64",
+    "Title": "Ceramics",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8ba3-47c1-b4ec-170db329cb31",
+    "Title": "Blue and White",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8e34-4f33-b8b6-e14800d3211d",
+    "Title": "Floral Motifs",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-f0d2-4aeb-833e-ca528bd10b8b",
+    "Title": "Cicely Mary Barker",
+    "PluralTitle": null,
+    "Description": "Cicely Mary Barker was an illustrator known for her fantastical, nature-based watercolor illustrations featuring vibrant colors and figurative compositions."
+  },
+  {
+    "Id": "10000000-21ed-48b8-aab7-39906061eb8d",
+    "Title": "Watercolor",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-5350-4d1d-8db4-768d288f48af",
+    "Title": "Nature",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-41e4-4fab-8359-b4268f45364f",
+    "Title": "Cindy Sherman",
+    "PluralTitle": null,
+    "Description": "Cindy Sherman is a renowned photographer known for her provocative, conceptual photography style, often using self-portraiture."
+  },
+  {
+    "Id": "10000000-23d8-4642-bceb-f59f376d9555",
+    "Title": "Self-portraiture",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-5efc-473a-9df5-37081b6abada",
+    "Title": "Cinematic Photography",
+    "PluralTitle": null,
+    "Description": "Cinematic Photography is a style of photography that mimics elements of cinema. It features dramatic lighting, narrative moods, and often utilizes wide-angle shots."
+  },
+  {
+    "Id": "10000000-0baf-42a6-811d-635536827b8f",
+    "Title": "Gregory Crewdson",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-e955-4cd8-a92a-361a57cb2f00",
+    "Title": "Dramatic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-ce77-4a8d-8e3e-968b32f0764a",
+    "Title": "Wide-angle Shots",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-e482-4732-9fc9-01938f4a20dc",
+    "Title": "CineStill 50",
+    "PluralTitle": null,
+    "Description": "CineStill 50 is a style of film photography known for its use under daylight conditions, resulting in vivid colors."
+  },
+  {
+    "Id": "10000000-95ad-44fd-9b77-a3a2d3b96eef",
+    "Title": "Film Photography",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-ea44-4ea1-a8de-a0b373d2a683",
+    "Title": "Daylight",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-25ee-468d-b039-3a2dd7930bed",
+    "Title": "Civil War Fashion",
+    "PluralTitle": null,
+    "Description": "Civil War Fashion refers to the style of clothing prevalent during the Civil War era, characterized by period-specific colors and dressmaking patterns."
+  },
+  {
+    "Id": "10000000-23cd-439e-800f-a348aa1f5795",
+    "Title": "Historical Fashion",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-0804-4ac0-a72a-08274545bbd9",
+    "Title": "19th Century",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-13fa-4134-880e-b2aa04f3558e",
+    "Title": "Period-specific",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8c76-4c6f-841b-4607fbbc0ccf",
+    "Title": "Dressmaking Patterns",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-609f-4b81-89ba-1ba4353a9bb3",
+    "Title": "Clannad",
+    "PluralTitle": null,
+    "Description": "Clannad is a visual novel turned anime characterized by its character-driven narratives in urban and school settings. It is known for its emotional mood and saturated color scheme."
+  },
+  {
+    "Id": "10000000-da60-485f-a352-e10efdcf5f56",
+    "Title": "Urban and School settings",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-4d9c-4105-8dd5-4740ff78923e",
+    "Title": "Saturated",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-b44b-4896-ac9c-128b0422ef4b",
+    "Title": "Character-driven",
+    "PluralTitle": null,
+    "Description": null
+  }
+]
