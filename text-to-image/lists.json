@@ -1,0 +1,562 @@
+[
+  {
+    "Id": "20000000-024a-44e5-8844-998342022971",
+    "Title": "Art Styles",
+    "PluralTitle": "Art Styles",
+    "Description": "A list that contains all art styles pulled from other lists related to specific domains like Painting, Architercture, Graphic Design etc.",
+    "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-b814-41a4-a2bd-9d346cc5ed0a",
+    "Title": "Art Properties",
+    "PluralTitle": "Art Properties",
+    "Description": "A list that contains artisitc concepts like color, lighting, moods and more that can be used as additional information for a prompt.",
+    "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
+    "PullFromListsIds": [
+      "20000000-3467-4e75-bed2-fa727f9e2707",
+      "20000000-70bb-4928-ac4a-6e99b9b6441f",
+      "20000000-069a-4b2a-849d-e1e3fddb99a0",
+      "20000000-0327-46d9-b7d2-e80e60d56e0a",
+      "20000000-8dca-46f4-99a4-2f1457396504",
+      "20000000-14b6-4367-b302-0cd4e748aea4"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-1e9e-4e93-be44-e4b69a2c3590",
+    "Title": "Art Entities",
+    "PluralTitle": "Art Entities",
+    "Description": "A collection of entities that have a definitive art style, this could be artists from a spefici field or other entities like tv-shows, games, studios etc.",
+    "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
+    "PullFromListsIds": [
+      "20000000-e3f3-4b7e-bad6-c8d1255168f2",
+      "20000000-797a-4890-93d6-75e938fc598f",
+      "20000000-9222-4151-9a0e-3656824d66b5",
+      "20000000-9e27-4f15-8f55-1889ee40b51e",
+      "20000000-74da-4815-8955-7c01cc973c7a",
+      "20000000-b2e3-4f29-97ee-851b39106b6a",
+      "20000000-d459-4976-a2a0-db679a31507a",
+      "20000000-2878-4ba0-addd-f7fc4c7d6abf",
+      "20000000-27cf-4fff-a8f7-ceb64237b74d",
+      "20000000-1376-43e2-b932-9db23c886332"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-e3f3-4b7e-bad6-c8d1255168f2",
+    "Title": "UnmappedEntities",
+    "PluralTitle": "UnmappedEntities",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-3467-4e75-bed2-fa727f9e2707",
+    "Title": "Art Mediums",
+    "PluralTitle": "Art Mediums",
+    "Description": "eces. This can range from conventional mediums like oil, acrylic, watercolor, charcoal, to more contemporary ones like digital, mixed media, or installations.",
+    "ParentConceptId": "10000000-df7a-44cb-9670-ff325549cc25",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-70bb-4928-ac4a-6e99b9b6441f",
+    "Title": "Environments",
+    "PluralTitle": "Environments",
+    "Description": "AThis is a catalogue of different environmental settings within art. This could include forests, cityscapes, seascapes, deserts, or abstract backgrounds, depicting the context and backdrop of the artwork.",
+    "ParentConceptId": "10000000-db73-4c35-8680-687b3b92d40c",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-069a-4b2a-849d-e1e3fddb99a0",
+    "Title": "Lighting Styles",
+    "PluralTitle": "Lighting Styles",
+    "Description": "The lightings list explores different types of illumination used in an artwork. This could be soft morning light, harsh midday light, artificial light, or magical surrealistic light, playing crucial roles in the art\u0027s ambiance and focus.",
+    "ParentConceptId": "10000000-3dc7-45a9-8995-20a2b4e392d9",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-0327-46d9-b7d2-e80e60d56e0a",
+    "Title": "Colors",
+    "PluralTitle": "Colors",
+    "Description": "This list describes the myriad of colors artists employ in their work. From primary, secondary, and tertiary hues, to monochrome or vibrant palettes, colors breathe life and emotion into the artwork.",
+    "ParentConceptId": "10000000-b230-449b-8103-26ee7c2abb56",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-8dca-46f4-99a4-2f1457396504",
+    "Title": "Moods",
+    "PluralTitle": "Moods",
+    "Description": "The moods list represents the range of emotions or feelings an artwork can evoke, like happiness, sadness, tranquility, mystery, anger or nostalgia. It\u0027s about the emotional resonance of an artwork.",
+    "ParentConceptId": "10000000-1ba8-4e69-aa8b-b38df56b9421",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-14b6-4367-b302-0cd4e748aea4",
+    "Title": "Compositions",
+    "PluralTitle": "Compositions",
+    "Description": "This list details different compositional techniques used in art. These may include rules like the Golden Ratio, Rule of Thirds, Symmetry or Asymmetry, leading lines, or framing, influencing the viewer\u0027s focus and the overall balance of the piece.",
+    "ParentConceptId": "10000000-3ae0-4ac2-842f-ec50308f7b7e",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-797a-4890-93d6-75e938fc598f",
+    "Title": "Person",
+    "PluralTitle": "Person",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-65e6-40a2-bff4-11aa3d15ddb1",
+      "20000000-3201-480a-b4c9-30d53c4783c6",
+      "20000000-9f61-48cf-ab44-9a7c262c9bf2",
+      "20000000-8a89-4dc7-8749-2158b817b48a",
+      "20000000-5418-4b1f-a16e-7eacebeb747d",
+      "20000000-46d1-49c7-8f1f-b353e2907e98",
+      "20000000-8a41-432f-84cf-bb178f3b1d1e",
+      "20000000-487c-477c-adc9-68c27bf0cc43",
+      "20000000-c886-49e7-8938-08f8ad8426f0",
+      "20000000-73b0-4a0c-bbe1-acd0e809b46e",
+      "20000000-b3bc-45cc-b8c7-5b80ea5480f9",
+      "20000000-68ce-486f-9499-779eef4dc32b",
+      "20000000-27ee-496a-a9d7-1f94e1bb0fcc",
+      "20000000-1664-4268-9a04-cccf2d4c190f",
+      "20000000-f193-430e-9955-48ed7200bb5e",
+      "20000000-4be8-4443-8e5a-fa91bcc60bbb",
+      "20000000-00d7-4db3-b9fd-891f0c4ca8e7",
+      "20000000-3f5f-4f58-9736-e5cdb2b91d9d",
+      "20000000-3a09-424c-8991-1c5202b22087",
+      "20000000-2ab4-4985-ba8a-139822389017",
+      "20000000-6e37-4444-87ad-8f21bc9ae60f",
+      "20000000-aad2-4d72-8449-99b2af4cceb5",
+      "20000000-bc73-47b0-ac15-3727a22bd206",
+      "20000000-fcf2-4ca9-800c-052b83453ffd",
+      "20000000-fb5a-4b48-9822-4d35ce93b9a7",
+      "20000000-6e0d-439b-91bd-830b04a487ee"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-65e6-40a2-bff4-11aa3d15ddb1",
+    "Title": "Street Artist",
+    "PluralTitle": "Street Artist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-3201-480a-b4c9-30d53c4783c6",
+    "Title": "Painter",
+    "PluralTitle": "Painter",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-9f61-48cf-ab44-9a7c262c9bf2",
+    "Title": "Comic Artist",
+    "PluralTitle": "Comic Artist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-8a89-4dc7-8749-2158b817b48a",
+    "Title": "Illustrator",
+    "PluralTitle": "Illustrator",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-5418-4b1f-a16e-7eacebeb747d",
+    "Title": "Digital Artist",
+    "PluralTitle": "Digital Artist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-9222-4151-9a0e-3656824d66b5",
+    "Title": "Game",
+    "PluralTitle": "Game",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-ba0c-48b5-83be-b9040fcae354",
+      "20000000-34c7-4106-93bb-296c2b61c364",
+      "20000000-c159-4e8e-ac5c-22ba2a878f0d",
+      "20000000-5ed6-4ad4-9116-ce42dde5630f",
+      "20000000-b2e3-4f29-97ee-851b39106b6a"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-ba0c-48b5-83be-b9040fcae354",
+    "Title": "Video Game",
+    "PluralTitle": "Video Game",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-34c7-4106-93bb-296c2b61c364",
+    "Title": "Manga",
+    "PluralTitle": "Manga",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-9e27-4f15-8f55-1889ee40b51e",
+    "Title": "Company",
+    "PluralTitle": "Company",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-2a6d-4101-81c8-9f8c43d6fdf0"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-2a6d-4101-81c8-9f8c43d6fdf0",
+    "Title": "Design Studio",
+    "PluralTitle": "Design Studio",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-46d1-49c7-8f1f-b353e2907e98",
+    "Title": "Photographer",
+    "PluralTitle": "Photographer",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-8a41-432f-84cf-bb178f3b1d1e",
+    "Title": "Sculptor",
+    "PluralTitle": "Sculptor",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-487c-477c-adc9-68c27bf0cc43",
+    "Title": "Concept Artist",
+    "PluralTitle": "Concept Artist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-c886-49e7-8938-08f8ad8426f0",
+    "Title": "Architect",
+    "PluralTitle": "Architect",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-c159-4e8e-ac5c-22ba2a878f0d",
+    "Title": "Anime/Manga",
+    "PluralTitle": "Anime/Manga",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-73b0-4a0c-bbe1-acd0e809b46e",
+    "Title": "Artist",
+    "PluralTitle": "Artist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-b3bc-45cc-b8c7-5b80ea5480f9",
+    "Title": "Comic writer",
+    "PluralTitle": "Comic writer",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-68ce-486f-9499-779eef4dc32b",
+    "Title": "Comic artist",
+    "PluralTitle": "Comic artist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-27ee-496a-a9d7-1f94e1bb0fcc",
+    "Title": "Video artist",
+    "PluralTitle": "Video artist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-1664-4268-9a04-cccf2d4c190f",
+    "Title": "Film Director",
+    "PluralTitle": "Film Director",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-5ed6-4ad4-9116-ce42dde5630f",
+    "Title": "Visual Novel",
+    "PluralTitle": "Visual Novel",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-74da-4815-8955-7c01cc973c7a",
+    "Title": "Culture",
+    "PluralTitle": "Culture",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-d95f-421e-9648-45359591d0ae"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-d95f-421e-9648-45359591d0ae",
+    "Title": "Subculture",
+    "PluralTitle": "Subculture",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-b2e3-4f29-97ee-851b39106b6a",
+    "Title": "Anime",
+    "PluralTitle": "Anime",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-0b37-43c6-be32-0e254de76c22"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-0b37-43c6-be32-0e254de76c22",
+    "Title": "Science Fiction",
+    "PluralTitle": "Science Fiction",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-f193-430e-9955-48ed7200bb5e",
+    "Title": "Graphic Designer",
+    "PluralTitle": "Graphic Designer",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-4be8-4443-8e5a-fa91bcc60bbb",
+    "Title": "Typographer",
+    "PluralTitle": "Typographer",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-00d7-4db3-b9fd-891f0c4ca8e7",
+    "Title": "Comic Book Artist",
+    "PluralTitle": "Comic Book Artist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-3f5f-4f58-9736-e5cdb2b91d9d",
+    "Title": "Designer",
+    "PluralTitle": "Designer",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-d459-4976-a2a0-db679a31507a",
+    "Title": "Entity",
+    "PluralTitle": "Entity",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-c159-4e8e-ac5c-22ba2a878f0d"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-3a09-424c-8991-1c5202b22087",
+    "Title": "Street Artists",
+    "PluralTitle": "Street Artists",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-2ab4-4985-ba8a-139822389017",
+    "Title": "Manga Artist",
+    "PluralTitle": "Manga Artist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-6e37-4444-87ad-8f21bc9ae60f",
+    "Title": "Fashion Designer",
+    "PluralTitle": "Fashion Designer",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-aad2-4d72-8449-99b2af4cceb5",
+    "Title": "Animator",
+    "PluralTitle": "Animator",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-bc73-47b0-ac15-3727a22bd206",
+    "Title": "Comic book artist",
+    "PluralTitle": "Comic book artist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-fcf2-4ca9-800c-052b83453ffd",
+    "Title": "Fashion Photographer",
+    "PluralTitle": "Fashion Photographer",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-2878-4ba0-addd-f7fc4c7d6abf",
+    "Title": "Studio",
+    "PluralTitle": "Studio",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-38e5-430a-bdff-e01d8392f2f8"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-38e5-430a-bdff-e01d8392f2f8",
+    "Title": "Animation Studio",
+    "PluralTitle": "Animation Studio",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-fb5a-4b48-9822-4d35ce93b9a7",
+    "Title": "Installation Artist",
+    "PluralTitle": "Installation Artist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-27cf-4fff-a8f7-ceb64237b74d",
+    "Title": "Animation",
+    "PluralTitle": "Animation",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-8c4f-4a8d-80b3-b60b2a1fb2cc"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-8c4f-4a8d-80b3-b60b2a1fb2cc",
+    "Title": "Anime Series",
+    "PluralTitle": "Anime Series",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-6e0d-439b-91bd-830b04a487ee",
+    "Title": "Director",
+    "PluralTitle": "Director",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-1376-43e2-b932-9db23c886332",
+    "Title": "Brand",
+    "PluralTitle": "Brand",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-585f-4867-8cfc-293126d24ef3"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-585f-4867-8cfc-293126d24ef3",
+    "Title": "Fashion",
+    "PluralTitle": "Fashion",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  }
+]
