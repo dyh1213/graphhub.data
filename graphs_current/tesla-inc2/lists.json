@@ -1,0 +1,324 @@
+[
+  {
+    "Id": "20000000-024a-44e5-8844-998342022971",
+    "Title": "ArtStyles",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-b814-41a4-a2bd-9d346cc5ed0a",
+    "Title": "Properties",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
+    "PullFromListsIds": [
+      "20000000-3467-4e75-bed2-fa727f9e2707",
+      "20000000-70bb-4928-ac4a-6e99b9b6441f",
+      "20000000-069a-4b2a-849d-e1e3fddb99a0",
+      "20000000-0327-46d9-b7d2-e80e60d56e0a",
+      "20000000-8dca-46f4-99a4-2f1457396504",
+      "20000000-14b6-4367-b302-0cd4e748aea4"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-1e9e-4e93-be44-e4b69a2c3590",
+    "Title": "Entities",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
+    "PullFromListsIds": [
+      "20000000-e3f3-4b7e-bad6-c8d1255168f2",
+      "20000000-24ab-41eb-94f4-9e9787c935f9",
+      "20000000-b836-4b2a-b685-b1f6bb829340",
+      "20000000-bab1-4ef4-8ae8-fe0343e851a4"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-e3f3-4b7e-bad6-c8d1255168f2",
+    "Title": "UnmappedEntities",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-3467-4e75-bed2-fa727f9e2707",
+    "Title": "ArtMediums",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-6261-48d7-82d4-8e051efdce08",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-70bb-4928-ac4a-6e99b9b6441f",
+    "Title": "Environments",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-382e-4e9d-bfe2-7e2e5a57bfb1",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-069a-4b2a-849d-e1e3fddb99a0",
+    "Title": "Lightings",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-4bb8-4f9a-aa2d-3a6f3398e64d",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-0327-46d9-b7d2-e80e60d56e0a",
+    "Title": "Colors",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-fbbd-423e-ab0b-fb77e2eceee7",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-8dca-46f4-99a4-2f1457396504",
+    "Title": "Moods",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-dd51-4d68-ab02-fee99dfc3fb7",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-14b6-4367-b302-0cd4e748aea4",
+    "Title": "Compositions",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0fce-4598-a3b8-83f8190b08ac",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-24ab-41eb-94f4-9e9787c935f9",
+    "Title": "Person",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-c5d9-41b9-b0ad-5a2576026e52",
+      "20000000-2add-4c00-912d-e041ca368b57",
+      "20000000-a2aa-40b1-8217-5a1b262105d1",
+      "20000000-acc8-49c8-bc58-4a027fc0e613",
+      "20000000-a5bb-4ee3-8c34-46ec12f646a2",
+      "20000000-2173-49cf-a79b-443ee095dab4",
+      "20000000-99dd-4835-925c-0d608504fb3c",
+      "20000000-174b-490a-8006-ca0ee5c2c3ce",
+      "20000000-6e33-4f03-9ef1-4798634961fb",
+      "20000000-dc78-4843-94e9-e8b71f24ba61",
+      "20000000-4db5-4004-b9ac-5f103ea59f92",
+      "20000000-ee89-4324-982e-78e98e9b7c52",
+      "20000000-f175-42d6-a808-b68b013e40c1",
+      "20000000-6a0b-45c1-b461-949c595a309f"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-c5d9-41b9-b0ad-5a2576026e52",
+    "Title": "Street Artist",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-2add-4c00-912d-e041ca368b57",
+    "Title": "Painter",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-a2aa-40b1-8217-5a1b262105d1",
+    "Title": "Comic Artist",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-acc8-49c8-bc58-4a027fc0e613",
+    "Title": "Illustrator",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-a5bb-4ee3-8c34-46ec12f646a2",
+    "Title": "Digital Artist",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-b836-4b2a-b685-b1f6bb829340",
+    "Title": "Game",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-c4e6-4b0c-97b8-dce0f4ccf84b",
+      "20000000-c75d-4fa6-a7a8-80a759b8b48a",
+      "20000000-3a93-4b5b-93d5-0063342a1ed2",
+      "20000000-a070-4fc7-ac8a-0a6be6cf523c"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-c4e6-4b0c-97b8-dce0f4ccf84b",
+    "Title": "Video Game",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-c75d-4fa6-a7a8-80a759b8b48a",
+    "Title": "Manga",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-bab1-4ef4-8ae8-fe0343e851a4",
+    "Title": "Company",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [
+      "20000000-9fd9-4efc-a4a7-b72fabfd8075"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-9fd9-4efc-a4a7-b72fabfd8075",
+    "Title": "Design Studio",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-2173-49cf-a79b-443ee095dab4",
+    "Title": "Photographer",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-99dd-4835-925c-0d608504fb3c",
+    "Title": "Sculptor",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-174b-490a-8006-ca0ee5c2c3ce",
+    "Title": "Concept Artist",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-6e33-4f03-9ef1-4798634961fb",
+    "Title": "Architect",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-3a93-4b5b-93d5-0063342a1ed2",
+    "Title": "Anime/Manga",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-dc78-4843-94e9-e8b71f24ba61",
+    "Title": "Artist",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-4db5-4004-b9ac-5f103ea59f92",
+    "Title": "Comic writer",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-ee89-4324-982e-78e98e9b7c52",
+    "Title": "Comic artist",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-f175-42d6-a808-b68b013e40c1",
+    "Title": "Video artist",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-6a0b-45c1-b461-949c595a309f",
+    "Title": "Film Director",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-a070-4fc7-ac8a-0a6be6cf523c",
+    "Title": "Visual Novel",
+    "PluralTitle": null,
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false
+  }
+]
