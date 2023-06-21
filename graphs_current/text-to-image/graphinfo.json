@@ -2,5 +2,6 @@
   "GraphId": "100",
   "GraphDisplayName": "Text To Image",
   "GraphUrlName": "text-to-image",
-  "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/text-to-image"
+  "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/text-to-image",
+  "RootConcept": "10000000-024a-44e5-8844-998342022971"
 }
