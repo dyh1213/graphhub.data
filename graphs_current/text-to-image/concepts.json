@@ -12,3158 +12,3362 @@
     "Description": null
   },
   {
-    "Id": "10000000-cd07-4f5c-a271-f3c989b24a81",
+    "Id": "10000000-58da-4179-b32f-ab91b2662829",
     "Title": "ArtMedium",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-cfbc-4bb5-b8f9-17e5a866c09f",
+    "Id": "10000000-a9d1-455f-9cf5-1e9552a2056d",
     "Title": "Environment",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1d3a-424a-bbd6-2fb163866023",
+    "Id": "10000000-7324-47a4-8e3a-9a241c39a9ce",
     "Title": "Lighting",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6823-4051-add1-8159db350bfa",
+    "Id": "10000000-1203-4c2c-b423-29b768bf876f",
     "Title": "Color",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-4812-43e5-bed4-7a35deb58490",
+    "Id": "10000000-59eb-4c89-8ebe-c04d648183de",
     "Title": "Mood",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-95c6-4879-9a9b-21642c40fe91",
+    "Id": "10000000-191f-4d74-bb85-7b0fae216e87",
     "Title": "Composition",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b7aa-4dd2-8ffe-66f2512dd95c",
+    "Id": "10000000-ec9d-4b21-a0a0-13d4138c9fdc",
     "Title": "Artur Bordalo",
     "PluralTitle": null,
     "Description": "Artur Bordalo, also known as Bordalo II, is known for his striking street art sculptures made from found objects, often conveying environmental messages. His three-dimensional compositions inhabit urban environments and share stylistic qualities with other street artists such as Vhils and Banksy."
   },
   {
-    "Id": "10000000-bd63-4918-8642-e7b30e6074d8",
+    "Id": "10000000-c418-4485-a3a9-fbc23159a39e",
     "Title": "Street art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7965-4354-a652-4fec303328bd",
+    "Id": "10000000-396f-4357-a825-ddb14dea0a1e",
     "Title": "Sculpture",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a1d3-4fe8-840f-1671c0e04f49",
+    "Id": "10000000-7164-4ba7-86c0-cb463700c974",
     "Title": "Found objects",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6797-4220-a987-9ccd487163de",
+    "Id": "10000000-739f-4a74-a550-83c0f03cb1f8",
     "Title": "Urban",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3e83-4981-bbe9-2a6b5c3478a4",
+    "Id": "10000000-72a3-47db-a024-32cda0a02fae",
     "Title": "Three-dimensional",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9248-4fea-b029-c5a390900564",
+    "Id": "10000000-5932-44b2-9522-29f2c27084fc",
     "Title": "Arturo Souto",
     "PluralTitle": null,
     "Description": "Arturo Souto was a Spanish painter known for his impressionistic and cubist works. His paintings, often politically charged, are characterized by vibrant color usage and figurative compositions. His style and themes find resonance with artists like Pablo Picasso and Joan Mir\u00F3."
   },
   {
-    "Id": "10000000-190d-4242-8498-6f1911a0b6cf",
+    "Id": "10000000-a70f-460d-8069-f288b250d5c8",
     "Title": "Impressionism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-762e-4fb5-911b-7ae2c07b26e4",
+    "Id": "10000000-89b3-4a1f-9d69-d6f9c6c49470",
     "Title": "Cubism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d14e-4b2d-ae84-79a458d7e925",
+    "Id": "10000000-0d0d-4f5e-b24c-b55ab7079263",
     "Title": "Painting",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-19fe-448d-adb8-08776d10178a",
+    "Id": "10000000-acfb-49dc-961f-f88ae78ff204",
     "Title": "Vibrant",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-21f5-49e3-8487-2764488431dd",
+    "Id": "10000000-1288-4956-a423-1b668112a3a0",
     "Title": "Political",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-baba-49e1-b22a-2d1d19f36eb6",
+    "Id": "10000000-d170-470e-859c-fc2da9eb141a",
     "Title": "Figurative",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c3f8-4aa6-80a7-6b6546165a12",
+    "Id": "10000000-7e2d-4688-9e06-947092f53cc7",
     "Title": "Ary Scheffer",
     "PluralTitle": null,
     "Description": "Ary Scheffer was a Dutch-French Romantic painter. His works are often figurative, portraying melancholic moods through subdued colors. His style is closely associated with other Romantic artists like Eug\u00E8ne Delacroix and Th\u00E9odore G\u00E9ricault."
   },
   {
-    "Id": "10000000-dc6a-457a-a819-c7111632ed88",
+    "Id": "10000000-3b36-4a29-856d-9d788f81e6d0",
     "Title": "Romanticism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c742-4827-a028-63281cde774d",
+    "Id": "10000000-15c4-4244-bd46-884f00a41a58",
     "Title": "Subdued",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ffe0-424e-b444-25fa9466dd54",
+    "Id": "10000000-79a3-4f66-91c7-a862099fa829",
     "Title": "Melancholic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9267-4e2b-a286-329c58caa48e",
+    "Id": "10000000-d9e5-4a2d-9bb8-c45cf73743d7",
     "Title": "Asaf Hanuka",
     "PluralTitle": null,
     "Description": "Asaf Hanuka is a noted Israeli comic artist and illustrator, known for his vivid color usage and satirical, cartoonish compositions in graphic novels and comic art. His style is akin to other illustrators like his twin brother Tomer Hanuka and Guy Delisle."
   },
   {
-    "Id": "10000000-9abd-414d-bd87-8f47ab0a59dc",
+    "Id": "10000000-28b9-454f-9a8d-2df85c9909a1",
     "Title": "Graphic novels",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1953-4475-84bb-3977c25e134b",
+    "Id": "10000000-c558-4a80-8e59-e199b52a1aa3",
     "Title": "Comic art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-98e9-448b-8f28-53282230fbdc",
+    "Id": "10000000-630b-4cac-b47d-8e7a438fe112",
     "Title": "Illustration",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-cd4c-47ea-bd0e-45fd8b651798",
+    "Id": "10000000-c3d3-4795-b912-f936f3703b8f",
     "Title": "Vivid",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c112-45a8-929c-cd23b645920e",
+    "Id": "10000000-2565-4d1b-834a-c01faa7c1bd2",
     "Title": "Satirical",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d074-42a4-af57-c95a56bc9edb",
+    "Id": "10000000-b374-4dcf-8cc4-68b3b9aafdec",
     "Title": "Cartoonish",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7ac8-4c8c-813a-cdf74928a043",
+    "Id": "10000000-fb2e-4152-843d-796d28569fe1",
     "Title": "ASCII",
     "PluralTitle": null,
     "Description": "ASCII art is a form of digital art made using the characters defined by the ASCII standard. Its compositions are typically monospace and abstract, allowing for intricate designs to be created purely from text. While many anonymous artists have contributed to this form, specific notable artists are hard to pinpoint."
   },
   {
-    "Id": "10000000-e47c-4363-8271-d44287d94cb3",
+    "Id": "10000000-f6b7-48f9-82d7-edb7da102c4a",
     "Title": "Digital art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2cdf-4942-925e-898f45b86cb9",
+    "Id": "10000000-10a9-4902-9357-8d8f3112baa2",
     "Title": "Text",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8dee-4a1c-9800-c716e1b761f3",
+    "Id": "10000000-c8dc-44a7-a97e-45bbc524cd5d",
     "Title": "Abstract",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ba73-49f7-b753-a9af9644da68",
+    "Id": "10000000-814f-41b9-9de2-5289ff130d00",
     "Title": "Monospace",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1ed4-4368-83b2-b2b6af68e484",
+    "Id": "10000000-4b5f-4625-aab2-521cbb1519ee",
     "Title": "Asger Jorn",
     "PluralTitle": null,
     "Description": "Asger Jorn was a Danish painter and one of the founding members of the Cobra and Situationist movements. His work is known for its vibrant colors, rebellious mood, and abstract compositions, characteristics shared with artists like Pierre Alechinsky and Karel Appel."
   },
   {
-    "Id": "10000000-a479-4e54-80c9-28068fadd562",
+    "Id": "10000000-d946-4a34-81d1-a941362246b4",
     "Title": "Cobra",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b61e-4aad-8e42-1cb2074ba296",
+    "Id": "10000000-f410-4eda-bbe3-4955c678d2aa",
     "Title": "Situationist",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7135-43aa-8c29-9a26095bd4b9",
+    "Id": "10000000-c99c-40ec-870f-0e41873397ec",
     "Title": "Rebellious",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0fa1-48ee-be59-d637c45a05b0",
+    "Id": "10000000-66c6-47d8-9653-7e1ec05242a7",
     "Title": "Ashley Wood",
     "PluralTitle": null,
     "Description": "Ashley Wood is an Australian comic book artist and illustrator known for his work in graphic novels and concept art. His style is characterized by dark moods, muted colors, and figurative compositions, resembling the works of artists like Ben Templesmith and Kent Williams."
   },
   {
-    "Id": "10000000-01c5-4759-af6b-fad5edcef2cc",
+    "Id": "10000000-80e7-4a90-a133-3b666ff06b30",
     "Title": "Concept art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-abca-4969-bcce-2bb5df1092ee",
+    "Id": "10000000-18f5-4b0e-a874-45854a58a33f",
     "Title": "Muted",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d56e-426e-bd8d-a1f5e796a376",
+    "Id": "10000000-f35f-4759-92ed-d376ebee5a14",
     "Title": "Dark",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0a83-417a-98fe-35be05944aa9",
+    "Id": "10000000-f2cb-4046-914a-c205ceb2a51a",
     "Title": "AssasinMonkey",
     "PluralTitle": null,
     "Description": "AssasinMonkey, an internet pseudonym, is recognized for digital art, often depicting fantastical and vibrant scenes. The artist\u0027s compositions are generally figurative, showcasing characters and creatures in dynamic scenarios. Artists like Noah Bradley and Dan Dos Santos work in a similar vein."
   },
   {
-    "Id": "10000000-68cf-4000-ac3f-b65f2bbb3379",
+    "Id": "10000000-f60a-4872-84eb-d1e5f2778620",
     "Title": "Digital",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0859-44a3-bfa8-5079639a54b6",
+    "Id": "10000000-efc8-4ce2-a709-65ba88e926c6",
     "Title": "Fantastical",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-522d-467c-a2be-d85a9494cfcb",
+    "Id": "10000000-9687-474e-84f1-4fcd845520fd",
     "Title": "Assassin\u0027s Creed",
     "PluralTitle": null,
     "Description": "Assassin\u0027s Creed is a popular video game franchise known for its immersive historical settings and adventurous mood. The art style includes realistic digital renderings, distinctive environmental design, and dynamic compositions. Notable artists involved include Raphael Lacoste and Martin Deschambault."
   },
   {
-    "Id": "10000000-f5c4-4ba0-bcbf-cc0720223fa0",
+    "Id": "10000000-77bf-4a03-9628-842f84cdd930",
     "Title": "Video game art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-bacc-471b-8dca-266769c04326",
+    "Id": "10000000-fdd4-463c-b027-e31e806b2afe",
     "Title": "Historical",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-4f06-4681-9e14-6c4cdeda4a51",
+    "Id": "10000000-0be7-4851-ab03-be3735bff0fc",
     "Title": "Adventurous",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1658-400e-8a31-9e19d17fc53a",
+    "Id": "10000000-f6b7-4c83-b402-d46b7112e44f",
     "Title": "Immersive",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0acd-402e-b9b6-7a3779e38187",
+    "Id": "10000000-cf49-47fc-a6b4-dd8bd68fae97",
     "Title": "Assemblage",
     "PluralTitle": null,
     "Description": "Assemblage refers to an artistic style where three-dimensional compositions are made from combining various elements, often discarded materials. It is a form of modern and abstract art, with artists like Joseph Cornell and Louise Nevelson notable for their assemblage works."
   },
   {
-    "Id": "10000000-f13a-48c4-b501-1abc5ecaf363",
+    "Id": "10000000-0411-4b64-89d2-a054067932dd",
     "Title": "Joseph Cornell",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-67c2-4b88-a567-31da410e9b2a",
+    "Id": "10000000-6e5c-4976-af5c-070c2bcdf09b",
     "Title": "Louise Nevelson",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-cb76-47a8-8d94-b88f455dd8dc",
+    "Id": "10000000-32b2-4a14-a2fa-4e28169fb16a",
     "Title": "Modern art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-567d-49d4-9187-e0d426a0390d",
+    "Id": "10000000-389b-4235-95fc-6622b336eca6",
     "Title": "Abstract art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6118-45fd-add8-67c8389149c4",
+    "Id": "10000000-91e5-4208-a4c7-5a7e8175e98b",
     "Title": "Mixed Media",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1978-4e1b-9fbd-8a717120f808",
+    "Id": "10000000-0597-49ce-a52f-4ab685a8db2f",
     "Title": "Astro Boy",
     "PluralTitle": null,
     "Description": "Astro Boy is a well-known manga and anime created by Osamu Tezuka. Its art style is characterized by monochrome illustrations, futuristic themes, and panel-based composition typical of manga. The creator, Osamu Tezuka, is a pivotal figure in the manga industry."
   },
   {
-    "Id": "10000000-93a2-481f-8855-dc3c72c89ba9",
+    "Id": "10000000-a826-4162-918e-0a0d4ee78a06",
     "Title": "Manga",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-de93-427e-9b2c-ccfae43cb676",
+    "Id": "10000000-90dc-4376-9a90-b60422befe92",
     "Title": "Anime",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7216-4287-8bfa-31e8f4ba2e8d",
+    "Id": "10000000-2c1e-49ce-9f77-7433f1dd5aef",
     "Title": "Monochrome",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b173-439d-93cf-e1727a5473d0",
+    "Id": "10000000-805b-4ae3-b700-21096bc9d09a",
     "Title": "Futuristic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0e4c-4d41-9fe5-e87225f3ddc5",
+    "Id": "10000000-3c42-40f6-8319-ff786a79cf49",
     "Title": "Panel",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-07ab-4e92-989c-67f26a8b8aed",
+    "Id": "10000000-d09f-4b14-b8f2-a32a0c4ca552",
     "Title": "Astrophotography",
     "PluralTitle": null,
     "Description": "Astrophotography is a style of photography that focuses on capturing celestial bodies in outer space. The style often involves natural lighting and varied color schemes to highlight celestial compositions. Prominent astrophotographers include Michael Shainblum and David Malin."
   },
   {
-    "Id": "10000000-03c0-4dce-a339-7de197b211d8",
+    "Id": "10000000-dd06-4c12-bfe7-551c6b4bda08",
     "Title": "Michael Shainblum",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a4ce-4d46-97a2-acd30f905b12",
+    "Id": "10000000-4582-46f7-b3f6-ef7c98cb823c",
     "Title": "David Malin",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9025-47e9-81ac-0d92cd412893",
+    "Id": "10000000-0467-4c72-93a1-6f4d13e932ca",
     "Title": "Photography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-de51-4854-98d0-0d608335e83b",
+    "Id": "10000000-5395-43da-80db-28152f90c6b8",
     "Title": "Outer Space",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6577-42c1-9d1b-1be090de50cf",
+    "Id": "10000000-d5ae-4b6c-a302-d521a579a956",
     "Title": "Natural",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1b85-4218-b4b4-3b0f65400794",
+    "Id": "10000000-8503-4773-8777-dada46798f0b",
     "Title": "Varied",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-dd6c-40e9-957a-6ba1a8d69e3f",
+    "Id": "10000000-b100-4291-a9b2-b372dbc68556",
     "Title": "Celestial",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-fdfe-4440-b1b3-333bbfa6842e",
+    "Id": "10000000-775a-4724-bc19-775a80a350cf",
     "Title": "Astropunk",
     "PluralTitle": null,
     "Description": "Astropunk is a sub-genre of science fiction that combines futuristic outer space themes with a rebellious punk aesthetic. This style can be seen across various media, with compositions featuring unconventional, gritty takes on future space environments. Artists like Moebius and H.R. Giger have significantly influenced this genre."
   },
   {
-    "Id": "10000000-37dc-4e2f-b12a-83504946e3d3",
+    "Id": "10000000-4731-4017-8e43-a256e5b124f7",
     "Title": "Moebius",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-fc70-42dc-a72a-9c02ee2a3055",
+    "Id": "10000000-a7a7-4a41-8869-357b0388af44",
     "Title": "H.R. Giger",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d297-4314-93f2-d7c0484cf981",
+    "Id": "10000000-c2f2-49b8-b391-82c54e9ea7c4",
     "Title": "Sci-Fi",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2bbe-4a79-83c0-2a9cba9578f3",
+    "Id": "10000000-6581-42b5-be90-273c9b5a4af8",
     "Title": "Punk",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8b54-457e-ad4e-faeae33f75ac",
+    "Id": "10000000-7767-42e7-83ce-036bafd1449b",
     "Title": "Various",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2888-44aa-b561-4117bb8aafc0",
+    "Id": "10000000-9559-4f40-ac10-65a7af1eb310",
     "Title": "Atelier Olschinsky",
     "PluralTitle": null,
     "Description": "Atelier Olschinsky is a Vienna-based design studio founded by Peter Olschinsky and Verena Weiss. Known for their abstract and digital art, their works are characterized by vivid colors, geometric compositions, and an experimental mood. They explore boundaries of design, illustration, and photography in their creations."
   },
   {
-    "Id": "10000000-6020-42fb-8045-b21c0ab96f11",
+    "Id": "10000000-6d7c-48ed-aa15-268b31f7aee4",
     "Title": "Digital Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b8c2-4f2e-8e29-5a53bbe577df",
+    "Id": "10000000-40fb-4ca9-976a-1c32bdd708b9",
     "Title": "Abstract Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c727-4d5f-8207-79e543f01efe",
+    "Id": "10000000-07d3-4606-9702-3096535b837b",
     "Title": "Experimental",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7c81-4566-87f7-89a2b7134482",
+    "Id": "10000000-8d17-4f9b-9a35-5e03837ea97a",
     "Title": "Geometric",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-334a-4eff-a888-f7c2f4606b18",
+    "Id": "10000000-d6f4-40cb-8c3e-94ff066c37a4",
     "Title": "Atey Ghailan",
     "PluralTitle": null,
     "Description": "Atey Ghailan is a digital artist known for his work in concept art. His style often depicts vibrant, fantastical environments and figurative compositions. His artwork, marked by a strong sense of narrative, resembles the works of other concept artists like Alex Ross and Iain McCaig."
   },
   {
-    "Id": "10000000-1fce-412a-b8e3-ec3672ec1ef3",
+    "Id": "10000000-5934-4439-8e68-87e73c154ea7",
     "Title": "Concept Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-4e9c-4cb3-b22e-796d7888f483",
+    "Id": "10000000-89d8-4a7a-b282-6617a48a941f",
     "Title": "Fantasy",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-907c-4a8b-bbd8-bdc8c5042741",
+    "Id": "10000000-6403-4ce4-8821-35b4c602d65c",
     "Title": "Atompunk",
     "PluralTitle": null,
     "Description": "Atompunk is a cultural art movement, a subset of retrofuturism, focusing on the post-war era\u0027s optimistic vision of the future. The style is often depicted in various media, presenting futuristic compositions set in an optimistic post-war environment. Artists like Syd Mead and Norman Bel Geddes embody this aesthetic in their work."
   },
   {
-    "Id": "10000000-c74d-427f-9006-29f98ba260eb",
+    "Id": "10000000-2c7e-4880-8218-fc7152345945",
     "Title": "Syd Mead",
     "PluralTitle": null,
     "Description": "Syd Mead, known as a \u0027visual futurist\u0027, was a renowned American artist, best known for his work in the field of concept art and illustrations. His style was marked by vivid color usage, mechanical compositions, and a visionary sense of optimism about the future. He has influenced and shares similarities with artists like Ralph McQuarrie and Moebius."
   },
   {
-    "Id": "10000000-f836-4522-92c9-9b8968c79957",
+    "Id": "10000000-acba-43d8-996c-3e080a12834b",
     "Title": "Norman Bel Geddes",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-782b-4d87-a5ba-bc3895f72859",
+    "Id": "10000000-0d69-4d73-8627-87a48e8e3c35",
     "Title": "Retrofuturism",
     "PluralTitle": null,
     "Description": "Retrofuturism is an art style based on depictions of the future produced in an earlier era. It is characterized by a blend of old-fashioned \u0027retro\u0027 styles with futuristic technology, often with an optimistic outlook."
   },
   {
-    "Id": "10000000-c8b2-4a50-8f2b-578b7b716efb",
+    "Id": "10000000-5489-43fb-8b12-53432f0c1987",
     "Title": "Post-War Era",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6a3d-4706-bb0c-f77f87e4e41f",
+    "Id": "10000000-50af-4e6c-a56c-0906dddfeac6",
     "Title": "Optimistic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-aa3d-4f7f-8373-1e7e06eb37a7",
+    "Id": "10000000-5e43-4400-b824-07c7997b113f",
     "Title": "Attack on Titan",
     "PluralTitle": null,
     "Description": "Attack on Titan is a popular manga and anime series created by Hajime Isayama. The art style is characterized by intense, dark-colored illustrations that depict a dystopian environment. The composition of the artwork is dynamic, reflecting the series\u0027 action-packed narrative."
   },
   {
-    "Id": "10000000-b71c-4856-909e-6205bfee88ff",
+    "Id": "10000000-6646-4128-aed7-045a02f1aeb0",
     "Title": "Dystopian",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c2c5-4a21-8331-ce578fdfaf18",
+    "Id": "10000000-6adc-4a86-83a6-e543b6100a85",
     "Title": "Intense",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8bc7-4844-9f70-fcc4826821bd",
+    "Id": "10000000-ccbf-4662-95cc-bb11708a9f93",
     "Title": "Dynamic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-74e4-434a-8019-6a8876970037",
+    "Id": "10000000-caf2-43af-acc6-4ef26df555a1",
     "Title": "Aubrey Beardsley",
     "PluralTitle": null,
     "Description": "Aubrey Beardsley was a prominent English illustrator and author known for his black ink drawings that epitomize the Art Nouveau style. His work is noted for its monochrome color scheme, stylized compositions, and provocative mood. Similar artists include Alphonse Mucha and Henri de Toulouse-Lautrec."
   },
   {
-    "Id": "10000000-1b26-4dfa-976a-395745eb6a33",
+    "Id": "10000000-5fb4-4a91-869e-95854fe41f85",
     "Title": "Art Nouveau",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-68f7-4ab8-b08b-b007d22b9dd0",
+    "Id": "10000000-9902-4c84-a381-5874f245e100",
     "Title": "Ink",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-fe21-4df3-b895-8f783543fb13",
+    "Id": "10000000-4d3b-423d-b36c-066636620215",
     "Title": "Provocative",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-4f71-4965-a8dc-0c7915112f5c",
+    "Id": "10000000-48d3-4dd2-9649-43670419cb1c",
     "Title": "Stylized",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-67db-4bd6-aaab-c01295143696",
+    "Id": "10000000-a9c7-4e52-9fff-95a2d7683c34",
     "Title": "Aubusson tapestry",
     "PluralTitle": null,
     "Description": "Aubusson tapestry refers to the tapestry art tradition of the Aubusson region in France. It is characterized by historical and narrative compositions, varied colors, and is executed in textile medium. Jean Lur\u00E7at and Michel Tourli\u00E8re are among the artists known for Aubusson tapestry."
   },
   {
-    "Id": "10000000-0243-4b29-be6a-fa3794eaa505",
+    "Id": "10000000-7898-4c46-a2bd-932726146a2a",
     "Title": "Jean Lur\u00E7at",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f0e5-4146-8710-bab87df450ab",
+    "Id": "10000000-60ab-4fa5-87a3-965e7de97939",
     "Title": "Michel Tourli\u00E8re",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f321-4980-9a66-5c030141919d",
+    "Id": "10000000-b991-474c-aabc-114c65effd1c",
     "Title": "Tapestry art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9ce4-4f60-9731-65d8aad8dc31",
+    "Id": "10000000-dad7-4a94-9ac0-1322b35440e0",
     "Title": "Textile",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d145-41cb-8e9f-5a5c4edaafb9",
+    "Id": "10000000-1888-4c02-beb3-ea70c8c327e1",
     "Title": "Narrative",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-db06-49a8-92bb-9cb767d95445",
+    "Id": "10000000-c617-42a0-bbf9-0375048bf6d6",
     "Title": "Audrey Kawasaki",
     "PluralTitle": null,
     "Description": "Audrey Kawasaki is a Los Angeles-based painter known for her distinct style that blends elements of manga and Art Nouveau. Her work, rendered in oil, often features pastel colors, mysterious moods, and figurative compositions set in fantastical environments. Artists James Jean and Yoshitaka Amano have similar styles."
   },
   {
-    "Id": "10000000-007c-4f33-9409-e15e2f7c9c0d",
+    "Id": "10000000-7649-4ac8-8802-7395c079479d",
     "Title": "Oil",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-390f-4146-ae24-90f1935e1651",
+    "Id": "10000000-2072-455a-ab10-f46c99b8ab5a",
     "Title": "Pastel",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b553-414a-b76b-fe1657a66b25",
+    "Id": "10000000-6c71-44f5-a963-30151fec4e62",
     "Title": "Mysterious",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-4136-4f81-a454-23b4910df465",
+    "Id": "10000000-cb08-44b8-9774-b77d46986f4e",
     "Title": "August Macke",
     "PluralTitle": null,
     "Description": "August Macke was a German painter and one of the leading figures of the Expressionist movement. His style is characterized by bright colors, abstract compositions, and emotional undertones, rendered primarily in painting medium. His style shares similarities with artists like Franz Marc and Robert Delaunay."
   },
   {
-    "Id": "10000000-d106-4b61-8a79-0055ff1fb6b6",
+    "Id": "10000000-6346-4feb-8422-19d9f77941e8",
     "Title": "Expressionism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-02b4-40b5-8002-6680b9570477",
+    "Id": "10000000-0351-46ce-a0a9-3577ba016d77",
     "Title": "Orphism",
     "PluralTitle": null,
     "Description": "Orphism, also known as Orphic Cubism, was an art movement in the early 20th century that focused on pure abstraction and bright colors. Orphism aimed to convey meaning through color and abstract form, often with a musical or lyrical quality."
   },
   {
-    "Id": "10000000-4840-4d16-872a-87b311c1240d",
+    "Id": "10000000-a427-4ad2-96bb-2bdaa3d06a3a",
     "Title": "Bright",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9085-42ca-856f-b71146566e24",
+    "Id": "10000000-64a3-4c8f-a8c8-b493f35bfabc",
     "Title": "Emotional",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-adec-4dfb-8ea6-56bd9f1ec053",
+    "Id": "10000000-04b6-45bd-affd-fea0e36d1bbf",
     "Title": "August Sander",
     "PluralTitle": null,
     "Description": "August Sander was a German photographer known for his portraiture work and a neutral, realistic approach to his subjects. He often employed natural lighting and a monochrome color scheme. His style has influenced other photographers, including Diane Arbus and Richard Avedon."
   },
   {
-    "Id": "10000000-6fb6-4956-9bf6-e775cab1e9ca",
+    "Id": "10000000-b5e1-4d88-a2eb-5a0f801e2187",
     "Title": "Portraiture",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-4077-499f-a774-76af4af34e53",
+    "Id": "10000000-c5e7-47d6-8684-5ce70827bafd",
     "Title": "Neutral",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f15b-465a-b1f1-3cf9f0eaf61c",
+    "Id": "10000000-161a-4c59-b3db-e53668716272",
     "Title": "Realistic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-01db-440d-980f-f05fda279fe6",
+    "Id": "10000000-5256-46eb-926e-06ab1ab1f10e",
     "Title": "Augusta Savage",
     "PluralTitle": null,
     "Description": "Augusta Savage was a significant African-American sculptor associated with the Harlem Renaissance. Her work is characterized by monochrome color schemes, realistic moods, and figurative compositions, predominantly in the medium of sculpture. Her style is in line with artists like Aaron Douglas and Jacob Lawrence."
   },
   {
-    "Id": "10000000-f8f1-483b-88cb-7c3eb043ca4a",
+    "Id": "10000000-1521-4498-9af6-0c1e2dcc65a7",
     "Title": "Harlem Renaissance",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ea58-4426-8d1d-5a4e9bc927b0",
+    "Id": "10000000-3dd8-4407-993a-43f310c17865",
     "Title": "Futurism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-163a-41d9-af9a-2e03e13746a2",
+    "Id": "10000000-a04d-4a62-ad50-00b0c2eca062",
     "Title": "Mechanical",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0ea3-4c77-ad76-18da86287878",
+    "Id": "10000000-eb36-4990-988e-588bec20e1a9",
     "Title": "Biopunk",
     "PluralTitle": null,
     "Description": "Biopunk is a subgenre of science fiction that focuses on the implications of biotechnology. The style is often depicted in various media, with dark colors, grim moods, and futuristic compositions set in dystopian environments. Authors like William Gibson and Paolo Bacigalupi have explored this genre."
   },
   {
-    "Id": "10000000-580f-48e6-be48-632b0b683fb7",
+    "Id": "10000000-bda9-44db-9480-ab2554efcb92",
     "Title": "William Gibson",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-08a5-42a7-b4d0-ffaa00202d3f",
+    "Id": "10000000-dfab-48bb-8f78-fc7eb5d81679",
     "Title": "Paolo Bacigalupi",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ff92-46e4-b2f7-8a4db28800a4",
+    "Id": "10000000-9171-47a9-afaa-09bec56aea9e",
     "Title": "Science Fiction",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f063-4fdd-8119-058625bd39c6",
+    "Id": "10000000-01e1-4f22-a5de-7246a8278803",
     "Title": "Grim",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a79b-4f32-a609-396a1a31f5f7",
+    "Id": "10000000-456a-4c4a-8979-3e3d890e23af",
     "Title": "Bioshock",
     "PluralTitle": null,
     "Description": "Bioshock is a popular video game known for its distinct Art Deco inspired style. The game\u0027s artwork, primarily in digital medium, features an underwater environment with muted colors, mysterious mood, and a narrative-driven composition. Ken Levine, the game\u0027s creator, is a significant figure associated with this style."
   },
   {
-    "Id": "10000000-ca96-4425-b426-4a1b0828f730",
+    "Id": "10000000-7b3c-4240-8935-7c707f79dc74",
     "Title": "Art Deco",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-86a9-4193-92db-23857a2f660b",
+    "Id": "10000000-4b79-4c86-a045-873703ecbeeb",
     "Title": "Underwater",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8760-444d-a6cd-0a23a39fdd82",
+    "Id": "10000000-bdc7-408e-8e82-4c26f49ee70b",
     "Title": "Bird\u0027s eye view",
     "PluralTitle": null,
     "Description": "Bird\u0027s eye view refers to an elevated perspective of an object, often used to create panoramic compositions in art. The style can be applied in various mediums and typically features aerial environments. Notable artists who have used this perspective include Pieter Bruegel the Elder and Leonardo da Vinci."
   },
   {
-    "Id": "10000000-1905-4124-ab3a-0db73e2da0a4",
+    "Id": "10000000-2c89-4a63-b27f-21fedc04d83f",
     "Title": "Pieter Bruegel the Elder",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b180-4b25-9046-32ca0d2eb249",
+    "Id": "10000000-b237-40b1-afe1-10caf988d526",
     "Title": "Leonardo da Vinci",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-bd56-4143-8ab8-8ed3bbc74713",
+    "Id": "10000000-8f81-4e2a-a189-710053d990ce",
     "Title": "Realism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f51f-44db-907c-98b7bee615eb",
+    "Id": "10000000-968b-4d39-8678-4aa869b45421",
     "Title": "Aerial",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-5583-48a1-8eae-c256a632daa8",
+    "Id": "10000000-765b-43d9-b373-e3579883d994",
     "Title": "Panoramic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3629-4e80-aed3-413f63a6fddc",
+    "Id": "10000000-e4af-4425-b954-0640eb39031a",
     "Title": "Bjarke Ingels",
     "PluralTitle": null,
     "Description": "Bjarke Ingels is a Danish architect known for his innovative approach to modern architecture. His work, primarily in the medium of architecture, features urban environments with geometric compositions. His style can be compared to architects like Rem Koolhaas and Zaha Hadid."
   },
   {
-    "Id": "10000000-14cc-4553-988f-43ad2bc6244b",
+    "Id": "10000000-1e87-4457-8fab-10b84e8be1c2",
     "Title": "Modern Architecture",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9901-4e3e-b1c7-e97dc46ce549",
+    "Id": "10000000-eda8-460a-ac6f-819e757bdaf6",
     "Title": "Architecture",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0788-48d9-a3a2-464ec11899ee",
+    "Id": "10000000-fdb9-47b9-9a7e-b15220d12b1e",
     "Title": "Black Butler",
     "PluralTitle": null,
     "Description": "Black Butler is a popular anime and manga series created by Yana Toboso. The artwork in Black Butler features a dark, Gothic mood and figurative compositions set in a Victorian environment. It primarily uses the medium of illustration."
   },
   {
-    "Id": "10000000-b6f9-49f2-9ed2-ce862769768c",
+    "Id": "10000000-4a4c-42d2-9e13-4a458fa9ea2b",
     "Title": "Victorian Era",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c356-422d-907b-bae47fa6cccf",
+    "Id": "10000000-79ea-47a2-8a16-568c752bffbb",
     "Title": "Gothic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-bfcc-473b-9835-fd213c1d1320",
+    "Id": "10000000-3d75-4c57-b99f-bbb7755ff348",
     "Title": "Black Lagoon",
     "PluralTitle": null,
     "Description": "Black Lagoon is a renowned anime and manga series created by Rei Hiroe. The style of Black Lagoon is known for its vivid color schemes, action-filled moods, and dynamic compositions set in urban environments, rendered mainly through animation."
   },
   {
-    "Id": "10000000-139c-46c7-863f-6a630d9e0e21",
+    "Id": "10000000-5f87-42fa-81e0-46f05286b238",
     "Title": "Animation",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2323-41fa-824d-6c5d38f8cf7b",
+    "Id": "10000000-b62f-4c02-8ee9-2d0670dd1715",
     "Title": "Action",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ecbb-4921-82b3-a34bea10f68b",
+    "Id": "10000000-979a-436e-8922-fe99adfe8469",
     "Title": "Blackboard",
     "PluralTitle": null,
     "Description": "Blackboard style refers to artwork created with chalk on a blackboard, often for informative or educational purposes. This style of art is characterized by monochrome color schemes and text-based compositions. Artists like David Ellis and Hans-Peter Feldmann have used this technique in their work."
   },
   {
-    "Id": "10000000-badf-438a-bb4d-46fb8f7264cb",
+    "Id": "10000000-2815-479d-82e4-ce7f425e4d91",
     "Title": "David Ellis",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f6b2-47ef-a768-a73fd31d96f8",
+    "Id": "10000000-b2ae-4929-b5f0-a52607ac11ce",
     "Title": "Hans-Peter Feldmann",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-834b-48c1-97f1-9447c234708e",
+    "Id": "10000000-f478-43a5-b9dd-c38675c6b37e",
     "Title": "Chalk Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8a92-4809-b2bc-0d62d77faf64",
+    "Id": "10000000-7507-4b35-8839-9f1975b5bef2",
     "Title": "Chalk",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-864d-4bd8-85cf-08d69ab30026",
+    "Id": "10000000-e4c0-4fa9-bcb8-35d8017f0013",
     "Title": "Informative",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0994-4ee1-9438-7de55bf0c361",
+    "Id": "10000000-56d5-4de0-b43f-8bcffb80477e",
     "Title": "Text-based",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6b8a-404b-929f-9d03991f6d68",
+    "Id": "10000000-5c97-4609-b40a-ac4d61109c58",
     "Title": "Blacklight paint",
     "PluralTitle": null,
     "Description": "Blacklight paint is a type of paint that glows under ultraviolet light, used in psychedelic and surrealist art. This style features fluorescent colors, surreal moods, and abstract compositions, rendered primarily in paint. Artists like Kenny Scharf and Alex Grey are known for utilizing this style."
   },
   {
-    "Id": "10000000-a02b-4305-9ecf-5d479ed2edc5",
+    "Id": "10000000-e4d8-4ccf-8672-8513d5b06bb5",
     "Title": "Kenny Scharf",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ff37-4324-8b12-af3b3848eade",
+    "Id": "10000000-81e3-466f-bd8c-7cb4a263dd4e",
     "Title": "Alex Grey",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c365-4480-b0c6-a767d202f697",
+    "Id": "10000000-703e-43c4-9300-7b58108ac6a7",
     "Title": "Psychedelic Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-5985-44d9-9fe4-699b3b6b334a",
+    "Id": "10000000-9531-407b-a5dd-1e61629f20db",
     "Title": "Paint",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a68d-4e50-a26b-3c3cf6f4ad67",
+    "Id": "10000000-2035-470d-8cfc-8462d61d0608",
     "Title": "Ultraviolet",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7d9e-4b94-ac79-6411fd74d36b",
+    "Id": "10000000-c5f9-43d2-bcb5-bb96939e86b4",
     "Title": "Fluorescent",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0022-4ffd-b820-1f4a13d9547c",
+    "Id": "10000000-0f4c-4e71-a5fe-14c0e1a35e72",
     "Title": "Surreal",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7f84-4327-8d50-d53773e404f5",
+    "Id": "10000000-80fb-4646-83d2-c1468a1f31ab",
     "Title": "Blame",
     "PluralTitle": null,
     "Description": "Blame is a manga series created by Tsutomu Nihei. It\u0027s noted for its dark, cybernetic environment, monochrome colors, and futuristic compositions. The artwork of Blame is primarily rendered in illustration."
   },
   {
-    "Id": "10000000-fadd-4d26-96a9-97ceaf989294",
+    "Id": "10000000-14df-43bc-b5e9-ada21aa7448e",
     "Title": "Cybernetic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-92e4-44f9-a38b-bd8482169ea7",
+    "Id": "10000000-bab0-47cc-9576-de41f65880f0",
     "Title": "Bleach",
     "PluralTitle": null,
     "Description": "Bleach is a popular anime and manga series created by Tite Kubo. Its art style is characterized by vivid colors, action-filled moods, and figurative compositions set in supernatural environments. The art of Bleach is mainly realized in animation."
   },
   {
-    "Id": "10000000-b15e-4840-8601-4e118889f2ff",
+    "Id": "10000000-7390-4f2f-a598-e4850432d47b",
     "Title": "Supernatural",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-df16-42ec-bfb2-0fd6baf1ac23",
+    "Id": "10000000-111e-40dd-b02c-f3056757e308",
     "Title": "Bill Jacklin",
     "PluralTitle": null,
     "Description": "Bill Jacklin, an artist known for his abstract expressionism, uses vibrant colors in his paintings. His compositions are dynamic, conveying an energetic atmosphere."
   },
   {
-    "Id": "10000000-fdd6-4265-8706-161d6dd1f9e1",
+    "Id": "10000000-3826-4ecb-8042-ddd11b3fbad1",
     "Title": "Abstract expressionism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1151-44ff-8e0f-a6a00deafaf9",
+    "Id": "10000000-4032-46e5-8ced-01064b2747e7",
     "Title": "Bill Mantlo",
     "PluralTitle": null,
     "Description": "Bill Mantlo is known for his work in the comic book style, with drawing being the primary medium. His narratives are widely recognized in the comic industry."
   },
   {
-    "Id": "10000000-45bd-472e-81eb-90924e37658d",
+    "Id": "10000000-f5e2-49bf-996d-4072510f5de6",
     "Title": "Comic book",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9941-45e4-b0c4-8f005fecd248",
+    "Id": "10000000-143a-4788-b0f9-f232b001ae21",
     "Title": "Drawing",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-489e-4e2f-a060-8cabe51496d3",
+    "Id": "10000000-a67b-45a0-abf0-a218155c84c6",
     "Title": "Bill Sienkiewicz",
     "PluralTitle": null,
     "Description": "Bill Sienkiewicz is a comic book artist known for his unique drawing style. His work is characterized by an innovative visual storytelling technique."
   },
   {
-    "Id": "10000000-9353-487a-9527-7b995310e308",
+    "Id": "10000000-8c94-476e-a84a-9e7e338a31fe",
     "Title": "Bill Traylor",
     "PluralTitle": null,
     "Description": "Bill Traylor, an outsider artist, is known for his vibrant and simplified drawings. His work reflects his personal experiences and views of the world."
   },
   {
-    "Id": "10000000-fdcc-4173-801b-f06ba81ec975",
+    "Id": "10000000-fb61-4ca9-9edd-6fc1c60f3e85",
     "Title": "Outsider art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-cb1c-4888-b55e-2e475412012a",
+    "Id": "10000000-ef99-44bf-a8b5-9a85fc81ed1d",
     "Title": "Simplified",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b079-4d36-96c1-2d409e81700a",
+    "Id": "10000000-a3c0-4130-8bbf-159ca501ded3",
     "Title": "Bill Viola",
     "PluralTitle": null,
     "Description": "Bill Viola is a renowned video artist. His work often involves varied lighting and creates an introspective mood, exploring the depths of human experiences."
   },
   {
-    "Id": "10000000-db16-438b-b5a5-5bae89f86261",
+    "Id": "10000000-cc8d-42bf-b7db-a043ee4e3987",
     "Title": "Video art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0fd9-4fc6-8996-696c46022cfc",
+    "Id": "10000000-45ea-435d-ae58-e0d313ce282c",
     "Title": "Video",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ece7-41f8-99d6-c0f779df1cc8",
+    "Id": "10000000-1709-4444-a66f-c4644b3814ed",
     "Title": "Introspective",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9958-4d32-af8c-8a533c1b3b67",
+    "Id": "10000000-92e1-43b9-aa92-f31ebe9f2743",
     "Title": "Bill Watterson",
     "PluralTitle": null,
     "Description": "Bill Watterson is the creator of \u0027Calvin and Hobbes\u0027, and his style is defined by the comic strip medium. His work combines humor with deep philosophical themes."
   },
   {
-    "Id": "10000000-aefa-4f5c-a5c5-fe7247b83abc",
+    "Id": "10000000-97d9-4ebe-a9bc-1d791c7a6b83",
     "Title": "Comic strip",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-71c7-4ec8-ae44-10bcad2d3bf5",
+    "Id": "10000000-445f-40c2-947f-b4fbb3692ff4",
     "Title": "Bill Willingham",
     "PluralTitle": null,
     "Description": "Bill Willingham is a comic book writer known for his intricate narratives. His storytelling techniques have greatly influenced the drawing styles of the comics he\u0027s involved with."
   },
   {
-    "Id": "10000000-55c8-4e86-90b9-ac0604b6f9d9",
+    "Id": "10000000-8677-4314-9f21-0eb62e51d2c3",
     "Title": "Billy Childish",
     "PluralTitle": null,
     "Description": "Billy Childish is recognized for his raw and vibrant painting style that borrows elements from both expressionism and naive art."
   },
   {
-    "Id": "10000000-eb81-4570-a606-38e597598573",
+    "Id": "10000000-ea23-46c2-9266-e46368182081",
     "Title": "Naive art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7341-417c-868a-ed084e317f8b",
+    "Id": "10000000-ff05-4b48-b634-5c8b610765af",
     "Title": "Raw",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3541-422e-9892-30de85222a3f",
+    "Id": "10000000-6fc6-4b5b-81b7-7c640bbb23b6",
     "Title": "Biological illustration",
     "PluralTitle": null,
     "Description": "Biological illustration style is a type of scientific illustration, mainly conveyed through detailed drawings with realistic colors, used to represent biological entities."
   },
   {
-    "Id": "10000000-4751-444f-9623-04407310ec75",
+    "Id": "10000000-9436-413b-b215-3c37845be7ae",
     "Title": "Ernst Haeckel",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-dc79-4b30-86c9-643ca0bacb87",
+    "Id": "10000000-0a48-41e2-9ab9-bd7074a921f0",
     "Title": "Maria Sibylla Merian",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6d04-4922-8468-3782760eddb0",
+    "Id": "10000000-c47c-46c2-b118-efc20cd3caeb",
     "Title": "Scientific illustration",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-e25e-4f81-be97-aa0331d23387",
+    "Id": "10000000-f28d-47fd-b0c7-47e8a10c88a9",
     "Title": "Detailed",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9560-4c83-ace3-e9842cac54bb",
+    "Id": "10000000-bde5-4d18-a49b-c3c62ff0a56e",
     "Title": "Christopher Balaskas",
     "PluralTitle": null,
     "Description": "Christopher Balaskas is a digital artist specializing in conceptual art, often creating vivid, fantasy landscapes."
   },
   {
-    "Id": "10000000-25ed-4b7e-9850-4c5587f7ccf0",
+    "Id": "10000000-ac7c-4220-a9d0-ca3962ed3ee8",
     "Title": "Conceptual Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b4b1-4ec0-94f2-cc92e305fea6",
+    "Id": "10000000-cf24-4c78-94fe-f336daa7c52d",
     "Title": "Digital Painting",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9796-4f50-a1c6-63c32abf77da",
+    "Id": "10000000-3a80-464a-b5ec-2215e48b970f",
     "Title": "Fantasy Landscapes",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ad60-420c-bdd8-388656ed6ac0",
+    "Id": "10000000-50ea-4cc1-b7f6-8352502c7c3a",
     "Title": "Christopher Nolan",
     "PluralTitle": null,
     "Description": "Christopher Nolan is a renowned film director known for his complex narratives, high-contrast lighting, and suspenseful moods."
   },
   {
-    "Id": "10000000-e8e3-4aff-934a-7aa8fb7a7aa0",
+    "Id": "10000000-f5cc-4f58-b519-da99174f6171",
     "Title": "Cinematic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-623c-4574-bc06-d621d51fce0e",
+    "Id": "10000000-14e7-4f73-b210-4fd1696eb2ae",
     "Title": "High Contrast",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-359e-4dad-b8ac-59060aaa0439",
+    "Id": "10000000-b947-4376-aa5e-000e9b8a45e7",
     "Title": "Suspenseful",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2746-41cb-98a6-145657dc4410",
+    "Id": "10000000-9b82-4549-8a3e-b17721fc429e",
     "Title": "Complex Narratives",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2d6a-47d8-a98a-d509bb1ecf16",
+    "Id": "10000000-4553-4f39-bcd5-094d601558b9",
     "Title": "Christopher R. W. Nevinson",
     "PluralTitle": null,
     "Description": "Christopher R. W. Nevinson was a painter best known for his grim depictions of war zones in Futurism and Cubism styles."
   },
   {
-    "Id": "10000000-9a9c-4771-836c-f9135a22e29d",
+    "Id": "10000000-c4e4-4692-872e-8f72e23e6ea0",
     "Title": "War Zones",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-25a7-42b8-9b71-aa8959c656ad",
+    "Id": "10000000-8b2e-424e-b338-839c0cc26c3e",
     "Title": "Christopher Ryan McKenney",
     "PluralTitle": null,
     "Description": "Christopher Ryan McKenney is a photographer known for his surreal, conceptual photography predominantly in natural environments."
   },
   {
-    "Id": "10000000-ba07-4b43-ad13-a63cba8032a8",
+    "Id": "10000000-cf1c-47e3-901d-952ff5977789",
     "Title": "Conceptual Photography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7921-44dc-99f6-ab764280d228",
+    "Id": "10000000-7ce5-4527-8739-72713992306d",
     "Title": "Natural Light",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-833e-4bb7-abb1-fc4a1f2b2f27",
+    "Id": "10000000-a240-467d-8810-b12520557b17",
     "Title": "Christopher Wool",
     "PluralTitle": null,
     "Description": "Christopher Wool is a painter known for his contemporary art style, typically creating monochromatic, text-based imagery."
   },
   {
-    "Id": "10000000-29d2-46dc-8c4b-0bdbb7a25010",
+    "Id": "10000000-c4d6-4aa0-881a-764d8db648b7",
     "Title": "Contemporary Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-cc2f-4e73-bea0-60813efd0641",
+    "Id": "10000000-adf5-450c-ba42-83ed8fd8bfbb",
     "Title": "Monochromatic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-459f-4e69-8b85-c0eb5ed00537",
+    "Id": "10000000-5a26-40f8-bfa2-071a0698f755",
     "Title": "Text-based Imagery",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7e27-4fe3-a76d-7051b59b32b2",
+    "Id": "10000000-69be-436a-8094-a96fe5753e56",
     "Title": "Chromolithography",
     "PluralTitle": null,
     "Description": "Chromolithography is a printmaking style that uses stone lithography to produce multi-colored, layered imagery."
   },
   {
-    "Id": "10000000-1c29-4d3d-b621-5faf12fa717d",
+    "Id": "10000000-33b7-4e0a-8f57-4c30e374ac3f",
     "Title": "Louis Prang",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-da82-480d-aaff-67d853e60c93",
+    "Id": "10000000-adc4-46d9-9091-d8a27d7de72e",
     "Title": "Printmaking",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-e86c-487d-8ddc-2cabbfa7341c",
+    "Id": "10000000-c536-4073-b749-e647fc68a62c",
     "Title": "Stone Lithography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b088-4de2-9485-df9f14ab152c",
+    "Id": "10000000-5ddd-4ee2-9c83-12ef231681de",
     "Title": "Multi-color",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7a7c-4234-99da-08b7f45be247",
+    "Id": "10000000-1602-4419-a38e-d6ab2dfeac40",
     "Title": "Layered Imagery",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8cb5-487b-892f-77fdf6abda8f",
+    "Id": "10000000-9e44-412d-8212-b9e714fd5574",
     "Title": "Chuck Close",
     "PluralTitle": null,
     "Description": "Chuck Close is a renowned painter known for his Photorealism style. His works often utilize a grid-based composition and a full spectrum of colors."
   },
   {
-    "Id": "10000000-b7f1-4ba2-9a2c-ffecbfca1eda",
+    "Id": "10000000-b764-43d1-bb4b-cedb56fa7577",
     "Title": "Photorealism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-5fbd-4d99-ae3a-005b193033b9",
+    "Id": "10000000-a674-49d4-8157-021fd39cd854",
     "Title": "Full Spectrum",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-09c9-4f9f-8718-5833b3da2fab",
+    "Id": "10000000-b8d1-4a9f-9c7c-c7f94b2e87cc",
     "Title": "Grid-based",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ad53-4a22-82d2-a1191e05516e",
+    "Id": "10000000-3b83-4801-9f12-c867b92dbeae",
     "Title": "Cibulak porcelain",
     "PluralTitle": null,
     "Description": "Cibulak porcelain is a style of porcelain art that features ceramics with predominantly blue and white colors and floral motifs."
   },
   {
-    "Id": "10000000-a8e4-4596-96b4-1664ee0b79a2",
+    "Id": "10000000-8174-4005-b4e4-063f50c9a77c",
     "Title": "Porcelain Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d3f2-4b41-93c8-9c6c6a75e3d4",
+    "Id": "10000000-077c-4998-804c-af23e9e953d6",
     "Title": "Ceramics",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-10ce-4b35-8672-680ec62d0b20",
+    "Id": "10000000-218a-418e-9c43-b38eb0a8e98a",
     "Title": "Blue and White",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-77b0-4335-a72b-44c717351a82",
+    "Id": "10000000-7a9b-43f7-9732-2b0c6c257f9e",
     "Title": "Floral Motifs",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-59af-4254-8060-dd0f9d69eb8a",
+    "Id": "10000000-43cc-4df4-bc6e-daefe11878a6",
     "Title": "Cicely Mary Barker",
     "PluralTitle": null,
     "Description": "Cicely Mary Barker was an illustrator known for her fantastical, nature-based watercolor illustrations featuring vibrant colors and figurative compositions."
   },
   {
-    "Id": "10000000-80c3-4900-9b9e-b543a9c28ad0",
+    "Id": "10000000-0632-4496-9be7-67c97154a1ca",
     "Title": "Watercolor",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3bf0-488f-ae5b-2e4515ba7dfd",
+    "Id": "10000000-2439-4ea4-ba66-d14e1491f592",
     "Title": "Nature",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-e463-418d-9cce-1b737f004f34",
+    "Id": "10000000-00fc-4523-9eb5-a5a38e0671cc",
     "Title": "Cindy Sherman",
     "PluralTitle": null,
     "Description": "Cindy Sherman is a renowned photographer known for her provocative, conceptual photography style, often using self-portraiture."
   },
   {
-    "Id": "10000000-88ef-4d35-b228-360c43036d9b",
+    "Id": "10000000-a6e9-4e2f-9e1b-b4981372a7f8",
     "Title": "Self-portraiture",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-59d0-4b19-8c9f-3bd236fccc76",
+    "Id": "10000000-3be1-44ec-a3af-0122c65bd571",
     "Title": "Cinematic Photography",
     "PluralTitle": null,
     "Description": "Cinematic Photography is a style of photography that mimics elements of cinema. It features dramatic lighting, narrative moods, and often utilizes wide-angle shots."
   },
   {
-    "Id": "10000000-ea06-449a-906b-d22dc8ead6a1",
+    "Id": "10000000-8ba6-4498-816e-d1843d8c849b",
     "Title": "Gregory Crewdson",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-17be-4f41-bc3e-19911e857c2a",
+    "Id": "10000000-90b6-469e-b9ec-24393c065594",
     "Title": "Dramatic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6f7f-47a5-bf91-d8eb73bc586e",
+    "Id": "10000000-7d6d-4e85-a88c-e5c15c347123",
     "Title": "Wide-angle Shots",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-192b-48d9-8737-f226bec625c1",
+    "Id": "10000000-a023-4738-8a63-8484753fc610",
     "Title": "CineStill 50",
     "PluralTitle": null,
     "Description": "CineStill 50 is a style of film photography known for its use under daylight conditions, resulting in vivid colors."
   },
   {
-    "Id": "10000000-4661-4dcf-b2f0-1f892fd47bc1",
+    "Id": "10000000-0038-4296-9fb9-58f6b33b2f41",
     "Title": "Film Photography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-007c-4f82-94b7-77b6f737555f",
+    "Id": "10000000-17b1-42d5-8ea0-11823863f60f",
     "Title": "Daylight",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b9a7-451e-a7c4-ebe83c83def1",
+    "Id": "10000000-0d09-42c4-bb30-a758f3991285",
     "Title": "Civil War Fashion",
     "PluralTitle": null,
     "Description": "Civil War Fashion refers to the style of clothing prevalent during the Civil War era, characterized by period-specific colors and dressmaking patterns."
   },
   {
-    "Id": "10000000-317d-45b5-a4ea-371fa526cb9a",
+    "Id": "10000000-fcc6-4719-8870-02048677dd39",
     "Title": "Historical Fashion",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-dd61-4853-84b3-4b096078ad18",
+    "Id": "10000000-de41-4a9a-8682-78ad14177ce5",
     "Title": "19th Century",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2c97-441f-bf94-adaf0ac6404c",
+    "Id": "10000000-f526-4f78-9168-5bdd372b535f",
     "Title": "Period-specific",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d40a-4850-81f7-78b62ff04a39",
+    "Id": "10000000-f220-433f-9fbe-d9d01f3473ce",
     "Title": "Dressmaking Patterns",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-5685-487c-acac-58cd976484b7",
+    "Id": "10000000-6d9d-4713-bae3-cf5e2db0937e",
     "Title": "Clannad",
     "PluralTitle": null,
     "Description": "Clannad is a visual novel turned anime characterized by its character-driven narratives in urban and school settings. It is known for its emotional mood and saturated color scheme."
   },
   {
-    "Id": "10000000-f177-479e-8878-da3758d28785",
+    "Id": "10000000-61bd-4415-9aeb-f505664130ed",
     "Title": "Urban and School settings",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a337-4511-96f6-326f230ae6a6",
+    "Id": "10000000-b66d-4377-9d8c-31a3a6f3b8a9",
     "Title": "Saturated",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a718-45a0-890a-23e8b435f514",
+    "Id": "10000000-e770-48b8-b361-dd2a129fbdeb",
     "Title": "Character-driven",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d761-40f2-9895-1c40ce7d8de3",
+    "Id": "10000000-0aa0-45cc-a09b-4f8704dd1df7",
     "Title": "Emo Fashion",
     "PluralTitle": null,
     "Description": "Emo fashion style, linked to Goth, Punk, and Grunge, often includes layered clothing. It features a predominantly black color scheme with touches of bright colors and conveys a melancholic mood."
   },
   {
-    "Id": "10000000-6b2a-45d1-be28-418c13b96e71",
+    "Id": "10000000-a9e2-4a56-a417-5b29b98ca8d2",
     "Title": "Goth",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-359e-4498-a963-158219b7848d",
+    "Id": "10000000-3a31-4249-84f4-3ebdd56058b0",
     "Title": "Grunge",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-822b-4d68-89dd-d4d2f3e6e955",
+    "Id": "10000000-36af-4f28-a9c5-962e709de351",
     "Title": "Clothing",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d501-49b2-9b37-934481b529d1",
+    "Id": "10000000-9cfc-47f4-ad0c-08c39e14de80",
     "Title": "Black and Bright Colors",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b756-47a9-b5e9-9376bd8d51c0",
+    "Id": "10000000-4c0e-4904-a544-ded9cb2dc5ba",
     "Title": "Layered",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a047-4002-bee4-5ef579a44161",
+    "Id": "10000000-a563-4443-a219-2016a8177dd2",
     "Title": "Encaustic",
     "PluralTitle": null,
     "Description": "Encaustic style is a method of painting using hot wax that contains color pigments. This technique, often linked to Abstract Expressionism, results in vibrant colors and lighting."
   },
   {
-    "Id": "10000000-debb-4e16-abfa-3e87d6434920",
+    "Id": "10000000-5d55-4412-9a5d-eda31c60b4e1",
     "Title": "Jasper Johns",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3da2-48cf-8a9b-6cc9b310c5a4",
+    "Id": "10000000-6fc3-4d2c-86b9-237098da817d",
     "Title": "Fayum mummy portraits",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f6b5-4d61-87f5-c8abcd60a2f9",
+    "Id": "10000000-1ec4-4bc2-9ef8-33cf437693c7",
     "Title": "Abstract Expressionism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2070-42ee-9a67-6d837ecd88b7",
+    "Id": "10000000-6255-43e1-92df-ee8182f964ef",
     "Title": "Encaustic paint",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f60f-42b2-bb4a-39cd1001ec8a",
+    "Id": "10000000-cf43-4dc7-b88a-89170a57abd7",
     "Title": "Encyclopedia Page",
     "PluralTitle": null,
     "Description": "Encyclopedia Page style is related to information design. It uses a grid composition, with monochrome color schemes. The medium is print and it often seen in resources like \u0027Microsoft Encarta\u0027."
   },
   {
-    "Id": "10000000-26c9-44db-92f2-1e59cad16966",
+    "Id": "10000000-8a00-42be-8c70-aa3e20f5c89a",
     "Title": "Microsoft Encarta",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8997-4abf-9161-234a9555af9d",
+    "Id": "10000000-9b5d-46c7-b295-004b57d7fced",
     "Title": "Information Design",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-49a8-4620-8985-10fc9a7e703c",
+    "Id": "10000000-79bf-4e19-9236-6a5b076cb666",
     "Title": "Print",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6aaf-48fa-971e-c935d2bbd5ac",
+    "Id": "10000000-c6b9-4e34-9ff2-44963c1b145f",
     "Title": "Grid",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9923-4ea0-960a-ec7124544229",
+    "Id": "10000000-f86b-4606-a180-41939bcd75fc",
     "Title": "Engineering Diagram",
     "PluralTitle": null,
     "Description": "Engineering Diagram style, tied to Technical Drawing, typically uses a schematic composition. These drawings are often monochrome and can be digital or hand-drawn, as in the work of Leonardo Da Vinci."
   },
   {
-    "Id": "10000000-a2d5-4a65-b5ce-347469e91383",
+    "Id": "10000000-d091-466a-861d-6add11939c0b",
     "Title": "Leonardo Da Vinci",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-35b4-46c3-9914-6eb7aaf2d6d6",
+    "Id": "10000000-b309-4514-b707-567d956178ee",
     "Title": "Technical Drawing",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1d77-4683-8077-8947675dcd46",
+    "Id": "10000000-8f00-4e74-8c53-71b47428a30c",
     "Title": "Schematic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9c47-4bbd-8c94-e5c5f16260d2",
+    "Id": "10000000-60c9-42d5-afc9-944e0f7cd58e",
     "Title": "Engraving",
     "PluralTitle": null,
     "Description": "Engraving style is associated with the Renaissance and Baroque periods. It uses detailed composition with a chiaroscuro lighting technique and is typically monochromatic."
   },
   {
-    "Id": "10000000-bee2-4875-8d0e-423ae1b78d61",
+    "Id": "10000000-0707-41b1-ad20-da2bbc5b3d33",
     "Title": "Albrecht D\u00FCrer",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1bc9-4ffe-9c1c-d90b8323978b",
+    "Id": "10000000-cc6e-465e-ab0a-2687a4f627e6",
     "Title": "Gustave Dor\u00E9",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a400-449c-9fbe-35c801c499b8",
+    "Id": "10000000-5486-4e19-98d7-8f527cb9a7bd",
     "Title": "Renaissance",
     "PluralTitle": null,
     "Description": "The Renaissance style is a period of European art from the 14th to 17th century, marked by a renewed interest in classical learning and values. It is characterized by balanced compositions, realistic representation, and a focus on light and perspective."
   },
   {
-    "Id": "10000000-1c9c-49d2-a37f-5ba0c20947a0",
+    "Id": "10000000-c230-4d51-b2f7-83d0c2280c26",
     "Title": "Baroque",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d7c0-48f1-b366-91b4c5d0dd70",
+    "Id": "10000000-90e6-4844-8d2c-9229bfb81a50",
     "Title": "Paper",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-43f8-4ffe-8323-ff98ac70fdcb",
+    "Id": "10000000-2797-4612-adde-5385e53ef8e0",
     "Title": "Chiaroscuro",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-bd2a-46bd-853c-1b46e7b32ff1",
+    "Id": "10000000-c208-4a1c-a8df-5e2e8594d8ab",
     "Title": "Enki Bilal",
     "PluralTitle": null,
     "Description": "Enki Bilal, a renowned comic artist, is known for his Graphic Novel style art. His work usually features full color, sequential composition seen in mediums like comics."
   },
   {
-    "Id": "10000000-81f2-4aef-b7e6-fc3202485793",
+    "Id": "10000000-aee5-4568-9b5b-4c3bd0234c3f",
     "Title": "Graphic Novel",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ab68-4f5b-b4c4-f7091cd63bcb",
+    "Id": "10000000-22e8-4fb0-a3e1-69484c2a152d",
     "Title": "Comics",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1380-4be5-9dce-a379623ae7e7",
+    "Id": "10000000-e75a-4830-aeff-89e750211da5",
     "Title": "Full color",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0029-4134-86dd-d047d5774769",
+    "Id": "10000000-b970-47e2-a491-0f17ecfac88a",
     "Title": "Sequential",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c78b-491a-99d7-2b467bbaf41d",
+    "Id": "10000000-ecca-4991-9dab-41d493757c75",
     "Title": "Enoch Bolles",
     "PluralTitle": null,
     "Description": "Enoch Bolles, a famous illustrator, is known for his Art Deco and Pin-up Art styles. His works are vibrant, often figurative compositions executed primarily in painting."
   },
   {
-    "Id": "10000000-f0e8-428d-8487-bdebd5f48f56",
+    "Id": "10000000-a900-4a91-8546-e9d0736ae9dc",
     "Title": "Pin-up Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a9b1-46ce-89e4-ebfccebbfb07",
+    "Id": "10000000-4988-4f34-bf54-ae60b241c9f7",
     "Title": "Ergo Proxy",
     "PluralTitle": null,
     "Description": "Ergo Proxy is a science fiction anime featuring a Cyberpunk style. It presents a dark color scheme, evoking a dystopian mood, and a futuristic composition."
   },
   {
-    "Id": "10000000-045d-49d5-8325-1a5191562309",
+    "Id": "10000000-a4a1-4c88-b9e0-d2ea2dc7d3b1",
     "Title": "Cyberpunk",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2050-4a7d-8bea-2ecbab3d3578",
+    "Id": "10000000-5c86-467d-9ab1-3916eb41a01a",
     "Title": "Eric Carle",
     "PluralTitle": null,
     "Description": "Eric Carle, a renowned illustrator, is known for his work in Children\u0027s Literature. His distinctive style uses vibrant collage work, with a simplified composition that appeals to children."
   },
   {
-    "Id": "10000000-b557-469f-b00d-a453b802b918",
+    "Id": "10000000-b0ab-4f63-906f-3c680d458bf2",
     "Title": "Children\u0027s Literature",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b24d-4f04-855e-46ee93da5961",
+    "Id": "10000000-2ca0-4eb3-b278-c0acd6df4eb0",
     "Title": "Collage",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7b92-42ae-82c4-1a8358d0fdc6",
+    "Id": "10000000-4585-4109-93bb-46a15c9b63dc",
     "Title": "Eric Lacombe",
     "PluralTitle": null,
     "Description": "Eric Lacombe, a painter, creates art in a Surrealism style. His work is characterized by dark colors, a disturbing mood, and distorted compositions."
   },
   {
-    "Id": "10000000-0c2e-467e-9a01-8b4af6d6915c",
+    "Id": "10000000-c718-477c-8447-2bfa7d43e13e",
     "Title": "Surrealism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8076-4d39-9964-9fbfb7187e2e",
+    "Id": "10000000-23f1-427f-80f3-ee08dfa38182",
     "Title": "Disturbing",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c64a-428a-8507-bb429ea2c2fa",
+    "Id": "10000000-d641-421b-8957-bb6555a5b035",
     "Title": "Distorted",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0a0f-409d-aba5-b1daf0e1d5f2",
+    "Id": "10000000-b189-4026-a5a1-d15ab6c1b9aa",
     "Title": "Eric Zener",
     "PluralTitle": null,
     "Description": "Eric Zener, a painter known for his Realism style, often sets his compositions in water environments. His paintings feature soft lighting, realistic colors, and intricate details."
   },
   {
-    "Id": "10000000-a987-4851-82fb-6499b862963d",
+    "Id": "10000000-1a5a-45cf-89de-7e479a129437",
     "Title": "Water",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2618-4521-bed4-21c9bc1057b7",
+    "Id": "10000000-d15e-49d3-8fe8-2cac4097292d",
     "Title": "Soft",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7bda-4c41-a42c-a81e605e49c9",
+    "Id": "10000000-6dbd-43f1-8d9c-233693456703",
     "Title": "Erich Heckel",
     "PluralTitle": null,
     "Description": "Erich Heckel, an Expressionist painter, uses vibrant colors to convey an anxious mood through distorted compositions."
   },
   {
-    "Id": "10000000-4457-4dc7-a719-f7219fa74bf9",
+    "Id": "10000000-6f0b-4484-aa23-2b57fde71bdd",
     "Title": "Anxious",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1566-4bfe-8bcf-3177a23ed5df",
+    "Id": "10000000-6a54-466c-87eb-e94473d62379",
     "Title": "Erik Madigan Heck",
     "PluralTitle": null,
     "Description": "Erik Madigan Heck, a Fashion Photographer, is known for his stylized compositions. His photography uses soft lighting and is characterized by saturated colors."
   },
   {
-    "Id": "10000000-4a3a-4f4c-98ed-4083deb78fd5",
+    "Id": "10000000-4f64-4361-854f-95ea74ed435a",
     "Title": "Fashion Photography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6695-4ec3-9ce2-29a262d2c42e",
+    "Id": "10000000-6125-4363-a231-86d764ac929d",
     "Title": "Erik Nitsche",
     "PluralTitle": null,
     "Description": "Erik Nitsche, a Graphic Designer, adheres to a Modernist style. His designs showcase bold colors and geometric composition."
   },
   {
-    "Id": "10000000-a892-4428-8443-3d145ca774ee",
+    "Id": "10000000-d336-4710-bdf3-ab7d1b2cbeb8",
     "Title": "Modernism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-44b3-424a-95a0-f2ed51880d4d",
+    "Id": "10000000-d7f5-42f2-9d56-2982023558af",
     "Title": "Graphic Design",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2f82-44b1-b323-a42659c9ec34",
+    "Id": "10000000-6878-4f91-846e-88f3beeca6e4",
     "Title": "Bold",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-dabe-4665-80b6-d824d7631411",
+    "Id": "10000000-bc5c-46a4-8298-cd2632a348aa",
     "Title": "Erik Spiekermann",
     "PluralTitle": null,
     "Description": "Erik Spiekermann, a prominent Typographer, is known for his use of grid composition and monochrome color scheme. His work primarily resides in the medium of print."
   },
   {
-    "Id": "10000000-42a0-4789-9cdd-712c6c35fb4f",
+    "Id": "10000000-6d8e-46ed-818c-f76a929a0318",
     "Title": "Typography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8f76-42fb-8252-c045f3a6f095",
+    "Id": "10000000-d737-487e-a673-cea91b97ccc3",
     "Title": "Peter Bagge",
     "PluralTitle": null,
     "Description": "Peter Bagge is a well-known figure in alternative comics, with a cartoonish style that often features exaggerated characters and satirical themes."
   },
   {
-    "Id": "10000000-755d-44e4-8292-3c365dde8da9",
+    "Id": "10000000-fa01-4c17-9353-640895b2551a",
     "Title": "Alternative Comics",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7dec-47a8-9a19-2dd2ff8ac69f",
+    "Id": "10000000-4c3f-4abb-bce8-36f2dbf8ad06",
     "Title": "Comic Book Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-aca2-4d61-a213-e686620cf4bc",
+    "Id": "10000000-bfb0-4fa6-b762-bf9f8c139813",
     "Title": "Peter Blake",
     "PluralTitle": null,
     "Description": "Peter Blake is a British pop artist best known for co-creating the album cover for the Beatles\u0027 \u0027Sgt. Pepper\u0027s Lonely Hearts Club Band\u0027. His work often incorporates imagery from advertisements, music, and popular culture."
   },
   {
-    "Id": "10000000-5be9-45c5-8ddb-cce67827af03",
+    "Id": "10000000-1048-4fa2-ada2-11e9c9d69505",
     "Title": "Pop Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3b6c-40be-b1ee-7083864b71a5",
+    "Id": "10000000-fa6e-4ee7-8e18-9a2b1af0aa46",
     "Title": "Peter Doig",
     "PluralTitle": null,
     "Description": "Peter Doig is a Scottish painter known for his abstract and landscape paintings that incorporate elements of post-impressionism. His style is characterized by a vivid color palette and dreamlike scenes."
   },
   {
-    "Id": "10000000-5241-43a5-8188-e0bd7217eb80",
+    "Id": "10000000-99b5-4414-a5e3-cf9602da5fbb",
     "Title": "Post-Impressionism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0473-4f4e-bc27-8a1018e900af",
+    "Id": "10000000-a3bd-463c-8dea-93ea6430259d",
     "Title": "Peter Dombrovskis",
     "PluralTitle": null,
     "Description": "Peter Dombrovskis was a renowned Australian photographer known for his nature and landscape photography. His images, often characterized by their exquisite detail and composition, played a crucial role in promoting environmental awareness."
   },
   {
-    "Id": "10000000-4051-4e7b-9ca5-7a7d5ab3fbd6",
+    "Id": "10000000-32f5-403b-94b7-a161a3fa2d88",
     "Title": "Landscape Photography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d019-487b-9ea5-386eb5b7ce43",
+    "Id": "10000000-b428-4f9c-bf10-ca287e1c116c",
     "Title": "Peter Elson",
     "PluralTitle": null,
     "Description": "Peter Elson was an English artist known for his detailed and imaginative science fiction illustrations, often used in book covers. His work is characterized by futuristic machinery, alien landscapes, and a profound sense of scale."
   },
   {
-    "Id": "10000000-70fe-4c86-9ea1-9d4f1e7f49ea",
+    "Id": "10000000-57d1-4867-abae-1faafc386c14",
     "Title": "Peter Fischli",
     "PluralTitle": null,
     "Description": "Peter Fischli is a Swiss artist known for his collaboration with David Weiss. Their work, often whimsical and thoughtful, utilizes a variety of mediums including sculpture, film, and installation."
   },
   {
-    "Id": "10000000-7a89-4e34-948c-6e24574bb637",
+    "Id": "10000000-26ff-4a9e-8989-32878a0d02c8",
     "Title": "Installation Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-4566-4958-a85a-d883c16137aa",
+    "Id": "10000000-cb20-4f19-a804-a1e4cb9d53a1",
     "Title": "Peter Gric",
     "PluralTitle": null,
     "Description": "Peter Gric is a Czech-Australian artist known for his surreal and fantastic realism works. His paintings often depict futuristic and dystopian settings, combined with elements of abstraction and architecture."
   },
   {
-    "Id": "10000000-4284-4fec-a2a6-ef773b935397",
+    "Id": "10000000-047d-46b5-8f3e-190b69f10911",
     "Title": "Fantastic Realism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-989f-4eff-a8c6-ef7907ef32ce",
+    "Id": "10000000-3cf2-46ec-a50f-91c0525c97ba",
     "Title": "Peter Henry Emerson",
     "PluralTitle": null,
     "Description": "Peter Henry Emerson was a pioneering photographer who played a significant role in the Pictorialist movement. His photographic work often captures the landscapes and rural life of the British countryside."
   },
   {
-    "Id": "10000000-7072-45e2-9a21-5d109e170aa4",
+    "Id": "10000000-52e9-45f7-9fc2-1bee022d33be",
     "Title": "Pictorialism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3132-40c8-9bce-755e645237a2",
+    "Id": "10000000-56dc-42f6-9eec-8a87a9aa38f8",
     "Title": "Peter Jackson",
     "PluralTitle": null,
     "Description": "Peter Jackson is a New Zealand film director, screenwriter, and film producer, best known for directing the \u0027The Lord of the Rings\u0027 and \u0027The Hobbit\u0027 trilogies. His work is characterized by epic storytelling, rich world-building, and innovative special effects."
   },
   {
-    "Id": "10000000-8d31-44e2-a81e-ac2416dd45b1",
+    "Id": "10000000-d12e-40a8-be7b-48f5ca9ac967",
     "Title": "Epic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c323-4fe6-b9d8-7ea46b63aad5",
+    "Id": "10000000-61aa-4e16-85ef-eb397a8ebbfb",
     "Title": "Film",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c6e7-480c-8b56-898d92c2083c",
+    "Id": "10000000-9ac3-4122-ade2-2e69d91caab4",
     "Title": "Peter Lik",
     "PluralTitle": null,
     "Description": "Peter Lik is an Australian photographer known for his high-contrast, vibrant landscape photographs. Lik\u0027s work, often sold in limited editions, features panoramic views of nature in its most spectacular moments."
   },
   {
-    "Id": "10000000-42bf-427e-9bcf-1a919cef27ce",
+    "Id": "10000000-670b-4f32-b369-13644686cd32",
     "Title": "Peter Lindbergh",
     "PluralTitle": null,
     "Description": "Peter Lindbergh was a German fashion photographer and film director. His style is notable for its minimalist approach, with a focus on natural beauty and intimate character, often shooting in black and white."
   },
   {
-    "Id": "10000000-9211-408b-9fe4-af5452077fc0",
+    "Id": "10000000-27a2-463a-bd72-24de47fe7c7b",
     "Title": "Peter Mohrbacher",
     "PluralTitle": null,
     "Description": "Peter Mohrbacher is an independent illustrator specializing in fantastical and mythological themes. His digital artworks often depict ethereal beings and divine creatures, with a unique mix of realism and imaginative design."
   },
   {
-    "Id": "10000000-9092-4d50-b73c-c83b6bf4ede9",
+    "Id": "10000000-6476-4caf-a7e7-42e05e13d668",
     "Title": "Fantasy Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a6a0-4f89-b527-a8f95992f36d",
+    "Id": "10000000-19d7-485c-849f-2c6cf80ebeea",
     "Title": "Peter Paul Rubens",
     "PluralTitle": null,
     "Description": "Peter Paul Rubens was a Flemish artist and one of the most influential figures of the Baroque period. His works are known for their dynamic compositions, rich color, and a sense of movement, often focusing on religious and mythological subjects."
   },
   {
-    "Id": "10000000-dea0-4ac8-b288-8775f7b06cf1",
+    "Id": "10000000-6347-43dd-9088-e975d6f2def5",
     "Title": "Peter Saville",
     "PluralTitle": null,
     "Description": "Peter Saville is an English graphic designer known for his record sleeve designs for Factory Records artists. Saville\u0027s designs, often minimalist and employing a modernist approach, have become iconic within the music industry."
   },
   {
-    "Id": "10000000-a625-4bae-9fd7-621e444387d8",
+    "Id": "10000000-3cfd-4890-9535-b2120a06033f",
     "Title": "Design",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-71ad-457d-883f-af9422f2f24e",
+    "Id": "10000000-bc0f-48d5-a2ad-fe7e0d7a8244",
     "Title": "Peter Turnley",
     "PluralTitle": null,
     "Description": "Peter Turnley is an American photojournalist known for his dramatic coverage of international events. His work has captured some of the most significant moments in recent history, bringing them to the global audience with empathy and power."
   },
   {
-    "Id": "10000000-b3cb-4833-8286-ffff9dd340ec",
+    "Id": "10000000-b064-4ce7-aea6-ad2f0dbe4849",
     "Title": "Photojournalism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f2c3-4038-8a29-0360b5e127b3",
+    "Id": "10000000-d37d-4bc7-ad25-6612b007bedf",
     "Title": "Peter Zumthor",
     "PluralTitle": null,
     "Description": "Peter Zumthor is a Swiss architect renowned for his uncompromising approach to design and dedication to details. His architectural style is often minimalist, with a strong connection to the surroundings and a thoughtful use of materials."
   },
   {
-    "Id": "10000000-6c22-4c13-88e0-0d3b7b9e7d2f",
+    "Id": "10000000-4c93-4bb2-a211-a74c44296d7c",
     "Title": "Petra Collins",
     "PluralTitle": null,
     "Description": "Petra Collins is a Canadian photographer and artist, known for her dreamlike and ethereal photographs that explore female identity and adolescence. Her work often includes elements of magical realism, blurring the lines between reality and fantasy."
   },
   {
-    "Id": "10000000-134c-45f0-b31a-be2d63d03485",
+    "Id": "10000000-f4eb-4b05-9983-e5732a271ab8",
     "Title": "Modern Photography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3c92-49d9-be8c-e024d1d4cc5e",
+    "Id": "10000000-e22e-4a65-92a8-09508b59d279",
     "Title": "Petros Afshar",
     "PluralTitle": null,
     "Description": "Petros Afshar is a London-based designer known for his clean, contemporary graphic design work. His style often features bold colors, geometric shapes, and a modern aesthetic."
   },
   {
-    "Id": "10000000-cece-42b9-903e-b6c534be639c",
+    "Id": "10000000-9c3b-490f-b72c-57c5f1107ab7",
     "Title": "Phad painting",
     "PluralTitle": null,
     "Description": "Phad painting is a style of Indian scroll painting, typically done on cloth. These paintings are known for their intricate details, vivid colors, and depict epic narratives of local deities and heroes."
   },
   {
-    "Id": "10000000-d2d6-4190-b307-cf440f16eecb",
+    "Id": "10000000-e5dc-404b-aac9-d2e00b2dbf68",
     "Title": "Kalyan Joshi",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f590-413c-8cdc-a83b9bb6835f",
+    "Id": "10000000-ff9f-4914-8379-36a40c989bb2",
     "Title": "Prakash Joshi",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0320-4884-9b36-87ba14c1d2ab",
+    "Id": "10000000-eb2e-4c34-b63c-b3b100ab5ad5",
     "Title": "Indian Folk Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7075-454d-8b81-a62b58976f80",
+    "Id": "10000000-8ce1-4d72-ab63-18c40b42fa88",
     "Title": "Philip Johnson",
     "PluralTitle": null,
     "Description": "Philip Johnson was an influential American architect known for his work in Modern and later Postmodern architectural styles. His notable works include the Glass House and the AT\u0026T Building."
   },
   {
-    "Id": "10000000-494c-484c-b267-0bbc15e92e68",
+    "Id": "10000000-f42d-4f45-93e6-d93e28f2447a",
     "Title": "Postmodern Architecture",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0e34-4faf-8796-5e63401e6ca7",
+    "Id": "10000000-04b8-4075-bcc5-8ae4b3654628",
     "Title": "Philip-Lorca diCorcia",
     "PluralTitle": null,
     "Description": "Philip-Lorca diCorcia is an American photographer known for his meticulously planned and executed scenes that straddle the line between documentary and theatrically staged photography. His works often explore themes of identity, domesticity, and the urban environment."
   },
   {
-    "Id": "10000000-4229-4c63-bcba-5e92570926d1",
+    "Id": "10000000-1304-4a85-b0c3-325b7afa3bae",
     "Title": "Street Photography",
     "PluralTitle": null,
     "Description": "Street Photography style focuses on capturing candid, unmediated chance encounters and random incidents within public places, documenting aspects of society and everyday life."
   },
   {
-    "Id": "10000000-3370-4889-ae42-22503539a026",
+    "Id": "10000000-be62-49cc-a394-b0b836794bfd",
     "Title": "Philippe Druillet",
     "PluralTitle": null,
     "Description": "Philippe Druillet is a French comic book artist and creator known for his baroque, intricate drawings and innovative approach to graphic narrative. His work often explores fantasy and science fiction themes."
   },
   {
-    "Id": "10000000-bd3f-4532-b3dd-75eff09b7708",
+    "Id": "10000000-e781-4d78-b331-3fa6f164c4bb",
     "Title": "Graphic Novel Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-e0ec-4301-802b-cf82a69d1875",
+    "Id": "10000000-f65d-4d6b-adae-05767a9888dd",
     "Title": "Olivier Valsecchi",
     "PluralTitle": null,
     "Description": "Olivier Valsecchi is a French photographer known for his atmospheric and evocative images. His works often explore themes of life, death, and rebirth, with a distinctively moody and dramatic aesthetic."
   },
   {
-    "Id": "10000000-ebae-4c2a-b4c2-b233aa9f7693",
+    "Id": "10000000-48ea-4bbf-88dc-6b8763535210",
     "Title": "Contemporary Photography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8ec9-4731-a9f6-3c18827ee783",
+    "Id": "10000000-424a-4ec6-b7af-5469e18e4d2e",
     "Title": "Olmec Fashion",
     "PluralTitle": null,
     "Description": "Olmec Fashion refers to the clothing and adornments depicted in the art and sculptures of the Olmec civilization, one of the earliest major civilizations in Mexico. This style is characterized by the representation of headdresses, loincloths, and jewelry."
   },
   {
-    "Id": "10000000-10b1-4b6b-84e7-00186215c72e",
+    "Id": "10000000-b67f-4896-9bfb-c4382fd8be17",
     "Title": "Pre-Columbian Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ba4a-4c4f-8151-0e7d0f3f83cb",
+    "Id": "10000000-ae90-4039-b0b5-893522816920",
     "Title": "One line",
     "PluralTitle": null,
     "Description": "The \u0027One line\u0027 style is a form of drawing where the image is created with a single, unbroken line. It is often used to create abstract images or to capture the essence of a subject with minimal detail."
   },
   {
-    "Id": "10000000-028e-4bb4-a88e-4cbb1fafae34",
+    "Id": "10000000-7f11-41aa-a062-5e96769fd2d2",
     "Title": "Pablo Picasso",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7da5-4b21-a9bd-40d3c9c75819",
+    "Id": "10000000-d27e-4638-8246-36214baa3589",
     "Title": "Quibe",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-159b-4ff7-9b64-d5d7834c6dfa",
+    "Id": "10000000-ad4e-4142-8c12-696e9b22a5b6",
     "Title": "Minimalism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-54f5-491f-8466-a1e3ce26bc50",
+    "Id": "10000000-22d1-4a32-a11b-1105b4bdcb9e",
     "Title": "One Piece",
     "PluralTitle": null,
     "Description": "\u0027One Piece\u0027 is a Japanese manga and anime series created by Eiichiro Oda. The series is known for its colorful art style, imaginative world-building, and its blend of action, adventure, and humor."
   },
   {
-    "Id": "10000000-0895-4894-9cf5-0079658d4648",
+    "Id": "10000000-9c75-4ae8-b371-311b6b905096",
     "Title": "One Punch Man",
     "PluralTitle": null,
     "Description": "\u0027One Punch Man\u0027 is a Japanese manga and anime series created by the artist known as ONE and illustrated by Yusuke Murata. The series is characterized by its satirical take on the superhero genre, unique characters, and a blend of action and comedy."
   },
   {
-    "Id": "10000000-b7b7-4cfc-bc5c-ce64057cff89",
+    "Id": "10000000-8fec-4b9f-a407-d98e94b34266",
     "Title": "Orazio Gentileschi",
     "PluralTitle": null,
     "Description": "Orazio Gentileschi was an Italian painter, prominent in the early Baroque period. He was known for his realistic naturalism, attention to detail, and the emotional intensity of his subjects, heavily influenced by Caravaggio\u0027s tenebrism."
   },
   {
-    "Id": "10000000-bd18-4f79-827d-ba8bd1fffb22",
+    "Id": "10000000-099d-4867-b852-82e9f879952a",
     "Title": "Organic Architecture",
     "PluralTitle": null,
     "Description": "Organic Architecture is a philosophical approach to architectural design promoting harmony between human habitation and the natural world. This is achieved by integrating the building with its site and using natural materials in a way that blurs the line between the built and the natural environment."
   },
   {
-    "Id": "10000000-e51f-4b65-bf88-4a15c3810423",
+    "Id": "10000000-0cc2-413e-9448-7dc98033c629",
     "Title": "Frank Lloyd Wright",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0a31-414e-8c97-51f641436784",
+    "Id": "10000000-94f5-4813-b14e-ef08fa5ae48c",
     "Title": "Antoni Gaud\u00ED",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-4af2-4315-89ef-8aebb7df6e0f",
+    "Id": "10000000-5180-4a26-8b3e-63da3d08b336",
     "Title": "Orientalism",
     "PluralTitle": null,
     "Description": "Orientalism is an artistic and cultural style that portrays Eastern cultures as exotic, opulent, and at times decadent. It is characterized by its focus on architectural, costume, and landscape details of the Middle East and North Africa, often reflecting a Western perspective."
   },
   {
-    "Id": "10000000-844c-48b6-a698-7d5e5c3466ef",
+    "Id": "10000000-0e72-45ec-b804-ac055667ec9b",
     "Title": "Jean-L\u00E9on G\u00E9r\u00F4me",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-4c0e-4064-a92d-5820f7fa4a02",
+    "Id": "10000000-7495-44b1-ae5a-812d2d5888ba",
     "Title": "Eug\u00E8ne Delacroix",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6f63-4885-b1ef-181307e1191a",
+    "Id": "10000000-0b43-4786-adbe-8b9070e2539a",
     "Title": "Origami",
     "PluralTitle": null,
     "Description": "Origami is the traditional Japanese art of paper folding. It involves transforming a flat square sheet of paper into a finished sculpture through folding and sculpting, without cuts or glue. The art ranges from simple forms like birds and flowers to highly complex representations."
   },
   {
-    "Id": "10000000-e71f-4bdd-8919-0711cb859b54",
+    "Id": "10000000-ca79-46c7-ba03-0a300bd415db",
     "Title": "Akira Yoshizawa",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3e81-4086-b1ec-7739020e0a10",
+    "Id": "10000000-1048-466f-8c39-c29a457a07d3",
     "Title": "Robert J. Lang",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a32e-4662-baa8-28d0e7758eae",
+    "Id": "10000000-f9a7-4ce4-ab3a-054f01f12f57",
     "Title": "Paper Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-68b2-4433-94b5-58cbb959bf1f",
+    "Id": "10000000-f1d7-4842-acd8-731b57098fa0",
     "Title": "Ornament",
     "PluralTitle": null,
     "Description": "In the context of art, an \u0027Ornament\u0027 refers to a decorative element added to enhance the aesthetic appeal of a work. These elements can range from simple geometric patterns to elaborate designs, and can be found across various mediums, such as architecture, textiles, ceramics, and metalwork."
   },
   {
-    "Id": "10000000-d597-4d06-b0a3-ad1927cd8448",
+    "Id": "10000000-4507-4e77-873e-d27d533e6f1d",
     "Title": "Louis Comfort Tiffany",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-348c-4370-ad50-b1438e195214",
+    "Id": "10000000-4eb7-4dfa-ac1e-0a8265692fca",
     "Title": "Peter Carl Faberg\u00E9",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ade6-4c31-ae45-463f81b216cb",
+    "Id": "10000000-7667-4cb1-b185-83a9c0e4d038",
     "Title": "Decorative Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3617-4e0e-b705-7a80010eab44",
+    "Id": "10000000-8092-4a13-9ae5-127b2b4c76bd",
     "Title": "Robert Delaunay",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-be13-4323-a6a3-7449462e2412",
+    "Id": "10000000-6d47-41e9-8737-ac5b400c33e0",
     "Title": "Sonia Delaunay",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-fddc-4e15-865a-0351a87c8d1c",
+    "Id": "10000000-daa1-4f58-a64c-9381ef1cde61",
     "Title": "Franti\u0161ek Kupka",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3f12-42fd-9eb8-37a10bf5bf86",
+    "Id": "10000000-82df-4b80-8060-7350f6e1ae9a",
     "Title": "Orthodox icon",
     "PluralTitle": null,
     "Description": "Orthodox icons are religious works of art, most commonly paintings, in the cultures of the Eastern Orthodox Church, Oriental Orthodoxy, and in certain Eastern Catholic churches. They are characterized by their highly formal and stylized representations of religious figures, often with a gold background."
   },
   {
-    "Id": "10000000-9fe2-438f-85ff-f0f8f7dba1f3",
+    "Id": "10000000-0f97-49a1-8889-6b17c3fdcc0a",
     "Title": "Andrei Rublev",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b3c1-4dbb-aa4c-5466686344e7",
+    "Id": "10000000-1bdd-4076-a5d8-96221119179c",
     "Title": "Byzantine Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a929-44b8-9b11-9b2a4ab3eae5",
+    "Id": "10000000-6017-4401-9065-7420cc3686a7",
     "Title": "Os Gemeos",
     "PluralTitle": null,
     "Description": "Os Gemeos is a pair of identical twin street artists from Brazil, known for their distinctive style of colorful and imaginative graffiti. Their work often features yellow-skinned characters in fantastical situations and draws on influences from hip-hop culture and Brazilian folklore."
   },
   {
-    "Id": "10000000-8770-4448-a945-2d3883988d52",
+    "Id": "10000000-8665-4f23-93e7-cf7711761e77",
     "Title": "Street Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1cc2-49d1-998d-d88583f5d3f1",
+    "Id": "10000000-e5d9-4235-8a87-201a5e44ba38",
     "Title": "Graffiti Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-55e9-429f-9514-91db1864e777",
+    "Id": "10000000-dc95-4373-93f2-21ebdd5b0b54",
     "Title": "Mural",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-68f3-40d6-821e-f2b10f5ebdef",
+    "Id": "10000000-24b9-4a57-a417-7a775e65701f",
     "Title": "Osamu Tezuka",
     "PluralTitle": null,
     "Description": "Osamu Tezuka was a Japanese manga artist and animator, often referred to as the \u0027God of Manga.\u0027 He is known for his prolific output, pioneering techniques, and innovative redefinitions of genres. His best-known works include \u0027Astro Boy,\u0027 \u0027Kimba the White Lion,\u0027 and \u0027Black Jack.\u0027"
   },
   {
-    "Id": "10000000-d47e-41d3-8e9d-55ddd4251066",
+    "Id": "10000000-39aa-40c0-ac3f-8cfbbae73ea0",
     "Title": "Oscar de la Renta",
     "PluralTitle": null,
     "Description": "Oscar de la Renta was a Dominican-American fashion designer who rose to prominence in the mid-20th century. He is known for his elegant and feminine designs that have been worn by some of the most famous women in the world, from movie stars to first ladies."
   },
   {
-    "Id": "10000000-3562-4f53-a782-1926df3b8ce8",
+    "Id": "10000000-095b-4cbf-8a06-c2ccd1c3f77f",
     "Title": "High Fashion",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-23fc-43a6-8b38-1322752a32ac",
+    "Id": "10000000-fb10-490a-a6b6-4f20872a1702",
     "Title": "Fashion Design",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-42e7-49f7-b5d5-7d9538d40406",
+    "Id": "10000000-204b-4f1e-a2b8-eb9233cd9a68",
     "Title": "Oscar Gustave Rejlander",
     "PluralTitle": null,
     "Description": "Oscar Gustave Rejlander was a Swedish-born photographer known for his work in the Pictorialist style and for his early experiments with combination printing. He is often referred to as the \u0027father of art photography\u0027 for his efforts to establish photography as a fine art medium."
   },
   {
-    "Id": "10000000-3cb6-4bd7-a3d1-17c0765ddeae",
+    "Id": "10000000-5c88-48d3-a516-f0bd1553bc27",
     "Title": "Oscar Niemeyer",
     "PluralTitle": null,
     "Description": "Oscar Niemeyer was a Brazilian architect and a key figure in the development of modern architecture. He is known for his designs of civic buildings for Bras\u00EDlia, Brazil\u0027s capital city, and for his use of abstract forms and curves that characterize most of his works."
   },
   {
-    "Id": "10000000-3f93-464f-9249-ca00b6e6d70d",
+    "Id": "10000000-127f-4b90-b99e-7944f5d7ab50",
     "Title": "Brazilian Brutalism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-470f-4375-835b-e5cac09ab775",
+    "Id": "10000000-7acd-4e81-87f2-447e72d8e8e3",
     "Title": "Oskar Fischinger",
     "PluralTitle": null,
     "Description": "Oskar Fischinger was a German-American abstract animator, filmmaker, and painter, noted for creating abstract musical animation before the advent of computer graphics. His works are characterized by geometric shapes that move in time with a music soundtrack."
   },
   {
-    "Id": "10000000-3337-4431-ae8c-e7d17e0eccca",
+    "Id": "10000000-ffd0-4cb0-af62-6ce1892c607f",
     "Title": "Abstract Animation",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-cb7e-41f5-aa8d-069a76121b39",
+    "Id": "10000000-1dd0-460c-926c-635c67c9f3a7",
     "Title": "Oskar Kokoschka",
     "PluralTitle": null,
     "Description": "Oskar Kokoschka was an Austrian artist, poet, and playwright best known for his intense expressionistic portraits and landscapes. His works are characterized by their vivid colors and brushwork, often conveying a sense of unease and emotional tension."
   },
   {
-    "Id": "10000000-f294-49fe-b102-67d734bf76c5",
+    "Id": "10000000-8b26-42a4-8671-2f8c8dac22a2",
     "Title": "Oskar Schlemmer",
     "PluralTitle": null,
     "Description": "Oskar Schlemmer was a German painter, sculptor, designer and choreographer associated with the Bauhaus school. He is most famous for his \u0027Triadic Ballet,\u0027 where actors are transformed into geometric shapes. However, his work also includes various media, and is marked by a simplification of form and figure."
   },
   {
-    "Id": "10000000-c9ca-480a-b064-5be3771a3267",
+    "Id": "10000000-0bb8-4ba3-a7d4-234e70e41f81",
     "Title": "Bauhaus",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8e83-43fc-8223-d32739d9b5af",
+    "Id": "10000000-027c-4066-9c85-a7d4de8fc42f",
     "Title": "Ossip Zadkine",
     "PluralTitle": null,
     "Description": "Ossip Zadkine was a Russian-born artist who lived in France for most of his life. He is primarily known for his sculpture, but also produced paintings and drawings. His style is characterized by its blend of Cubist and abstract influences, often with a focus on the human figure."
   },
   {
-    "Id": "10000000-202a-4e56-b19e-c4575597a6eb",
+    "Id": "10000000-d8cf-4130-9a95-3679d5546d24",
     "Title": "Oswaldo Guayasamin",
     "PluralTitle": null,
     "Description": "Oswaldo Guayasamin was an Ecuadorian artist whose work is characterized by its Cubist-stylized depictions of political and human rights themes. His painting often depicted the oppression, poverty and struggles experienced by the indigenous peoples of Latin America."
   },
   {
-    "Id": "10000000-4a0b-4684-960e-c23fd974ae24",
+    "Id": "10000000-9fbb-4bd6-9638-e6f258dad505",
     "Title": "Stephen Hillenburg",
     "PluralTitle": null,
     "Description": "Stephen Hillenburg was an animator known for his unique cartoon style. His work primarily involved animation and is famously associated with \u0027SpongeBob SquarePants\u0027."
   },
   {
-    "Id": "10000000-72bc-4156-b2f9-2e66d6c59acb",
+    "Id": "10000000-c43b-458e-8946-b71ce20a32ce",
     "Title": "Cartoon",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-4e1d-4b57-af81-eb3ef8438de8",
+    "Id": "10000000-5feb-4c87-9a19-50b38753e55a",
     "Title": "Stephen Shore",
     "PluralTitle": null,
     "Description": "Stephen Shore is known for his unique color photography style. He is a photographer whose work is characterized by the transformation of mundane subjects into compelling art."
   },
   {
-    "Id": "10000000-5fe0-4597-a63e-748b69b60505",
+    "Id": "10000000-0189-4b4c-9c4d-9d3d9b1121af",
     "Title": "Color photography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6c89-45a5-ac5c-14e8ef4c18c1",
+    "Id": "10000000-5d5c-45be-b840-436f55ef3787",
     "Title": "Steve Dillon",
     "PluralTitle": null,
     "Description": "Steve Dillon was a comic book artist known for his distinctive style in illustration. His work is iconic in the comic book industry, with a legacy in titles like \u0027Preacher\u0027 and \u0027Punisher\u0027."
   },
   {
-    "Id": "10000000-f136-4900-928b-f50f15491118",
+    "Id": "10000000-0244-42ad-ab9c-d8d627f57e5d",
     "Title": "Comic book art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a17b-4994-933c-2fb43b185ba5",
+    "Id": "10000000-129a-46e2-82b7-1f378fce8de1",
     "Title": "Steve Ditko",
     "PluralTitle": null,
     "Description": "Steve Ditko was a comic book artist known for his unique style, notably contributing to the creation of \u0027Spider-Man\u0027 and \u0027Doctor Strange\u0027. His style has left an indelible mark on the comic book industry."
   },
   {
-    "Id": "10000000-d958-4cf1-ba9d-8770195153dc",
+    "Id": "10000000-fb88-45b3-a02b-609db932aaf3",
     "Title": "Steve Henderson",
     "PluralTitle": null,
     "Description": "Steve Henderson is a painter known for his impressionistic style, creating vibrant and dynamic landscapes and scenes with a focus on light and color."
   },
   {
-    "Id": "10000000-a991-4028-a100-490e4e902bdd",
+    "Id": "10000000-0198-4a4e-a123-8b20677b1a3e",
     "Title": "Steve Rude",
     "PluralTitle": null,
     "Description": "Steve Rude is a comic book artist known for his dynamic style and attention to detail. His work spans numerous comic titles, making him a notable figure in the industry."
   },
   {
-    "Id": "10000000-6699-4ef8-8684-5fddc55fc49e",
+    "Id": "10000000-1ebc-4c0c-a36b-f4639e6032dc",
     "Title": "Steven Holl",
     "PluralTitle": null,
     "Description": "Steven Holl is an architect known for his modernist style. He incorporates unique designs and space utilization, leading to innovative and aesthetic architectural forms."
   },
   {
-    "Id": "10000000-daca-4a82-9aba-85d25dcf94dd",
+    "Id": "10000000-5e31-48d6-bb64-1a988286efa9",
     "Title": "Steven Klein",
     "PluralTitle": null,
     "Description": "Steven Klein is a fashion photographer known for his provocative and edgy style, pushing the boundaries of fashion and portraiture photography."
   },
   {
-    "Id": "10000000-b0ef-49b0-9b83-269457ec0481",
+    "Id": "10000000-90bb-4651-9ae8-211961fb71ad",
     "Title": "Steven Meisel",
     "PluralTitle": null,
     "Description": "Steven Meisel is a renowned fashion photographer, known for his style that combines high fashion and art. His work has been featured in leading fashion magazines globally."
   },
   {
-    "Id": "10000000-3c0c-4dd1-a84e-e5d33a7723c2",
+    "Id": "10000000-d7fc-4766-877d-241f2e4e90f2",
     "Title": "Steven Spielberg",
     "PluralTitle": null,
     "Description": "Steven Spielberg is a filmmaker known for his cinematic style, producing iconic films that have a unique narrative style, visual appeal, and significant cultural impact."
   },
   {
-    "Id": "10000000-c13c-4165-baa7-8d4aa4ce3f98",
+    "Id": "10000000-737d-445f-a932-dbcc4325ff2c",
     "Title": "Sticker",
     "PluralTitle": null,
     "Description": "Sticker style art refers to the usage of stickers as an art form, often associated with pop art and mixed media. It has been popular in street art and modern installations."
   },
   {
-    "Id": "10000000-71fa-4b33-9aa3-00152682a06e",
+    "Id": "10000000-f906-474f-a8c9-8dfff5c2ffc0",
     "Title": "Stippling",
     "PluralTitle": null,
     "Description": "Stippling is an artistic technique that uses numerous small dots to create images and shading. It is associated with pointillism and is typically used in drawing."
   },
   {
-    "Id": "10000000-8f6d-4833-a0bc-ad29260adb84",
+    "Id": "10000000-56b4-4313-ac3f-89f83428cdfd",
     "Title": "Pointillism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-358c-4bd2-8c49-2448fb16514e",
+    "Id": "10000000-d2d8-4184-b4ba-4735343259a9",
     "Title": "Dot arrangement",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-ddea-480e-88e4-c1a5fd18bbb6",
+    "Id": "10000000-59f3-4610-bc18-203878b35d4a",
     "Title": "Stone Age Fashion",
     "PluralTitle": null,
     "Description": "Stone Age Fashion style refers to the primitive style of dressing and accessories from the Stone Age period. It involves simple and functional clothing, often created from natural materials."
   },
   {
-    "Id": "10000000-4ef6-4502-9bbb-530f24d06e9b",
+    "Id": "10000000-5436-4280-aa39-0c52cd7cdeb0",
     "Title": "Prehistoric artists",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-75fa-4b0d-bee4-964e4413ee38",
+    "Id": "10000000-e1eb-4b7e-892d-e2db89fe1e80",
     "Title": "Primitive",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-cc4f-4bbe-bb42-6bd3d0d58208",
+    "Id": "10000000-a05f-47b1-b757-0ef9b73754be",
     "Title": "Textile Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d527-435b-b390-3f5f93cae159",
+    "Id": "10000000-5dfd-4d5f-bdc9-4866c7273f64",
     "Title": "Stop-motion animation",
     "PluralTitle": null,
     "Description": "Stop-motion animation is a film style where objects are physically manipulated in small increments between individually photographed frames so they will appear to exhibit independent motion when the frames are played as a sequence."
   },
   {
-    "Id": "10000000-dfff-44a5-9317-0fede4aadf84",
+    "Id": "10000000-2293-4c0b-a65e-2158d8864cfe",
     "Title": "Nick Park",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-fcb9-4865-b683-6cffb2517c4c",
+    "Id": "10000000-8564-48bb-8841-ef00c9e78a4d",
     "Title": "Tim Burton",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8a99-493b-a382-6deb4daa5145",
+    "Id": "10000000-768f-49e7-8340-26b237138e2c",
     "Title": "Storyboard",
     "PluralTitle": null,
     "Description": "Storyboard style is a technique used in illustration and film to visualize scenes and transitions. The style involves a sequential arrangement of images, akin to a comic strip, to represent scenes of a story."
   },
   {
-    "Id": "10000000-c0d6-4f58-87e0-21afed942489",
+    "Id": "10000000-538d-49e1-b7b3-9cc830f7b9fe",
     "Title": "Sequential arrangement",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3441-49f5-9d95-c5d2c066269f",
+    "Id": "10000000-84a3-41b8-a74c-6a5ca622171c",
     "Title": "Streamline Moderne Architecture",
     "PluralTitle": null,
     "Description": "Streamline Moderne Architecture is a style of architecture that emerged in the 1930s. It incorporates aspects of Art Deco and Modernism, with a focus on curving forms, long horizontal lines, and sometimes nautical elements."
   },
   {
-    "Id": "10000000-7ce8-423a-b5a3-0bb51a46f216",
+    "Id": "10000000-8a6b-4708-94d8-468040b253f8",
     "Title": "Raymond Loewy",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f875-4a36-b0e0-949bad81fdaa",
+    "Id": "10000000-1620-4833-a3e0-a037f0292c2e",
     "Title": "Street",
     "PluralTitle": null,
     "Description": "Street style in art often refers to the depiction of urban environments or the creation of art in public spaces. It encompasses a range of mediums and can include photography, graffiti, murals, and installations."
   },
   {
-    "Id": "10000000-449e-43e7-bba5-90880615548d",
+    "Id": "10000000-81bd-4fbe-b5bb-793b5c60bb5c",
     "Title": "Street Fighter",
     "PluralTitle": null,
     "Description": "Street Fighter style refers to the visual style of the popular video game franchise \u0027Street Fighter\u0027. It includes elements of Manga and Anime in its character designs and settings."
   },
   {
-    "Id": "10000000-e277-47d2-af5a-8a86052a4f88",
+    "Id": "10000000-b97f-4048-abe4-522c68ae672a",
     "Title": "Henri Cartier-Bresson",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f053-4c34-9188-1238a3e4eac5",
+    "Id": "10000000-3aa1-4fec-941a-0ae5d82855be",
     "Title": "Vivian Maier",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0b51-48fb-b7b1-d65d7bbe3168",
+    "Id": "10000000-f5a9-4031-a31f-47ffffd2379b",
     "Title": "Documentary Photography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-4a41-499a-a369-49c1ecc4e076",
+    "Id": "10000000-d241-430c-95b7-c2be5e058c5c",
     "Title": "Studio Ghibli",
     "PluralTitle": null,
     "Description": "Studio Ghibli style refers to the characteristic style of animation produced by Studio Ghibli, known for its detailed art, unique character designs, and fantastical themes."
   },
   {
-    "Id": "10000000-fd20-4c44-99bf-2f2c6842b111",
+    "Id": "10000000-97f6-4cd7-96ce-6a4b17f62949",
     "Title": "Sugarpunk",
     "PluralTitle": null,
     "Description": "Sugarpunk style is an art genre characterized by vibrant colors and playful themes. It\u0027s often seen in mixed media and closely related to Pop Art, blending sweetness with a rebellious edge."
   },
   {
-    "Id": "10000000-6ab7-41ba-a0d4-c1380ba86b3d",
+    "Id": "10000000-0cac-437a-9cc3-4e6779a58f8e",
     "Title": "Playful",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c475-4f0a-95f1-8b63dc26aa60",
+    "Id": "10000000-2fb1-470f-aea0-5b00292bb9c6",
     "Title": "Rebecca Guay",
     "PluralTitle": null,
     "Description": "Rebecca Guay is known for her unique style in fantasy art and illustrations. Her works often showcase detailed, ethereal and mystical themes."
   },
   {
-    "Id": "10000000-6095-4bc6-82c8-db12e4d0e54b",
+    "Id": "10000000-509d-4d49-80f0-0907a638a1aa",
     "Title": "Rebecca Louise Law",
     "PluralTitle": null,
     "Description": "Rebecca Louise Law is an installation artist known for her immersive floral installations. Her style uses natural materials to create experiential and often breathtaking environments."
   },
   {
-    "Id": "10000000-bacc-49f4-b014-feaae2a0f3c6",
+    "Id": "10000000-6e2d-479a-a597-5ba4ac1ac4a5",
     "Title": "Installation",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0a51-49a1-8498-f16136a9544e",
+    "Id": "10000000-0b8b-4a6c-9dae-3e8031747a99",
     "Title": "Rebecca Sugar",
     "PluralTitle": null,
     "Description": "Rebecca Sugar is an animator known for her work on \u0027Steven Universe\u0027. Her style is characterized by a mix of whimsical themes, deep character exploration, and a vibrant color palette."
   },
   {
-    "Id": "10000000-bd61-4ceb-8172-706fd27d57df",
+    "Id": "10000000-a3bf-489e-bb0d-5ace29ee50e5",
     "Title": "Redscale print",
     "PluralTitle": null,
     "Description": "Redscale print is a style of photography where images have a dominant red or warm tone. It is achieved by exposing film from the wrong side, resulting in a distinctive, often vintage look."
   },
   {
-    "Id": "10000000-56e4-4e4f-b811-1c48cafa4590",
+    "Id": "10000000-db11-4ace-bcb1-3bdb5daf13b5",
     "Title": "Fine Art Photography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9bd9-483a-baed-77a772509c7c",
+    "Id": "10000000-0860-458c-a8ff-139450a64f20",
     "Title": "Redscale",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-aa90-4782-8623-f5c494311ea6",
+    "Id": "10000000-8fff-41bb-b670-c1542d21a691",
     "Title": "Refik Anadol",
     "PluralTitle": null,
     "Description": "Refik Anadol is a digital artist known for his large-scale installations using data and artificial intelligence. His style merges digital and physical spaces, creating immersive and interactive experiences."
   },
   {
-    "Id": "10000000-84be-4fe8-9ae5-e6092f6d013e",
+    "Id": "10000000-50c0-4501-a33d-d667083ed6e0",
     "Title": "Digital Media",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-143a-4301-86e0-4d563fe1f8b6",
+    "Id": "10000000-c645-497b-9fc2-47e934de75ab",
     "Title": "Regency Fashion",
     "PluralTitle": null,
     "Description": "Regency Fashion style refers to the style of clothing during the Regency era (early 19th century). This style is often associated with simplicity, elegance, and an emphasis on natural form."
   },
   {
-    "Id": "10000000-e243-4a78-b875-86cf387eb995",
+    "Id": "10000000-afa6-4312-bdcb-cd94fe103cc4",
     "Title": "Historical dressmakers",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-89f5-4d64-b52c-9bec89ccbc79",
+    "Id": "10000000-f391-4ab0-81f3-0169578318cd",
     "Title": "Regina Valluzzi",
     "PluralTitle": null,
     "Description": "Regina Valluzzi is a painter known for her abstract expressionism style. Her work often explores complex ideas and theories, resulting in visually dynamic and intellectually engaging pieces."
   },
   {
-    "Id": "10000000-ab8e-46dd-bf25-61a8db0ae800",
+    "Id": "10000000-61b2-4a11-a425-fd32c5b9eb37",
     "Title": "Reginald Marsh",
     "PluralTitle": null,
     "Description": "Reginald Marsh was a painter whose work depicted scenes of urban life and social realism. His style was characterized by a focus on the human figure and bustling cityscapes."
   },
   {
-    "Id": "10000000-0a57-46b2-b183-4a183fc0815d",
+    "Id": "10000000-2fb8-4994-97c1-fb57057ada62",
     "Title": "Social Realism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1aeb-4533-8323-d37dd4aac720",
+    "Id": "10000000-413c-452c-b4c0-7eed8c46456b",
     "Title": "Rei Kawakubo",
     "PluralTitle": null,
     "Description": "Rei Kawakubo is a fashion designer known for her avant-garde designs and the founding of the brand \u0027Comme des Gar\u00E7ons\u0027. Her style often challenges conventional ideas of beauty and fashion."
   },
   {
-    "Id": "10000000-b9eb-480b-82d6-03670f91e5e8",
+    "Id": "10000000-487c-4fae-aa3c-387ef45cbe76",
     "Title": "Avant-garde Fashion",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-34e7-4dbd-9d26-5f47dae0941d",
+    "Id": "10000000-411c-46e1-a5fd-24c040e7e007",
     "Title": "Rem Koolhaas",
     "PluralTitle": null,
     "Description": "Rem Koolhaas is an architect known for his innovative and often controversial designs. His style merges elements of modern architecture and deconstructivism, challenging traditional design norms."
   },
   {
-    "Id": "10000000-6ab3-422f-99aa-e774721231b5",
+    "Id": "10000000-8bf8-40b3-9d59-b62b6840e9f0",
     "Title": "Deconstructivism",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2800-4442-a7fb-a2c94d65aae2",
+    "Id": "10000000-7389-42ff-8e3f-e33138a3d8a1",
     "Title": "Rembrandt",
     "PluralTitle": null,
     "Description": "Rembrandt was a Dutch painter known for his masterful use of light and shadow (chiaroscuro). His style is associated with the Baroque period and is characterized by detailed realism."
   },
   {
-    "Id": "10000000-6164-4f5a-9826-2431fa7ddf3b",
+    "Id": "10000000-ae4a-422a-8146-4924ae72612d",
     "Title": "Ren Hang",
     "PluralTitle": null,
     "Description": "Ren Hang was a Chinese photographer known for his provocative and vibrant style. His works often featured nude subjects in surreal and whimsical compositions."
   },
   {
-    "Id": "10000000-05e0-4464-83da-e8187d66aad0",
+    "Id": "10000000-a5a4-43cd-b4cb-fa0fc7b7a82e",
     "Title": "Michelangelo",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b4e3-475f-9a52-f806ae2aaff4",
+    "Id": "10000000-667d-436f-9cd8-8014e905850b",
     "Title": "Raphael",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f6e5-49e3-b375-5eb7dcd84c7e",
+    "Id": "10000000-af15-422b-9f94-6aa6a495be80",
     "Title": "Balanced",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-22e0-4f21-a6b6-ef1ddfcadf86",
+    "Id": "10000000-f9fa-4022-ac4c-faa1b0c1593b",
     "Title": "Renaissance Architecture",
     "PluralTitle": null,
     "Description": "Renaissance Architecture is characterized by symmetry, proportion, and the regular use of columns and pilasters. This style marked a conscious revival and development of certain elements of ancient Greek and Roman thought and material culture."
   },
   {
-    "Id": "10000000-3eb0-49b3-ad83-c556a6951814",
+    "Id": "10000000-37a3-4809-b43e-5c0f33bb44ce",
     "Title": "Filippo Brunelleschi",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-cc13-45af-b0f9-65afa318108d",
+    "Id": "10000000-35bb-448b-a116-3dda54ebb12e",
     "Title": "Leon Battista Alberti",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0360-4504-918d-79448be84593",
+    "Id": "10000000-d0f1-41d4-a3f9-3ec8dd501893",
     "Title": "Renaissance Fashion",
     "PluralTitle": null,
     "Description": "Renaissance Fashion refers to the style of clothing in the period of the European Renaissance, which saw a focus on beauty, art, and innovative designs. Clothing often featured rich fabrics, bright colors, and elaborate detailing."
   },
   {
-    "Id": "10000000-7455-4537-94cb-cdc057dec9af",
+    "Id": "10000000-e5b4-4c33-8272-11dbec16846a",
     "Title": "Rene Magritte",
     "PluralTitle": null,
     "Description": "Rene Magritte was a Belgian surrealist painter. His work challenges perceptions of reality with enigmatic scenes often containing ordinary objects in unusual contexts."
   },
   {
-    "Id": "10000000-6921-4492-8dfe-9ff8a56f272e",
+    "Id": "10000000-7465-444b-985d-63c94ec392e8",
     "Title": "Renzo Piano",
     "PluralTitle": null,
     "Description": "Renzo Piano is an Italian architect known for his high-tech architecture style. His designs often incorporate innovative use of technology and materials, with a focus on functionality and sustainability."
   },
   {
-    "Id": "10000000-72f6-4c27-99e7-086803cc9a5e",
+    "Id": "10000000-41a9-4401-8c28-c7dce3a16cd1",
     "Title": "High-tech Architecture",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-e92a-43b0-afbd-31aa7095e2c6",
+    "Id": "10000000-db57-47c6-8022-7fb16ad52fc7",
     "Title": "Retna",
     "PluralTitle": null,
     "Description": "Retna is a contemporary artist known for his street art and mural paintings. His style is characterized by a unique symbolic script, drawing inspiration from various forms of calligraphy."
   },
   {
-    "Id": "10000000-972b-48fb-8590-8e18fae270eb",
+    "Id": "10000000-51bc-43c7-a063-95597316c450",
     "Title": "Mural Painting",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-bbc4-4b53-bb6c-8fd9cba12b88",
+    "Id": "10000000-a600-4f5c-8ab8-e18fa77b9317",
     "Title": "Multiple Media",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-5499-4bf2-860e-d2e113899b9d",
+    "Id": "10000000-c73f-4520-ba14-a9bf8be6487c",
     "Title": "Retropunk",
     "PluralTitle": null,
     "Description": "Retropunk is a genre of the arts, characterized by a futuristic approach to the aesthetic and technology of the past. It often blends modern concepts with retro design elements, invoking a sense of nostalgic futurism."
   },
   {
-    "Id": "10000000-7a8a-4a74-a037-6677dc8cfd20",
+    "Id": "10000000-86fd-4432-b5d3-e651829bacd1",
     "Title": "Steampunk",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-cd26-4881-a673-84200fb31d86",
+    "Id": "10000000-0c4a-4f62-9872-804aa77a7963",
     "Title": "Visual Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8617-4658-9aa3-d6f196c0de8a",
+    "Id": "10000000-ee57-494a-a54a-a2d9d03fb54c",
     "Title": "Retro Tones",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d560-4f11-9f4b-0cb414f9095e",
+    "Id": "10000000-59f5-460e-a48f-fcf9573141b4",
     "Title": "Nostalgic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-80a2-414e-a42a-ae6d8dd745cb",
+    "Id": "10000000-9a93-4ab0-9253-6d5208f28f37",
     "Title": "Revolutionary",
     "PluralTitle": null,
     "Description": "Revolutionary style refers to visual art used for propagandistic or political purposes, particularly associated with periods of political revolution. This style often conveys strong messages of change, resistance, and liberation."
   },
   {
-    "Id": "10000000-c921-4f9b-b46e-50426dda3d11",
+    "Id": "10000000-7e45-4034-8fd9-ebea329be609",
     "Title": "Propaganda Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-31b5-4ca0-8fcb-2eb94c45fbdb",
+    "Id": "10000000-1dc8-4612-b3ae-14f4c5714957",
     "Title": "Political Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-dcbb-40ca-b051-3cec14085ff3",
+    "Id": "10000000-6d78-4f43-b0b5-12fdfebee702",
     "Title": "Revolutionary Girl Utena",
     "PluralTitle": null,
     "Description": "Revolutionary Girl Utena is an anime series with a unique blend of surrealism, symbolism, and psychological themes. Its art style is characterized by Sh\u014Djo elements with a dramatic, and often abstract, visual presentation."
   },
   {
-    "Id": "10000000-e2cc-40db-9fee-23a7f6d16290",
+    "Id": "10000000-dfc1-4fb6-8610-6f54d341af82",
     "Title": "Sh\u014Djo",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-874b-4c23-9db0-cca6c07245f0",
+    "Id": "10000000-7eec-4fd5-89e5-b15f7685e0ae",
     "Title": "Reylia Slaby",
     "PluralTitle": null,
     "Description": "Reylia Slaby is a conceptual photographer known for her poignant and melancholic images. Her style often uses muted tones to evoke a certain mood, with a focus on storytelling and exploration of personal themes."
   },
   {
-    "Id": "10000000-a493-4840-8ae6-a092bee2458b",
+    "Id": "10000000-45ce-4553-a2e0-6cd39f76d666",
     "Title": "Muted Tones",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2dee-469b-bf92-dd7bf4ffbfd9",
+    "Id": "10000000-9dab-41ed-bb47-427cca469c19",
     "Title": "ReZero",
     "PluralTitle": null,
     "Description": "ReZero is an anime series known for its complex narrative and character development. The art style is typical of contemporary anime with its detailed character designs and vivid colors."
   },
   {
-    "Id": "10000000-3eef-4d78-af46-eb37af095540",
+    "Id": "10000000-1c54-4282-ab2b-a75fc8c2ea23",
     "Title": "Woven",
     "PluralTitle": null,
     "Description": "The woven style in art refers to techniques used in textile arts, tapestry, and basketry. The medium primarily used is textile, and the composition of the artwork is typically interlaced. Prominent artists in this style include Sheila Hicks, Anni Albers, and Lenore Tawney."
   },
   {
-    "Id": "10000000-c0c6-46fa-817a-3a5a1362f3f1",
+    "Id": "10000000-0476-4c45-af9e-7c935f1d9e6e",
     "Title": "Sheila Hicks",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2201-4e43-a0d4-4608ea8e7572",
+    "Id": "10000000-60e4-498a-82bd-019865ee6a75",
     "Title": "Anni Albers",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f919-48b2-87a9-b14a296ed5e5",
+    "Id": "10000000-9548-42d8-bd59-127fc9647f68",
     "Title": "Lenore Tawney",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-226f-459c-937e-efa971c373f7",
+    "Id": "10000000-36ed-4149-bbfd-38079466ebec",
     "Title": "Tapestry",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7432-4e5e-a934-fce24e81b3d1",
+    "Id": "10000000-b764-4f3b-96c7-eda1782e5d7b",
     "Title": "Basketry",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-e768-4aae-bee4-e56f1cc11ecb",
+    "Id": "10000000-9483-4f40-9d1b-d543ae753762",
     "Title": "Interlaced",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-8b92-4a57-898a-ca766280f87f",
+    "Id": "10000000-41db-4ead-810b-09998b1a6ce1",
     "Title": "Wu Guanzhong",
     "PluralTitle": null,
     "Description": "Wu Guanzhong was a renowned Chinese painter known for his unique style of blending traditional Chinese painting and Western modern art. His primary medium was ink, and he often used a monochromatic color scheme with a naturalistic composition."
   },
   {
-    "Id": "10000000-1487-4687-8072-e64ec94040e5",
+    "Id": "10000000-edec-4f81-ab4d-b70a992e9928",
     "Title": "Chinese painting",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-47f6-47ee-97c9-feca2d7d7bd9",
+    "Id": "10000000-6c00-46ed-888a-5a699abef0ba",
     "Title": "Ink and wash painting",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c585-43f8-9747-83fb623857fc",
+    "Id": "10000000-a581-47ab-9371-d4d361a4f659",
     "Title": "Naturalistic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9443-4878-901e-29f3e0bfe732",
+    "Id": "10000000-ceee-4534-a711-95d6a257c526",
     "Title": "X-ray",
     "PluralTitle": null,
     "Description": "X-ray style refers to a technique used primarily in Medical and Scientific Art, utilizing radiography as a medium. The composition typically reveals an anatomical structure of the subject. Notable artists in this field include Nick Veasey and Hugh Turvey."
   },
   {
-    "Id": "10000000-d720-4173-899c-82b758d9d7fe",
+    "Id": "10000000-3a31-463f-80a0-f571d811f8ca",
     "Title": "Nick Veasey",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f00e-4be0-a879-27531046a649",
+    "Id": "10000000-29b1-4098-939c-8c1eb79974c5",
     "Title": "Hugh Turvey",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-d122-42fb-9f72-6e228419761f",
+    "Id": "10000000-d360-483b-b553-295652ccba65",
     "Title": "Medical Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-54c2-429f-a6bb-92c4d3cd779d",
+    "Id": "10000000-f4c9-41fe-9d24-b31b2fdb1c46",
     "Title": "Scientific Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b404-43cd-a1a8-270a7c4953ed",
+    "Id": "10000000-e543-456d-8ffe-f7000ec4d12d",
     "Title": "Radiography",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-2ab7-43d6-8e47-38e6958b5654",
+    "Id": "10000000-3b56-4b3c-929b-b3a94e1b3827",
     "Title": "Anatomical",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9c4b-46e2-94f1-45c771d16270",
+    "Id": "10000000-e49d-4fa4-8e08-fe681649acdc",
     "Title": "Xavier Dolan",
     "PluralTitle": null,
     "Description": "Xavier Dolan is a Canadian film director and actor known for his intense cinematic style often categorized within Drama and Psychological genres. His style has a unique intensity that captivates audiences."
   },
   {
-    "Id": "10000000-09ba-4ef4-904e-5c13e91f998e",
+    "Id": "10000000-0d9e-4950-8b73-080ef3648b6a",
     "Title": "Cinema",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-a04e-48e0-9e9b-5da0b84637de",
+    "Id": "10000000-64b6-43ea-b172-80143a20eb2c",
     "Title": "Drama",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-0895-43e6-a49a-eaf3165da278",
+    "Id": "10000000-5bc1-4538-a133-77f4b843b3f6",
     "Title": "Psychological",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c798-4ec8-873a-4713ee154c36",
+    "Id": "10000000-c679-496f-9e24-f574fc33056c",
     "Title": "Xerography",
     "PluralTitle": null,
     "Description": "The Xerography style pertains to the use of photocopiers in art and is often seen in printmaking and copy art. The medium is typically paper, and compositions tend to be repetitive due to the nature of copying. Artists like Bruno Munari and Eduardo Paolozzi have utilized this style."
   },
   {
-    "Id": "10000000-c638-4559-8e95-1a25e546a97d",
+    "Id": "10000000-80f7-4cd7-9280-a0454abffed0",
     "Title": "Bruno Munari",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-5e79-4c3c-9193-e187195ecb24",
+    "Id": "10000000-6cf0-487d-b8ed-d2d0ce6fd491",
     "Title": "Eduardo Paolozzi",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b90e-4dd4-8754-ac04e0da377e",
+    "Id": "10000000-611b-487d-9fc3-694ed71765fa",
     "Title": "Copy Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-c8d5-4ca4-9d77-984bc459e4e2",
+    "Id": "10000000-2cf4-4b33-a893-86ecadc391fa",
     "Title": "Repetitive",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1557-4b6a-8e2d-5019794dbe49",
+    "Id": "10000000-5fb5-4c4a-9d64-72ac506b5b8e",
     "Title": "Xu Beihong",
     "PluralTitle": null,
     "Description": "Xu Beihong was a Chinese painter known for blending Chinese painting techniques with Western realism. His compositions often featured animals and people, painted in ink. His influence remains significant within modern Chinese art."
   },
   {
-    "Id": "10000000-46a6-46c9-834e-962fb078f472",
+    "Id": "10000000-98ee-45d5-8208-44af62cc4a47",
     "Title": "Xu Bing",
     "PluralTitle": null,
     "Description": "Xu Bing is a contemporary Chinese artist, recognized for his printmaking skills and installation art. His work often incorporates calligraphy and uses mixed media, with compositions that are largely symbolic."
   },
   {
-    "Id": "10000000-76c0-4de4-acbd-7243b900cfc4",
+    "Id": "10000000-82de-409b-b0ce-db5b9f6e7e16",
     "Title": "Calligraphy",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-bb2f-40aa-a56f-e8276554b87a",
+    "Id": "10000000-f8f4-4a24-8aa2-afff55441341",
     "Title": "Symbolic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-bdc6-4780-be87-eb49a014204f",
+    "Id": "10000000-1cd8-4be7-93ec-941aa616615f",
     "Title": "xxxHolic",
     "PluralTitle": null,
     "Description": "xxxHolic is a popular anime and manga series characterized by its unique style that blends reality with the supernatural. The series is known for its mystical mood. The primary artist associated with this series is the all-female Japanese manga artist group CLAMP."
   },
   {
-    "Id": "10000000-a50f-4e55-bd96-67cd1ca4ff20",
+    "Id": "10000000-7956-4d87-bde7-29241914da06",
     "Title": "Mystical",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-7ff5-49ec-926b-9b0a5ec0fab1",
+    "Id": "10000000-29fb-45f5-ae97-7909230257ca",
     "Title": "Yaacov Agam",
     "PluralTitle": null,
     "Description": "Yaacov Agam is an Israeli artist best known for his contributions to kinetic and op art. He often works with sculpture, creating geometric compositions that change depending on the viewer\u0027s perspective."
   },
   {
-    "Id": "10000000-61b2-49b9-9390-111c1f7cb515",
+    "Id": "10000000-ec63-42c6-9057-2faeb3bac971",
     "Title": "Kinetic Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-baa3-4ef9-896f-296853290e9c",
+    "Id": "10000000-42c5-4e90-995c-7c485d31b28c",
     "Title": "Op Art",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-f86a-42a9-9cb0-da09e1c85607",
+    "Id": "10000000-d68b-44c8-8df4-c5a18cb03e10",
     "Title": "Yang Yongliang",
     "PluralTitle": null,
     "Description": "Yang Yongliang is a Chinese artist whose digital creations often merge traditional Chinese art forms with modern scenes and themes. His work is characterized by surreal compositions that provoke thought on urbanization and its impact."
   },
   {
-    "Id": "10000000-f176-4b9e-8764-869473cca459",
+    "Id": "10000000-2701-4ebc-bb0b-fdf85f63d10b",
     "Title": "Surrealist",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-bd18-4e83-8b4f-b3f560569a03",
+    "Id": "10000000-1cac-4556-8d91-860a2bb5c7ca",
     "Title": "Yanjun Cheng",
     "PluralTitle": null,
     "Description": "Yanjun Cheng is a contemporary artist known for her abstract art. She often uses mixed media in her works, creating abstract compositions that evoke a variety of emotions and concepts."
   },
   {
-    "Id": "10000000-216a-4c27-90b9-e2221b473051",
+    "Id": "10000000-d576-4d08-9a19-58c4262d2bcc",
     "Title": "Yayoi Kusama",
     "PluralTitle": null,
     "Description": "Yayoi Kusama is a renowned Japanese contemporary artist recognized for her distinctive style that blends pop art and minimalism. She is known for her use of polychromatic color and repetitive composition, typically featuring polka dots."
   },
   {
-    "Id": "10000000-92ea-4357-8c17-d9e55076fffb",
+    "Id": "10000000-b005-4ca1-8d43-8ab064cc562a",
     "Title": "Polychromatic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-bd3f-404a-b344-d899805ce2a2",
+    "Id": "10000000-7da5-40c5-8399-82a562ddc9e0",
     "Title": "Yeezy",
     "PluralTitle": null,
     "Description": "Yeezy is a fashion brand created by musician Kanye West, characterized by its minimalist aesthetic and neutral color palette. The brand is rooted in streetwear and focuses on functional, comfortable design."
   },
   {
-    "Id": "10000000-8cfc-4b80-a27e-3a1370b17c57",
+    "Id": "10000000-11e2-4763-8a66-b0ece696ef20",
     "Title": "Streetwear",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6a5e-469e-8794-e1848a5238d4",
+    "Id": "10000000-f8d1-4cb5-8a00-61c0363128c1",
     "Title": "Functional",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-3bc7-461d-9be3-7cd0e9d2f0ca",
+    "Id": "10000000-ae13-4da3-8784-9d44dff97633",
     "Title": "Yigal Ozeri",
     "PluralTitle": null,
     "Description": "Yigal Ozeri is an Israeli artist known for his photorealistic oil paintings. His work is characterized by an intense attention to detail, creating highly realistic compositions that often portray women in nature."
   },
   {
-    "Id": "10000000-02c4-4a3a-ba23-d553807be8a2",
+    "Id": "10000000-64dc-4f80-b047-0fb04380a8aa",
     "Title": "Oil Painting",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-6910-474c-aa26-c8cf045607b8",
+    "Id": "10000000-7e6b-4983-b89a-f19340b7facf",
     "Title": "Yinka Shonibare",
     "PluralTitle": null,
     "Description": "Yinka Shonibare is a British-Nigerian artist who explores cultural identity, colonialism, and post-colonialism within the contemporary context of globalization. His narrative installations often utilize mixed media and textiles."
   },
   {
-    "Id": "10000000-fdb2-41a2-820c-98e700acb1e4",
+    "Id": "10000000-b48f-4c53-8d04-7e2b89558668",
     "Title": "Yoann Lossel",
     "PluralTitle": null,
     "Description": "Yoann Lossel is a French artist renowned for his exquisite mix of graphite and gold leaf. His works, often themed around fantasy and surrealism, are characterized by their mystical mood and figurative composition."
   },
   {
-    "Id": "10000000-2673-4faf-9777-e36c23e7f69d",
+    "Id": "10000000-50a6-4d49-aefe-ad49c1ee62e1",
     "Title": "Yoh Nagao",
     "PluralTitle": null,
     "Description": "Yoh Nagao is a contemporary artist known for his eclectic style and the use of vibrant colors. He uses the collage medium to create compositions that are a mix of pop art and abstract symbolism."
   },
   {
-    "Id": "10000000-433f-4a2c-bb89-9876c7448323",
+    "Id": "10000000-a196-4635-81ba-3515e411c151",
     "Title": "Eclectic",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-9fc3-4c1c-a452-ce5e4d3102c1",
+    "Id": "10000000-6002-4250-bcb8-dd3d44b54fab",
     "Title": "Yohji Yamamoto",
     "PluralTitle": null,
     "Description": "Yohji Yamamoto is a Japanese fashion designer known for his avant-garde style that masterfully combines Japanese design aesthetics with a distinctly Western fashion sense. His designs often feature asymmetrical compositions in a monochrome color palette."
   },
   {
-    "Id": "10000000-47e5-4f16-ad3d-55d8c7b9e50c",
+    "Id": "10000000-35cb-481e-86aa-105b706e33be",
     "Title": "Avant-garde",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-1ff3-482e-a537-e7f332d184bc",
+    "Id": "10000000-4e9f-4a0d-8f5e-cd75ded21ad4",
     "Title": "Japanese Fashion",
     "PluralTitle": null,
     "Description": null
   },
   {
-    "Id": "10000000-b472-4d76-9c91-2e42349189f4",
+    "Id": "10000000-9de2-4c8f-b1e1-20d85b548e02",
     "Title": "Asymmetrical",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-6256-439f-87a1-3e65eeeb48ec",
+    "Title": "Kintsugi",
+    "PluralTitle": null,
+    "Description": "Kintsugi is a traditional Japanese art form that mends broken ceramics using lacquer mixed with gold. The style is centered on the idea that breakage and repair form an important part of an object\u0027s history, making it more beautiful."
+  },
+  {
+    "Id": "10000000-4244-419d-9fcc-0c040f3c4732",
+    "Title": "Yukiko Kuroda",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8e47-4a4c-acac-c9880cd916f9",
+    "Title": "Iku Nishikawa",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-6781-472a-8352-d603b4b269c7",
+    "Title": "Japanese art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-7d6b-46fe-b76f-4b33fee3ce96",
+    "Title": "Ceramic repair",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-4b01-4197-96e9-a34bacaaab5e",
+    "Title": "Contemporary craft",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-331d-4ee1-90c6-63ce6b35508c",
+    "Title": "Ceramic",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-a71c-40ae-8c16-6dabf2d03f82",
+    "Title": "Gold",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-078e-411a-b680-32da851027f4",
+    "Title": "Kirigami",
+    "PluralTitle": null,
+    "Description": "Kirigami, a variation of origami, involves the cutting and folding of paper to create intricate patterns and three-dimensional structures. It ranges from simple designs to complex architectural depictions."
+  },
+  {
+    "Id": "10000000-9fac-4812-a40b-a5bd35b41fcc",
+    "Title": "Kanako Abe",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-6cc7-453e-b137-067b33bcfd3b",
+    "Title": "Marc Hagan-Guirey",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-be2a-4b52-a16c-fd651bae00b4",
+    "Title": "Paper art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-4f10-4fb0-977f-c857b5c48b0b",
+    "Title": "Kirlian Photography",
+    "PluralTitle": null,
+    "Description": "Kirlian Photography, a photographic technique named after Semyon Kirlian, captures the \u0027aura\u0027 or electrical corona discharge of a subject. It results in abstract, often multi-colored images that are subject to interpretation."
+  },
+  {
+    "Id": "10000000-0f50-4eec-aa35-a84d231c61c2",
+    "Title": "Semyon Kirlian",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-aef1-4961-aad9-ac8df8fa694f",
+    "Title": "Aurora Crowley",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-9bf5-48a2-a6e8-af0eb8a84936",
+    "Title": "Electro-illuminated",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-221b-46d0-b494-fab604669adf",
+    "Title": "Knit",
+    "PluralTitle": null,
+    "Description": "Knit style art involves using knitting techniques to create artworks. These works often showcase intricate patterns and textures, and can range from small, domestic pieces to large-scale installations."
+  },
+  {
+    "Id": "10000000-7d1e-4383-9f1a-b804bb6b8e6d",
+    "Title": "Ernesto Neto",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-5532-4028-acb2-0a7da54fe703",
+    "Title": "Sheila Pepe",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-6845-40c3-9a48-2998b8d60e5c",
+    "Title": "Textile art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-9ee8-40c2-911a-49b2639f3ba6",
+    "Title": "Craft",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-beb1-4a33-bf9c-68ff9795b457",
+    "Title": "Patterned",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-93f7-4d24-98c5-3f3e53575031",
+    "Title": "Knitted",
+    "PluralTitle": null,
+    "Description": "Similar to knit style, the knitted style in art refers to artworks created using knitting techniques. This style is known for its textures and patterns and has been used in everything from soft sculptures to street art."
+  },
+  {
+    "Id": "10000000-b977-40b4-908d-87611048f140",
+    "Title": "Magda Sayeg",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-58df-42aa-88b2-6040b9bf9259",
+    "Title": "Janet Morton",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-b545-4cef-b5de-36fc34e0e875",
+    "Title": "Knolling",
+    "PluralTitle": null,
+    "Description": "Knolling is a style of photography where objects are arranged at 90-degree angles from each other and then photographed from above. This results in a highly organized and visually pleasing composition."
+  },
+  {
+    "Id": "10000000-ab59-41f0-b34d-951b4809dbef",
+    "Title": "Andrew Kuo",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-6f62-4df7-b757-6519af6569a7",
+    "Title": "Austin Radcliffe",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-9c7f-409e-b9b4-9f6cbe8d876a",
+    "Title": "Contemporary art",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8a88-429c-97cd-2736d57bf636",
+    "Title": "Organized",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-cd52-433a-93cb-092607ac02f9",
+    "Title": "Kodak Ektachrome E100",
+    "PluralTitle": null,
+    "Description": "Kodak Ektachrome E100 refers to a style of photography developed through a specific film from Kodak. This film produces vibrant colors and has a distinctive grain, offering a rich aesthetic in photography."
+  },
+  {
+    "Id": "10000000-c992-4d6b-b520-2d6ad7def79a",
+    "Title": "Steve McCurry",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-2b65-4aaf-bff5-1c9e40622718",
+    "Title": "Alex Webb",
+    "PluralTitle": null,
+    "Description": null
+  },
+  {
+    "Id": "10000000-8647-4878-b88d-00bfe1c2c451",
+    "Title": "Film photography",
     "PluralTitle": null,
     "Description": null
   }
