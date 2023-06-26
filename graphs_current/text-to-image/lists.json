@@ -1,9 +1,9 @@
 [
   {
     "Id": "20000000-024a-44e5-8844-998342022971",
-    "Title": "Art Styles",
+    "Title": "Art Styles yes",
     "PluralTitle": "Art Styles",
-    "Description": "A list that contains all art styles pulled from other lists related to specific domains like Painting, Architercture, Graphic Design etc.",
+    "Description": "A list that contains all art styles pulled from other lists related to specific domains like Painting, Architercture, Graphic Design etc. asdas",
     "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
     "PullFromListsIds": [],
     "DisableDirectMembers": false
