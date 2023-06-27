@@ -11,7 +11,7 @@
     "Id": "20000000-b814-41a4-a2bd-9d346cc5ed0a",
     "Title": "Art Properties",
     "Description": "A list that contains artisitc concepts like color, lighting, moods and more that can be used as additional information for a prompt.",
-    "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
+    "ParentConceptId": null,
     "PullFromListsIds": [
       "20000000-3467-4e75-bed2-fa727f9e2707",
       "20000000-70bb-4928-ac4a-6e99b9b6441f",
