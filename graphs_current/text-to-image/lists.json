@@ -1,13 +1,5 @@
 [
   {
-    "Id": "20000000-024a-44e5-8844-998342022971",
-    "Title": "Art Styles",
-    "Description": "A list that contains all art styles pulled from other lists related to specific domains like Painting, Architercture, Graphic Design etc.",
-    "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
     "Id": "20000000-b814-41a4-a2bd-9d346cc5ed0a",
     "Title": "Art Properties",
     "Description": "A list that contains artisitc concepts like color, lighting, moods and more that can be used as additional information for a prompt.",
