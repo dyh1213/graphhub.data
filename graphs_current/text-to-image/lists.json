@@ -28,7 +28,6 @@
     "Description": "A collection of entities that have a definitive art style, this could be artists from a spefici field or other entities like tv-shows, games, studios etc.",
     "ParentConceptId": null,
     "PullFromListsIds": [
-      "20000000-e3f3-4b7e-bad6-c8d1255168f2",
       "20000000-32fe-4955-aaa7-24ce8ead2102",
       "20000000-54f1-4b8d-93ef-525fb264a193",
       "20000000-59c3-467a-aecc-91dde1deb861",
@@ -41,14 +40,6 @@
       "20000000-94a1-4ce3-a20c-9ada76c0e051",
       "20000000-383e-4d04-851c-dc2769be2f5a"
     ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "20000000-e3f3-4b7e-bad6-c8d1255168f2",
-    "Title": "UnmappedEntities",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
   {
