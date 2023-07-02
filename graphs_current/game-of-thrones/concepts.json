@@ -1178,6 +1178,150 @@
       "Id": "10000000-bca6-49a5-b45c-3b78d903f0d8",
       "Title": "Fire & Blood",
       "Description": "Fire & Blood is a companion book to the A Song of Ice and Fire series. It is a fictional history book that covers the Targaryen dynasty, starting with Aegon's Conquest and spanning several centuries. The book provides insights into the history of Westeros and the Targaryen rulers."
+    },
+    {
+      "Id": "10000000-1e22-4d8a-8bfe-7e3f6f291234",
+      "Title": "Dracarys",
+      "Description": "Dracarys is a High Valyrian word meaning 'dragonfire.' It is often used as a command for Daenerys Targaryen's dragons to breathe fire and unleash destruction."
+    },
+    {
+      "Id": "10000000-9a7e-4a0c-b3be-7fd76820a587",
+      "Title": "Winter is Coming",
+      "Description": "Winter is Coming is the motto of House Stark, one of the noble families in Game of Thrones. It serves as a warning and reminder that harsh times are approaching."
+    },
+    {
+      "Id": "10000000-6df0-4f41-9f5a-5e1fb3d89021",
+      "Title": "Valar Morghulis",
+      "Description": "Valar Morghulis is a High Valyrian phrase meaning 'All men must die.' It is often used as a greeting or a farewell in the world of Game of Thrones."
+    },
+    {
+      "Id": "10000000-ee59-437a-8e79-b119e11d8a43",
+      "Title": "A Lannister Always Pays His Debts",
+      "Description": "A Lannister Always Pays His Debts is the motto of House Lannister, emphasizing their reputation for ensuring their debts are repaid, both financially and otherwise."
+    },
+    {
+      "Id": "10000000-64b3-478d-9b4b-1d0c28f5a6b5",
+      "Title": "The North Remembers",
+      "Description": "The North Remembers is a phrase associated with the people of the North, particularly House Stark, and signifies their enduring loyalty and determination."
+    },
+    {
+      "Id": "10000000-61dd-46f4-9c1f-16b90b7fb88c",
+      "Title": "I Drink and I Know Things",
+      "Description": "I Drink and I Know Things is a memorable quote from Tyrion Lannister, reflecting his wit, intelligence, and love for wine."
+    },
+    {
+      "Id": "10000000-93b0-4719-ae57-8d824d1f3fb9",
+      "Title": "Chaos isn't a Pit, It's a Ladder",
+      "Description": "Chaos isn't a Pit, It's a Ladder is a line spoken by Petyr Baelish, highlighting his belief that chaos creates opportunities for advancement and power."
+    },
+    {
+      "Id": "10000000-5242-4e54-8533-9be4fe8e3e42",
+      "Title": "When You Play the Game of Thrones, You Win or You Die",
+      "Description": "When You Play the Game of Thrones, You Win or You Die is a quote by Cersei Lannister, encapsulating the ruthless nature of the struggle for power in the Seven Kingdoms."
+    },
+    {
+      "Id": "10000000-7436-4c7d-b7c0-65cb3d13a9e9",
+      "Title": "The night is dark and full of terrors",
+      "Description": "The night is dark and full of terrors is a phrase often associated with the followers of the Lord of Light, emphasizing the dangers that lurk in the shadows."
+    },
+    {
+      "Id": "10000000-38e3-4e08-9b8e-d5efee6d3e1c",
+      "Title": "A girl has no name",
+      "Description": "A girl has no name is a saying associated with Arya Stark during her training with the Faceless Men, representing her journey towards becoming a skilled assassin."
+    },
+    {
+      "Id": "10000000-bcf3-4fcf-8c1d-bfb1ab8f1c2f",
+      "Title": "Hold the door",
+      "Description": "Hold the door is a phrase with significant emotional impact, revealing the origin of Hodor's name and the sacrifice he made to protect Bran Stark."
+    },
+    {
+      "Id": "10000000-4d5b-4ff9-8d42-37d6e4174c91",
+      "Title": "You know nothing, Jon Snow",
+      "Description": "You know nothing, Jon Snow is a recurring line spoken by Ygritte to Jon Snow, highlighting his lack of knowledge and experience in matters beyond the Wall."
+    },
+    {
+      "Id": "10000000-47f3-40d3-a273-84b315b76d5e",
+      "Title": "I am the sword in the darkness",
+      "Description": "I am the sword in the darkness is a part of the Night's Watch oath, symbolizing their duty to protect the realms of men from the threats beyond the Wall."
+    },
+    {
+      "Id": "10000000-5a2e-41c1-8b0f-0c1f298a6079",
+      "Title": "A Crown for a King",
+      "Description": "A Crown for a King is a phrase associated with Khal Drogo, uttered when he melts a golden belt to create a crown for Viserys Targaryen."
+    },
+    {
+      "Id": "10000000-1d7b-4e4b-892f-32bdc570587f",
+      "Title": "I demand a trial by combat",
+      "Description": "I demand a trial by combat is a request made by characters to settle legal disputes through personal combat, allowing the gods to decide their fate."
+    },
+    {
+      "Id": "10000000-1976-4ab6-9d07-9e5f903ec3be",
+      "Title": "The things I do for love",
+      "Description": "The things I do for love is a line spoken by Jaime Lannister before pushing Bran Stark from a tower, reflecting the complicated nature of his character."
+    },
+    {
+      "Id": "10000000-cab5-4874-a232-4a53b874c214",
+      "Title": "Fire and Blood",
+      "Description": "Fire and Blood is the motto of House Targaryen, representing their history of dragonlords and their determination to reclaim the Iron Throne."
+    },
+    {
+      "Id": "10000000-0c1f-4025-96d1-46c8896d6f89",
+      "Title": "A mind needs books as a sword needs a whetstone",
+      "Description": "A mind needs books as a sword needs a whetstone is a quote by Tyrion Lannister, emphasizing the importance of knowledge and learning."
+    },
+    {
+      "Id": "10000000-2c25-45e0-bdcd-3b78e3b4d0d2",
+      "Title": "The things we do for love",
+      "Description": "The things we do for love is a variation of Jaime Lannister's quote, illustrating the motivations behind characters' actions in the name of love."
+    },
+    {
+      "Id": "10000000-28a0-40f6-a2d3-bb0fe7c70611",
+      "Title": "The night is dark and full of horrors",
+      "Description": "The night is dark and full of horrors is a slightly altered version of the original quote, expressing the pervasive fear associated with the night in Game of Thrones."
+    },
+    {
+      "Id": "10000000-2979-4945-b4d9-62d26b6ad1d7",
+      "Title": "All men must serve",
+      "Description": "All men must serve is another aspect of the Valar Morghulis phrase, emphasizing the idea that everyone has their own role and purpose to fulfill."
+    },
+    {
+      "Id": "10000000-65fb-4e54-819e-8c00efb5e1ed",
+      "Title": "The night is dark and full of terrors",
+      "Description": "The night is dark and full of terrors is a phrase often associated with the followers of the Lord of Light, emphasizing the dangers that lurk in the shadows."
+    },
+    {
+      "Id": "10000000-18a1-4094-a195-8a91371c3a56",
+      "Title": "What is dead may never die",
+      "Description": "What is dead may never die is a saying associated with the Ironborn, symbolizing their resilience and belief in the Drowned God's power."
+    },
+    {
+      "Id": "10000000-1d3e-44c9-88d1-ef7a2f3b39b4",
+      "Title": "I have a tender spot in my heart for cripples, bastards, and broken things",
+      "Description": "I have a tender spot in my heart for cripples, bastards, and broken things is a quote by Tyrion Lannister, reflecting his empathy for those who face hardships."
+    },
+    {
+      "Id": "10000000-4ad6-4e6c-88a2-4f6ed2b9eb0f",
+      "Title": "What do we say to the God of Death? Not today",
+      "Description": "What do we say to the God of Death? Not today is a line spoken by Syrio Forel, teaching Arya Stark the importance of perseverance and survival."
+    },
+    {
+      "Id": "10000000-232e-40b3-80c0-15a8c4db0d4d",
+      "Title": "A lion does not concern himself with the opinion of sheep",
+      "Description": "A lion does not concern himself with the opinion of sheep is a quote by Tywin Lannister, conveying his dismissive attitude towards those he perceives as weak."
+    },
+    {
+      "Id": "10000000-1579-4b4f-a6fe-69569f0186e9",
+      "Title": "The North remembers, and the mummer's farce is almost done",
+      "Description": "The North remembers, and the mummer's farce is almost done is a quote by Wyman Manderly, expressing the North's resolve to seek justice and vengeance."
+    },
+    {
+      "Id": "10000000-2e83-4ae4-8a52-c2aaf40f37e5",
+      "Title": "Every flight begins with a fall",
+      "Description": "Every flight begins with a fall is a line from the Three-eyed Raven, indicating that growth and success often require enduring hardship and setbacks."
+    },
+    {
+      "Id": "10000000-1c83-4b38-a840-27e39e4f76da",
+      "Title": "The things I do for love",
+      "Description": "The things I do for love is a recurring quote, representing the complex motivations and actions driven by love and desire in Game of Thrones."
     }
-
 ]
