@@ -38,5 +38,10 @@
     "Id": "10000000-8cd4-48de-9b69-ed86f3bf2925",
     "Title": "House Greyjoy",
     "Description": "Rulers of the Iron Islands, known for their seafaring prowess, hardiness, and rebellious nature. Sigil is a kraken, motto: \u0022We Do Not Sow.\u0022"
+  },
+  {
+    "Id": "10000000-4efe-4547-8a1e-60056aec1240",
+    "Title": "House Tully",
+    "Description": "Rulers of Riverrun, known for their devotion to duty and family. Sigil is a trout, motto: \u0022Family, Duty, Honor.\u0022"
   }
 ]
