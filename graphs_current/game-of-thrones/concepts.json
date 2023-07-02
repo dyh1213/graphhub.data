@@ -28,5 +28,10 @@
     "Id": "10000000-49cd-48e7-abd5-511dfcbfc498",
     "Title": "House Tyrell",
     "Description": "Rulers of Highgarden in the Reach. Renowned for their diplomacy, wealth from agriculture, and chivalry. Sigil is a rose, motto: \u0022Growing Strong.\u0022"
+  },
+  {
+    "Id": "10000000-5f68-412f-b5dc-84510923073d",
+    "Title": "House Martell",
+    "Description": "Rulers of Dorne, known for their fiery passion, pride, and resilience. Sigil is a sun and spear, motto: \u0022Unbowed, Unbent, Unbroken.\u0022"
   }
 ]
