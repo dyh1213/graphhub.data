@@ -1,39 +1,47 @@
 [
-  {
-    "Id": "20000000-3801-45b4-8e26-7913645c96b0",
-    "Title": "Houses",
-    "Description": "A list of noble families in Game of Thrones, such as Stark, Lannister, and 	Targaryen, each with their distinct sigils and mottoes."
-  },
-    "Id": "20000000-3801-45b4-8e26-7913645c96b1",
-    "Title": "Characters",
-    "Description": "A roster of compelling individuals, including Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Arya Stark, with intricate backstories, motivations, and relationships."
-  },
-    "Id": "20000000-3801-45b4-8e26-7913645c96b2",
-    "Title": "Cities",
-    "Description": "Notable urban centers like King's Landing, Winterfell, and Braavos, each with its own cultural identity, landmarks, and strategic importance in the story."
-  },
-    "Id": "20000000-3801-45b4-8e26-7913645c96b3",
-    "Title": "Kingdoms",
-    "Description": "Geopolitical regions comprising the Seven Kingdoms, such as the North, the Reach, and Dorne, each ruled by a distinct house and contributing to the political landscape."
-  },
-    "Id": "20000000-3801-45b4-8e26-7913645c96b4",
-    "Title": "Locations",
-    "Description": "Vast territories like Westeros, Essos, and beyond, with diverse landscapes, climates, and cultures, forming the backdrop for the characters' journeys and adventures."
-  },
-    "Id": "20000000-3801-45b4-8e26-7913645c96b5",
-    "Title": "Religions",
-    "Description": "A collection of belief systems, including the Faith of the Seven, the Old Gods, and the Lord of Light, shaping the spiritual beliefs and practices of different characters and cultures."
-  },
-    "Id": "20000000-3801-45b4-8e26-7913645c96b6",
-    "Title": "Events",
-    "Description": "Significant moments like the Red Wedding, Battle of the Bastards, and the Battle of Blackwater, which shape the course of the story, influencing alliances, allegiances, and character development."
-  },
-    "Id": "20000000-3801-45b4-8e26-7913645c96b7",
-    "Title": "Groups",
-    "Description": "Various organizations like the Night's Watch, the Faceless Men, and the Free Folk, each with their own agendas, customs, and roles in the larger narrative."
-  },
-    "Id": "20000000-3801-45b4-8e26-7913645c96b8",
-    "Title": "Titles",
-    "Description": "Prestigious designations bestowed upon characters, such as Mother of Dragons, King in the North, and Lord Commander, representing their positions, accomplishments, and influence in the realm."
-  }
+   {
+      "Id": "20000000-3801-45b4-8e26-7913645c96b0",
+      "Title": "Houses",
+      "Description": "A list of noble families in Game of Thrones, such as Stark, Lannister, and Targaryen, each with their distinct sigils and mottoes."
+   },
+   {
+      "Id": "20000000-3801-45b4-8e26-7913645c96b1",
+      "Title": "Characters",
+      "Description": "A roster of compelling individuals, including Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Arya Stark, with intricate backstories, motivations, and relationships."
+   },
+   {
+      "Id": "20000000-3801-45b4-8e26-7913645c96b2",
+      "Title": "Cities",
+      "Description": "Notable urban centers like King's Landing, Winterfell, and Braavos, each with its own cultural identity, landmarks, and strategic importance in the story."
+   },
+   {
+      "Id": "20000000-3801-45b4-8e26-7913645c96b3",
+      "Title": "Kingdoms",
+      "Description": "Geopolitical regions comprising the Seven Kingdoms, such as the North, the Reach, and Dorne, each ruled by a distinct house and contributing to the political landscape."
+   },
+   {
+      "Id": "20000000-3801-45b4-8e26-7913645c96b4",
+      "Title": "Locations",
+      "Description": "Vast territories like Westeros, Essos, and beyond, with diverse landscapes, climates, and cultures, forming the backdrop for the characters' journeys and adventures."
+   },
+   {
+      "Id": "20000000-3801-45b4-8e26-7913645c96b5",
+      "Title": "Religions",
+      "Description": "A collection of belief systems, including the Faith of the Seven, the Old Gods, and the Lord of Light, shaping the spiritual beliefs and practices of different characters and cultures."
+   },
+   {
+      "Id": "20000000-3801-45b4-8e26-7913645c96b6",
+      "Title": "Events",
+      "Description": "Significant moments like the Red Wedding, Battle of the Bastards, and the Battle of Blackwater, which shape the course of the story, influencing alliances, allegiances, and character development."
+   },
+   {
+      "Id": "20000000-3801-45b4-8e26-7913645c96b7",
+      "Title": "Groups",
+      "Description": "Various organizations like the Night's Watch, the Faceless Men, and the Free Folk, each with their own agendas, customs, and roles in the larger narrative."
+   },
+   {
+      "Id": "20000000-3801-45b4-8e26-7913645c96b8",
+      "Title": "Titles",
+      "Description": "Prestigious designations bestowed upon characters, such as Mother of Dragons, King in the North, and Lord Commander, representing their positions, accomplishments, and influence in the realm."
+   }
 ]
