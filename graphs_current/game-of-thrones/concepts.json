@@ -48,5 +48,10 @@
     "Id": "10000000-0598-4bf8-8e78-7d814de820fd",
     "Title": "House Arryn",
     "Description": "Rulers of the Vale, known for their strong defensive position, nobility, and honor. Sigil is a falcon and moon, motto: \u0022As High As Honor.\u0022"
+  },
+  {
+    "Id": "10000000-aa69-438d-8b20-27bc23571987",
+    "Title": "House",
+    "Description": "Noble families in Game of Thrones, such as Stark, Lannister, and Targaryen, each with their distinct sigils and mottoes."
   }
 ]
