@@ -18,5 +18,10 @@
     "Id": "10000000-12e4-4e4e-917e-e3768e3b4dc0",
     "Title": "House Baratheon",
     "Description": "Rulers of Storm\u0027s End, known for their physical strength, stubbornness, and black hair. Sigil is a stag, motto: \u0022Ours is the Fury.\u0022"
+  },
+  {
+    "Id": "10000000-dfbb-4cf5-b34e-7932739983bd",
+    "Title": "House Targaryen",
+    "Description": "Former rulers of Westeros, with Valyrian roots. Known for their silver hair, purple eyes, and dragons. Sigil is a dragon, motto: \u0022Fire and Blood.\u0022"
   }
 ]
