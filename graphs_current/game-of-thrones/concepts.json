@@ -43,5 +43,10 @@
     "Id": "10000000-4efe-4547-8a1e-60056aec1240",
     "Title": "House Tully",
     "Description": "Rulers of Riverrun, known for their devotion to duty and family. Sigil is a trout, motto: \u0022Family, Duty, Honor.\u0022"
+  },
+  {
+    "Id": "10000000-0598-4bf8-8e78-7d814de820fd",
+    "Title": "House Arryn",
+    "Description": "Rulers of the Vale, known for their strong defensive position, nobility, and honor. Sigil is a falcon and moon, motto: \u0022As High As Honor.\u0022"
   }
 ]
