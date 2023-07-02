@@ -8,5 +8,10 @@
     "Id": "10000000-0cac-4dff-8c79-c6e9c14ecd41",
     "Title": "House Stark",
     "Description": "Noble house of Winterfell, ruling the North. Defined by their honor, loyalty, and connection to nature. Sigil is a direwolf, motto: \u0022Winter is Coming.\u0022"
+  },
+  {
+    "Id": "10000000-d07e-467b-a306-734b1bd76ed2",
+    "Title": "House Lannister",
+    "Description": "Rich and powerful, ruling from Casterly Rock. Known for their cunning, ambition, and golden hair. Sigil is a lion, motto: \u0022Hear Me Roar.\u0022"
   }
 ]
