@@ -33,5 +33,10 @@
     "Id": "10000000-5f68-412f-b5dc-84510923073d",
     "Title": "House Martell",
     "Description": "Rulers of Dorne, known for their fiery passion, pride, and resilience. Sigil is a sun and spear, motto: \u0022Unbowed, Unbent, Unbroken.\u0022"
+  },
+  {
+    "Id": "10000000-8cd4-48de-9b69-ed86f3bf2925",
+    "Title": "House Greyjoy",
+    "Description": "Rulers of the Iron Islands, known for their seafaring prowess, hardiness, and rebellious nature. Sigil is a kraken, motto: \u0022We Do Not Sow.\u0022"
   }
 ]
