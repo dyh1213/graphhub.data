@@ -488,5 +488,55 @@
       "Id": "10000000-5f1e-4322-92a6-4fe935b22a38",
       "Title": "Lorath",
       "Description": "One of the Free Cities, Lorath is a small and isolated city known for its seafaring tradition and its unusual customs. It is the least populated and least influential of the Free Cities."
+    },
+{
+      "Id": "10000000-1b5a-4e1a-b89e-6e97d79e8801",
+      "Title": "The Faith of the Seven",
+      "Description": "The Faith of the Seven is the predominant religion in the Seven Kingdoms. It worships a single deity represented by seven aspects, each corresponding to a different facet of life."
+    },
+    {
+      "Id": "10000000-893e-4be3-83ed-72fb1a836f89",
+      "Title": "The Old Gods of the Forest",
+      "Description": "The Old Gods of the Forest are worshipped by the people of the North. They represent the spirits of nature, trees, and the land. Weirwood trees serve as sacred symbols and places of worship."
+    },
+    {
+      "Id": "10000000-7252-408a-81ae-2a0512b3e5d6",
+      "Title": "The Drowned God",
+      "Description": "The Drowned God is the deity worshipped by the ironborn, the seafaring people of the Iron Islands. It is associated with the sea, drowning, and the rebirth of the drowned."
+    },
+    {
+      "Id": "10000000-043d-4a8a-8621-925db6a1a6b2",
+      "Title": "R'hllor, the Lord of Light",
+      "Description": "R'hllor, also known as the Lord of Light, is a religion prominent in Essos. It believes in the struggle between light and darkness, with the Red Priests and Priestesses acting as intermediaries."
+    },
+    {
+      "Id": "10000000-2450-4a72-985c-f440b231c63f",
+      "Title": "The Many-Faced God",
+      "Description": "The Many-Faced God is worshipped by the Faceless Men of Braavos. They believe in the idea that all gods are essentially the same god, with different faces representing different aspects."
+    },
+    {
+      "Id": "10000000-02ab-42d7-8765-6a6bfe8e0489",
+      "Title": "The Great Stallion",
+      "Description": "The Great Stallion is the primary deity worshipped by the Dothraki, a nomadic horse-riding culture. They believe that a warrior who dies in battle joins the Great Stallion in the afterlife."
+    },
+    {
+      "Id": "10000000-9ee0-4d71-988b-22c942da4877",
+      "Title": "The Black Goat of Qohor",
+      "Description": "The Black Goat of Qohor is the central deity of the city of Qohor in Essos. It is associated with blood sacrifices and is worshipped by the city's inhabitants."
+    },
+    {
+      "Id": "10000000-7a1f-40e2-9ce9-ba33df5e60d3",
+      "Title": "The Many-Faced God of Death",
+      "Description": "The Many-Faced God of Death is a deity worshipped by the Faceless Men of Braavos. They believe that death is a natural part of life and see themselves as servants of this god."
+    },
+    {
+      "Id": "10000000-cf68-419c-b147-3e4a53f63c24",
+      "Title": "The Lord of the Skies",
+      "Description": "The Lord of the Skies is a deity worshipped by the inhabitants of the Sky Cells in the Eyrie. It is associated with the vast open sky and the heights of the mountains."
+    },
+    {
+      "Id": "10000000-c548-4f97-b3a1-0b9ff53ef777",
+      "Title": "The Many-Faced God of a Thousand Faces",
+      "Description": "The Many-Faced God of a Thousand Faces is a deity worshipped by the Faceless Men of Braavos. They believe that every person has many different identities and faces."
     }
 ]
