@@ -29,17 +29,17 @@
     "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
     "PullFromListsIds": [
       "20000000-e3f3-4b7e-bad6-c8d1255168f2",
-      "20000000-8d52-45d5-bd29-562d88cdea83",
-      "20000000-d158-4c0d-a831-76d83dbd067c",
-      "20000000-655b-4491-b71c-feca49df8e76",
-      "20000000-33e3-4242-b92b-319bd96ee1c5",
-      "20000000-99e9-496b-a27e-31de7a3a8fd0",
-      "20000000-c5f0-4d3f-9019-f7f28ceb9dc8",
-      "20000000-0b56-4fab-9218-fe303372f3b4",
-      "20000000-2eb0-484f-b462-0ba4a16043e9",
-      "20000000-682c-4d5d-8d49-7e5a15f4b843",
-      "20000000-681c-46c2-a253-8f01519b6f96",
-      "20000000-22f4-4faf-b5d1-13c1849cd854"
+      "20000000-1306-4117-bbc3-8e11bbfc5e47",
+      "20000000-a8fe-400c-8454-cfaf17184db1",
+      "20000000-db70-402a-a0a3-f6fd95b56499",
+      "20000000-87db-46e8-a08a-9522b2b8959e",
+      "20000000-a6d8-4c60-a4ff-bf3ab12673bc",
+      "20000000-b8f8-4bdb-bfb4-a9019267ce1c",
+      "20000000-e634-4686-9083-3096251f2b86",
+      "20000000-1df5-452e-881f-fc0205f6eb62",
+      "20000000-87d8-4b10-b7b3-ed3e117e907e",
+      "20000000-80db-4b2f-964d-f83a187cf419",
+      "20000000-5eec-4b59-a0ee-d00c316935cf"
     ],
     "DisableDirectMembers": false
   },
@@ -55,7 +55,7 @@
     "Id": "20000000-3467-4e75-bed2-fa727f9e2707",
     "Title": "Art Mediums",
     "Description": "eces. This can range from conventional mediums like oil, acrylic, watercolor, charcoal, to more contemporary ones like digital, mixed media, or installations.",
-    "ParentConceptId": "10000000-91e2-4cb6-9d31-150b8e8f3ce1",
+    "ParentConceptId": "10000000-851d-45c7-80d5-b6bbb20a532e",
     "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
@@ -63,7 +63,7 @@
     "Id": "20000000-70bb-4928-ac4a-6e99b9b6441f",
     "Title": "Environments",
     "Description": "AThis is a catalogue of different environmental settings within art. This could include forests, cityscapes, seascapes, deserts, or abstract backgrounds, depicting the context and backdrop of the artwork.",
-    "ParentConceptId": "10000000-e4b2-47ad-b1d8-36f21f181546",
+    "ParentConceptId": "10000000-5a48-47f6-8640-4820da4d7fa1",
     "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
@@ -71,7 +71,7 @@
     "Id": "20000000-069a-4b2a-849d-e1e3fddb99a0",
     "Title": "Lighting Styles",
     "Description": "The lightings list explores different types of illumination used in an artwork. This could be soft morning light, harsh midday light, artificial light, or magical surrealistic light, playing crucial roles in the art\u0027s ambiance and focus.",
-    "ParentConceptId": "10000000-cfdb-4db9-bb62-60c7f0924697",
+    "ParentConceptId": "10000000-a9ce-409b-a474-6d8cc75fe57a",
     "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
@@ -79,7 +79,7 @@
     "Id": "20000000-0327-46d9-b7d2-e80e60d56e0a",
     "Title": "Colors",
     "Description": "This list describes the myriad of colors artists employ in their work. From primary, secondary, and tertiary hues, to monochrome or vibrant palettes, colors breathe life and emotion into the artwork.",
-    "ParentConceptId": "10000000-1f76-44dd-8727-5067cc189b33",
+    "ParentConceptId": "10000000-63b2-4ead-b723-9efb91ece156",
     "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
@@ -87,7 +87,7 @@
     "Id": "20000000-8dca-46f4-99a4-2f1457396504",
     "Title": "Moods",
     "Description": "The moods list represents the range of emotions or feelings an artwork can evoke, like happiness, sadness, tranquility, mystery, anger or nostalgia. It\u0027s about the emotional resonance of an artwork.",
-    "ParentConceptId": "10000000-43b3-4c2d-8eba-18f8061a61e2",
+    "ParentConceptId": "10000000-5099-494a-8616-4a5b0a89ca2d",
     "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
@@ -95,49 +95,49 @@
     "Id": "20000000-14b6-4367-b302-0cd4e748aea4",
     "Title": "Compositions",
     "Description": "This list details different compositional techniques used in art. These may include rules like the Golden Ratio, Rule of Thirds, Symmetry or Asymmetry, leading lines, or framing, influencing the viewer\u0027s focus and the overall balance of the piece.",
-    "ParentConceptId": "10000000-0868-476c-a345-9df49c72b0c4",
+    "ParentConceptId": "10000000-cf4d-4860-9ec2-b0496e200d1f",
     "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-8d52-45d5-bd29-562d88cdea83",
+    "Id": "20000000-1306-4117-bbc3-8e11bbfc5e47",
     "Title": "Person",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "PullFromListsIds": [
-      "20000000-c20f-478d-b332-6eba1db197a0",
-      "20000000-5e96-4905-89c9-97113294e427",
-      "20000000-e006-4f39-9972-635980c71a47",
-      "20000000-6fba-42d3-b8be-e237c291a029",
-      "20000000-3404-491e-b8c6-84864b2c9705",
-      "20000000-4306-4845-a572-be686cca3ac5",
-      "20000000-45d6-4029-a72e-1cc155171b4c",
-      "20000000-81eb-48d9-9065-8e829209e25e",
-      "20000000-8a21-4352-b31d-7120fd13f5fa",
-      "20000000-c7a5-41f9-92c0-04f210d6c71c",
-      "20000000-581f-42e1-a0c9-74be8d29f2f5",
-      "20000000-60cf-40bd-b39b-351f36d2fdf8",
-      "20000000-e1b3-4283-8a7f-83706d35b3fb",
-      "20000000-003b-48bd-961d-a91228a625ec",
-      "20000000-3231-4bba-8c33-f52831ae380f",
-      "20000000-1b1b-45fe-a76b-3e586d0a42d8",
-      "20000000-f043-424a-9e11-44b48115d3e7",
-      "20000000-1681-46dc-a5f7-25897e527701",
-      "20000000-9ed2-4f92-953b-2c40d79e9846",
-      "20000000-dbbf-4d21-8db0-95e7ada2a21f",
-      "20000000-6d4a-4ae3-b61b-063569a3c18a",
-      "20000000-acd5-4380-bde5-ced7caf3a38d",
-      "20000000-5267-4ff7-8aa8-2cba357ca923",
-      "20000000-c986-40d2-a387-0639d8a3bed9",
-      "20000000-2bce-421a-86dc-21f1040a0cf3",
-      "20000000-cc28-4beb-bd1e-451547d2725d",
-      "20000000-65b8-432e-ab27-75b5e3da4458",
-      "20000000-5a7b-403b-81e0-9f72595d1943"
+      "20000000-9cd5-43f0-bf30-06caa9d24223",
+      "20000000-6ab8-45b4-9319-93e9e4778ef0",
+      "20000000-0f7b-4113-885e-409c1d37caf5",
+      "20000000-af56-440a-9902-9128cc991188",
+      "20000000-467c-4ac5-90ff-aa10fe4a0fc8",
+      "20000000-ed14-477b-8f0e-00e9d9903990",
+      "20000000-6eff-44fa-bf56-789913df9482",
+      "20000000-66df-4fb8-b86e-d67759e40622",
+      "20000000-3b69-4daf-a056-ed12360be116",
+      "20000000-c6a2-48f3-9eb9-5850648e5d3c",
+      "20000000-f735-4380-a251-c544363ae80c",
+      "20000000-0bdb-4a59-a37d-69f87c4f1f5e",
+      "20000000-3117-43f7-8ae6-5ee17b86b0e2",
+      "20000000-8ce5-4f07-9ad4-f7e82b296db0",
+      "20000000-97ff-441f-bc90-143a8e065c6b",
+      "20000000-e643-40d4-8d22-70597578e2e4",
+      "20000000-6ffe-4415-a8d5-08d0222732d0",
+      "20000000-44f7-4e08-be4d-60b9142a8978",
+      "20000000-4c35-41a9-8cdc-eee908ec276e",
+      "20000000-b68e-4d2a-8132-9a174086f431",
+      "20000000-807b-4371-937a-edf740cf99f9",
+      "20000000-e815-4203-a89c-e67a3f8cded4",
+      "20000000-6406-4d16-be1b-4b40c16cbc50",
+      "20000000-b38f-42c3-95c3-23d8bf7c688f",
+      "20000000-751e-4c2b-bb95-7d73c873f148",
+      "20000000-0878-4213-8866-5fa9a1ab862b",
+      "20000000-053f-4c24-8199-6560bf225fbc",
+      "20000000-ddee-45fa-b757-be8c99a5fdad"
     ],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-c20f-478d-b332-6eba1db197a0",
+    "Id": "20000000-9cd5-43f0-bf30-06caa9d24223",
     "Title": "Street Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -145,7 +145,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-5e96-4905-89c9-97113294e427",
+    "Id": "20000000-6ab8-45b4-9319-93e9e4778ef0",
     "Title": "Painter",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -153,7 +153,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-e006-4f39-9972-635980c71a47",
+    "Id": "20000000-0f7b-4113-885e-409c1d37caf5",
     "Title": "Comic Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -161,7 +161,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-6fba-42d3-b8be-e237c291a029",
+    "Id": "20000000-af56-440a-9902-9128cc991188",
     "Title": "Illustrator",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -169,7 +169,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-3404-491e-b8c6-84864b2c9705",
+    "Id": "20000000-467c-4ac5-90ff-aa10fe4a0fc8",
     "Title": "Digital Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -177,21 +177,21 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-d158-4c0d-a831-76d83dbd067c",
+    "Id": "20000000-a8fe-400c-8454-cfaf17184db1",
     "Title": "Game",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "PullFromListsIds": [
-      "20000000-62c3-44c5-960c-7cdf2bd5b6b3",
-      "20000000-0d35-4018-9a11-f90c7d4f2abe",
-      "20000000-4ade-4fc7-93a3-756db0ab0ab0",
-      "20000000-4fed-4cc0-89d3-3d8c8986fba8",
-      "20000000-99e9-496b-a27e-31de7a3a8fd0"
+      "20000000-fd0f-4804-af9a-f06e98fc9e88",
+      "20000000-7072-4115-9de2-093f6cb3180b",
+      "20000000-3e83-4563-ac48-879d888e4586",
+      "20000000-fe16-4114-b591-3bea3937eff8",
+      "20000000-a6d8-4c60-a4ff-bf3ab12673bc"
     ],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-62c3-44c5-960c-7cdf2bd5b6b3",
+    "Id": "20000000-fd0f-4804-af9a-f06e98fc9e88",
     "Title": "Video Game",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -199,7 +199,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-0d35-4018-9a11-f90c7d4f2abe",
+    "Id": "20000000-7072-4115-9de2-093f6cb3180b",
     "Title": "Manga",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -207,17 +207,17 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-655b-4491-b71c-feca49df8e76",
+    "Id": "20000000-db70-402a-a0a3-f6fd95b56499",
     "Title": "Company",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "PullFromListsIds": [
-      "20000000-1f21-4285-8f9b-a369fb498ca2"
+      "20000000-00da-42e9-a75e-2b2cf673e873"
     ],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-1f21-4285-8f9b-a369fb498ca2",
+    "Id": "20000000-00da-42e9-a75e-2b2cf673e873",
     "Title": "Design Studio",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -225,7 +225,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-4306-4845-a572-be686cca3ac5",
+    "Id": "20000000-ed14-477b-8f0e-00e9d9903990",
     "Title": "Photographer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -233,7 +233,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-45d6-4029-a72e-1cc155171b4c",
+    "Id": "20000000-6eff-44fa-bf56-789913df9482",
     "Title": "Sculptor",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -241,7 +241,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-81eb-48d9-9065-8e829209e25e",
+    "Id": "20000000-66df-4fb8-b86e-d67759e40622",
     "Title": "Concept Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -249,7 +249,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-8a21-4352-b31d-7120fd13f5fa",
+    "Id": "20000000-3b69-4daf-a056-ed12360be116",
     "Title": "Architect",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -257,7 +257,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-4ade-4fc7-93a3-756db0ab0ab0",
+    "Id": "20000000-3e83-4563-ac48-879d888e4586",
     "Title": "Anime/Manga",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -265,7 +265,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-c7a5-41f9-92c0-04f210d6c71c",
+    "Id": "20000000-c6a2-48f3-9eb9-5850648e5d3c",
     "Title": "Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -273,7 +273,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-581f-42e1-a0c9-74be8d29f2f5",
+    "Id": "20000000-f735-4380-a251-c544363ae80c",
     "Title": "Comic writer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -281,7 +281,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-60cf-40bd-b39b-351f36d2fdf8",
+    "Id": "20000000-0bdb-4a59-a37d-69f87c4f1f5e",
     "Title": "Comic artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -289,7 +289,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-e1b3-4283-8a7f-83706d35b3fb",
+    "Id": "20000000-3117-43f7-8ae6-5ee17b86b0e2",
     "Title": "Video artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -297,7 +297,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-003b-48bd-961d-a91228a625ec",
+    "Id": "20000000-8ce5-4f07-9ad4-f7e82b296db0",
     "Title": "Film Director",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -305,7 +305,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-4fed-4cc0-89d3-3d8c8986fba8",
+    "Id": "20000000-fe16-4114-b591-3bea3937eff8",
     "Title": "Visual Novel",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -313,17 +313,17 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-33e3-4242-b92b-319bd96ee1c5",
+    "Id": "20000000-87db-46e8-a08a-9522b2b8959e",
     "Title": "Culture",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "PullFromListsIds": [
-      "20000000-6af7-4968-8914-e862564dc1ca"
+      "20000000-82ea-4664-85bb-51d631241c45"
     ],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-6af7-4968-8914-e862564dc1ca",
+    "Id": "20000000-82ea-4664-85bb-51d631241c45",
     "Title": "Subculture",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -331,17 +331,17 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-99e9-496b-a27e-31de7a3a8fd0",
+    "Id": "20000000-a6d8-4c60-a4ff-bf3ab12673bc",
     "Title": "Anime",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "PullFromListsIds": [
-      "20000000-ef19-4f84-b1d7-16c0df654a99"
+      "20000000-d74c-4c73-8e40-a14d2c09a06a"
     ],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-ef19-4f84-b1d7-16c0df654a99",
+    "Id": "20000000-d74c-4c73-8e40-a14d2c09a06a",
     "Title": "Science Fiction",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -349,7 +349,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-3231-4bba-8c33-f52831ae380f",
+    "Id": "20000000-97ff-441f-bc90-143a8e065c6b",
     "Title": "Graphic Designer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -357,7 +357,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-1b1b-45fe-a76b-3e586d0a42d8",
+    "Id": "20000000-e643-40d4-8d22-70597578e2e4",
     "Title": "Typographer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -365,7 +365,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-f043-424a-9e11-44b48115d3e7",
+    "Id": "20000000-6ffe-4415-a8d5-08d0222732d0",
     "Title": "Comic Book Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -373,7 +373,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-1681-46dc-a5f7-25897e527701",
+    "Id": "20000000-44f7-4e08-be4d-60b9142a8978",
     "Title": "Designer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -381,17 +381,17 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-c5f0-4d3f-9019-f7f28ceb9dc8",
+    "Id": "20000000-b8f8-4bdb-bfb4-a9019267ce1c",
     "Title": "Entity",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "PullFromListsIds": [
-      "20000000-4ade-4fc7-93a3-756db0ab0ab0"
+      "20000000-3e83-4563-ac48-879d888e4586"
     ],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-9ed2-4f92-953b-2c40d79e9846",
+    "Id": "20000000-4c35-41a9-8cdc-eee908ec276e",
     "Title": "Street Artists",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -399,7 +399,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-dbbf-4d21-8db0-95e7ada2a21f",
+    "Id": "20000000-b68e-4d2a-8132-9a174086f431",
     "Title": "Manga Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -407,7 +407,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-6d4a-4ae3-b61b-063569a3c18a",
+    "Id": "20000000-807b-4371-937a-edf740cf99f9",
     "Title": "Fashion Designer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -415,7 +415,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-acd5-4380-bde5-ced7caf3a38d",
+    "Id": "20000000-e815-4203-a89c-e67a3f8cded4",
     "Title": "Animator",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -423,7 +423,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-5267-4ff7-8aa8-2cba357ca923",
+    "Id": "20000000-6406-4d16-be1b-4b40c16cbc50",
     "Title": "Comic book artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -431,7 +431,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-c986-40d2-a387-0639d8a3bed9",
+    "Id": "20000000-b38f-42c3-95c3-23d8bf7c688f",
     "Title": "Fashion Photographer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -439,17 +439,17 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-0b56-4fab-9218-fe303372f3b4",
+    "Id": "20000000-e634-4686-9083-3096251f2b86",
     "Title": "Studio",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "PullFromListsIds": [
-      "20000000-7913-41dc-a46e-626059ede15b"
+      "20000000-ad74-40d4-9296-4d561a024281"
     ],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-7913-41dc-a46e-626059ede15b",
+    "Id": "20000000-ad74-40d4-9296-4d561a024281",
     "Title": "Animation Studio",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -457,7 +457,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-2bce-421a-86dc-21f1040a0cf3",
+    "Id": "20000000-751e-4c2b-bb95-7d73c873f148",
     "Title": "Installation Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -465,17 +465,17 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-2eb0-484f-b462-0ba4a16043e9",
+    "Id": "20000000-1df5-452e-881f-fc0205f6eb62",
     "Title": "Animation",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "PullFromListsIds": [
-      "20000000-242a-4615-a06d-cdac01afe86c"
+      "20000000-856b-40f6-a5e3-3b2098fff32f"
     ],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-242a-4615-a06d-cdac01afe86c",
+    "Id": "20000000-856b-40f6-a5e3-3b2098fff32f",
     "Title": "Anime Series",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -483,7 +483,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-cc28-4beb-bd1e-451547d2725d",
+    "Id": "20000000-0878-4213-8866-5fa9a1ab862b",
     "Title": "Director",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -491,17 +491,17 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-682c-4d5d-8d49-7e5a15f4b843",
+    "Id": "20000000-87d8-4b10-b7b3-ed3e117e907e",
     "Title": "Brand",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "PullFromListsIds": [
-      "20000000-ea57-4531-8efc-99bda5d1150b"
+      "20000000-f23c-4969-9a9c-37da2b4de897"
     ],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-ea57-4531-8efc-99bda5d1150b",
+    "Id": "20000000-f23c-4969-9a9c-37da2b4de897",
     "Title": "Fashion",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -509,27 +509,27 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-681c-46c2-a253-8f01519b6f96",
+    "Id": "20000000-80db-4b2f-964d-f83a187cf419",
     "Title": "Character",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "PullFromListsIds": [
-      "20000000-99e9-496b-a27e-31de7a3a8fd0"
+      "20000000-a6d8-4c60-a4ff-bf3ab12673bc"
     ],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-22f4-4faf-b5d1-13c1849cd854",
+    "Id": "20000000-5eec-4b59-a0ee-d00c316935cf",
     "Title": "Movie",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "PullFromListsIds": [
-      "20000000-99e9-496b-a27e-31de7a3a8fd0"
+      "20000000-a6d8-4c60-a4ff-bf3ab12673bc"
     ],
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-65b8-432e-ab27-75b5e3da4458",
+    "Id": "20000000-053f-4c24-8199-6560bf225fbc",
     "Title": "Ceramicist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
@@ -537,7 +537,7 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-5a7b-403b-81e0-9f72595d1943",
+    "Id": "20000000-ddee-45fa-b757-be8c99a5fdad",
     "Title": "Digital Painter",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
