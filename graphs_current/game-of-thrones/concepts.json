@@ -13,5 +13,10 @@
     "Id": "10000000-d07e-467b-a306-734b1bd76ed2",
     "Title": "House Lannister",
     "Description": "Rich and powerful, ruling from Casterly Rock. Known for their cunning, ambition, and golden hair. Sigil is a lion, motto: \u0022Hear Me Roar.\u0022"
+  },
+  {
+    "Id": "10000000-12e4-4e4e-917e-e3768e3b4dc0",
+    "Title": "House Baratheon",
+    "Description": "Rulers of Storm\u0027s End, known for their physical strength, stubbornness, and black hair. Sigil is a stag, motto: \u0022Ours is the Fury.\u0022"
   }
 ]
