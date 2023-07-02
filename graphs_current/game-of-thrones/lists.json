@@ -24,14 +24,6 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "20000000-3801-45b4-8e26-7913645c96b3",
-    "Title": "Kingdoms",
-    "Description": "Geopolitical regions comprising the Seven Kingdoms, such as the North, the Reach, and Dorne, each ruled by a distinct house and contributing to the political landscape.",
-    "ParentConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
     "Id": "20000000-3801-45b4-8e26-7913645c96b4",
     "Title": "Locations",
     "Description": "Vast territories like Westeros, Essos, and beyond, with diverse landscapes, climates, and cultures, forming the backdrop for the characters\u0027 journeys and adventures.",
