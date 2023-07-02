@@ -48,5 +48,285 @@
     "Id": "10000000-0598-4bf8-8e78-7d814de820fd",
     "Title": "House Arryn",
     "Description": "Rulers of the Vale, known for their strong defensive position, nobility, and honor. Sigil is a falcon and moon, motto: \u0022As High As Honor.\u0022"
+  },
+  {
+    "Id": "10000000-7e8a-4f1f-a7e3-5b41e8e303d0",
+    "Title": "Daenerys Targaryen",
+    "Description": "Daenerys Targaryen, also known as Daenerys Stormborn or the Mother of Dragons, is a major character in Game of Thrones. She is the last surviving member of the Targaryen dynasty and has ambitions to reclaim the Iron Throne. Daenerys possesses three dragons and an unwavering determination to rule the Seven Kingdoms."
+  },
+  {
+    "Id": "10000000-20b9-4459-b057-46a76c6d5233",
+    "Title": "Jon Snow",
+    "Description": "Jon Snow, born Aegon Targaryen, is a central character in Game of Thrones. He is the son of Lyanna Stark and Rhaegar Targaryen, making him the rightful heir to the Iron Throne. Jon is known for his leadership, honor, and his role as the Lord Commander of the Night's Watch."
+  },
+  {
+    "Id": "10000000-3a4e-4c21-9c92-6d2f95a6752a",
+    "Title": "Tyrion Lannister",
+    "Description": "Tyrion Lannister is a witty and intelligent character in Game of Thrones. He is a member of House Lannister and is often underestimated due to his dwarfism. Tyrion's sharp mind and strategic abilities make him a valuable player in the political landscape of Westeros."
+  },
+  {
+    "Id": "10000000-9ff5-4e7b-bfeb-202804b862f2",
+    "Title": "Arya Stark",
+    "Description": "Arya Stark is a fierce and determined character in Game of Thrones. She is the third child of Eddard Stark and Catelyn Stark. Arya is skilled in swordsmanship and assassination, and her journey throughout the series is marked by a desire for revenge and a quest for personal identity."
+  },
+  {
+    "Id": "10000000-8fe3-4293-b59f-226fa48140d9",
+    "Title": "Cersei Lannister",
+    "Description": "Cersei Lannister is a complex and ruthless character in Game of Thrones. She is the twin sister of Jaime Lannister and the elder sister of Tyrion Lannister. Cersei's thirst for power and her cunning manipulation of events shape the course of the series and have far-reaching consequences."
+  },
+  {
+    "Id": "10000000-066d-448b-a9a0-27ad8a2dc228",
+    "Title": "Jaime Lannister",
+    "Description": "Jaime Lannister, also known as the Kingslayer, is a conflicted character in Game of Thrones. He is a member of House Lannister and is known for his skill in combat. Jaime's journey is characterized by his moral transformation and his complex relationship with his siblings and honor."
+  },
+  {
+    "Id": "10000000-ccd0-4141-8e67-1c69b6e06f2f",
+    "Title": "Sansa Stark",
+    "Description": "Sansa Stark is a resilient and strategic character in Game of Thrones. She is the eldest daughter of Eddard Stark and Catelyn Stark. Sansa's character arc involves navigating treacherous political waters and surviving in a world filled with manipulation and cruelty."
+  },
+  {
+    "Id": "10000000-1d2f-4de7-91d1-6ce4a492c3a3",
+    "Title": "Bran Stark",
+    "Description": "Bran Stark, also known as the Three-Eyed Raven, is a mystical and enigmatic character in Game of Thrones. He is the fourth child of Eddard Stark and Catelyn Stark. Bran's journey involves discovering his supernatural abilities and becoming a key player in the war against the Night King."
+  },
+  {
+    "Id": "10000000-69d5-46b6-b0f7-6b391b4e3e79",
+    "Title": "Catelyn Stark",
+    "Description": "Catelyn Stark, also known as Lady Stark, is a strong-willed and protective character in Game of Thrones. She is the wife of Eddard Stark and the mother of Robb, Sansa, Arya, Bran, and Rickon Stark. Catelyn's actions and decisions have significant repercussions for her family and the realm."
+  },
+  {
+    "Id": "10000000-d7d9-4189-8ab0-13a4be06e2b3",
+    "Title": "Robb Stark",
+    "Description": "Robb Stark is a charismatic and honorable character in Game of Thrones. He is the eldest son of Eddard Stark and Catelyn Stark. Robb becomes the King in the North and leads his army in a war against the Lannisters, aiming to avenge his father's death and secure independence for the North."
+  },
+  {
+    "Id": "10000000-2d5a-4c0b-bf3a-297a2097b38d",
+    "Title": "Ned Stark",
+    "Description": "Eddard Stark, commonly known as Ned Stark, is a pivotal character in Game of Thrones. He is the head of House Stark and the Lord of Winterfell. Ned's honor, integrity, and loyalty set the tone for the series, and his death serves as a catalyst for the power struggles that follow."
+  },
+  {
+    "Id": "10000000-76a1-42a5-bab1-74a7a76d3e60",
+    "Title": "Tywin Lannister",
+    "Description": "Tywin Lannister is a formidable and ruthless character in Game of Thrones. He is the head of House Lannister and the father of Cersei, Jaime, and Tyrion Lannister. Tywin's strategic brilliance and unwavering pursuit of power make him a formidable opponent in the game of thrones."
+  },
+  {
+    "Id": "10000000-4e50-4412-9862-441cda989a5e",
+    "Title": "Joffrey Baratheon",
+    "Description": "Joffrey Baratheon is a cruel and sadistic character in Game of Thrones. He is the eldest son of Cersei Lannister and Jaime Lannister, though officially claimed as the son of Robert Baratheon. Joffrey's reign as king is marked by his brutality and his disregard for the welfare of the realm."
+  },
+  {
+    "Id": "10000000-3a49-491f-8167-39d752fe62a6",
+    "Title": "Stannis Baratheon",
+    "Description": "Stannis Baratheon, also known as the Mannis, is a determined and rigid character in Game of Thrones. He is the younger brother of Robert Baratheon and the older brother of Renly Baratheon. Stannis believes himself to be the rightful king of Westeros and wages a relentless campaign to claim the Iron Throne."
+  },
+  {
+    "Id": "10000000-5d91-4876-a066-2abf754e43f5",
+    "Title": "Renly Baratheon",
+    "Description": "Renly Baratheon is a charismatic and ambitious character in Game of Thrones. He is the youngest brother of Robert Baratheon and Stannis Baratheon. Renly declares himself king and seeks to rule the Seven Kingdoms. His alliance with House Tyrell and his pursuit of power lead to his untimely demise."
+  },
+  {
+    "Id": "10000000-5153-46c9-a73c-22ea8d7177c7",
+    "Title": "Theon Greyjoy",
+    "Description": "Theon Greyjoy, also known as Reek, is a complex and tortured character in Game of Thrones. He is the only surviving son of Balon Greyjoy, the Lord of the Iron Islands. Theon's journey involves a crisis of identity and loyalty, as he struggles to find his place in the world."
+  },
+  {
+    "Id": "10000000-67a6-46cc-a21f-434ebc3b4a79",
+    "Title": "Petyr Baelish",
+    "Description": "Petyr Baelish, also known as Littlefinger, is a cunning and manipulative character in Game of Thrones. He is the master of coin on the Small Council and holds significant influence over the events in Westeros. Littlefinger's intricate schemes and political machinations make him a dangerous player in the game of thrones."
+  },
+  {
+    "Id": "10000000-9cc1-41df-ba61-0f89e5568500",
+    "Title": "Varys",
+    "Description": "Varys, also known as the Spider, is a mysterious and cunning character in Game of Thrones. He is a eunuch and serves as the Master of Whisperers on the Small Council. Varys is a skilled manipulator and intelligence gatherer, working behind the scenes to influence the balance of power."
+  },
+  {
+    "Id": "10000000-364d-4efb-b3eb-c2014ef6c0e6",
+    "Title": "Davos Seaworth",
+    "Description": "Davos Seaworth, also known as the Onion Knight, is a loyal and honorable character in Game of Thrones. He is a former smuggler who becomes a trusted advisor to Stannis Baratheon. Davos' unwavering loyalty and moral compass make him a valuable asset in the conflicts that arise."
+  },
+  {
+    "Id": "10000000-9aaf-4e19-a708-f21e38e85537",
+    "Title": "Melisandre",
+    "Description": "Melisandre, also known as the Red Woman, is a mysterious and influential character in Game of Thrones. She is a priestess of the Lord of Light and is known for her prophecies and magical abilities. Melisandre's role in the series involves wielding supernatural powers and influencing key events."
+  },
+  {
+    "Id": "10000000-2e69-4ddc-93d9-6af05128d4de",
+    "Title": "Samwell Tarly",
+    "Description": "Samwell Tarly, often referred to as Sam, is a kind-hearted and intellectual character in Game of Thrones. He is a member of the Night's Watch and becomes a close friend and advisor to Jon Snow. Sam's knowledge and bravery contribute to the fight against the White Walkers."
+  },
+  {
+    "Id": "10000000-6cbb-4323-9c29-ec9de4772ad2",
+    "Title": "Brienne of Tarth",
+    "Description": "Brienne of Tarth is a skilled and honorable character in Game of Thrones. She is a formidable warrior and a loyal servant. Brienne's journey involves challenges to traditional gender roles and a quest to fulfill her oath of loyalty to those she serves."
+  },
+  {
+    "Id": "10000000-bf77-4ae4-a935-fc63f40fcf7f",
+    "Title": "Sandor Clegane",
+    "Description": "Sandor Clegane, also known as the Hound, is a complex and tormented character in Game of Thrones. He is a skilled warrior with a fierce reputation. Sandor's journey involves confronting his traumatic past and finding a sense of purpose and redemption."
+  },
+  {
+    "Id": "10000000-ae6d-42c3-9db0-5054dc5f4e8c",
+    "Title": "Jorah Mormont",
+    "Description": "Jorah Mormont is a loyal and conflicted character in Game of Thrones. He is an exiled knight and serves as an advisor to Daenerys Targaryen. Jorah's journey involves his unrequited love for Daenerys and his struggle to redeem himself and regain his honor."
+  },
+  {
+    "Id": "10000000-0152-442d-96c5-2ab0f8a9aefa",
+    "Title": "Oberyn Martell",
+    "Description": "Oberyn Martell, also known as the Red Viper, is a passionate and vengeful character in Game of Thrones. He is the Prince of Dorne and seeks justice for the murder of his sister Elia. Oberyn's skill in combat and his quest for revenge have a profound impact on the series."
+  },
+  {
+    "Id": "10000000-0a52-4ea3-9baf-7e91c25ffdb3",
+    "Title": "Margaery Tyrell",
+    "Description": "Margaery Tyrell is a cunning and ambitious character in Game of Thrones. She is a member of House Tyrell and becomes a queen consort to multiple kings. Margaery's political acumen and manipulation of those around her make her a formidable player in the game of thrones."
+  },
+  {
+    "Id": "10000000-2544-4d84-9bdf-dfc084af270d",
+    "Title": "Olenna Tyrell",
+    "Description": "Olenna Tyrell, also known as the Queen of Thorns, is a shrewd and witty character in Game of Thrones. She is the matriarch of House Tyrell and a skilled player in the political landscape. Olenna's sharp tongue and strategic maneuvers make her a fan-favorite character."
+  },
+  {
+    "Id": "10000000-2ebe-480a-96f4-40b50aee1b68",
+    "Title": "Ygritte",
+    "Description": "Ygritte is a fierce and wild character in Game of Thrones. She is a skilled archer and a member of the Free Folk. Ygritte's relationship with Jon Snow is marked by love and conflict as they navigate the divide between the Night's Watch and the Free Folk."
+  },
+  {
+    "Id": "10000000-8212-460f-b3f7-749a7b8baf79",
+    "Title": "Tormund Giantsbane",
+    "Description": "Tormund Giantsbane is a fearless and loyal character in Game of Thrones. He is a renowned warrior and leader of the Free Folk. Tormund's larger-than-life personality and his role in the fight against the Night King make him a beloved character."
+  },
+  {
+    "Id": "10000000-c70e-4e55-9e6a-31d9f3f8c8e0",
+    "Title": "Davina Sand",
+    "Description": "Davina Sand is a cunning and deceptive character in Game of Thrones. She is a skilled manipulator and spy, often working behind the scenes to gather information and influence events. Davina's loyalty lies with her own interests, and she is willing to do whatever it takes to achieve her goals."
+  },
+  {
+    "Id": "10000000-3cfc-40f0-b0a8-bdc1fa5bbf43",
+    "Title": "Euron Greyjoy",
+    "Description": "Euron Greyjoy is a sadistic and unpredictable character in Game of Thrones. He is the uncle of Theon Greyjoy and seeks to claim the Iron Islands for himself. Euron's brutal nature and his mastery of naval warfare make him a dangerous adversary."
+  },
+  {
+    "Id": "10000000-109f-48fb-99f0-5e25b71ad331",
+    "Title": "Beric Dondarrion",
+    "Description": "Beric Dondarrion is a resilient and enigmatic character in Game of Thrones. He is the leader of the Brotherhood Without Banners and has been resurrected multiple times by the power of the Lord of Light. Beric's purpose revolves around serving the greater good and fighting against the forces of darkness."
+  },
+  {
+    "Id": "10000000-792b-4313-a7b3-32e6be2217da",
+    "Title": "Jaqen H'ghar",
+    "Description": "Jaqen H'ghar is a mysterious and skilled assassin in Game of Thrones. He is a Faceless Man and a member of the guild of assassins in Braavos. Jaqen's ability to change identities and his involvement in Arya Stark's training make him an intriguing and compelling character."
+  },
+  {
+    "Id": "10000000-fc2b-4aa6-952a-46df0ff5a120",
+    "Title": "Ramsay Bolton",
+    "Description": "Ramsay Bolton is a sadistic and ruthless character in Game of Thrones. He is the legitimized son of Roose Bolton and becomes the Lord of Winterfell. Ramsay's penchant for torture and cruelty make him one of the most despised characters in the series."
+  },
+  {
+    "Id": "10000000-13b4-450e-94f4-4998544f68b6",
+    "Title": "Gendry",
+    "Description": "Gendry is a skilled blacksmith and a legitimate son of Robert Baratheon in Game of Thrones. He becomes an ally to various characters and plays a key role in the conflict for the Iron Throne. Gendry's skills and noble bloodline make him a valuable asset in the series."
+  },
+  {
+    "Id": "10000000-1a4e-4c5c-a68a-9679f60ce454",
+    "Title": "Jeor Mormont",
+    "Description": "Jeor Mormont, also known as the Old Bear, is the Lord Commander of the Night's Watch in Game of Thrones. He is a respected and wise leader who guides the Night's Watch through challenging times. Jeor's dedication to defending the realm from the threats beyond the Wall is unwavering."
+  },
+  {
+    "Id": "10000000-9b07-4f0f-91e4-66024da1b2fc",
+    "Title": "Bronn",
+    "Description": "Bronn is a skilled sellsword and a witty character in Game of Thrones. He starts as a companion to Tyrion Lannister and later becomes a trusted ally to other key figures. Bronn's sharp wit and martial prowess make him a fan-favorite character."
+  },
+  {
+    "Id": "10000000-8e73-4fb4-a1f1-d3b37893a74c",
+    "Title": "High Sparrow",
+    "Description": "The High Sparrow is a pious and zealous character in Game of Thrones. He is the leader of the religious movement known as the Sparrows and gains significant influence in King's Landing. The High Sparrow's strict adherence to his beliefs and his role in shaping the Faith of the Seven have far-reaching consequences."
+  },
+  {
+    "Id": "10000000-9bfa-405f-8ef1-d56a0de5a8b6",
+    "Title": "Tommen Baratheon",
+    "Description": "Tommen Baratheon is a gentle and impressionable character in Game of Thrones. He is the youngest son of Cersei Lannister and Robert Baratheon. Tommen's reign as king is marked by his naivety and vulnerability to manipulation."
+  },
+  {
+    "Id": "10000000-2ed2-403a-99ea-29802d4eb43b",
+    "Title": "Myrcella Baratheon",
+    "Description": "Myrcella Baratheon is a kind-hearted and tragic character in Game of Thrones. She is the daughter of Cersei Lannister and Robert Baratheon. Myrcella's story revolves around her political marriages and the consequences of her family's actions."
+  },
+  {
+    "Id": "10000000-3d16-47ff-b35f-4a1f6fbce1a4",
+    "Title": "Eddison Tollett",
+    "Description": "Eddison Tollett, often called Dolorous Edd, is a loyal and sarcastic character in Game of Thrones. He is a member of the Night's Watch and becomes Jon Snow's close friend. Eddison's dry humor and pessimistic outlook provide moments of levity in the series."
+  },
+  {
+    "Id": "10000000-d3d1-43b0-9933-1b6d8ff82d24",
+    "Title": "Ellaria Sand",
+    "Description": "Ellaria Sand is a passionate and vengeful character in Game of Thrones. She is the paramour of Oberyn Martell and becomes involved in the conflict between House Martell and House Lannister. Ellaria's desire for revenge and her fierce loyalty to her family drive her actions."
+  },
+  {
+    "Id": "10000000-7805-450a-bd2c-5ad593b9b0ae",
+    "Title": "Grey Worm",
+    "Description": "Grey Worm is a skilled and disciplined character in Game of Thrones. He is the commander of the Unsullied, an army of eunuch slave soldiers. Grey Worm's journey involves finding his identity and forging deep connections in a world defined by war and political intrigue."
+  },
+  {
+    "Id": "10000000-62b8-4223-b7c9-b621f25b9078",
+    "Title": "Missandei",
+    "Description": "Missandei is a intelligent and loyal character in Game of Thrones. She is a former slave who becomes an advisor and translator for Daenerys Targaryen. Missandei's journey involves discovering her own power and agency in a world that often seeks to oppress her."
+  },
+  {
+    "Id": "10000000-5037-4a8f-9852-fdce6045ef3e",
+    "Title": "Podrick Payne",
+    "Description": "Podrick Payne is a loyal and humble character in Game of Thrones. He serves as a squire to various knights and becomes a trusted companion. Podrick's unwavering loyalty and kindness make him a beloved character in the series."
+  },
+  {
+    "Id": "10000000-2892-4a5a-8d9d-0353e6c7fc6c",
+    "Title": "Talisa Stark",
+    "Description": "Talisa Stark, originally from Volantis, is a compassionate and independent character in Game of Thrones. She becomes the wife of Robb Stark and plays a significant role in his campaign. Talisa's tragic fate and her dedication to helping others define her character."
+  },
+  {
+    "Id": "10000000-3a01-4fe5-b1aa-7c06c5a22a7d",
+    "Title": "Shireen Baratheon",
+    "Description": "Shireen Baratheon is a kind-hearted and intelligent character in Game of Thrones. She is the daughter of Stannis Baratheon and is afflicted with greyscale. Shireen's story explores themes of love, sacrifice, and the consequences of ambition."
+  },
+  {
+    "Id": "10000000-64ef-4f41-bc57-223dc3e43d9a",
+    "Title": "Daario Naharis",
+    "Description": "Daario Naharis is a skilled warrior and a confident character in Game of Thrones. He becomes a loyal advisor and lover to Daenerys Targaryen. Daario's skills in combat and his unorthodox charm make him a memorable character in the series."
+  },
+  {
+    "Id": "10000000-5f5d-438e-930a-843c68f17b9f",
+    "Title": "Jaqen H'ghar",
+    "Description": "Jaqen H'ghar is a mysterious and skilled assassin in Game of Thrones. He is a Faceless Man and a member of the guild of assassins in Braavos. Jaqen's ability to change identities and his involvement in Arya Stark's training make him an intriguing and compelling character."
+  },
+  {
+    "Id": "10000000-f82b-48f3-9ad8-7e3be700f3dc",
+    "Title": "Roose Bolton",
+    "Description": "Roose Bolton is a cunning and ruthless character in Game of Thrones. He is the Lord of the Dreadfort and becomes a key player in the War of the Five Kings. Roose's actions and alliances have far-reaching consequences for the North and the realm."
+  },
+  {
+    "Id": "10000000-9523-4d8b-9070-310f5ebd725b",
+    "Title": "Rhaegar Targaryen",
+    "Description": "Rhaegar Targaryen is a legendary and enigmatic character in Game of Thrones. He is the eldest son of the Mad King Aerys II Targaryen and is known for his beauty, charisma, and skill in combat. Rhaegar's actions and choices have profound implications for the events of the series."
+  },
+  {
+    "Id": "10000000-0714-4424-89ac-5dbf18be1e22",
+    "Title": "Yara Greyjoy",
+    "Description": "Yara Greyjoy, also known as Asha Greyjoy in the books, is a bold and determined character in Game of Thrones. She is the daughter of Balon Greyjoy and an influential leader of the Ironborn. Yara's role in the series involves her efforts to assert her power and independence in a male-dominated society."
+  },
+  {
+    "Id": "10000000-ee71-4f89-92fc-1d7f411f1926",
+    "Title": "Jojen Reed",
+    "Description": "Jojen Reed is a wise and prescient character in Game of Thrones. He is the son of Lord Howland Reed and becomes a guide and mentor to Bran Stark. Jojen's unique abilities and his insights into the mystical aspects of the world make him an important character."
+  },
+  {
+    "Id": "10000000-707e-4570-8b0b-2c6a51e6dd0e",
+    "Title": "Meera Reed",
+    "Description": "Meera Reed is a skilled and loyal character in Game of Thrones. She is the daughter of Lord Howland Reed and accompanies her brother, Jojen, in guiding Bran Stark. Meera's archery skills and her dedication to protecting Bran make her an important ally."
+  },
+  {
+    "Id": "10000000-732e-4c40-b156-f3cd423c317d",
+    "Title": "Leaf",
+    "Description": "Leaf is a mysterious and ancient character in Game of Thrones. She is one of the Children of the Forest, a magical and reclusive species. Leaf's role in the series involves protecting their sacred lands and confronting the threats beyond the Wall."
+  },
+  {
+    "Id": "10000000-6f7f-46b8-9b4f-5b7fb17d8f81",
+    "Title": "Hodor",
+    "Description": "Hodor, originally named Wylis, is a gentle and loyal character in Game of Thrones. He serves as a stable boy and becomes Bran Stark's loyal companion. Hodor's tragic fate and his simple yet profound impact on the story make him a fan-favorite character."
   }
 ]
