@@ -23,5 +23,10 @@
     "Id": "10000000-dfbb-4cf5-b34e-7932739983bd",
     "Title": "House Targaryen",
     "Description": "Former rulers of Westeros, with Valyrian roots. Known for their silver hair, purple eyes, and dragons. Sigil is a dragon, motto: \u0022Fire and Blood.\u0022"
+  },
+  {
+    "Id": "10000000-49cd-48e7-abd5-511dfcbfc498",
+    "Title": "House Tyrell",
+    "Description": "Rulers of Highgarden in the Reach. Renowned for their diplomacy, wealth from agriculture, and chivalry. Sigil is a rose, motto: \u0022Growing Strong.\u0022"
   }
 ]
