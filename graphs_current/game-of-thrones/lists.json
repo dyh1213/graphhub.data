@@ -9,10 +9,12 @@
   },
   {
     "Id": "20000000-3801-45b4-8e26-7913645c96b1",
-    "Title": "Characters",
-    "Description": "A roster of compelling individuals, including Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Arya Stark, with intricate backstories, motivations, and relationships.",
-    "ParentConceptId": "10000000-7e8a-4f1f-a7e3-5b41e8e303d0",
-    "PullFromListsIds": null,
+    "Title": "Characters TEST",
+    "Description": "A roster of compelling individuals, including Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Arya Stark, with intricate backstories, motivations, and relationships. TEST",
+    "ParentConceptId": "10000000-49cd-48e7-abd5-511dfcbfc498",
+    "PullFromListsIds": [
+      "20000000-3801-45b4-8e26-7913645c96b5"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -44,7 +46,9 @@
     "Title": "Groups",
     "Description": "Various organizations like the Night\u0027s Watch, the Faceless Men, and the Free Folk, each with their own agendas, customs, and roles in the larger narrative.",
     "ParentConceptId": "10000000-7e8a-4f1f-a7e3-5b41e8e303d0",
-    "PullFromListsIds": null,
+    "PullFromListsIds": [
+      "20000000-3801-45b4-8e26-7913645c96b1"
+    ],
     "DisableDirectMembers": false
   },
   {
