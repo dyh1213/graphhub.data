@@ -9,10 +9,12 @@
   },
   {
     "Id": "20000000-3801-45b4-8e26-7913645c96b1",
-    "Title": "Characters",
-    "Description": "A roster of compelling individuals, including Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Arya Stark, with intricate backstories, motivations, and relationships.",
-    "ParentConceptId": "10000000-7e8a-4f1f-a7e3-5b41e8e303d0",
-    "PullFromListsIds": null,
+    "Title": "Characters A",
+    "Description": "A roster of compelling individuals, including Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Arya Stark, with intricate backstories, motivations, and relationships. A",
+    "ParentConceptId": "10000000-5242-4e54-8533-9be4fe8e3e42",
+    "PullFromListsIds": [
+      "20000000-3801-45b4-8e26-7913645c96b7"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -28,7 +30,9 @@
     "Title": "Religions",
     "Description": "A collection of belief systems, including the Faith of the Seven, the Old Gods, and the Lord of Light, shaping the spiritual beliefs and practices of different characters and cultures.",
     "ParentConceptId": "10000000-7e8a-4f1f-a7e3-5b41e8e303d0",
-    "PullFromListsIds": null,
+    "PullFromListsIds": [
+      "20000000-3801-45b4-8e26-7913645c96b1"
+    ],
     "DisableDirectMembers": false
   },
   {
