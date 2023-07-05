@@ -28,5 +28,10 @@
       "Base64Image": "frida-kahlo-portrait.png"
     }
   ],
-  "TopFeaturedConcepts": null
+  "TopFeaturedConcepts": [
+    {
+      "Id": "10000000-1e9e-4e93-be44-e4bfd9a2c3590",
+      "Base64Image": "knolling-art-style.png"
+    }
+  ]
 }
