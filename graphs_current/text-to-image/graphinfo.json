@@ -36,6 +36,10 @@
     {
       "Id": "10000000-2f9e-4e93-be44-e4bfd9a2c3590",
       "Base64Image": "steampunk-art-style.png"
+    },
+    {
+      "Id": "10000000-2f9e-4e93-be44-e4bfd9a2c5550",
+      "Base64Image": "banksy-art-style.png"
     }
   ]
 }
