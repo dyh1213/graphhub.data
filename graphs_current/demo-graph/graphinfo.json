@@ -1,7 +1,12 @@
 {
   "GraphId": "999",
-  "GraphDisplayName": "Demo Graph",
+  "GraphDisplayName": "gaga",
   "GraphUrlName": "demo-graph",
   "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/demo-graph",
-  "Description": "lets go."
+  "RootConcept": null,
+  "Description": "gagaga",
+  "FeaturedLists": [],
+  "FeaturedConcepts": [],
+  "TopFeaturedLists": [],
+  "TopFeaturedConcepts": []
 }
