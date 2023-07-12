@@ -15,27 +15,27 @@
     "Description": "Artur Bordalo, also known as Bordalo II, is known for his striking street art sculptures made from found objects, often conveying environmental messages. His three-dimensional compositions inhabit urban environments and share stylistic qualities with other street artists such as Vhils and Banksy."
   },
   {
-    "Id": "10000000-024a-44e5-8844-9983420229711",
+    "Id": "4",
     "Title": "Street art",
     "Description": null
   },
   {
-    "Id": "10000000-024a-44e5-8844-99834202297111",
+    "Id": "5",
     "Title": "Sculpture",
     "Description": null
   },
   {
-    "Id": "10000000-024a-44e5-8844-998342022971111",
+    "Id": "6",
     "Title": "Found objects",
     "Description": null
   },
   {
-    "Id": "10000000-024a-44e5-8844-9983420229711111",
+    "Id": "7",
     "Title": "Urban",
     "Description": null
   },
   {
-    "Id": "10000000-024a-44e5-8844-99834202297111111",
+    "Id": "8",
     "Title": "Three-dimensional",
     "Description": null
   },
@@ -45,32 +45,32 @@
     "Description": "Arturo Souto was a Spanish painter known for his impressionistic and cubist works. His paintings, often politically charged, are characterized by vibrant color usage and figurative compositions. His style and themes find resonance with artists like Pablo Picasso and Joan Mir\u00F3."
   },
   {
-    "Id": "21",
+    "Id": "10",
     "Title": "Impressionism",
     "Description": null
   },
   {
-    "Id": "211",
+    "Id": "11",
     "Title": "Cubism",
     "Description": null
   },
   {
-    "Id": "2111",
+    "Id": "12",
     "Title": "Painting",
     "Description": null
   },
   {
-    "Id": "21111",
+    "Id": "13",
     "Title": "Vibrant",
     "Description": null
   },
   {
-    "Id": "211111",
+    "Id": "14",
     "Title": "Political",
     "Description": null
   },
   {
-    "Id": "2111111",
+    "Id": "15",
     "Title": "Figurative",
     "Description": null
   },
@@ -80,17 +80,17 @@
     "Description": "Ary Scheffer was a Dutch-French Romantic painter. His works are often figurative, portraying melancholic moods through subdued colors. His style is closely associated with other Romantic artists like Eug\u00E8ne Delacroix and Th\u00E9odore G\u00E9ricault."
   },
   {
-    "Id": "31",
+    "Id": "17",
     "Title": "Romanticism",
     "Description": null
   },
   {
-    "Id": "311",
+    "Id": "18",
     "Title": "Subdued",
     "Description": null
   },
   {
-    "Id": "3111",
+    "Id": "19",
     "Title": "Melancholic",
     "Description": null
   },
@@ -100,32 +100,32 @@
     "Description": "Asaf Hanuka is a noted Israeli comic artist and illustrator, known for his vivid color usage and satirical, cartoonish compositions in graphic novels and comic art. His style is akin to other illustrators like his twin brother Tomer Hanuka and Guy Delisle."
   },
   {
-    "Id": "41",
+    "Id": "21",
     "Title": "Graphic novels",
     "Description": null
   },
   {
-    "Id": "411",
+    "Id": "22",
     "Title": "Comic art",
     "Description": null
   },
   {
-    "Id": "4111",
+    "Id": "23",
     "Title": "Illustration",
     "Description": null
   },
   {
-    "Id": "41111",
+    "Id": "24",
     "Title": "Vivid",
     "Description": null
   },
   {
-    "Id": "411111",
+    "Id": "25",
     "Title": "Satirical",
     "Description": null
   },
   {
-    "Id": "4111111",
+    "Id": "26",
     "Title": "Cartoonish",
     "Description": null
   },
@@ -135,22 +135,22 @@
     "Description": "ASCII art is a form of digital art made using the characters defined by the ASCII standard. Its compositions are typically monospace and abstract, allowing for intricate designs to be created purely from text. While many anonymous artists have contributed to this form, specific notable artists are hard to pinpoint."
   },
   {
-    "Id": "51",
+    "Id": "28",
     "Title": "Digital art",
     "Description": null
   },
   {
-    "Id": "511",
+    "Id": "29",
     "Title": "Text",
     "Description": null
   },
   {
-    "Id": "5111",
+    "Id": "30",
     "Title": "Abstract",
     "Description": null
   },
   {
-    "Id": "51111",
+    "Id": "31",
     "Title": "Monospace",
     "Description": null
   },
@@ -160,17 +160,17 @@
     "Description": "Asger Jorn was a Danish painter and one of the founding members of the Cobra and Situationist movements. His work is known for its vibrant colors, rebellious mood, and abstract compositions, characteristics shared with artists like Pierre Alechinsky and Karel Appel."
   },
   {
-    "Id": "61",
+    "Id": "33",
     "Title": "Cobra",
     "Description": null
   },
   {
-    "Id": "611",
+    "Id": "34",
     "Title": "Situationist",
     "Description": null
   },
   {
-    "Id": "6111",
+    "Id": "35",
     "Title": "Rebellious",
     "Description": null
   },
@@ -180,17 +180,17 @@
     "Description": "Ashley Wood is an Australian comic book artist and illustrator known for his work in graphic novels and concept art. His style is characterized by dark moods, muted colors, and figurative compositions, resembling the works of artists like Ben Templesmith and Kent Williams."
   },
   {
-    "Id": "71",
+    "Id": "37",
     "Title": "Concept art",
     "Description": null
   },
   {
-    "Id": "711",
+    "Id": "38",
     "Title": "Muted",
     "Description": null
   },
   {
-    "Id": "7111",
+    "Id": "39",
     "Title": "Dark",
     "Description": null
   },
@@ -200,12 +200,12 @@
     "Description": "AssasinMonkey, an internet pseudonym, is recognized for digital art, often depicting fantastical and vibrant scenes. The artist\u0027s compositions are generally figurative, showcasing characters and creatures in dynamic scenarios. Artists like Noah Bradley and Dan Dos Santos work in a similar vein."
   },
   {
-    "Id": "81",
+    "Id": "41",
     "Title": "Digital",
     "Description": null
   },
   {
-    "Id": "811",
+    "Id": "42",
     "Title": "Fantastical",
     "Description": null
   },
@@ -215,22 +215,22 @@
     "Description": "Assassin\u0027s Creed is a popular video game franchise known for its immersive historical settings and adventurous mood. The art style includes realistic digital renderings, distinctive environmental design, and dynamic compositions. Notable artists involved include Raphael Lacoste and Martin Deschambault."
   },
   {
-    "Id": "91",
+    "Id": "44",
     "Title": "Video game art",
     "Description": null
   },
   {
-    "Id": "911",
+    "Id": "45",
     "Title": "Historical",
     "Description": null
   },
   {
-    "Id": "9111",
+    "Id": "46",
     "Title": "Adventurous",
     "Description": null
   },
   {
-    "Id": "91111",
+    "Id": "47",
     "Title": "Immersive",
     "Description": null
   },
@@ -240,27 +240,27 @@
     "Description": "Assemblage refers to an artistic style where three-dimensional compositions are made from combining various elements, often discarded materials. It is a form of modern and abstract art, with artists like Joseph Cornell and Louise Nevelson notable for their assemblage works."
   },
   {
-    "Id": "911111",
+    "Id": "49",
     "Title": "Joseph Cornell",
     "Description": null
   },
   {
-    "Id": "9111111",
+    "Id": "50",
     "Title": "Louise Nevelson",
     "Description": null
   },
   {
-    "Id": "91111111",
+    "Id": "51",
     "Title": "Modern art",
     "Description": null
   },
   {
-    "Id": "911111111",
+    "Id": "52",
     "Title": "Abstract art",
     "Description": null
   },
   {
-    "Id": "9111111111",
+    "Id": "53",
     "Title": "Mixed Media",
     "Description": null
   },
@@ -270,27 +270,27 @@
     "Description": "Astro Boy is a well-known manga and anime created by Osamu Tezuka. Its art style is characterized by monochrome illustrations, futuristic themes, and panel-based composition typical of manga. The creator, Osamu Tezuka, is a pivotal figure in the manga industry."
   },
   {
-    "Id": "91111111111",
+    "Id": "55",
     "Title": "Manga",
     "Description": null
   },
   {
-    "Id": "911111111111",
+    "Id": "56",
     "Title": "Anime",
     "Description": null
   },
   {
-    "Id": "9111111111111",
+    "Id": "57",
     "Title": "Monochrome",
     "Description": null
   },
   {
-    "Id": "91111111111111",
+    "Id": "58",
     "Title": "Futuristic",
     "Description": null
   },
   {
-    "Id": "911111111111111",
+    "Id": "59",
     "Title": "Panel",
     "Description": null
   },
@@ -300,37 +300,37 @@
     "Description": "Astrophotography is a style of photography that focuses on capturing celestial bodies in outer space. The style often involves natural lighting and varied color schemes to highlight celestial compositions. Prominent astrophotographers include Michael Shainblum and David Malin."
   },
   {
-    "Id": "9111111111111111",
+    "Id": "61",
     "Title": "Michael Shainblum",
     "Description": null
   },
   {
-    "Id": "91111111111111111",
+    "Id": "62",
     "Title": "David Malin",
     "Description": null
   },
   {
-    "Id": "911111111111111111",
+    "Id": "63",
     "Title": "Photography",
     "Description": null
   },
   {
-    "Id": "9111111111111111111",
+    "Id": "64",
     "Title": "Outer Space",
     "Description": null
   },
   {
-    "Id": "91111111111111111111",
+    "Id": "65",
     "Title": "Natural",
     "Description": null
   },
   {
-    "Id": "911111111111111111111",
+    "Id": "66",
     "Title": "Varied",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111",
+    "Id": "67",
     "Title": "Celestial",
     "Description": null
   },
@@ -340,27 +340,27 @@
     "Description": "Astropunk is a sub-genre of science fiction that combines futuristic outer space themes with a rebellious punk aesthetic. This style can be seen across various media, with compositions featuring unconventional, gritty takes on future space environments. Artists like Moebius and H.R. Giger have significantly influenced this genre."
   },
   {
-    "Id": "91111111111111111111111",
+    "Id": "69",
     "Title": "Moebius",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111",
+    "Id": "70",
     "Title": "H.R. Giger",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111",
+    "Id": "71",
     "Title": "Sci-Fi",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111",
+    "Id": "72",
     "Title": "Punk",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111",
+    "Id": "73",
     "Title": "Various",
     "Description": null
   },
@@ -370,22 +370,22 @@
     "Description": "Atelier Olschinsky is a Vienna-based design studio founded by Peter Olschinsky and Verena Weiss. Known for their abstract and digital art, their works are characterized by vivid colors, geometric compositions, and an experimental mood. They explore boundaries of design, illustration, and photography in their creations."
   },
   {
-    "Id": "9111111111111111111111111111",
+    "Id": "75",
     "Title": "Digital Art",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111",
+    "Id": "76",
     "Title": "Abstract Art",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111",
+    "Id": "77",
     "Title": "Experimental",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111",
+    "Id": "78",
     "Title": "Geometric",
     "Description": null
   },
@@ -395,12 +395,12 @@
     "Description": "Atey Ghailan is a digital artist known for his work in concept art. His style often depicts vibrant, fantastical environments and figurative compositions. His artwork, marked by a strong sense of narrative, resembles the works of other concept artists like Alex Ross and Iain McCaig."
   },
   {
-    "Id": "91111111111111111111111111111111",
+    "Id": "80",
     "Title": "Concept Art",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111",
+    "Id": "81",
     "Title": "Fantasy",
     "Description": null
   },
@@ -415,7 +415,7 @@
     "Description": "Syd Mead, known as a \u0027visual futurist\u0027, was a renowned American artist, best known for his work in the field of concept art and illustrations. His style was marked by vivid color usage, mechanical compositions, and a visionary sense of optimism about the future. He has influenced and shares similarities with artists like Ralph McQuarrie and Moebius."
   },
   {
-    "Id": "91111111111111111111111111111111111",
+    "Id": "84",
     "Title": "Norman Bel Geddes",
     "Description": null
   },
@@ -425,12 +425,12 @@
     "Description": "Retrofuturism is an art style based on depictions of the future produced in an earlier era. It is characterized by a blend of old-fashioned \u0027retro\u0027 styles with futuristic technology, often with an optimistic outlook."
   },
   {
-    "Id": "9111111111111111111111111111111111111",
+    "Id": "86",
     "Title": "Post-War Era",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111",
+    "Id": "87",
     "Title": "Optimistic",
     "Description": null
   },
@@ -440,17 +440,17 @@
     "Description": "Attack on Titan is a popular manga and anime series created by Hajime Isayama. The art style is characterized by intense, dark-colored illustrations that depict a dystopian environment. The composition of the artwork is dynamic, reflecting the series\u0027 action-packed narrative."
   },
   {
-    "Id": "911111111111111111111111111111111111111",
+    "Id": "89",
     "Title": "Dystopian",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111",
+    "Id": "90",
     "Title": "Intense",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111",
+    "Id": "91",
     "Title": "Dynamic",
     "Description": null
   },
@@ -460,22 +460,22 @@
     "Description": "Aubrey Beardsley was a prominent English illustrator and author known for his black ink drawings that epitomize the Art Nouveau style. His work is noted for its monochrome color scheme, stylized compositions, and provocative mood. Similar artists include Alphonse Mucha and Henri de Toulouse-Lautrec."
   },
   {
-    "Id": "911111111111111111111111111111111111111111",
+    "Id": "93",
     "Title": "Art Nouveau",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111",
+    "Id": "94",
     "Title": "Ink",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111",
+    "Id": "95",
     "Title": "Provocative",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111",
+    "Id": "96",
     "Title": "Stylized",
     "Description": null
   },
@@ -485,27 +485,27 @@
     "Description": "Aubusson tapestry refers to the tapestry art tradition of the Aubusson region in France. It is characterized by historical and narrative compositions, varied colors, and is executed in textile medium. Jean Lur\u00E7at and Michel Tourli\u00E8re are among the artists known for Aubusson tapestry."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111",
+    "Id": "98",
     "Title": "Jean Lur\u00E7at",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111",
+    "Id": "99",
     "Title": "Michel Tourli\u00E8re",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111",
+    "Id": "100",
     "Title": "Tapestry art",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111",
+    "Id": "101",
     "Title": "Textile",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111",
+    "Id": "102",
     "Title": "Narrative",
     "Description": null
   },
@@ -515,17 +515,17 @@
     "Description": "Audrey Kawasaki is a Los Angeles-based painter known for her distinct style that blends elements of manga and Art Nouveau. Her work, rendered in oil, often features pastel colors, mysterious moods, and figurative compositions set in fantastical environments. Artists James Jean and Yoshitaka Amano have similar styles."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111",
+    "Id": "104",
     "Title": "Oil",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111",
+    "Id": "105",
     "Title": "Pastel",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111",
+    "Id": "106",
     "Title": "Mysterious",
     "Description": null
   },
@@ -535,7 +535,7 @@
     "Description": "August Macke was a German painter and one of the leading figures of the Expressionist movement. His style is characterized by bright colors, abstract compositions, and emotional undertones, rendered primarily in painting medium. His style shares similarities with artists like Franz Marc and Robert Delaunay."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111",
+    "Id": "108",
     "Title": "Expressionism",
     "Description": null
   },
@@ -545,12 +545,12 @@
     "Description": "Orphism, also known as Orphic Cubism, was an art movement in the early 20th century that focused on pure abstraction and bright colors. Orphism aimed to convey meaning through color and abstract form, often with a musical or lyrical quality."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111",
+    "Id": "110",
     "Title": "Bright",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111",
+    "Id": "111",
     "Title": "Emotional",
     "Description": null
   },
@@ -560,17 +560,17 @@
     "Description": "August Sander was a German photographer known for his portraiture work and a neutral, realistic approach to his subjects. He often employed natural lighting and a monochrome color scheme. His style has influenced other photographers, including Diane Arbus and Richard Avedon."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111",
+    "Id": "113",
     "Title": "Portraiture",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111",
+    "Id": "114",
     "Title": "Neutral",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111",
+    "Id": "115",
     "Title": "Realistic",
     "Description": null
   },
@@ -580,17 +580,17 @@
     "Description": "Augusta Savage was a significant African-American sculptor associated with the Harlem Renaissance. Her work is characterized by monochrome color schemes, realistic moods, and figurative compositions, predominantly in the medium of sculpture. Her style is in line with artists like Aaron Douglas and Jacob Lawrence."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111",
+    "Id": "117",
     "Title": "Harlem Renaissance",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111",
+    "Id": "118",
     "Title": "Futurism",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111",
+    "Id": "119",
     "Title": "Mechanical",
     "Description": null
   },
@@ -600,22 +600,22 @@
     "Description": "Biopunk is a subgenre of science fiction that focuses on the implications of biotechnology. The style is often depicted in various media, with dark colors, grim moods, and futuristic compositions set in dystopian environments. Authors like William Gibson and Paolo Bacigalupi have explored this genre."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "121",
     "Title": "William Gibson",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "122",
     "Title": "Paolo Bacigalupi",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "123",
     "Title": "Science Fiction",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "124",
     "Title": "Grim",
     "Description": null
   },
@@ -625,12 +625,12 @@
     "Description": "Bioshock is a popular video game known for its distinct Art Deco inspired style. The game\u0027s artwork, primarily in digital medium, features an underwater environment with muted colors, mysterious mood, and a narrative-driven composition. Ken Levine, the game\u0027s creator, is a significant figure associated with this style."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "126",
     "Title": "Art Deco",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "127",
     "Title": "Underwater",
     "Description": null
   },
@@ -640,27 +640,27 @@
     "Description": "Bird\u0027s eye view refers to an elevated perspective of an object, often used to create panoramic compositions in art. The style can be applied in various mediums and typically features aerial environments. Notable artists who have used this perspective include Pieter Bruegel the Elder and Leonardo da Vinci."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "129",
     "Title": "Pieter Bruegel the Elder",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "130",
     "Title": "Leonardo da Vinci",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "131",
     "Title": "Realism",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "132",
     "Title": "Aerial",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "133",
     "Title": "Panoramic",
     "Description": null
   },
@@ -670,12 +670,12 @@
     "Description": "Bjarke Ingels is a Danish architect known for his innovative approach to modern architecture. His work, primarily in the medium of architecture, features urban environments with geometric compositions. His style can be compared to architects like Rem Koolhaas and Zaha Hadid."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "135",
     "Title": "Modern Architecture",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "136",
     "Title": "Architecture",
     "Description": null
   },
@@ -685,12 +685,12 @@
     "Description": "Black Butler is a popular anime and manga series created by Yana Toboso. The artwork in Black Butler features a dark, Gothic mood and figurative compositions set in a Victorian environment. It primarily uses the medium of illustration."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "138",
     "Title": "Victorian Era",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "139",
     "Title": "Gothic",
     "Description": null
   },
@@ -700,12 +700,12 @@
     "Description": "Black Lagoon is a renowned anime and manga series created by Rei Hiroe. The style of Black Lagoon is known for its vivid color schemes, action-filled moods, and dynamic compositions set in urban environments, rendered mainly through animation."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "141",
     "Title": "Animation",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "142",
     "Title": "Action",
     "Description": null
   },
@@ -715,32 +715,32 @@
     "Description": "Blackboard style refers to artwork created with chalk on a blackboard, often for informative or educational purposes. This style of art is characterized by monochrome color schemes and text-based compositions. Artists like David Ellis and Hans-Peter Feldmann have used this technique in their work."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "144",
     "Title": "David Ellis",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "145",
     "Title": "Hans-Peter Feldmann",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "146",
     "Title": "Chalk Art",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "147",
     "Title": "Chalk",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "148",
     "Title": "Informative",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "149",
     "Title": "Text-based",
     "Description": null
   },
@@ -750,37 +750,37 @@
     "Description": "Blacklight paint is a type of paint that glows under ultraviolet light, used in psychedelic and surrealist art. This style features fluorescent colors, surreal moods, and abstract compositions, rendered primarily in paint. Artists like Kenny Scharf and Alex Grey are known for utilizing this style."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "151",
     "Title": "Kenny Scharf",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "152",
     "Title": "Alex Grey",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "153",
     "Title": "Psychedelic Art",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "154",
     "Title": "Paint",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "155",
     "Title": "Ultraviolet",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "156",
     "Title": "Fluorescent",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "157",
     "Title": "Surreal",
     "Description": null
   },
@@ -790,7 +790,7 @@
     "Description": "Blame is a manga series created by Tsutomu Nihei. It\u0027s noted for its dark, cybernetic environment, monochrome colors, and futuristic compositions. The artwork of Blame is primarily rendered in illustration."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "159",
     "Title": "Cybernetic",
     "Description": null
   },
@@ -800,7 +800,7 @@
     "Description": "Bleach is a popular anime and manga series created by Tite Kubo. Its art style is characterized by vivid colors, action-filled moods, and figurative compositions set in supernatural environments. The art of Bleach is mainly realized in animation."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "161",
     "Title": "Supernatural",
     "Description": null
   },
@@ -810,7 +810,7 @@
     "Description": "Bill Jacklin, an artist known for his abstract expressionism, uses vibrant colors in his paintings. His compositions are dynamic, conveying an energetic atmosphere."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "163",
     "Title": "Abstract expressionism",
     "Description": null
   },
@@ -820,12 +820,12 @@
     "Description": "Bill Mantlo is known for his work in the comic book style, with drawing being the primary medium. His narratives are widely recognized in the comic industry."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "165",
     "Title": "Comic book",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "166",
     "Title": "Drawing",
     "Description": null
   },
@@ -840,12 +840,12 @@
     "Description": "Bill Traylor, an outsider artist, is known for his vibrant and simplified drawings. His work reflects his personal experiences and views of the world."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "169",
     "Title": "Outsider art",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "170",
     "Title": "Simplified",
     "Description": null
   },
@@ -855,17 +855,17 @@
     "Description": "Bill Viola is a renowned video artist. His work often involves varied lighting and creates an introspective mood, exploring the depths of human experiences."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "172",
     "Title": "Video art",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "173",
     "Title": "Video",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "174",
     "Title": "Introspective",
     "Description": null
   },
@@ -875,7 +875,7 @@
     "Description": "Bill Watterson is the creator of \u0027Calvin and Hobbes\u0027, and his style is defined by the comic strip medium. His work combines humor with deep philosophical themes."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "176",
     "Title": "Comic strip",
     "Description": null
   },
@@ -890,12 +890,12 @@
     "Description": "Billy Childish is recognized for his raw and vibrant painting style that borrows elements from both expressionism and naive art."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "179",
     "Title": "Naive art",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "180",
     "Title": "Raw",
     "Description": null
   },
@@ -905,22 +905,22 @@
     "Description": "Biological illustration style is a type of scientific illustration, mainly conveyed through detailed drawings with realistic colors, used to represent biological entities."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "182",
     "Title": "Ernst Haeckel",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "183",
     "Title": "Maria Sibylla Merian",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "184",
     "Title": "Scientific illustration",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "185",
     "Title": "Detailed",
     "Description": null
   },
@@ -930,17 +930,17 @@
     "Description": "Christopher Balaskas is a digital artist specializing in conceptual art, often creating vivid, fantasy landscapes."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "187",
     "Title": "Conceptual Art",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "188",
     "Title": "Digital Painting",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "189",
     "Title": "Fantasy Landscapes",
     "Description": null
   },
@@ -950,22 +950,22 @@
     "Description": "Christopher Nolan is a renowned film director known for his complex narratives, high-contrast lighting, and suspenseful moods."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "191",
     "Title": "Cinematic",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "192",
     "Title": "High Contrast",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "193",
     "Title": "Suspenseful",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "194",
     "Title": "Complex Narratives",
     "Description": null
   },
@@ -975,7 +975,7 @@
     "Description": "Christopher R. W. Nevinson was a painter best known for his grim depictions of war zones in Futurism and Cubism styles."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "196",
     "Title": "War Zones",
     "Description": null
   },
@@ -985,12 +985,12 @@
     "Description": "Christopher Ryan McKenney is a photographer known for his surreal, conceptual photography predominantly in natural environments."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "198",
     "Title": "Conceptual Photography",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "199",
     "Title": "Natural Light",
     "Description": null
   },
@@ -1000,17 +1000,17 @@
     "Description": "Christopher Wool is a painter known for his contemporary art style, typically creating monochromatic, text-based imagery."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "201",
     "Title": "Contemporary Art",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "202",
     "Title": "Monochromatic",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "203",
     "Title": "Text-based Imagery",
     "Description": null
   },
@@ -1020,27 +1020,27 @@
     "Description": "Chromolithography is a printmaking style that uses stone lithography to produce multi-colored, layered imagery."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "205",
     "Title": "Louis Prang",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "206",
     "Title": "Printmaking",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "207",
     "Title": "Stone Lithography",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "208",
     "Title": "Multi-color",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "209",
     "Title": "Layered Imagery",
     "Description": null
   },
@@ -1050,17 +1050,17 @@
     "Description": "Chuck Close is a renowned painter known for his Photorealism style. His works often utilize a grid-based composition and a full spectrum of colors."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "211",
     "Title": "Photorealism",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "212",
     "Title": "Full Spectrum",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "213",
     "Title": "Grid-based",
     "Description": null
   },
@@ -1070,22 +1070,22 @@
     "Description": "Cibulak porcelain is a style of porcelain art that features ceramics with predominantly blue and white colors and floral motifs."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "215",
     "Title": "Porcelain Art",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "216",
     "Title": "Ceramics",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "217",
     "Title": "Blue and White",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "218",
     "Title": "Floral Motifs",
     "Description": null
   },
@@ -1095,12 +1095,12 @@
     "Description": "Cicely Mary Barker was an illustrator known for her fantastical, nature-based watercolor illustrations featuring vibrant colors and figurative compositions."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "220",
     "Title": "Watercolor",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "221",
     "Title": "Nature",
     "Description": null
   },
@@ -1110,7 +1110,7 @@
     "Description": "Cindy Sherman is a renowned photographer known for her provocative, conceptual photography style, often using self-portraiture."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "223",
     "Title": "Self-portraiture",
     "Description": null
   },
@@ -1125,12 +1125,12 @@
     "Description": "Gregory Crewdson is a photographer known for his narrative and surrealistic style. His photos, often set in suburban environments, have dramatic lighting and a melancholic mood, similar to Cindy Sherman\u0027s work."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "226",
     "Title": "Dramatic",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "227",
     "Title": "Wide-angle Shots",
     "Description": null
   },
@@ -1140,12 +1140,12 @@
     "Description": "CineStill 50 is a style of film photography known for its use under daylight conditions, resulting in vivid colors."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "229",
     "Title": "Film Photography",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "230",
     "Title": "Daylight",
     "Description": null
   },
@@ -1155,22 +1155,22 @@
     "Description": "Civil War Fashion refers to the style of clothing prevalent during the Civil War era, characterized by period-specific colors and dressmaking patterns."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "232",
     "Title": "Historical Fashion",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "233",
     "Title": "19th Century",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "234",
     "Title": "Period-specific",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "235",
     "Title": "Dressmaking Patterns",
     "Description": null
   },
@@ -1180,17 +1180,17 @@
     "Description": "Clannad is a visual novel turned anime characterized by its character-driven narratives in urban and school settings. It is known for its emotional mood and saturated color scheme."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "237",
     "Title": "Urban and School settings",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "238",
     "Title": "Saturated",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "239",
     "Title": "Character-driven",
     "Description": null
   },
@@ -1200,27 +1200,27 @@
     "Description": "Emo fashion style, linked to Goth, Punk, and Grunge, often includes layered clothing. It features a predominantly black color scheme with touches of bright colors and conveys a melancholic mood."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "241",
     "Title": "Goth",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "242",
     "Title": "Grunge",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "243",
     "Title": "Clothing",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "244",
     "Title": "Black and Bright Colors",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "245",
     "Title": "Layered",
     "Description": null
   },
@@ -1230,22 +1230,22 @@
     "Description": "Encaustic style is a method of painting using hot wax that contains color pigments. This technique, often linked to Abstract Expressionism, results in vibrant colors and lighting."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "247",
     "Title": "Jasper Johns",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "248",
     "Title": "Fayum mummy portraits",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "249",
     "Title": "Abstract Expressionism",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "250",
     "Title": "Encaustic paint",
     "Description": null
   },
@@ -1255,22 +1255,22 @@
     "Description": "Encyclopedia Page style is related to information design. It uses a grid composition, with monochrome color schemes. The medium is print and it often seen in resources like \u0027Microsoft Encarta\u0027."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "252",
     "Title": "Microsoft Encarta",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "253",
     "Title": "Information Design",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "254",
     "Title": "Print",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "255",
     "Title": "Grid",
     "Description": null
   },
@@ -1280,17 +1280,17 @@
     "Description": "Engineering Diagram style, tied to Technical Drawing, typically uses a schematic composition. These drawings are often monochrome and can be digital or hand-drawn, as in the work of Leonardo Da Vinci."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "257",
     "Title": "Leonardo Da Vinci",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "258",
     "Title": "Technical Drawing",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "259",
     "Title": "Schematic",
     "Description": null
   },
@@ -1300,12 +1300,12 @@
     "Description": "Engraving style is associated with the Renaissance and Baroque periods. It uses detailed composition with a chiaroscuro lighting technique and is typically monochromatic."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "261",
     "Title": "Albrecht D\u00FCrer",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "262",
     "Title": "Gustave Dor\u00E9",
     "Description": null
   },
@@ -1315,17 +1315,17 @@
     "Description": "The Renaissance style is a period of European art from the 14th to 17th century, marked by a renewed interest in classical learning and values. It is characterized by balanced compositions, realistic representation, and a focus on light and perspective."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "264",
     "Title": "Baroque",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "265",
     "Title": "Paper",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "266",
     "Title": "Chiaroscuro",
     "Description": null
   },
@@ -1335,22 +1335,22 @@
     "Description": "Enki Bilal, a renowned comic artist, is known for his Graphic Novel style art. His work usually features full color, sequential composition seen in mediums like comics."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "268",
     "Title": "Graphic Novel",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "269",
     "Title": "Comics",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "270",
     "Title": "Full color",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "271",
     "Title": "Sequential",
     "Description": null
   },
@@ -1360,7 +1360,7 @@
     "Description": "Enoch Bolles, a famous illustrator, is known for his Art Deco and Pin-up Art styles. His works are vibrant, often figurative compositions executed primarily in painting."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "273",
     "Title": "Pin-up Art",
     "Description": null
   },
@@ -1370,7 +1370,7 @@
     "Description": "Ergo Proxy is a science fiction anime featuring a Cyberpunk style. It presents a dark color scheme, evoking a dystopian mood, and a futuristic composition."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "275",
     "Title": "Cyberpunk",
     "Description": null
   },
@@ -1380,12 +1380,12 @@
     "Description": "Eric Carle, a renowned illustrator, is known for his work in Children\u0027s Literature. His distinctive style uses vibrant collage work, with a simplified composition that appeals to children."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "277",
     "Title": "Children\u0027s Literature",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "278",
     "Title": "Collage",
     "Description": null
   },
@@ -1395,17 +1395,17 @@
     "Description": "Eric Lacombe, a painter, creates art in a Surrealism style. His work is characterized by dark colors, a disturbing mood, and distorted compositions."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "280",
     "Title": "Surrealism",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "281",
     "Title": "Disturbing",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "282",
     "Title": "Distorted",
     "Description": null
   },
@@ -1415,12 +1415,12 @@
     "Description": "Eric Zener, a painter known for his Realism style, often sets his compositions in water environments. His paintings feature soft lighting, realistic colors, and intricate details."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "284",
     "Title": "Water",
     "Description": null
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "285",
     "Title": "Soft",
     "Description": null
   },
@@ -1430,7 +1430,7 @@
     "Description": "Erich Heckel, an Expressionist painter, uses vibrant colors to convey an anxious mood through distorted compositions."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "287",
     "Title": "Anxious",
     "Description": null
   },
@@ -1440,7 +1440,7 @@
     "Description": "Erik Madigan Heck, a Fashion Photographer, is known for his stylized compositions. His photography uses soft lighting and is characterized by saturated colors."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "289",
     "Title": "Fashion Photography",
     "Description": null
   },
@@ -1450,17 +1450,17 @@
     "Description": "Erik Nitsche, a Graphic Designer, adheres to a Modernist style. His designs showcase bold colors and geometric composition."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "291",
     "Title": "Modernism",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "292",
     "Title": "Graphic Design",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "293",
     "Title": "Bold",
     "Description": null
   },
@@ -1470,7 +1470,7 @@
     "Description": "Erik Spiekermann, a prominent Typographer, is known for his use of grid composition and monochrome color scheme. His work primarily resides in the medium of print."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "295",
     "Title": "Typography",
     "Description": null
   },
@@ -1480,12 +1480,12 @@
     "Description": "Peter Bagge is a well-known figure in alternative comics, with a cartoonish style that often features exaggerated characters and satirical themes."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "297",
     "Title": "Alternative Comics",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "298",
     "Title": "Comic Book Art",
     "Description": null
   },
@@ -1495,7 +1495,7 @@
     "Description": "Peter Blake is a British pop artist best known for co-creating the album cover for the Beatles\u0027 \u0027Sgt. Pepper\u0027s Lonely Hearts Club Band\u0027. His work often incorporates imagery from advertisements, music, and popular culture."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "300",
     "Title": "Pop Art",
     "Description": null
   },
@@ -1505,7 +1505,7 @@
     "Description": "Peter Doig is a Scottish painter known for his abstract and landscape paintings that incorporate elements of post-impressionism. His style is characterized by a vivid color palette and dreamlike scenes."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "302",
     "Title": "Post-Impressionism",
     "Description": null
   },
@@ -1515,7 +1515,7 @@
     "Description": "Peter Dombrovskis was a renowned Australian photographer known for his nature and landscape photography. His images, often characterized by their exquisite detail and composition, played a crucial role in promoting environmental awareness."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "304",
     "Title": "Landscape Photography",
     "Description": null
   },
@@ -1530,7 +1530,7 @@
     "Description": "Peter Fischli is a Swiss artist known for his collaboration with David Weiss. Their work, often whimsical and thoughtful, utilizes a variety of mediums including sculpture, film, and installation."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "307",
     "Title": "Installation Art",
     "Description": null
   },
@@ -1540,7 +1540,7 @@
     "Description": "Peter Gric is a Czech-Australian artist known for his surreal and fantastic realism works. His paintings often depict futuristic and dystopian settings, combined with elements of abstraction and architecture."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "309",
     "Title": "Fantastic Realism",
     "Description": null
   },
@@ -1550,7 +1550,7 @@
     "Description": "Peter Henry Emerson was a pioneering photographer who played a significant role in the Pictorialist movement. His photographic work often captures the landscapes and rural life of the British countryside."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "311",
     "Title": "Pictorialism",
     "Description": null
   },
@@ -1560,12 +1560,12 @@
     "Description": "Peter Jackson is a New Zealand film director, screenwriter, and film producer, best known for directing the \u0027The Lord of the Rings\u0027 and \u0027The Hobbit\u0027 trilogies. His work is characterized by epic storytelling, rich world-building, and innovative special effects."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "313",
     "Title": "Epic",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "314",
     "Title": "Film",
     "Description": null
   },
@@ -1585,7 +1585,7 @@
     "Description": "Peter Mohrbacher is an independent illustrator specializing in fantastical and mythological themes. His digital artworks often depict ethereal beings and divine creatures, with a unique mix of realism and imaginative design."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "318",
     "Title": "Fantasy Art",
     "Description": null
   },
@@ -1600,7 +1600,7 @@
     "Description": "Peter Saville is an English graphic designer known for his record sleeve designs for Factory Records artists. Saville\u0027s designs, often minimalist and employing a modernist approach, have become iconic within the music industry."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "321",
     "Title": "Design",
     "Description": null
   },
@@ -1610,7 +1610,7 @@
     "Description": "Peter Turnley is an American photojournalist known for his dramatic coverage of international events. His work has captured some of the most significant moments in recent history, bringing them to the global audience with empathy and power."
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "323",
     "Title": "Photojournalism",
     "Description": null
   },
@@ -1625,7 +1625,7 @@
     "Description": "Petra Collins is a Canadian photographer and artist, known for her dreamlike and ethereal photographs that explore female identity and adolescence. Her work often includes elements of magical realism, blurring the lines between reality and fantasy."
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "326",
     "Title": "Modern Photography",
     "Description": null
   },
@@ -1640,17 +1640,17 @@
     "Description": "Phad painting is a style of Indian scroll painting, typically done on cloth. These paintings are known for their intricate details, vivid colors, and depict epic narratives of local deities and heroes."
   },
   {
-    "Id": "91111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "329",
     "Title": "Kalyan Joshi",
     "Description": null
   },
   {
-    "Id": "911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "330",
     "Title": "Prakash Joshi",
     "Description": null
   },
   {
-    "Id": "9111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "331",
     "Title": "Indian Folk Art",
     "Description": null
   },
@@ -1660,7 +1660,7 @@
     "Description": "Philip Johnson was an influential American architect known for his work in Modern and later Postmodern architectural styles. His notable works include the Glass House and the AT\u0026T Building."
   },
   {
-    "Id": "921",
+    "Id": "333",
     "Title": "Postmodern Architecture",
     "Description": null
   },
@@ -1680,7 +1680,7 @@
     "Description": "Philippe Druillet is a French comic book artist and creator known for his baroque, intricate drawings and innovative approach to graphic narrative. His work often explores fantasy and science fiction themes."
   },
   {
-    "Id": "941",
+    "Id": "337",
     "Title": "Graphic Novel Art",
     "Description": null
   },
@@ -1690,7 +1690,7 @@
     "Description": "Olivier Valsecchi is a French photographer known for his atmospheric and evocative images. His works often explore themes of life, death, and rebirth, with a distinctively moody and dramatic aesthetic."
   },
   {
-    "Id": "951",
+    "Id": "339",
     "Title": "Contemporary Photography",
     "Description": null
   },
@@ -1700,7 +1700,7 @@
     "Description": "Olmec Fashion refers to the clothing and adornments depicted in the art and sculptures of the Olmec civilization, one of the earliest major civilizations in Mexico. This style is characterized by the representation of headdresses, loincloths, and jewelry."
   },
   {
-    "Id": "961",
+    "Id": "341",
     "Title": "Pre-Columbian Art",
     "Description": null
   },
@@ -1710,17 +1710,17 @@
     "Description": "The \u0027One line\u0027 style is a form of drawing where the image is created with a single, unbroken line. It is often used to create abstract images or to capture the essence of a subject with minimal detail."
   },
   {
-    "Id": "971",
+    "Id": "343",
     "Title": "Pablo Picasso",
     "Description": null
   },
   {
-    "Id": "9711",
+    "Id": "344",
     "Title": "Quibe",
     "Description": null
   },
   {
-    "Id": "97111",
+    "Id": "345",
     "Title": "Minimalism",
     "Description": null
   },
@@ -1745,12 +1745,12 @@
     "Description": "Organic Architecture is a philosophical approach to architectural design promoting harmony between human habitation and the natural world. This is achieved by integrating the building with its site and using natural materials in a way that blurs the line between the built and the natural environment."
   },
   {
-    "Id": "991",
+    "Id": "350",
     "Title": "Frank Lloyd Wright",
     "Description": null
   },
   {
-    "Id": "9911",
+    "Id": "351",
     "Title": "Antoni Gaud\u00ED",
     "Description": null
   },
@@ -1760,12 +1760,12 @@
     "Description": "Orientalism is an artistic and cultural style that portrays Eastern cultures as exotic, opulent, and at times decadent. It is characterized by its focus on architectural, costume, and landscape details of the Middle East and North Africa, often reflecting a Western perspective."
   },
   {
-    "Id": "99111",
+    "Id": "353",
     "Title": "Jean-L\u00E9on G\u00E9r\u00F4me",
     "Description": null
   },
   {
-    "Id": "991111",
+    "Id": "354",
     "Title": "Eug\u00E8ne Delacroix",
     "Description": null
   },
@@ -1775,17 +1775,17 @@
     "Description": "Origami is the traditional Japanese art of paper folding. It involves transforming a flat square sheet of paper into a finished sculpture through folding and sculpting, without cuts or glue. The art ranges from simple forms like birds and flowers to highly complex representations."
   },
   {
-    "Id": "9911111",
+    "Id": "356",
     "Title": "Akira Yoshizawa",
     "Description": null
   },
   {
-    "Id": "99111111",
+    "Id": "357",
     "Title": "Robert J. Lang",
     "Description": null
   },
   {
-    "Id": "991111111",
+    "Id": "358",
     "Title": "Paper Art",
     "Description": null
   },
@@ -1795,32 +1795,32 @@
     "Description": "In the context of art, an \u0027Ornament\u0027 refers to a decorative element added to enhance the aesthetic appeal of a work. These elements can range from simple geometric patterns to elaborate designs, and can be found across various mediums, such as architecture, textiles, ceramics, and metalwork."
   },
   {
-    "Id": "9911111111",
+    "Id": "360",
     "Title": "Louis Comfort Tiffany",
     "Description": null
   },
   {
-    "Id": "99111111111",
+    "Id": "361",
     "Title": "Peter Carl Faberg\u00E9",
     "Description": null
   },
   {
-    "Id": "991111111111",
+    "Id": "362",
     "Title": "Decorative Art",
     "Description": null
   },
   {
-    "Id": "9911111111111",
+    "Id": "363",
     "Title": "Robert Delaunay",
     "Description": null
   },
   {
-    "Id": "99111111111111",
+    "Id": "364",
     "Title": "Sonia Delaunay",
     "Description": null
   },
   {
-    "Id": "991111111111111",
+    "Id": "365",
     "Title": "Franti\u0161ek Kupka",
     "Description": null
   },
@@ -1830,12 +1830,12 @@
     "Description": "Orthodox icons are religious works of art, most commonly paintings, in the cultures of the Eastern Orthodox Church, Oriental Orthodoxy, and in certain Eastern Catholic churches. They are characterized by their highly formal and stylized representations of religious figures, often with a gold background."
   },
   {
-    "Id": "9911111111111111",
+    "Id": "367",
     "Title": "Andrei Rublev",
     "Description": null
   },
   {
-    "Id": "99111111111111111",
+    "Id": "368",
     "Title": "Byzantine Art",
     "Description": null
   },
@@ -1845,17 +1845,17 @@
     "Description": "Os Gemeos is a pair of identical twin street artists from Brazil, known for their distinctive style of colorful and imaginative graffiti. Their work often features yellow-skinned characters in fantastical situations and draws on influences from hip-hop culture and Brazilian folklore."
   },
   {
-    "Id": "991111111111111111",
+    "Id": "370",
     "Title": "Street Art",
     "Description": null
   },
   {
-    "Id": "9911111111111111111",
+    "Id": "371",
     "Title": "Graffiti Art",
     "Description": null
   },
   {
-    "Id": "99111111111111111111",
+    "Id": "372",
     "Title": "Mural",
     "Description": null
   },
@@ -1870,12 +1870,12 @@
     "Description": "Oscar de la Renta was a Dominican-American fashion designer who rose to prominence in the mid-20th century. He is known for his elegant and feminine designs that have been worn by some of the most famous women in the world, from movie stars to first ladies."
   },
   {
-    "Id": "991111111111111111111",
+    "Id": "375",
     "Title": "High Fashion",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111",
+    "Id": "376",
     "Title": "Fashion Design",
     "Description": null
   },
@@ -1890,7 +1890,7 @@
     "Description": "Oscar Niemeyer was a Brazilian architect and a key figure in the development of modern architecture. He is known for his designs of civic buildings for Bras\u00EDlia, Brazil\u0027s capital city, and for his use of abstract forms and curves that characterize most of his works."
   },
   {
-    "Id": "99111111111111111111111",
+    "Id": "379",
     "Title": "Brazilian Brutalism",
     "Description": null
   },
@@ -1900,7 +1900,7 @@
     "Description": "Oskar Fischinger was a German-American abstract animator, filmmaker, and painter, noted for creating abstract musical animation before the advent of computer graphics. His works are characterized by geometric shapes that move in time with a music soundtrack."
   },
   {
-    "Id": "991111111111111111111111",
+    "Id": "381",
     "Title": "Abstract Animation",
     "Description": null
   },
@@ -1915,7 +1915,7 @@
     "Description": "Oskar Schlemmer was a German painter, sculptor, designer and choreographer associated with the Bauhaus school. He is most famous for his \u0027Triadic Ballet,\u0027 where actors are transformed into geometric shapes. However, his work also includes various media, and is marked by a simplification of form and figure."
   },
   {
-    "Id": "9911111111111111111111111",
+    "Id": "384",
     "Title": "Bauhaus",
     "Description": null
   },
@@ -1935,7 +1935,7 @@
     "Description": "Stephen Hillenburg was an animator known for his unique cartoon style. His work primarily involved animation and is famously associated with \u0027SpongeBob SquarePants\u0027."
   },
   {
-    "Id": "99111111111111111111111111",
+    "Id": "388",
     "Title": "Cartoon",
     "Description": null
   },
@@ -1945,7 +1945,7 @@
     "Description": "Stephen Shore is known for his unique color photography style. He is a photographer whose work is characterized by the transformation of mundane subjects into compelling art."
   },
   {
-    "Id": "991111111111111111111111111",
+    "Id": "390",
     "Title": "Color photography",
     "Description": null
   },
@@ -1955,7 +1955,7 @@
     "Description": "Steve Dillon was a comic book artist known for his distinctive style in illustration. His work is iconic in the comic book industry, with a legacy in titles like \u0027Preacher\u0027 and \u0027Punisher\u0027."
   },
   {
-    "Id": "9911111111111111111111111111",
+    "Id": "392",
     "Title": "Comic book art",
     "Description": null
   },
@@ -2005,12 +2005,12 @@
     "Description": "Stippling is an artistic technique that uses numerous small dots to create images and shading. It is associated with pointillism and is typically used in drawing."
   },
   {
-    "Id": "99111111111111111111111111111",
+    "Id": "402",
     "Title": "Pointillism",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111",
+    "Id": "403",
     "Title": "Dot arrangement",
     "Description": null
   },
@@ -2020,17 +2020,17 @@
     "Description": "Stone Age Fashion style refers to the primitive style of dressing and accessories from the Stone Age period. It involves simple and functional clothing, often created from natural materials."
   },
   {
-    "Id": "9911111111111111111111111111111",
+    "Id": "405",
     "Title": "Prehistoric artists",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111",
+    "Id": "406",
     "Title": "Primitive",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111",
+    "Id": "407",
     "Title": "Textile Art",
     "Description": null
   },
@@ -2040,12 +2040,12 @@
     "Description": "Stop-motion animation is a film style where objects are physically manipulated in small increments between individually photographed frames so they will appear to exhibit independent motion when the frames are played as a sequence."
   },
   {
-    "Id": "9911111111111111111111111111111111",
+    "Id": "409",
     "Title": "Nick Park",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111",
+    "Id": "410",
     "Title": "Tim Burton",
     "Description": null
   },
@@ -2055,7 +2055,7 @@
     "Description": "Storyboard style is a technique used in illustration and film to visualize scenes and transitions. The style involves a sequential arrangement of images, akin to a comic strip, to represent scenes of a story."
   },
   {
-    "Id": "991111111111111111111111111111111111",
+    "Id": "412",
     "Title": "Sequential arrangement",
     "Description": null
   },
@@ -2065,7 +2065,7 @@
     "Description": "Streamline Moderne Architecture is a style of architecture that emerged in the 1930s. It incorporates aspects of Art Deco and Modernism, with a focus on curving forms, long horizontal lines, and sometimes nautical elements."
   },
   {
-    "Id": "9911111111111111111111111111111111111",
+    "Id": "414",
     "Title": "Raymond Loewy",
     "Description": null
   },
@@ -2080,17 +2080,17 @@
     "Description": "Street Fighter style refers to the visual style of the popular video game franchise \u0027Street Fighter\u0027. It includes elements of Manga and Anime in its character designs and settings."
   },
   {
-    "Id": "99111111111111111111111111111111111111",
+    "Id": "417",
     "Title": "Henri Cartier-Bresson",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111",
+    "Id": "418",
     "Title": "Vivian Maier",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111",
+    "Id": "419",
     "Title": "Documentary Photography",
     "Description": null
   },
@@ -2105,7 +2105,7 @@
     "Description": "Sugarpunk style is an art genre characterized by vibrant colors and playful themes. It\u0027s often seen in mixed media and closely related to Pop Art, blending sweetness with a rebellious edge."
   },
   {
-    "Id": "99111111111111111111111111111111111111111",
+    "Id": "422",
     "Title": "Playful",
     "Description": null
   },
@@ -2120,7 +2120,7 @@
     "Description": "Rebecca Louise Law is an installation artist known for her immersive floral installations. Her style uses natural materials to create experiential and often breathtaking environments."
   },
   {
-    "Id": "991111111111111111111111111111111111111111",
+    "Id": "425",
     "Title": "Installation",
     "Description": null
   },
@@ -2135,12 +2135,12 @@
     "Description": "Redscale print is a style of photography where images have a dominant red or warm tone. It is achieved by exposing film from the wrong side, resulting in a distinctive, often vintage look."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111",
+    "Id": "428",
     "Title": "Fine Art Photography",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111",
+    "Id": "429",
     "Title": "Redscale",
     "Description": null
   },
@@ -2150,7 +2150,7 @@
     "Description": "Refik Anadol is a digital artist known for his large-scale installations using data and artificial intelligence. His style merges digital and physical spaces, creating immersive and interactive experiences."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111",
+    "Id": "431",
     "Title": "Digital Media",
     "Description": null
   },
@@ -2160,7 +2160,7 @@
     "Description": "Regency Fashion style refers to the style of clothing during the Regency era (early 19th century). This style is often associated with simplicity, elegance, and an emphasis on natural form."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111",
+    "Id": "433",
     "Title": "Historical dressmakers",
     "Description": null
   },
@@ -2175,7 +2175,7 @@
     "Description": "Reginald Marsh was a painter whose work depicted scenes of urban life and social realism. His style was characterized by a focus on the human figure and bustling cityscapes."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111",
+    "Id": "436",
     "Title": "Social Realism",
     "Description": null
   },
@@ -2185,7 +2185,7 @@
     "Description": "Rei Kawakubo is a fashion designer known for her avant-garde designs and the founding of the brand \u0027Comme des Gar\u00E7ons\u0027. Her style often challenges conventional ideas of beauty and fashion."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111",
+    "Id": "438",
     "Title": "Avant-garde Fashion",
     "Description": null
   },
@@ -2195,7 +2195,7 @@
     "Description": "Rem Koolhaas is an architect known for his innovative and often controversial designs. His style merges elements of modern architecture and deconstructivism, challenging traditional design norms."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111",
+    "Id": "440",
     "Title": "Deconstructivism",
     "Description": null
   },
@@ -2210,17 +2210,17 @@
     "Description": "Ren Hang was a Chinese photographer known for his provocative and vibrant style. His works often featured nude subjects in surreal and whimsical compositions."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111",
+    "Id": "443",
     "Title": "Michelangelo",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111",
+    "Id": "444",
     "Title": "Raphael",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111",
+    "Id": "445",
     "Title": "Balanced",
     "Description": null
   },
@@ -2230,12 +2230,12 @@
     "Description": "Renaissance Architecture is characterized by symmetry, proportion, and the regular use of columns and pilasters. This style marked a conscious revival and development of certain elements of ancient Greek and Roman thought and material culture."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111",
+    "Id": "447",
     "Title": "Filippo Brunelleschi",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111",
+    "Id": "448",
     "Title": "Leon Battista Alberti",
     "Description": null
   },
@@ -2255,7 +2255,7 @@
     "Description": "Renzo Piano is an Italian architect known for his high-tech architecture style. His designs often incorporate innovative use of technology and materials, with a focus on functionality and sustainability."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111",
+    "Id": "452",
     "Title": "High-tech Architecture",
     "Description": null
   },
@@ -2265,12 +2265,12 @@
     "Description": "Retna is a contemporary artist known for his street art and mural paintings. His style is characterized by a unique symbolic script, drawing inspiration from various forms of calligraphy."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111",
+    "Id": "454",
     "Title": "Mural Painting",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111",
+    "Id": "455",
     "Title": "Multiple Media",
     "Description": null
   },
@@ -2285,17 +2285,17 @@
     "Description": "Steampunk is an art style that blends Victorian-era aesthetics with steam-powered machinery and technology. It\u0027s part of speculative fiction and often showcases an alternative history or post-apocalyptic world. Artists use mixed media and warm tones to create complex compositions in an industrial setting. The mood is usually nostalgic and the lighting is often low."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111",
+    "Id": "458",
     "Title": "Visual Art",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111",
+    "Id": "459",
     "Title": "Retro Tones",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111",
+    "Id": "460",
     "Title": "Nostalgic",
     "Description": null
   },
@@ -2305,12 +2305,12 @@
     "Description": "Revolutionary style refers to visual art used for propagandistic or political purposes, particularly associated with periods of political revolution. This style often conveys strong messages of change, resistance, and liberation."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111",
+    "Id": "462",
     "Title": "Propaganda Art",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111",
+    "Id": "463",
     "Title": "Political Art",
     "Description": null
   },
@@ -2320,7 +2320,7 @@
     "Description": "Revolutionary Girl Utena is an anime series with a unique blend of surrealism, symbolism, and psychological themes. Its art style is characterized by Sh\u014Djo elements with a dramatic, and often abstract, visual presentation."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111",
+    "Id": "465",
     "Title": "Sh\u014Djo",
     "Description": null
   },
@@ -2330,7 +2330,7 @@
     "Description": "Reylia Slaby is a conceptual photographer known for her poignant and melancholic images. Her style often uses muted tones to evoke a certain mood, with a focus on storytelling and exploration of personal themes."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "467",
     "Title": "Muted Tones",
     "Description": null
   },
@@ -2350,27 +2350,27 @@
     "Description": "Sheila Hicks is an American artist known for her work in textile art and installation art. Her contemplative, textured compositions invite viewers to consider the materiality of the textile medium. Other artists associated with textile art include Anni Albers, Lenore Tawney, and Eva Hesse."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "471",
     "Title": "Anni Albers",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "472",
     "Title": "Lenore Tawney",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "473",
     "Title": "Tapestry",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "474",
     "Title": "Basketry",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "475",
     "Title": "Interlaced",
     "Description": null
   },
@@ -2380,17 +2380,17 @@
     "Description": "Wu Guanzhong was a renowned Chinese painter known for his unique style of blending traditional Chinese painting and Western modern art. His primary medium was ink, and he often used a monochromatic color scheme with a naturalistic composition."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "477",
     "Title": "Chinese painting",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "478",
     "Title": "Ink and wash painting",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "479",
     "Title": "Naturalistic",
     "Description": null
   },
@@ -2400,32 +2400,32 @@
     "Description": "X-ray style refers to a technique used primarily in Medical and Scientific Art, utilizing radiography as a medium. The composition typically reveals an anatomical structure of the subject. Notable artists in this field include Nick Veasey and Hugh Turvey."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "481",
     "Title": "Nick Veasey",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "482",
     "Title": "Hugh Turvey",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "483",
     "Title": "Medical Art",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "484",
     "Title": "Scientific Art",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "485",
     "Title": "Radiography",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "486",
     "Title": "Anatomical",
     "Description": null
   },
@@ -2435,17 +2435,17 @@
     "Description": "Xavier Dolan is a Canadian film director and actor known for his intense cinematic style often categorized within Drama and Psychological genres. His style has a unique intensity that captivates audiences."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "488",
     "Title": "Cinema",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "489",
     "Title": "Drama",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "490",
     "Title": "Psychological",
     "Description": null
   },
@@ -2455,22 +2455,22 @@
     "Description": "The Xerography style pertains to the use of photocopiers in art and is often seen in printmaking and copy art. The medium is typically paper, and compositions tend to be repetitive due to the nature of copying. Artists like Bruno Munari and Eduardo Paolozzi have utilized this style."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "492",
     "Title": "Bruno Munari",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "493",
     "Title": "Eduardo Paolozzi",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "494",
     "Title": "Copy Art",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "495",
     "Title": "Repetitive",
     "Description": null
   },
@@ -2485,12 +2485,12 @@
     "Description": "Xu Bing is a contemporary Chinese artist, recognized for his printmaking skills and installation art. His work often incorporates calligraphy and uses mixed media, with compositions that are largely symbolic."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "498",
     "Title": "Calligraphy",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "499",
     "Title": "Symbolic",
     "Description": null
   },
@@ -2500,7 +2500,7 @@
     "Description": "xxxHolic is a popular anime and manga series characterized by its unique style that blends reality with the supernatural. The series is known for its mystical mood. The primary artist associated with this series is the all-female Japanese manga artist group CLAMP."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "501",
     "Title": "Mystical",
     "Description": null
   },
@@ -2510,12 +2510,12 @@
     "Description": "Yaacov Agam is an Israeli artist best known for his contributions to kinetic and op art. He often works with sculpture, creating geometric compositions that change depending on the viewer\u0027s perspective."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "503",
     "Title": "Kinetic Art",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "504",
     "Title": "Op Art",
     "Description": null
   },
@@ -2525,7 +2525,7 @@
     "Description": "Yang Yongliang is a Chinese artist whose digital creations often merge traditional Chinese art forms with modern scenes and themes. His work is characterized by surreal compositions that provoke thought on urbanization and its impact."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "506",
     "Title": "Surrealist",
     "Description": null
   },
@@ -2540,7 +2540,7 @@
     "Description": "Yayoi Kusama is a renowned Japanese contemporary artist recognized for her distinctive style that blends pop art and minimalism. She is known for her use of polychromatic color and repetitive composition, typically featuring polka dots."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "509",
     "Title": "Polychromatic",
     "Description": null
   },
@@ -2550,12 +2550,12 @@
     "Description": "Yeezy is a fashion brand created by musician Kanye West, characterized by its minimalist aesthetic and neutral color palette. The brand is rooted in streetwear and focuses on functional, comfortable design."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "511",
     "Title": "Streetwear",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "512",
     "Title": "Functional",
     "Description": null
   },
@@ -2565,7 +2565,7 @@
     "Description": "Yigal Ozeri is an Israeli artist known for his photorealistic oil paintings. His work is characterized by an intense attention to detail, creating highly realistic compositions that often portray women in nature."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "514",
     "Title": "Oil Painting",
     "Description": null
   },
@@ -2585,7 +2585,7 @@
     "Description": "Yoh Nagao is a contemporary artist known for his eclectic style and the use of vibrant colors. He uses the collage medium to create compositions that are a mix of pop art and abstract symbolism."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "518",
     "Title": "Eclectic",
     "Description": null
   },
@@ -2595,17 +2595,17 @@
     "Description": "Yohji Yamamoto is a Japanese fashion designer known for his avant-garde style that masterfully combines Japanese design aesthetics with a distinctly Western fashion sense. His designs often feature asymmetrical compositions in a monochrome color palette."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "520",
     "Title": "Avant-garde",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "521",
     "Title": "Japanese Fashion",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "522",
     "Title": "Asymmetrical",
     "Description": null
   },
@@ -2615,37 +2615,37 @@
     "Description": "Kintsugi is a traditional Japanese art form that mends broken ceramics using lacquer mixed with gold. The style is centered on the idea that breakage and repair form an important part of an object\u0027s history, making it more beautiful."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "524",
     "Title": "Yukiko Kuroda",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "525",
     "Title": "Iku Nishikawa",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "526",
     "Title": "Japanese art",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "527",
     "Title": "Ceramic repair",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "528",
     "Title": "Contemporary craft",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "529",
     "Title": "Ceramic",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "530",
     "Title": "Gold",
     "Description": null
   },
@@ -2655,17 +2655,17 @@
     "Description": "Kirigami, a variation of origami, involves the cutting and folding of paper to create intricate patterns and three-dimensional structures. It ranges from simple designs to complex architectural depictions."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "532",
     "Title": "Kanako Abe",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "533",
     "Title": "Marc Hagan-Guirey",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "534",
     "Title": "Paper art",
     "Description": null
   },
@@ -2675,17 +2675,17 @@
     "Description": "Kirlian Photography, a photographic technique named after Semyon Kirlian, captures the \u0027aura\u0027 or electrical corona discharge of a subject. It results in abstract, often multi-colored images that are subject to interpretation."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "536",
     "Title": "Semyon Kirlian",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "537",
     "Title": "Aurora Crowley",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "538",
     "Title": "Electro-illuminated",
     "Description": null
   },
@@ -2695,27 +2695,27 @@
     "Description": "Knit style art involves using knitting techniques to create artworks. These works often showcase intricate patterns and textures, and can range from small, domestic pieces to large-scale installations."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "540",
     "Title": "Ernesto Neto",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "541",
     "Title": "Sheila Pepe",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "542",
     "Title": "Textile art",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "543",
     "Title": "Craft",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "544",
     "Title": "Patterned",
     "Description": null
   },
@@ -2725,12 +2725,12 @@
     "Description": "Similar to knit style, the knitted style in art refers to artworks created using knitting techniques. This style is known for its textures and patterns and has been used in everything from soft sculptures to street art."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "546",
     "Title": "Magda Sayeg",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "547",
     "Title": "Janet Morton",
     "Description": null
   },
@@ -2740,22 +2740,22 @@
     "Description": "Knolling is a style of photography where objects are arranged at 90-degree angles from each other and then photographed from above. This results in a highly organized and visually pleasing composition."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "549",
     "Title": "Andrew Kuo",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "550",
     "Title": "Austin Radcliffe",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "551",
     "Title": "Contemporary art",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "552",
     "Title": "Organized",
     "Description": null
   },
@@ -2765,17 +2765,17 @@
     "Description": "Kodak Ektachrome E100 refers to a style of photography developed through a specific film from Kodak. This film produces vibrant colors and has a distinctive grain, offering a rich aesthetic in photography."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "554",
     "Title": "Steve McCurry",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "555",
     "Title": "Alex Webb",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "556",
     "Title": "Film photography",
     "Description": null
   },
@@ -2785,17 +2785,17 @@
     "Description": "Conte drawing style is associated with Fine Art and Realism, traditionally practiced with Conte crayons\u2014a type of drawing medium composed of powdered graphite or charcoal mixed with a wax base. Known for their monochrome, yet richly detailed compositions, artists like Pierre-Paul Prud\u0027hon and Jean-Baptiste Greuze are recognized for their use of this style."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "558",
     "Title": "Pierre-Paul Prud\u0027hon",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "559",
     "Title": "Jean-Baptiste Greuze",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "560",
     "Title": "Fine Art",
     "Description": null
   },
@@ -2805,12 +2805,12 @@
     "Description": "Contemporary art style is a broad category, inclusive of various sub-genres like Postmodernism, Conceptual Art, and Minimalism. It\u0027s characterized by the use of varied mediums, moods, and compositions, offering a wide range of artistic expressions. Prominent contemporary artists include Damien Hirst, Ai Weiwei, Cindy Sherman, Banksy, and Yayoi Kusama."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "562",
     "Title": "Damien Hirst",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "563",
     "Title": "Ai Weiwei",
     "Description": null
   },
@@ -2820,12 +2820,12 @@
     "Description": "Banksy is a renowned but anonymous street artist known for his distinctive stencil graffiti style. His work, often satirical and political, is characterized by its provocative mood. He typically uses spray paint to create monochromatic and minimalistic compositions on urban surfaces. Despite the minimalism, his art delivers powerful social commentaries."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "565",
     "Title": "Postmodernism",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "566",
     "Title": "Performance Art",
     "Description": null
   },
@@ -2835,37 +2835,37 @@
     "Description": "Contemporary fashion style, represented in sub-genres like Modernist Fashion and Street Fashion, encompasses the latest trends in clothing design. Using textiles as the primary medium, contemporary fashion has varied moods and compositions, mirroring societal changes. Renowned designers like Alexander Wang, Riccardo Tisci, and Phoebe Philo are recognized for their contributions."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "568",
     "Title": "Alexander Wang",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "569",
     "Title": "Riccardo Tisci",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "570",
     "Title": "Phoebe Philo",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "571",
     "Title": "Modernist Fashion",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "572",
     "Title": "Street Fashion",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "573",
     "Title": "Deconstructive Fashion",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "574",
     "Title": "Textiles",
     "Description": null
   },
@@ -2875,12 +2875,12 @@
     "Description": "Contrapunk is an art style closely tied with Abstract Art. Primarily observed in painting, this style is characterized by its use of contrasting elements, often juxtaposing colors, forms, and lines. Artists like Wassily Kandinsky often employed this approach in their work."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "576",
     "Title": "Wassily Kandinsky",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "577",
     "Title": "Contrasting",
     "Description": null
   },
@@ -2890,12 +2890,12 @@
     "Description": "Cornelia Parker is renowned for her unique style of Installation Art and Sculpture. Utilizing mixed media, she creates thought-provoking and immersive installations, typically exhibited in galleries. Her style is distinctive, often using ordinary objects in unexpected ways to explore complex ideas."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "579",
     "Title": "Gallery",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "580",
     "Title": "Thought-provoking",
     "Description": null
   },
@@ -2905,12 +2905,12 @@
     "Description": "Cornelis Springer was a Dutch painter recognized for his Romanticism-style paintings. Typically set in outdoor environments, his works are distinguished by their vibrant color schemes, idealistic moods, and intricate compositions. Springer\u0027s oeuvre predominantly features cityscapes and architectural scenes."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "582",
     "Title": "Outdoor",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "583",
     "Title": "Idealistic",
     "Description": null
   },
@@ -2920,7 +2920,7 @@
     "Description": "Adrian Ghenie is known for his contemporary and expressionistic painting style. His works often incorporate a mixed color palette and figurative composition. His style is sometimes compared to Francis Bacon and Gerhard Richter."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "585",
     "Title": "Mixed",
     "Description": null
   },
@@ -2930,12 +2930,12 @@
     "Description": "Adrian Smith is renowned for his architectural style, incorporating elements of Gothic and Neo-futurism into his designs. He\u0027s been associated with the architecture firm Skidmore, Owings \u0026 Merrill."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "587",
     "Title": "Architectural",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "588",
     "Title": "Neo-futurism",
     "Description": null
   },
@@ -2955,12 +2955,12 @@
     "Description": "Advertising portrait style often uses the medium of photography and is related to commercial art style. The composition is usually figurative and designed to be appealing to the viewer."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "592",
     "Title": "Commercial",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "593",
     "Title": "Appealing",
     "Description": null
   },
@@ -2970,12 +2970,12 @@
     "Description": "Aerial Photography is a style of landscape photography taken from an elevated position, often from an aircraft or drone. The images are typically taken in an outdoor environment with a top-down composition."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "595",
     "Title": "Landscape",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "596",
     "Title": "Top-down",
     "Description": null
   },
@@ -2985,7 +2985,7 @@
     "Description": "Aerosol paint style refers to street art or graffiti created using spray paint. This style is usually seen in an urban environment and often features bright, vibrant colors."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "598",
     "Title": "Graffiti",
     "Description": null
   },
@@ -2995,7 +2995,7 @@
     "Description": "Afarin Sajedi is a modern and surrealistic painter, known for her melancholic mood, vibrant color palette, and figurative composition. Her style shares similarities with artist Frida Kahlo."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "600",
     "Title": "Modern",
     "Description": null
   },
@@ -3005,12 +3005,12 @@
     "Description": "Affandi, an Expressionist painter, is known for his emotional mood, warm color scheme, and impasto composition. His style is somewhat akin to Abdurrahman Chughtai."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "602",
     "Title": "Warm",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "603",
     "Title": "Impasto",
     "Description": null
   },
@@ -3025,7 +3025,7 @@
     "Description": "Afrofuturism is an art style blending elements of science fiction and fantasy, often set in a futuristic environment. The mood is typically empowering, with a vibrant color scheme."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "606",
     "Title": "Empowering",
     "Description": null
   },
@@ -3035,12 +3035,12 @@
     "Description": "Agathe Sorlet is an illustrator known for her minimalist and simplistic compositions, often made digitally and featuring pastel colors. Her style is similar to that of Jean Jullien."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "608",
     "Title": "Minimalist",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "609",
     "Title": "Simplistic",
     "Description": null
   },
@@ -3050,12 +3050,12 @@
     "Description": "Agnes Cecile is a painter recognized for her abstract and expressionist style. Her work often has an emotive mood, vibrant colors, and a fluid composition, bearing similarities with Patricia Ariel\u0027s style."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "611",
     "Title": "Emotive",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "612",
     "Title": "Fluid",
     "Description": null
   },
@@ -3085,7 +3085,7 @@
     "Description": "Grave of the Fireflies is an anime movie known for its melancholic mood, set in a war environment. It was directed by Isao Takahata, whose style is most closely associated with this movie."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "618",
     "Title": "War",
     "Description": null
   },
@@ -3110,22 +3110,22 @@
     "Description": "Greek Architecture style is characterized by its classical design, often found in outdoor environments. The structures typically have a symmetrical composition. Notable artists include Ictinus and Callicrates."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "623",
     "Title": "Ictinus",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "624",
     "Title": "Callicrates",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "625",
     "Title": "Classical",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "626",
     "Title": "Symmetrical",
     "Description": null
   },
@@ -3135,12 +3135,12 @@
     "Description": "Greg Girard is known for his documentary-style photography, often depicting urban environments under artificial lighting. His style is similar to that of Martin Parr."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "628",
     "Title": "Documentary",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "629",
     "Title": "Artificial",
     "Description": null
   },
@@ -3155,7 +3155,7 @@
     "Description": "Greg Rutkowski is a digital painter known for his epic and vibrant fantasy art set in imaginary environments. His style shares similarities with Noah Bradley."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "632",
     "Title": "Imaginary",
     "Description": null
   },
@@ -3170,12 +3170,12 @@
     "Description": "Gregory Colbert is a photographer known for his tranquil mood and warm color palette, often photographing natural environments. His photorealistic style is similar to that of Steve McCurry."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "635",
     "Title": "Tranquil",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "636",
     "Title": "Suburban",
     "Description": null
   },
@@ -3185,7 +3185,7 @@
     "Description": "Anatomical Drawing style involves detailed, precise, and realistic depictions of the human body or its parts. These are usually done in monochrome, with a focus on the intricate details of human anatomy."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "638",
     "Title": "Andreas Vesalius",
     "Description": null
   },
@@ -3200,17 +3200,17 @@
     "Description": "Ancient art style refers to the art forms that originated in ancient civilizations. It includes different styles like Ancient Egyptian, Greek, and Roman, primarily featuring sculptures. The compositions are generally symmetrical and the environment is often outdoor."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "641",
     "Title": "Ancient Egyptian",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "642",
     "Title": "Ancient Greek",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "643",
     "Title": "Ancient Roman",
     "Description": null
   },
@@ -3225,7 +3225,7 @@
     "Description": "Ancient Greek Fashion style is defined by the natural-colored and flowing textiles of Ancient Greece. The style is renowned for its simplicity and functional design."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "646",
     "Title": "Flowing",
     "Description": null
   },
@@ -3235,22 +3235,22 @@
     "Description": "Ancient Japanese Painting style often includes nature themes, rendered in bright colors. The compositions can be asymmetrical, featuring unique balance and harmony, representative of the Yamato-e and Kano styles."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "648",
     "Title": "Tosa Mitsuoki",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "649",
     "Title": "Kano Eitoku",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "650",
     "Title": "Yamato-e",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "651",
     "Title": "Kano",
     "Description": null
   },
@@ -3260,7 +3260,7 @@
     "Description": "Ancient Roman Fashion style is known for its draped garments, typically in natural colors. The style represents the functional and societal aspects of the Roman Empire\u0027s clothing culture."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "653",
     "Title": "Draped",
     "Description": null
   },
@@ -3270,22 +3270,22 @@
     "Description": "Ancient Scroll art style involves narrative compositions drawn or painted on scrolls. Using ink and natural colors, these works typically portray indoor environments, historical events, and stories."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "655",
     "Title": "Gu Kaizhi",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "656",
     "Title": "Zhang Zeduan",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "657",
     "Title": "Scroll Painting",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "658",
     "Title": "Indoor",
     "Description": null
   },
@@ -3295,7 +3295,7 @@
     "Description": "Anders Petersen, a renowned documentary photographer, is known for his candid and melancholic images often set in urban environments. His photography style primarily uses natural lighting to create deep, emotion-evoking narratives."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "660",
     "Title": "Candid",
     "Description": null
   },
@@ -3310,7 +3310,7 @@
     "Description": "Ando Fuchs is a contemporary painter known for his modernistic and minimalistic style. His works often portray a melancholic mood using a muted color palette."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "663",
     "Title": "Minimalistic",
     "Description": null
   },
@@ -3320,7 +3320,7 @@
     "Description": "Andre de Dienes was an accomplished photographer known for his candid, outdoor portraits. He utilized natural lighting to capture the essence of his subjects."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "665",
     "Title": "Portrait",
     "Description": null
   },
@@ -3330,7 +3330,7 @@
     "Description": "Andre Derain was a prominent painter associated with the Fauvism and Cubism movements. His style is characterized by vibrant colors, bold compositions and an intense mood."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "667",
     "Title": "Fauvism",
     "Description": null
   },
@@ -3345,7 +3345,7 @@
     "Description": "Sergei Eisenstein was a Soviet filmmaker known for his innovative use of montage in cinema. His dramatic style involved the juxtaposition of contrasting shots to create new meanings, a process that has deeply influenced the cinematic medium. Fellow filmmakers like Vsevolod Pudovkin, Dziga Vertov, and Andrei Tarkovsky have also used similar techniques in their work."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "670",
     "Title": "Montage",
     "Description": null
   },
@@ -3355,17 +3355,17 @@
     "Description": "Sergei Parajanov was a Soviet film director and artist known for his unique, dreamlike style. His films often feature symbolic and tableau compositions, requiring audiences to interpret the imagery. His style has been influential on other filmmakers such as Andrei Tarkovsky, Aleksandr Dovzhenko, and Mikhail Vartanov."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "672",
     "Title": "Symbolism",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "673",
     "Title": "Dreamlike",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "674",
     "Title": "Tableau",
     "Description": null
   },
@@ -3375,12 +3375,12 @@
     "Description": "Sergio Aragones is a Spanish-Mexican cartoonist known for his humorous and caricatured style. His sequential art, often found in \u0027Mad Magazine,\u0027 is characterized by a keen sense of wit and visual humor. His work is often compared to fellow cartoonists Dave Berg and Don Martin."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "676",
     "Title": "Caricature",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "677",
     "Title": "Humorous",
     "Description": null
   },
@@ -3390,17 +3390,17 @@
     "Description": "Sergio Leone was an Italian film director known for his work in the \u0027Spaghetti Western\u0027 genre. His tense, dramatic style often involved the use of wide shots and close-ups in conjunction with Ennio Morricone\u0027s iconic scores. Leone\u0027s cinematic language has deeply influenced the medium of film."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "679",
     "Title": "Spaghetti Western",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "680",
     "Title": "Tense",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "681",
     "Title": "Wide shots",
     "Description": null
   },
@@ -3410,7 +3410,7 @@
     "Description": "Sergio Toppi was an Italian illustrator known for his dramatic and dynamic style in the medium of comics and graphic novels. His work exhibits intricate linework and composition, influencing artists such as Moebius, Mike Mignola, and Frank Miller."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "683",
     "Title": "Sequential Art",
     "Description": null
   },
@@ -3425,12 +3425,12 @@
     "Description": "Seymour Chwast is an American graphic designer known for his quirky and stylized illustrations. His work is characterized by flat compositions and is often found in print media. Notable contemporary designers like Milton Glaser, Paul Rand, and Herb Lubalin share similar aspects in their designs."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "686",
     "Title": "Quirky",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "687",
     "Title": "Flat",
     "Description": null
   },
@@ -3440,17 +3440,17 @@
     "Description": "Shadow of the Colossus is a video game known for its distinctive style of epic fantasy art. The game\u0027s vast, fantastical landscapes and atmospheric mood have been influential in the field of video game art. Key figures associated with this style include Fumito Ueda, Kenji Kaido, and Koji Hasegawa."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "689",
     "Title": "Video Game Art",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "690",
     "Title": "Fantastical landscapes",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "691",
     "Title": "Vast",
     "Description": null
   },
@@ -3460,12 +3460,12 @@
     "Description": "Sharpie style refers to art created with Sharpie markers, which are known for their vivid color and versatility. Artists use Sharpies for a variety of art forms, including illustration, doodling, and graffiti. The style is characterized by free-form compositions. Artists like David Shrigley, Keith Haring, and Banksy have used Sharpies in their work."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "693",
     "Title": "Doodle Art",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "694",
     "Title": "Free-form",
     "Description": null
   },
@@ -3475,12 +3475,12 @@
     "Description": "Shaun Tan is an Australian illustrator known for his whimsical and narrative style in children\u0027s books. His works often combine fantastical elements with profound themes, engaging both children and adults. Maurice Sendak, Chris Van Allsburg, and Brian Selznick are artists with similar styles."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "696",
     "Title": "Children\u0027s Book Art",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "697",
     "Title": "Whimsical",
     "Description": null
   },
@@ -3490,17 +3490,17 @@
     "Description": "Shawn Heinrichs is an Emmy Award-winning cinematographer, photographer, and marine conservationist. His style is characterized by candid compositions and natural lighting, capturing the beauty of marine life and raising awareness about its preservation. Artists like Paul Nicklen, Brian Skerry, and David Doubilet share a similar focus in their work."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "699",
     "Title": "Conservation Art",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "700",
     "Title": "Contemplative",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "701",
     "Title": "Textured",
     "Description": null
   },
@@ -3510,12 +3510,12 @@
     "Description": "Shel Silverstein was an American writer and illustrator, known for his whimsical and narrative style in children\u0027s books. His illustrations, often accompanying his poetry, are characterized by their simplicity and humor. His style is often compared to artists like Dr. Seuss, Roald Dahl, and Maurice Sendak."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "703",
     "Title": "Children\u0027s Book Illustration",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "704",
     "Title": "Poetry",
     "Description": null
   },
@@ -3525,7 +3525,7 @@
     "Description": "Shepard Fairey is an American contemporary street artist, graphic designer, and activist, known for his provocative and contrasting style. His works often involve stencils and are part of the Street Art and Pop Art movements. Other artists with similar styles include Banksy, Blek le Rat, and JR."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "706",
     "Title": "Stencil",
     "Description": null
   },
@@ -3535,12 +3535,12 @@
     "Description": "Shibori is a Japanese manual resist dyeing technique, resulting in different patterns on fabric. The traditional color used is indigo. The method has been adopted by many artists worldwide for creating intricate textile art, including Yoshiko Wada, Sachio Yoshioka, and Itchiku Kubota."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "708",
     "Title": "Japanese Art",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "709",
     "Title": "Indigo",
     "Description": null
   },
@@ -3555,12 +3555,12 @@
     "Description": "Shigeru Ban is a Japanese architect known for his innovative use of paper and cardboard in buildings. His designs are driven by sustainability and functionality, making him a key figure in modern and sustainable architecture. Artists with similar styles include Tadao Ando, Kengo Kuma, and Toyo Ito."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "712",
     "Title": "Sustainable Architecture",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "713",
     "Title": "Innovative",
     "Description": null
   },
@@ -3570,7 +3570,7 @@
     "Description": "Shigeru Mizuki was a Japanese manga artist, known for his narrative and supernatural style in the horror genre. His works often blend folklore with modern themes, a style carried forward by artists like Osamu Tezuka, Junji Ito, and Kazuo Umezu."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "715",
     "Title": "Horror Art",
     "Description": null
   },
@@ -3580,12 +3580,12 @@
     "Description": "Shintaro Kago is a Japanese manga artist known for his disturbing and graphic style. He is considered a central figure in the Ero Guro (erotic grotesque) subgenre of manga. His work has influenced and shares similarities with artists such as Suehiro Maruo, Junji Ito, and Kazuo Umezu."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "717",
     "Title": "Ero Guro",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "718",
     "Title": "Graphic",
     "Description": null
   },
@@ -3595,22 +3595,22 @@
     "Description": "Shirin Neshat is an Iranian visual artist residing in New York, known for her work in photography, video and film. Her style is deeply political and conceptual, often addressing issues of identity and gender in Islam. Similar artists include Mona Hatoum, Tracey Emin, and Yoko Ono."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "720",
     "Title": "Video Art",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "721",
     "Title": "Multimedia",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "722",
     "Title": "Social",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "723",
     "Title": "Conceptual",
     "Description": null
   },
@@ -3620,12 +3620,12 @@
     "Description": "Shojo Anime is a genre of anime targeted towards young girls. It often features romantic and narrative-driven plots with detailed and visually appealing artwork. Key figures in this style include Naoko Takeuchi (creator of \u0027Sailor Moon\u0027), Ai Yazawa, and Yu Watase."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "725",
     "Title": "Romance Art",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "726",
     "Title": "Romantic",
     "Description": null
   },
@@ -3635,7 +3635,7 @@
     "Description": "Shonen Anime is a genre of anime aimed at young boys. The style is typically characterized by high-action, adventurous themes and dynamic compositions. Key figures in this style include Eiichiro Oda (creator of \u0027One Piece\u0027), Akira Toriyama, and Masashi Kishimoto."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "728",
     "Title": "Action Art",
     "Description": null
   },
@@ -3645,12 +3645,12 @@
     "Description": "Sidney Nolan was an Australian painter known for his modernist and abstract expressionist style. His expressive, abstract compositions often reflected the Australian landscape. Artists with similar styles include Russell Drysdale, Arthur Boyd, and Fred Williams."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "730",
     "Title": "Modern Art",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "731",
     "Title": "Expressive",
     "Description": null
   },
@@ -3660,12 +3660,12 @@
     "Description": "Silent Hill is a horror video game series known for its eerie, gloomy, and gothic art style. The conceptual art of the series, including its environments and characters, has been influential in the horror gaming genre. Key figures include Hideo Kojima, Shinji Mikami, and Masahiro Ito."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "733",
     "Title": "Creepy",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "734",
     "Title": "Gloomy",
     "Description": null
   },
@@ -3675,7 +3675,7 @@
     "Description": "Simon Bisley is a British comic book artist known for his dynamic and epic style in fantasy art. His illustrative work is often characterized by dramatic compositions and muscular figures. Artists with similar styles include Frank Frazetta, Boris Vallejo, and Mike Mignola."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "736",
     "Title": "Comic Art",
     "Description": null
   },
@@ -3685,12 +3685,12 @@
     "Description": "Simon Stalenhag is a Swedish artist known for his concept art in the genre of science fiction. His style presents melancholic, post-apocalyptic landscapes blended with elements of retro-futurism. Artists with similar themes include H.R. Giger, Syd Mead, and Mike Winkelmann."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "738",
     "Title": "Science Fiction Art",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "739",
     "Title": "Post-Apocalyptic",
     "Description": null
   },
@@ -3700,7 +3700,7 @@
     "Description": "Sir William Russell Flint was a British artist recognized for his figurative and impressionistic style, often romantic in mood. His work primarily involved paintings of women. Artists with similar styles include John Singer Sargent, James McNeill Whistler, and Edgar Degas."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "741",
     "Title": "Figurative Art",
     "Description": null
   },
@@ -3710,17 +3710,17 @@
     "Description": "A sitting portrait is a style of portraiture where the subject is depicted in a sitting position. This style is prevalent in painting and can span multiple art styles, though it\u0027s often associated with realism. Renowned artists for this style include Leonardo da Vinci, Rembrandt van Rijn, and Pablo Picasso."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "743",
     "Title": "Rembrandt van Rijn",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "744",
     "Title": "Portrait Art",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "745",
     "Title": "Still Life",
     "Description": null
   },
@@ -3730,12 +3730,12 @@
     "Description": "Skatepunk refers to a subculture that combines elements of skateboarding and punk music, often reflected in street and graffiti art. This style is characteristically rebellious, using bold, graphic compositions in urban environments. Artists associated with this style include Shepard Fairey, Banksy, and RETNA."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "747",
     "Title": "Vincent van Gogh",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "748",
     "Title": "Loose",
     "Description": null
   },
@@ -3760,12 +3760,12 @@
     "Description": "Skullpunk is a subculture art style that heavily features skull motifs, often with an edgy, gothic aesthetic. This style is seen across various forms of visual art and is associated with artists such as H.R. Giger, Shepard Fairey, and Banksy."
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "753",
     "Title": "Gothic Art",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "754",
     "Title": "Edgy",
     "Description": null
   },
@@ -3775,17 +3775,17 @@
     "Description": "Slim Aarons was a photographer known for his candid, lighthearted depictions of the rich and famous. His style often captured the luxurious environments and lifestyles of his subjects. Other photographers with a similar focus include Horst P. Horst, Richard Avedon, and Helmut Newton."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "756",
     "Title": "Lifestyle Photography",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "757",
     "Title": "Luxurious",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "758",
     "Title": "Lighthearted",
     "Description": null
   },
@@ -3795,12 +3795,12 @@
     "Description": "Slow shutter speed is a photography technique often used in long exposure and landscape photography. It allows for the capture of movement in a fluid and often surreal way, particularly in low light settings. Artists known for this technique include Michael Kenna, Alexey Titarenko, and Hiroshi Sugimoto."
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "760",
     "Title": "Long Exposure Photography",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "761",
     "Title": "Low Light",
     "Description": null
   },
@@ -3810,152 +3810,152 @@
     "Description": "A snowglobe is a decorative object that encapsulates a miniature scene or design, often associated with festive or winter themes. The style is characterized by its enclosed composition and joyful mood. Artists like Walter Martin, Paloma Munoz, and David Levinthal have created works that resonate with this aesthetic."
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "763",
     "Title": "Miniature Art",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "764",
     "Title": "Festive",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "765",
     "Title": "Joyful",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "766",
     "Title": "Enclosed",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "767",
     "Title": "K.W. Jeter",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "768",
     "Title": "Tim Powers",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "769",
     "Title": "James Blaylock",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "770",
     "Title": "China Mi\u00E9ville",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "771",
     "Title": "speculative fiction",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "772",
     "Title": "alternative history",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "773",
     "Title": "science fantasy",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "774",
     "Title": "post-apocalyptic",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "775",
     "Title": "neo-Victorian",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "776",
     "Title": "mixed media",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "777",
     "Title": "industrial",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "778",
     "Title": "low light",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "779",
     "Title": "warm tones",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "780",
     "Title": "nostalgic",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "781",
     "Title": "complex",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "782",
     "Title": "street art",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "783",
     "Title": "stencil graffiti",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "784",
     "Title": "pop art",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "785",
     "Title": "satirical",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "786",
     "Title": "political",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "787",
     "Title": "spray paint",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "788",
     "Title": "urban",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "789",
     "Title": "natural light",
     "Description": null
   },
   {
-    "Id": "991111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "790",
     "Title": "monochrome",
     "Description": null
   },
   {
-    "Id": "9911111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "791",
     "Title": "provocative",
     "Description": null
   },
   {
-    "Id": "99111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+    "Id": "792",
     "Title": "minimalistic",
     "Description": null
   }
