@@ -4,41 +4,41 @@
   "GraphUrlName": "text-to-image",
   "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/text-to-image",
   "RootConcept": "10000000-024a-44e5-8844-998342022971",
-  "Description": "This is a community built graph of all different types of art styles. This map helps you get better at using AI image generators like Midjourney, Doll-E, Stable Diffusion, and more. It also shows you famous artists and characters, and the special art styles they\u0027re known for.",
+  "Description": "The \u0027text-to-image\u0027 graph is a the definitive guide for users of tools such as Midjourney, DALLE-2, Stable Diffusion, or similar AIs. This chart presents a mapping of art styles, lighting, colors, moods, and renowned entities, assisting in crafting prompts that yield predictable and consistent results.",
   "FeaturedLists": [
-    "20000000-3467-4e75-bed2-fa727f9e2707",
-    "20000000-70bb-4928-ac4a-6e99b9b6441f",
-    "20000000-069a-4b2a-849d-e1e3fddb99a0",
-    "20000000-0327-46d9-b7d2-e80e60d56e0a",
-    "20000000-8dca-46f4-99a4-2f1457396504",
-    "20000000-14b6-4367-b302-0cd4e748aea4"
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
   ],
   "FeaturedConcepts": null,
   "TopFeaturedLists": [
     {
-      "Id": "20000000-024a-44e5-8844-998342022971",
+      "Id": "1",
       "Base64Image": "text-to-image-artstyles.png"
     },
     {
-      "Id": "20000000-b814-41a4-a2bd-9d346cc5ed0a",
+      "Id": "2",
       "Base64Image": "text-to-image-colors.png"
     },
     {
-      "Id": "20000000-1e9e-4e93-be44-e4b69a2c3590",
+      "Id": "3",
       "Base64Image": "frida-kahlo-portrait.png"
     }
   ],
   "TopFeaturedConcepts": [
     {
-      "Id": "10000000-1e9e-4e93-be44-e4bfd9a2c3590",
+      "Id": "185",
       "Base64Image": "knolling-art-style.png"
     },
     {
-      "Id": "10000000-2f9e-4e93-be44-e4bfd9a2c3590",
+      "Id": "271",
       "Base64Image": "steampunk-art-style.png"
     },
     {
-      "Id": "10000000-2f9e-4e93-be44-e4bfd9a2c5550",
+      "Id": "272",
       "Base64Image": "banksy-art-style.png"
     }
   ]
