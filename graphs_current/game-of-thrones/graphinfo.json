@@ -4,7 +4,7 @@
   "GraphUrlName": "game-of-thrones",
   "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/game-of-thrones",
   "RootConcept": "10000000-7e8a-4f1f-a7e3-5b41e8e303d0",
-  "Description": "The Game of Thrones Knowledge Graph is an all-inclusive, structured, and interactive data framework mapping the rich and intricate universe of George R. R. Martin's epic fantasy series, 'A Song of Ice and Fire', and its television adaptation 'Game of Thrones'. This dynamic knowledge graph spans multiple facets of the fictional universe and aims to provide a comprehensive understanding of all information contained within them.",
+  "Description": "The Game of Thrones graph includes the expected lists of characters, locations and major events that make up the wonderful world and story of GoT. It also includes less covered items like groups, religions, dragons, famous quotes and much more.",
   "TopFeaturedLists": [
     {
       "Id": "20000000-3801-45b4-8e26-7913645c96b1",
