@@ -4,21 +4,7 @@
   "GraphUrlName": "game-of-thrones",
   "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/game-of-thrones",
   "RootConcept": "10000000-7e8a-4f1f-a7e3-5b41e8e303d0",
-  "Description": "The Game of Thrones graph includes the expected lists of characters, locations and major events that make up the wonderful world and story of GoT. It also includes less covered items like groups, religions, dragons, famous quotes and much more.",
-  "TopFeaturedLists": [
-    {
-      "Id": "20000000-3801-45b4-8e26-7913645c96b1",
-      "Base64Image": "game-of-thrones-characters.png"
-    },
-    {
-      "Id": "20000000-3801-45b4-8e26-7913645c96b2",
-      "Base64Image": "game-of-thrones-cities.png"
-    },
-    {
-      "Id": "20000000-3801-45b4-8e26-7913645c96b0",
-      "Base64Image": "game-of-thrones-house_sigils.png"
-   }
-  ],
+  "Description": "The Game of Thrones Knowledge Graph is an all-inclusive, structured, and interactive data framework mapping the rich and intricate universe of George R. R. Martin\u0027s epic fantasy series, \u0027A Song of Ice and Fire\u0027, and its television adaptation \u0027Game of Thrones\u0027. This dynamic knowledge graph spans multiple facets of the fictional universe and aims to provide a comprehensive understanding of all information contained within them.",
   "FeaturedLists": [
     "20000000-3801-45b4-8e26-7913645c96b5",
     "20000000-3801-45b4-8e26-7913645c96b6",
@@ -28,27 +14,41 @@
     "20000000-3801-45b4-8e26-7223645c96b8",
     "20000000-3801-dsds-8e26-7223645csdb8"
   ],
+  "FeaturedConcepts": [
+    "101",
+    "121",
+    "150",
+    "166",
+    "207",
+    "218",
+    "241"
+  ],
+  "TopFeaturedLists": [
+    {
+      "Id": "2",
+      "Base64Image": "game-of-thrones-characters.png"
+    },
+    {
+      "Id": "3",
+      "Base64Image": "game-of-thrones-cities.png"
+    },
+    {
+      "Id": "1",
+      "Base64Image": "game-of-thrones-house_sigils.png"
+    }
+  ],
   "TopFeaturedConcepts": [
     {
-      "Id": "10000000-20b9-4459-b057-46a76c6d5233",
+      "Id": "12",
       "Base64Image": "game-of-thrones-jon_snow.png"
     },
     {
-      "Id": "10000000-7e5b-4e19-bd18-7dbdc9d6d5f1",
+      "Id": "66",
       "Base64Image": "game-of-thrones-kings_landing.png"
     },
     {
-      "Id": "10000000-0cac-4dff-8c79-c6e9c14ecd41",
+      "Id": "2",
       "Base64Image": "game-of-thrones-house_stark_sigil.png"
     }
-  ],
-  "FeaturedConcepts": [
-    "10000000-7252-408a-81ae-2a0512b3e5d6",
-    "10000000-0b3e-4ccf-9d0b-d4c7ad5d9063",
-    "10000000-fbd5-4a56-9ef2-3146477f2b5e",
-    "10000000-0000-0000-0000-000000000005",
-    "10000000-0d8f-48f1-8c69-602eef9a6932",
-    "10000000-3033-464d-9c6d-948bae07a95a",
-    "10000000-1c83-4b38-a840-27e39e4f76da"
   ]
 }
