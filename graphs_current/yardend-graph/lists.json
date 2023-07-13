@@ -1,5 +1,13 @@
 [
   {
+    "Id": "3",
+    "Title": "Attacks",
+    "Description": "Attacks",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "1",
     "Title": "Nage-Waza (Throwing)",
     "Description": "Variety of throwing [techniques](/yardend-graph/concept/techniques?id=1) designed to off-balance an attacker and project them to the ground",
@@ -16,9 +24,9 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "3",
-    "Title": "Attacks",
-    "Description": "Attacks",
+    "Id": "4",
+    "Title": "Graspings",
+    "Description": "Graspings",
     "ParentConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
