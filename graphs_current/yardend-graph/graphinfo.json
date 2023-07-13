@@ -1,7 +1,12 @@
 {
   "GraphId": "123",
-  "GraphDisplayName": "My Graph (Change Me!)",
+  "GraphDisplayName": "Aikido",
   "GraphUrlName": "yardend-graph",
   "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/yardend-graph",
-  "Description": "Welcome to GraphHub, as the graph admin you can change the name and description of the graph from the menu on the graph pane. You can also add new concecpts and lists to you home page to design it as you would like."
+  "RootConcept": null,
+  "Description": "Aikido is a modern Japanese martial art that emphasizes self-defense and the harmonious resolution of conflict. It was developed by Morihei Ueshiba, also known as O Sensei, in the early 20th century. The word \u0022Aikido\u0022 can be translated as \u0022the way of harmony with the spirit\u0022 or \u0022the way of unifying with life energy.\u0022\n\nAikido incorporates techniques derived from various traditional Japanese martial arts, such as jujitsu and swordsmanship, as well as Ueshiba\u0027s own philosophical and spiritual beliefs. Unlike many other martial arts, Aikido does not focus on punching or kicking opponents but rather on using their energy and movements against them.",
+  "FeaturedLists": [],
+  "FeaturedConcepts": [],
+  "TopFeaturedLists": [],
+  "TopFeaturedConcepts": []
 }
