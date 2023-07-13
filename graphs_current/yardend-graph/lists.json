@@ -4,7 +4,9 @@
     "Title": "Attacks",
     "Description": "[Attacks](/yardend-graph/list/attacks?id=3)",
     "ParentConceptId": "1",
-    "PullFromListsIds": null,
+    "PullFromListsIds": [
+      "4"
+    ],
     "DisableDirectMembers": false
   },
   {
