@@ -1,3 +1,10 @@
 [
-  
-  ]
+  {
+    "Id": "1",
+    "Title": "Nage-Waza (Throwing)",
+    "Description": "Variety of throwing techniques designed to off-balance an attacker and project them to the ground",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  }
+]
