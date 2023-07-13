@@ -2,8 +2,8 @@
   {
     "Id": "3",
     "Title": "Attacks",
-    "Description": "Attacks",
-    "ParentConceptId": null,
+    "Description": "[Attacks](/yardend-graph/list/attacks?id=3)",
+    "ParentConceptId": "1",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
