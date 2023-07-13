@@ -10,8 +10,8 @@
   {
     "Id": "4",
     "Title": "Graspings",
-    "Description": "Graspings",
-    "ParentConceptId": null,
+    "Description": "[Graspings](/yardend-graph/list/graspings?id=4)",
+    "ParentConceptId": "1",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
