@@ -2,8 +2,8 @@
   {
     "Id": "1",
     "Title": "Nage-Waza (Throwing)",
-    "Description": "Variety of throwing techniques designed to off-balance an attacker and project them to the ground",
-    "ParentConceptId": null,
+    "Description": "Variety of throwing [techniques](/yardend-graph/concept/techniques?id=1) designed to off-balance an attacker and project them to the ground",
+    "ParentConceptId": "1",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   }
