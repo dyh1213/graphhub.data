@@ -3,7 +3,7 @@
     "Id": "20000000-9178-43d4-88f3-b966a172dcf8",
     "Title": "animation",
     "Description": null,
-    "ParentConceptId": "10000000-238d-412f-8da1-09f1c8b02bfa",
+    "ParentConceptId": null,
     "PullFromListsIds": [
       "20000000-0e0b-45d4-af6f-5005b50ed82f"
     ],
@@ -13,7 +13,7 @@
     "Id": "20000000-b55b-4d6b-9fe6-ca15164f24f7",
     "Title": "Animation",
     "Description": null,
-    "ParentConceptId": "10000000-238d-412f-8da1-09f1c8b02bfa",
+    "ParentConceptId": null,
     "PullFromListsIds": [
       "20000000-1568-4ddc-bf7f-27b12f562e7d"
     ],
