@@ -42,7 +42,7 @@
   {
     "Id": "10",
     "Title": "Famous Sayings",
-    "Description": "The list of game of thrones books",
+    "Description": "List of famous qoutes and sayings from Game of Thrones with items like \u0027A Lannister Always Pays His Debts\u0027, \u0027The North Remembers\u0027 and \u0027Winter is Coming\u0027.",
     "ParentConceptId": "1",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
