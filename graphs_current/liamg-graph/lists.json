@@ -1,5 +1,13 @@
 [
   {
+    "Id": "6",
+    "Title": "Entitlement to Joy",
+    "Description": "How close are you to the feeling of Truth as an exemplary prerogative. ",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "3",
     "Title": "Liquidity of Subjectivity",
     "Description": "the propencity of Life to be Rational ",
@@ -40,9 +48,9 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "6",
-    "Title": "Entitlement to Joy",
-    "Description": "How close are you to the feeling of Truth as an exemplary prerogative. ",
+    "Id": "7",
+    "Title": "The right to exist",
+    "Description": "Who eats what what, and how much of it?",
     "ParentConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
