@@ -1,13 +1,5 @@
 [
   {
-    "Id": "8",
-    "Title": "Creation of Life",
-    "Description": "Damned or blessed to Live? Whats holding you back?",
-    "ParentConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
     "Id": "9",
     "Title": "Destiny",
     "Description": "Do we do much learning in the womb or are we subject to forces we cant control?",
@@ -40,6 +32,14 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "10",
+    "Title": "Substantial Growth",
+    "Description": "Who do we need, why, and what happens when they\u0027re con?",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "4",
     "Title": "The gravitational pull of Music",
     "Description": "Grasping the sense of wonder that exists between the sense of Creation and the sense of being witness to it",
@@ -67,14 +67,6 @@
     "Id": "5",
     "Title": "Work or Fun?",
     "Description": "The basic principle of having to work as an extension of ones moral imperative. ",
-    "ParentConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "10",
-    "Title": "Substantial Growth",
-    "Description": "Who do we need, why, and what happens when they\u0027re con?",
     "ParentConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
