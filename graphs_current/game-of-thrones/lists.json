@@ -74,7 +74,7 @@
   {
     "Id": "7",
     "Title": "Titles",
-    "Description": "Prestigious designations bestowed upon characters, such as Mother of Dragons, King in the North, and Lord Commander, representing their positions, accomplishments, and influence in the realm.",
+    "Description": "List of the titles and prestigious designations given to characters, such as Mother of Dragons, King in the North, and Lord Commander, representing their positions, accomplishments, and influence in the realm.",
     "ParentConceptId": "1",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
