@@ -26,7 +26,7 @@
   {
     "Id": "8",
     "Title": "Dragons",
-    "Description": "List of the major dragons in the game of thrones series",
+    "Description": "List of the major dragons in Game of Thrones, either featured directly in the story, such as Drogon, Rhaegal, and Viserion, or mentioned as having existed historically.",
     "ParentConceptId": "1",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
