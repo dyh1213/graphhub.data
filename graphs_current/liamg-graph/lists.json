@@ -8,6 +8,14 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "9",
+    "Title": "Destiny",
+    "Description": "Do we do much learning in the womb or are we subject to forces we cant control?",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "6",
     "Title": "Entitlement to Joy",
     "Description": "How close are you to the feeling of Truth as an exemplary prerogative. ",
@@ -64,9 +72,9 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "9",
-    "Title": "Destiny",
-    "Description": "Do we do much learning in the womb or are we subject to forces we cant control?",
+    "Id": "10",
+    "Title": "Substantial Growth",
+    "Description": "Who do we need, why, and what happens when they\u0027re con?",
     "ParentConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
