@@ -1,13 +1,5 @@
 [
   {
-    "Id": "1",
-    "Title": "Seduction",
-    "Description": "Business of Life",
-    "ParentConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
     "Id": "10",
     "Title": "Substantial Growth",
     "Description": "Who do we need, why, and what happens when they\u0027re con?",
