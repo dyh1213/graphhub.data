@@ -1,13 +1,5 @@
 [
   {
-    "Id": "2",
-    "Title": "Time ",
-    "Description": "The urgency of matter to become Entropy.",
-    "ParentConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
     "Id": "5",
     "Title": "Work or Fun?",
     "Description": "The basic principle of having to work as an extension of ones moral imperative. ",
