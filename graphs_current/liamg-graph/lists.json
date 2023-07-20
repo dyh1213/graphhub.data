@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "Id": "1",
+    "Title": "Spiritual Invitations",
+    "Description": "Callings to higher thought modules. ",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  }
+]
