@@ -1,5 +1,13 @@
 [
   {
+    "Id": "8",
+    "Title": "Creation of Life",
+    "Description": "Damned or blessed to Live? Whats holding you back?",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "6",
     "Title": "Entitlement to Joy",
     "Description": "How close are you to the feeling of Truth as an exemplary prerogative. ",
@@ -56,9 +64,9 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "8",
-    "Title": "Creation of Life",
-    "Description": "Damned or blessed to Live? Whats holding you back?",
+    "Id": "9",
+    "Title": "Destiny",
+    "Description": "Do we do much learning in the womb or are we subject to forces we cant control?",
     "ParentConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
