@@ -30,6 +30,11 @@
     "Description": "Disclaimer for all Spiritual Work"
   },
   {
+    "Id": "12",
+    "Title": "Spiritual Clarification",
+    "Description": "A disclaimer for all spiritual endeavor."
+  },
+  {
     "Id": "7",
     "Title": "Substantial Growth",
     "Description": "Who do we need, why, and what happens when they\u0027re con?"
@@ -55,8 +60,8 @@
     "Description": "The basic principle of having to work as an extension of ones moral imperative"
   },
   {
-    "Id": "12",
-    "Title": "Spiritual Clarification",
-    "Description": "A disclaimer for all spiritual endeavor."
+    "Id": "13",
+    "Title": "Spiritual clarification",
+    "Description": "Disclaimer"
   }
 ]
