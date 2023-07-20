@@ -25,6 +25,11 @@
     "Description": "Business of Life"
   },
   {
+    "Id": "11",
+    "Title": "Spiritual Clarification",
+    "Description": "Disclaimer for all Spiritual Work"
+  },
+  {
     "Id": "7",
     "Title": "Substantial Growth",
     "Description": "Who do we need, why, and what happens when they\u0027re con?"
@@ -50,8 +55,8 @@
     "Description": "The basic principle of having to work as an extension of ones moral imperative"
   },
   {
-    "Id": "11",
+    "Id": "12",
     "Title": "Spiritual Clarification",
-    "Description": "Disclaimer for all Spiritual Work"
+    "Description": "A disclaimer for all spiritual endeavor."
   }
 ]
