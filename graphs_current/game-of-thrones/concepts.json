@@ -135,6 +135,11 @@
     "Description": "Chaos isn\u0027t a Pit, It\u0027s a Ladder is a line spoken by Petyr Baelish, highlighting his belief that chaos creates opportunities for advancement and power."
   },
   {
+    "Id": "272",
+    "Title": "Church of Starry Wisdom",
+    "Description": "A religion that exists in several port cities throughout the known world. It worships a deity known as the Lion of Night."
+  },
+  {
     "Id": "58",
     "Title": "Daario Naharis",
     "Description": "Daario Naharis is a skilled warrior and a confident character in Game of Thrones. He becomes a loyal advisor and lover to Daenerys Targaryen. Daario\u0027s skills in combat and his unorthodox charm make him a memorable character in the series."
@@ -388,6 +393,11 @@
     "Id": "66",
     "Title": "King\u0027s Landing",
     "Description": "The capital city of the Seven Kingdoms and the seat of the Iron Throne. King\u0027s Landing is a bustling metropolis with a complex political landscape and is home to the Red Keep, where the ruling monarch resides."
+  },
+  {
+    "Id": "275",
+    "Title": "Lady of the Waves and the Lord of the Skies",
+    "Description": "Old gods of the Three Sisters Islands in the Bite, who were said to be married."
   },
   {
     "Id": "90",
@@ -815,6 +825,11 @@
     "Description": "The battle between the living and the Night King\u0027s army of the dead at Winterfell, marking the climax of the Great War and resulting in the defeat of the Night King and the White Walkers."
   },
   {
+    "Id": "273",
+    "Title": "The Bearded Priests of Norvos",
+    "Description": "A sect in Norvos that has very strict laws and customs, with each follower\u0027s life being regulated by the ringing of their city\u0027s bells."
+  },
+  {
     "Id": "120",
     "Title": "The Birth of Dragons",
     "Description": "Daenerys Targaryen\u0027s hatching of three dragon eggs in the funeral pyre of Khal Drogo, resulting in the birth of her dragons and the resurgence of dragons in the world."
@@ -935,6 +950,11 @@
     "Description": "The ruling class of Astapor, known for their involvement in the slave trade."
   },
   {
+    "Id": "274",
+    "Title": "The Graces",
+    "Description": "An order of priestesses in the Ghiscari religion, dedicated to various aspects of life and society."
+  },
+  {
     "Id": "269",
     "Title": "The Great Masters",
     "Description": "The ruling class of the city of Meereen, they are wealthy slavers."
@@ -1033,6 +1053,11 @@
     "Id": "262",
     "Title": "The Moon Brothers",
     "Description": "One of the mountain clans living in the Vale, recognized by their moon-and-stars sigil."
+  },
+  {
+    "Id": "271",
+    "Title": "The Moonsingers",
+    "Description": "The primary religion of the people of Braavos, the Moonsingers led the original slaves to their new city."
   },
   {
     "Id": "231",
@@ -1350,28 +1375,48 @@
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
   },
   {
-    "Id": "271",
-    "Title": "The Moonsingers",
-    "Description": "The primary religion of the people of Braavos, the Moonsingers led the original slaves to their new city."
+    "Id": "276",
+    "Title": "The Ghiscari religion",
+    "Description": "The major religion in Slaver\u0027s Bay, run by priestesses known as Graces."
   },
   {
-    "Id": "272",
-    "Title": "Church of Starry Wisdom",
-    "Description": "A religion that exists in several port cities throughout the known world. It worships a deity known as the Lion of Night."
+    "Id": "277",
+    "Title": "The Lion of Night and Maiden-Made-of-Light",
+    "Description": "Chief deities in the religion of Yi Ti, in the far east of Essos."
   },
   {
-    "Id": "273",
-    "Title": "The Bearded Priests of Norvos",
-    "Description": "A sect in Norvos that has very strict laws and customs, with each follower\u0027s life being regulated by the ringing of their city\u0027s bells."
+    "Id": "278",
+    "Title": "Bakkalon, the Pale Child",
+    "Description": "A deity favored by soldiers."
   },
   {
-    "Id": "274",
-    "Title": "The Graces",
-    "Description": "An order of priestesses in the Ghiscari religion, dedicated to various aspects of life and society."
+    "Id": "279",
+    "Title": "The Weeping Lady",
+    "Description": "A deity worshiped by a cult in the Free City of Lys."
   },
   {
-    "Id": "275",
-    "Title": "Lady of the Waves and the Lord of the Skies",
-    "Description": "Old gods of the Three Sisters Islands in the Bite, who were said to be married."
+    "Id": "280",
+    "Title": "The Hooded Wayfarer",
+    "Description": "A deity favored by poor men."
+  },
+  {
+    "Id": "281",
+    "Title": "The Moon-Pale Maiden",
+    "Description": "A deity favored by sailors."
+  },
+  {
+    "Id": "282",
+    "Title": "The Merling King",
+    "Description": "Also favored by sailors."
+  },
+  {
+    "Id": "283",
+    "Title": "Summer Islands religion",
+    "Description": "Summer Islanders consider sex to be a holy and life-affirming act that honors their gods."
+  },
+  {
+    "Id": "284",
+    "Title": "Mother Rhoyne",
+    "Description": "A religion worshiped by a minority group in eastern Dorne, associated with the Rhoynar people and their river-based culture."
   }
 ]
