@@ -66,6 +66,14 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "13",
+    "Title": "Continents",
+    "Description": "List of the Game of Thrones continents which includes Westeros and Essos.",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "12",
     "Title": "Locations",
     "Description": "A list of the notable locations in the Game of Thrones universe which includes cities, castles, towns and more.",
@@ -96,14 +104,6 @@
     "Title": "Titles",
     "Description": "List of the titles and prestigious designations given to characters, such as Mother of Dragons, King in the North, and Lord Commander, representing their positions, accomplishments, and influence in the realm.",
     "ParentConceptId": "1",
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "13",
-    "Title": "Kingdoms",
-    "Description": "List of the Game of Thrones kingdoms which includes Westeros and Essos.",
-    "ParentConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   }
