@@ -88,5 +88,13 @@
     "ParentConceptId": "1",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
+  },
+  {
+    "Id": "12",
+    "Title": "Locations",
+    "Description": "A list of the notable locations in the Game of Thrones universe which includes cities, castles, towns and more.",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
   }
 ]
