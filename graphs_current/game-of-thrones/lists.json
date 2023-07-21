@@ -36,7 +36,9 @@
     "Title": "Events",
     "Description": "List of the most significant events in Game of Thrones like the Red Wedding, Battle of the Bastards, and the Battle of Blackwater, which shape the course of the story, influencing alliances, allegiances, and character development.",
     "ParentConceptId": "1",
-    "PullFromListsIds": null,
+    "PullFromListsIds": [
+      "11"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -64,6 +66,14 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "11",
+    "Title": "Major Battles",
+    "Description": "List of the most significant battles in Game of Thrones like the Battle of the Bastards and the Battle of Blackwater, which shape the course of the story, influencing alliances, allegiances, and character development.",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "4",
     "Title": "Religions",
     "Description": "List of the religions and belief systems in Game of Thrones, which profoundly influence the spiritual perspectives and customs of various characters and cultures. It includes items such as the Faith of the Seven, the Old Gods, and the Lord of Light.",
@@ -76,14 +86,6 @@
     "Title": "Titles",
     "Description": "List of the titles and prestigious designations given to characters, such as Mother of Dragons, King in the North, and Lord Commander, representing their positions, accomplishments, and influence in the realm.",
     "ParentConceptId": "1",
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "11",
-    "Title": "Major Battles",
-    "Description": "List of the most significant battles in Game of Thrones like the Battle of the Bastards and the Battle of Blackwater, which shape the course of the story, influencing alliances, allegiances, and character development.",
-    "ParentConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   }
