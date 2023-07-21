@@ -70,6 +70,11 @@
     "Description": "A city located in Slaver\u0027s Bay, Astapor is known for its Unsullied warriors, highly disciplined eunuch slave soldiers. It plays a significant role in Daenerys Targaryen\u0027s liberation campaign."
   },
   {
+    "Id": "278",
+    "Title": "Bakkalon, the Pale Child",
+    "Description": "A deity favored by soldiers."
+  },
+  {
     "Id": "195",
     "Title": "Balerion",
     "Description": "Balerion, also known as Balerion the Black Dread, is one of the most famous dragons in Westerosi history. He was the dragon of Aegon the Conqueror and played a crucial role in the Targaryen conquest of Westeros."
@@ -545,6 +550,11 @@
     "Description": "The title \u0027Mother of Dragons\u0027 is given to Daenerys Targaryen, who hatched three dragon eggs and became the mother and rider of dragons. She commands the loyalty of the powerful creatures and uses them to further her ambitions."
   },
   {
+    "Id": "284",
+    "Title": "Mother Rhoyne",
+    "Description": "A religion worshiped by a minority group in eastern Dorne, associated with the Rhoynar people and their river-based culture."
+  },
+  {
     "Id": "50",
     "Title": "Myrcella Baratheon",
     "Description": "Myrcella Baratheon is a kind-hearted and tragic character in Game of Thrones. She is the daughter of Cersei Lannister and Robert Baratheon. Myrcella\u0027s story revolves around her political marriages and the consequences of her family\u0027s actions."
@@ -713,6 +723,11 @@
     "Id": "207",
     "Title": "Stormcloud",
     "Description": "Stormcloud was a dragon ridden by Queen Rhaenyra Targaryen during the Targaryen civil war known as the Dance of the Dragons. He was known for his dark gray scales and fierce temperament."
+  },
+  {
+    "Id": "283",
+    "Title": "Summer Islands religion",
+    "Description": "Summer Islanders consider sex to be a holy and life-affirming act that honors their gods."
   },
   {
     "Id": "199",
@@ -940,6 +955,11 @@
     "Description": "The Free Folk, also known as the wildlings, are a group of people who live beyond the Wall. They reject the authority of the Seven Kingdoms and have their own customs and traditions. They are seen as a threat by the Night\u0027s Watch and the people of the North."
   },
   {
+    "Id": "276",
+    "Title": "The Ghiscari religion",
+    "Description": "The major religion in Slaver\u0027s Bay, run by priestesses known as Graces."
+  },
+  {
     "Id": "152",
     "Title": "The Golden Company",
     "Description": "The Golden Company is a sellsword company known for its discipline and effectiveness in battle. They are composed of exiles, outlaws, and other fighters who seek fortune and glory. They are hired by various factions throughout the series."
@@ -968,6 +988,11 @@
     "Id": "156",
     "Title": "The Guild of Alchemists",
     "Description": "The Guild of Alchemists is an organization of alchemists based in King\u0027s Landing. They are responsible for the production and management of wildfire, a highly volatile and dangerous substance. They play a role in the Battle of the Blackwater and subsequent events."
+  },
+  {
+    "Id": "280",
+    "Title": "The Hooded Wayfarer",
+    "Description": "A deity favored by poor men."
   },
   {
     "Id": "265",
@@ -1015,6 +1040,11 @@
     "Description": "The event where Jaime Lannister betrayed and killed King Aerys II Targaryen, earning him the nickname \u0027Kingslayer\u0027 and forever altering his reputation and role in the series."
   },
   {
+    "Id": "277",
+    "Title": "The Lion of Night and Maiden-Made-of-Light",
+    "Description": "Chief deities in the religion of Yi Ti, in the far east of Essos."
+  },
+  {
     "Id": "110",
     "Title": "The Long Night",
     "Description": "The legendary winter that lasted for a generation and brought the White Walkers to Westeros. It was ended by the Last Hero and the Children of the Forest."
@@ -1050,9 +1080,19 @@
     "Description": "The Many-Faced God of Death is a deity worshipped by the Faceless Men of Braavos. They believe that death is a natural part of life and see themselves as servants of this god."
   },
   {
+    "Id": "282",
+    "Title": "The Merling King",
+    "Description": "Also favored by sailors."
+  },
+  {
     "Id": "262",
     "Title": "The Moon Brothers",
     "Description": "One of the mountain clans living in the Vale, recognized by their moon-and-stars sigil."
+  },
+  {
+    "Id": "281",
+    "Title": "The Moon-Pale Maiden",
+    "Description": "A deity favored by sailors."
   },
   {
     "Id": "271",
@@ -1245,6 +1285,11 @@
     "Description": "The Warlocks of Qarth are a group of sorcerers who possess powerful magical abilities. They reside in the city of Qarth and are known for their enigmatic nature. They play a significant role in Daenerys Targaryen\u0027s storyline in Essos."
   },
   {
+    "Id": "279",
+    "Title": "The Weeping Lady",
+    "Description": "A deity worshiped by a cult in the Free City of Lys."
+  },
+  {
     "Id": "219",
     "Title": "The Winds of Winter",
     "Description": "The Winds of Winter is the forthcoming sixth novel in the A Song of Ice and Fire series. As of the knowledge cutoff in September 2021, the book has not been released. It is highly anticipated by fans and will continue the complex narrative of the series."
@@ -1375,48 +1420,108 @@
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
   },
   {
-    "Id": "276",
-    "Title": "The Ghiscari religion",
-    "Description": "The major religion in Slaver\u0027s Bay, run by priestesses known as Graces."
+    "Id": "285",
+    "Title": "The Siege of Riverrun",
+    "Description": "The Siege of Riverrun was a prolonged conflict where House Frey and House Lannister besieged the ancestral home of House Tully."
   },
   {
-    "Id": "277",
-    "Title": "The Lion of Night and Maiden-Made-of-Light",
-    "Description": "Chief deities in the religion of Yi Ti, in the far east of Essos."
+    "Id": "286",
+    "Title": "The Battle of Oxcross",
+    "Description": "The Battle of Oxcross was a major engagement in the War of the Five Kings, where Robb Stark scored a surprise victory against the Lannister forces."
   },
   {
-    "Id": "278",
-    "Title": "Bakkalon, the Pale Child",
-    "Description": "A deity favored by soldiers."
+    "Id": "287",
+    "Title": "The Mutiny at Craster\u0027s Keep",
+    "Description": "The mutiny was a severe internal conflict within the Night\u0027s Watch, at the homestead of Craster north of the Wall."
   },
   {
-    "Id": "279",
-    "Title": "The Weeping Lady",
-    "Description": "A deity worshiped by a cult in the Free City of Lys."
+    "Id": "288",
+    "Title": "The Battle of the Camps",
+    "Description": "The Battle of the Camps was a surprise attack led by Robb Stark\u0027s forces against the Lannister army, which resulted in a strategic victory for House Stark."
   },
   {
-    "Id": "280",
-    "Title": "The Hooded Wayfarer",
-    "Description": "A deity favored by poor men."
+    "Id": "289",
+    "Title": "The Battle of Deepwood Motte",
+    "Description": "This battle saw House Glover retake their home from the Ironborn, with help from Stannis Baratheon\u0027s forces."
   },
   {
-    "Id": "281",
-    "Title": "The Moon-Pale Maiden",
-    "Description": "A deity favored by sailors."
+    "Id": "290",
+    "Title": "The Massacre at Hardhome",
+    "Description": "The Massacre at Hardhome was a surprise attack by the Night King and his army of White Walkers and wights on the free folk settlement of Hardhome."
   },
   {
-    "Id": "282",
-    "Title": "The Merling King",
-    "Description": "Also favored by sailors."
+    "Id": "291",
+    "Title": "The Second Siege of Riverrun",
+    "Description": "This siege saw the return of House Frey control after a successful negotiation between Jaime Lannister and Edmure Tully."
   },
   {
-    "Id": "283",
-    "Title": "Summer Islands religion",
-    "Description": "Summer Islanders consider sex to be a holy and life-affirming act that honors their gods."
+    "Id": "292",
+    "Title": "The Battle of Green Fork",
+    "Description": "Fought between House Stark and House Lannister, this battle was a tactical victory for the Lannisters, though it allowed Robb Stark to gain a strategic advantage."
   },
   {
-    "Id": "284",
-    "Title": "Mother Rhoyne",
-    "Description": "A religion worshiped by a minority group in eastern Dorne, associated with the Rhoynar people and their river-based culture."
+    "Id": "293",
+    "Title": "The Battle of the Shield Islands",
+    "Description": "In the battle, the Iron Fleet under Euron Greyjoy captured the Shield Islands, paving the way for his larger plans of conquest."
+  },
+  {
+    "Id": "294",
+    "Title": "The Fall of Moat Cailin",
+    "Description": "The Fall of Moat Cailin was a critical moment in the War of the Five Kings, where Ramsay Bolton captured Moat Cailin, securing the North for House Bolton."
+  },
+  {
+    "Id": "295",
+    "Title": "The Assassination at the Red Wedding",
+    "Description": "This event wasn\u0027t a traditional battle but marked a significant turning point in the War of the Five Kings, with House Stark\u0027s power significantly weakened."
+  },
+  {
+    "Id": "296",
+    "Title": "The Dance of the Dragons",
+    "Description": "This was a civil war during Targaryen rule, primarily fought between the forces of Rhaenyra Targaryen and her half-brother Aegon II for control over the Iron Throne."
+  },
+  {
+    "Id": "297",
+    "Title": "Robert\u0027s Rebellion",
+    "Description": "Also known as the War of the Usurper, this war led to the end of the Targaryen dynasty and the start of Robert Baratheon\u0027s reign."
+  },
+  {
+    "Id": "298",
+    "Title": "The Battle of Redgrass Field",
+    "Description": "The deciding battle of the Blackfyre Rebellion. The loyalist forces, led by Baelor Breakspear, defeated the Blackfyre rebels."
+  },
+  {
+    "Id": "299",
+    "Title": "The Battle of the Bells",
+    "Description": "A major battle in Robert\u0027s Rebellion, where Robert Baratheon\u0027s forces clashed with those of the Mad King in the town of Stoney Sept."
+  },
+  {
+    "Id": "300",
+    "Title": "The Field of Fire",
+    "Description": "This was the only battle in the War of Conquest where all three of Aegon the Conqueror\u0027s dragons were deployed. It led to the surrender of King Loren Lannister."
+  },
+  {
+    "Id": "301",
+    "Title": "The Battle of the Gullet",
+    "Description": "A major naval battle during the Dance of the Dragons, the Targaryen civil war, resulted in heavy losses on both sides."
+  },
+  {
+    "Id": "302",
+    "Title": "The Rains of Castamere",
+    "Description": "Not a battle but a massacre. House Reyne rebelled against their liege lord, House Lannister, and were utterly destroyed."
+  },
+  {
+    "Id": "303",
+    "Title": "The Battle Above the Gods Eye",
+    "Description": "A climactic battle in the Dance of the Dragons where two dragonriders fought each other in a duel that ended with both their deaths."
+  },
+  {
+    "Id": "304",
+    "Title": "The Battle of Ashford",
+    "Description": "In Robert\u0027s Rebellion, the forces of Robert Baratheon suffered their only defeat by the army of House Tyrell."
+  },
+  {
+    "Id": "305",
+    "Title": "The Sack of King\u0027s Landing",
+    "Description": "During Robert\u0027s Rebellion, House Lannister sacked King\u0027s Landing, ending the Targaryen rule."
   }
 ]
