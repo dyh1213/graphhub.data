@@ -15,6 +15,11 @@
     "Description": "A Dance with Dragons is the fifth novel in the A Song of Ice and Fire series. It takes place simultaneously with the events of A Feast for Crows and continues the storylines of various characters. The book expands on the political intrigue and power struggles in Westeros, as well as the growing threat of Daenerys Targaryen."
   },
   {
+    "Id": "364",
+    "Title": "A dragon is not a slave",
+    "Description": "A phrase spoken by Daenerys Targaryen in reference to her dragons, it signifies their strength and independence."
+  },
+  {
     "Id": "220",
     "Title": "A Dream of Spring",
     "Description": "A Dream of Spring is the planned seventh and final novel in the A Song of Ice and Fire series. Its release date is currently unknown. The book is expected to conclude the storylines of the remaining characters and resolve the conflicts in Westeros and beyond."
@@ -35,14 +40,34 @@
     "Description": "A girl has no name is a saying associated with Arya Stark during her training with the Faceless Men, representing her journey towards becoming a skilled assassin."
   },
   {
+    "Id": "358",
+    "Title": "A Golden Crown",
+    "Description": "A phrase related to Viserys Targaryen\u0027s demand for a crown from Khal Drogo, resulting in his death by molten gold."
+  },
+  {
     "Id": "226",
     "Title": "A Lannister Always Pays His Debts",
     "Description": "A Lannister Always Pays His Debts is the motto of House Lannister, emphasizing their reputation for ensuring their debts are repaid, both financially and otherwise."
   },
   {
+    "Id": "362",
+    "Title": "A lion does not concern himself with the opinion of sheep",
+    "Description": "A quote by Tywin Lannister signifying the dominance and disregard of House Lannister towards their less powerful subjects."
+  },
+  {
     "Id": "239",
     "Title": "A mind needs books as a sword needs a whetstone",
     "Description": "A mind needs books as a sword needs a whetstone is a quote by Tyrion Lannister, emphasizing the importance of knowledge and learning."
+  },
+  {
+    "Id": "377",
+    "Title": "A queen must rule",
+    "Description": "A quote from Daenerys Targaryen asserting her authority and power."
+  },
+  {
+    "Id": "405",
+    "Title": "A ruler who kills those devoted to her is not a ruler who inspires devotion",
+    "Description": "A quote by Tyrion Lannister, advising Daenerys on the importance of mercy and respect as a ruler."
   },
   {
     "Id": "213",
@@ -55,14 +80,49 @@
     "Description": "A Storm of Swords is the third novel in the A Song of Ice and Fire series. It is known for its numerous shocking and pivotal events, including the Red Wedding. The book further delves into the conflicts and power shifts in Westeros, as well as the growing threat from beyond the Wall."
   },
   {
+    "Id": "376",
+    "Title": "A Targaryen alone in the world is a terrible thing",
+    "Description": "A quote from Maester Aemon revealing his sympathy and concern for Daenerys Targaryen."
+  },
+  {
+    "Id": "400",
+    "Title": "A very small man can cast a very large shadow",
+    "Description": "A quote by Varys to Tyrion, highlighting the significance of influence over physical size or strength."
+  },
+  {
+    "Id": "325",
+    "Title": "Above the rest",
+    "Description": "This is the motto of House Mallister, a noble house from the Riverlands."
+  },
+  {
     "Id": "109",
     "Title": "Aegon\u0027s Conquest",
     "Description": "Aegon Targaryen\u0027s conquest of Westeros, where he united the Seven Kingdoms under his rule and established the Targaryen dynasty."
   },
   {
+    "Id": "368",
+    "Title": "All men must die",
+    "Description": "The English translation of \u0027Valar Morghulis\u0027, a common saying in Essos."
+  },
+  {
+    "Id": "388",
+    "Title": "Any man who must say, \u0027I am the king\u0027, is no true king",
+    "Description": "A quote from Tywin Lannister teaching his grandson Joffrey about the nature of true authority."
+  },
+  {
     "Id": "14",
     "Title": "Arya Stark",
     "Description": "Arya Stark is a fierce and determined character in Game of Thrones. She is the third child of Eddard Stark and Catelyn Stark. Arya is skilled in swordsmanship and assassination, and her journey throughout the series is marked by a desire for revenge and a quest for personal identity."
+  },
+  {
+    "Id": "319",
+    "Title": "As High as Honor",
+    "Description": "This is the motto of House Arryn, one of the Great Houses of Westeros."
+  },
+  {
+    "Id": "387",
+    "Title": "As High As Honor",
+    "Description": "The motto of House Arryn, signifying their noble and virtuous nature."
   },
   {
     "Id": "73",
@@ -90,6 +150,26 @@
     "Description": "Beric Dondarrion is a resilient and enigmatic character in Game of Thrones. He is the leader of the Brotherhood Without Banners and has been resurrected multiple times by the power of the Lord of Light. Beric\u0027s purpose revolves around serving the greater good and fighting against the forces of darkness."
   },
   {
+    "Id": "352",
+    "Title": "Better than the Best",
+    "Description": "This is the motto of House Umber, a noble house from the North."
+  },
+  {
+    "Id": "354",
+    "Title": "Beware Our Sting",
+    "Description": "This is the motto of House Beesbury, a noble house from the Reach."
+  },
+  {
+    "Id": "338",
+    "Title": "Beware the Fury of a Patient Man",
+    "Description": "This is the motto of House Corbray, a noble house from the Vale."
+  },
+  {
+    "Id": "353",
+    "Title": "Bound by Blood",
+    "Description": "This is the motto of House Blackwood, a noble house from the Riverlands."
+  },
+  {
     "Id": "68",
     "Title": "Braavos",
     "Description": "A powerful city-state located across the Narrow Sea. Braavos is known for its strong navy, its complex system of canals, and the enigmatic and deadly assassins known as the Faceless Men."
@@ -113,6 +193,16 @@
     "Id": "47",
     "Title": "Bronn",
     "Description": "Bronn is a skilled sellsword and a witty character in Game of Thrones. He starts as a companion to Tyrion Lannister and later becomes a trusted ally to other key figures. Bronn\u0027s sharp wit and martial prowess make him a fan-favorite character."
+  },
+  {
+    "Id": "375",
+    "Title": "Burn them all",
+    "Description": "The last words of King Aerys II Targaryen, revealing his madness and obsession with fire."
+  },
+  {
+    "Id": "339",
+    "Title": "By Day or Night",
+    "Description": "This is the motto of House Dayne, a noble house from Dorne."
   },
   {
     "Id": "201",
@@ -155,6 +245,11 @@
     "Description": "Daenerys Targaryen, also known as Daenerys Stormborn or the Mother of Dragons, is a major character in Game of Thrones. She is the last surviving member of the Targaryen dynasty and has ambitions to reclaim the Iron Throne. Daenerys possesses three dragons and an unwavering determination to rule the Seven Kingdoms."
   },
   {
+    "Id": "367",
+    "Title": "Dark wings, dark words",
+    "Description": "A common saying in Westeros referring to the fact that messages brought by ravens often carry bad news."
+  },
+  {
     "Id": "40",
     "Title": "Davina Sand",
     "Description": "Davina Sand is a cunning and deceptive character in Game of Thrones. She is a skilled manipulator and spy, often working behind the scenes to gather information and influence events. Davina\u0027s loyalty lies with her own interests, and she is willing to do whatever it takes to achieve her goals."
@@ -163,6 +258,21 @@
     "Id": "29",
     "Title": "Davos Seaworth",
     "Description": "Davos Seaworth, also known as the Onion Knight, is a loyal and honorable character in Game of Thrones. He is a former smuggler who becomes a trusted advisor to Stannis Baratheon. Davos\u0027 unwavering loyalty and moral compass make him a valuable asset in the conflicts that arise."
+  },
+  {
+    "Id": "330",
+    "Title": "Death Before Disgrace",
+    "Description": "This is the motto of House Toyne, a noble house from the Stormlands."
+  },
+  {
+    "Id": "348",
+    "Title": "Defender of the Dispossessed",
+    "Description": "This is the motto of House Blackfyre, a noble house from the Crownlands."
+  },
+  {
+    "Id": "392",
+    "Title": "Different roads sometimes lead to the same castle",
+    "Description": "A quote from Jon Snow emphasizing that there are often different paths to the same goal."
   },
   {
     "Id": "81",
@@ -220,6 +330,31 @@
     "Description": "Euron Greyjoy is a sadistic and unpredictable character in Game of Thrones. He is the uncle of Theon Greyjoy and seeks to claim the Iron Islands for himself. Euron\u0027s brutal nature and his mastery of naval warfare make him a dangerous adversary."
   },
   {
+    "Id": "379",
+    "Title": "Every flight begins with a fall",
+    "Description": "A quote from the Three-eyed Raven to Bran Stark, explaining the path to learning and growth."
+  },
+  {
+    "Id": "337",
+    "Title": "Every Man a King",
+    "Description": "This is the motto of House Broom, a noble house from the Westerlands."
+  },
+  {
+    "Id": "318",
+    "Title": "Family, Duty, Honor",
+    "Description": "This is the motto of House Tully, one of the Great Houses of Westeros."
+  },
+  {
+    "Id": "397",
+    "Title": "Family, Duty, Honor",
+    "Description": "The motto of House Tully, outlining their priorities and values."
+  },
+  {
+    "Id": "363",
+    "Title": "Fear cuts deeper than swords",
+    "Description": "A quote from Syrio Forel to Arya Stark during their training sessions, teaching her to conquer her fears."
+  },
+  {
     "Id": "222",
     "Title": "Fire \u0026 Blood",
     "Description": "Fire \u0026 Blood is a companion book to the A Song of Ice and Fire series. It is a fictional history book that covers the Targaryen dynasty, starting with Aegon\u0027s Conquest and spanning several centuries. The book provides insights into the history of Westeros and the Targaryen rulers."
@@ -228,6 +363,36 @@
     "Id": "238",
     "Title": "Fire and Blood",
     "Description": "Fire and Blood is the motto of House Targaryen, representing their history of dragonlords and their determination to reclaim the Iron Throne."
+  },
+  {
+    "Id": "329",
+    "Title": "First in Battle",
+    "Description": "This is the motto of House Tarly, a noble house from the Reach."
+  },
+  {
+    "Id": "410",
+    "Title": "First lesson, stick them with the pointy end",
+    "Description": "A quote by Jon Snow to Arya Stark, giving her basic advice on how to use a sword."
+  },
+  {
+    "Id": "321",
+    "Title": "First of His Name",
+    "Description": "A title given to the first king of a new dynasty in the Seven Kingdoms."
+  },
+  {
+    "Id": "334",
+    "Title": "Fly High, Fly Far",
+    "Description": "This is the motto of House Swyft, a noble house from the Westerlands."
+  },
+  {
+    "Id": "313",
+    "Title": "For the night is dark and full of terrors",
+    "Description": "This is a prayer to the Lord of Light, often quoted by Melisandre."
+  },
+  {
+    "Id": "335",
+    "Title": "From Sea to Sea",
+    "Description": "This is the motto of House Seaworth, a noble house from the Stormlands."
   },
   {
     "Id": "1",
@@ -250,6 +415,16 @@
     "Description": "Grey Worm is a skilled and disciplined character in Game of Thrones. He is the commander of the Unsullied, an army of eunuch slave soldiers. Grey Worm\u0027s journey involves finding his identity and forging deep connections in a world defined by war and political intrigue."
   },
   {
+    "Id": "314",
+    "Title": "Growing strong",
+    "Description": "This is the motto of House Tyrell, one of the Great Houses of Westeros."
+  },
+  {
+    "Id": "390",
+    "Title": "Growing Strong",
+    "Description": "The motto of House Tyrell, representing their resilience and growth in power."
+  },
+  {
     "Id": "167",
     "Title": "Hand of the King",
     "Description": "The Hand of the King is the principal advisor to the reigning monarch and acts as the second-in-command in the Seven Kingdoms. This title carries significant political power and influence."
@@ -258,6 +433,26 @@
     "Id": "85",
     "Title": "Harrenhal",
     "Description": "A massive castle located in the Riverlands, Harrenhal is the largest and most haunted castle in Westeros. It is associated with tragedy and misfortune and has changed hands multiple times throughout history."
+  },
+  {
+    "Id": "408",
+    "Title": "He\u0027s the prince that was promised, and his is the song of ice and fire",
+    "Description": "A quote by Rhaegar Targaryen in reference to his son, hinting at the prophecy of the prince who was promised."
+  },
+  {
+    "Id": "332",
+    "Title": "Hear Me Roar!",
+    "Description": "This is the official motto of House Lannister, one of the Great Houses of Westeros."
+  },
+  {
+    "Id": "356",
+    "Title": "Hear the roar",
+    "Description": "A common phrase associated with House Lannister, it signifies their strength and power."
+  },
+  {
+    "Id": "320",
+    "Title": "Here We Stand",
+    "Description": "This is the motto of House Mormont, a noble house from the North."
   },
   {
     "Id": "48",
@@ -278,6 +473,11 @@
     "Id": "233",
     "Title": "Hold the door",
     "Description": "Hold the door is a phrase with significant emotional impact, revealing the origin of Hodor\u0027s name and the sacrifice he made to protect Bran Stark."
+  },
+  {
+    "Id": "343",
+    "Title": "Honour, not Honours",
+    "Description": "This is the motto of House Smallwood, a noble house from the Riverlands."
   },
   {
     "Id": "97",
@@ -330,6 +530,16 @@
     "Description": "Rulers of Highgarden in the Reach. Renowned for their diplomacy, wealth from agriculture, and chivalry. Sigil is a rose, motto: \u0022Growing Strong.\u0022"
   },
   {
+    "Id": "378",
+    "Title": "I am the king!",
+    "Description": "A quote from King Joffrey, often said in moments of anger or when his authority is questioned."
+  },
+  {
+    "Id": "360",
+    "Title": "I am the storm, brother",
+    "Description": "A quote from Euron Greyjoy to his brother Balon, signifying his ambitions and ruthlessness."
+  },
+  {
     "Id": "235",
     "Title": "I am the sword in the darkness",
     "Description": "I am the sword in the darkness is a part of the Night\u0027s Watch oath, symbolizing their duty to protect the realms of men from the threats beyond the Wall."
@@ -343,6 +553,51 @@
     "Id": "228",
     "Title": "I Drink and I Know Things",
     "Description": "I Drink and I Know Things is a memorable quote from Tyrion Lannister, reflecting his wit, intelligence, and love for wine."
+  },
+  {
+    "Id": "398",
+    "Title": "I have a tender spot in my heart for cripples, bastards and broken things",
+    "Description": "A quote by Tyrion Lannister, revealing his empathy for the marginalized and mistreated."
+  },
+  {
+    "Id": "350",
+    "Title": "I Have No Rival",
+    "Description": "This is the motto of House Qorgyle, a noble house from Dorne."
+  },
+  {
+    "Id": "407",
+    "Title": "I have nothing to say to you",
+    "Description": "A quote by Sansa Stark to Littlefinger, rejecting his manipulations and ending his influence over her."
+  },
+  {
+    "Id": "396",
+    "Title": "I swear it by the old gods and the new",
+    "Description": "A common oath in the Seven Kingdoms, encompassing all religious beliefs."
+  },
+  {
+    "Id": "399",
+    "Title": "I was born to rule the Seven Kingdoms",
+    "Description": "A quote by Daenerys Targaryen, expressing her conviction in her birthright and destiny."
+  },
+  {
+    "Id": "370",
+    "Title": "I\u0027m not a Ser, I\u0027m a Lord",
+    "Description": "A quote from Bronn, expressing his desire for higher status and recognition."
+  },
+  {
+    "Id": "413",
+    "Title": "If I fall, don\u0027t bring me back",
+    "Description": "A quote by Jon Snow to Melisandre, asking not to be resurrected should he die in battle."
+  },
+  {
+    "Id": "391",
+    "Title": "If you think this has a happy ending, you haven\u0027t been paying attention",
+    "Description": "A quote from Ramsay Bolton highlighting the often tragic and unexpected outcomes in the game of thrones."
+  },
+  {
+    "Id": "389",
+    "Title": "In the game of thrones, even the humblest pieces can have wills of their own",
+    "Description": "A quote from Tyrion Lannister highlighting the unpredictability and complexity of political power struggles."
   },
   {
     "Id": "16",
@@ -385,6 +640,11 @@
     "Description": "The title \u0027Khal\u0027 is given to the leader of a Dothraki horde. Khals are fierce warriors and conquerors who command vast armies of horse-mounted warriors known as screamers."
   },
   {
+    "Id": "365",
+    "Title": "Kill the boy, Jon Snow",
+    "Description": "Advice given by Maester Aemon to Jon Snow, encouraging him to let go of his past and become a leader."
+  },
+  {
     "Id": "190",
     "Title": "King Beyond the Wall",
     "Description": "The title \u0027King Beyond the Wall\u0027 is given to a wildling leader who successfully unites the various clans and tribes beyond the Wall. It signifies their authority and status as a sovereign ruler."
@@ -400,6 +660,11 @@
     "Description": "The capital city of the Seven Kingdoms and the seat of the Iron Throne. King\u0027s Landing is a bustling metropolis with a complex political landscape and is home to the Red Keep, where the ruling monarch resides."
   },
   {
+    "Id": "322",
+    "Title": "Kissed by Fire",
+    "Description": "A phrase used to describe someone with red hair, often seen as a sign of luck."
+  },
+  {
     "Id": "275",
     "Title": "Lady of the Waves and the Lord of the Skies",
     "Description": "Old gods of the Three Sisters Islands in the Bite, who were said to be married."
@@ -413,6 +678,11 @@
     "Id": "64",
     "Title": "Leaf",
     "Description": "Leaf is a mysterious and ancient character in Game of Thrones. She is one of the Children of the Forest, a magical and reclusive species. Leaf\u0027s role in the series involves protecting their sacred lands and confronting the threats beyond the Wall."
+  },
+  {
+    "Id": "331",
+    "Title": "Let Me Soar",
+    "Description": "This is the motto of House Fowler, a noble house from Dorne."
   },
   {
     "Id": "98",
@@ -485,6 +755,11 @@
     "Description": "The Lord Paramount of the Westerlands is the ruler of House Lannister and controls the rich and resourceful region of the Westerlands. This title comes with great wealth and political influence."
   },
   {
+    "Id": "394",
+    "Title": "Love is the death of duty",
+    "Description": "A quote from Maester Aemon revealing the conflict between personal desires and responsibilities."
+  },
+  {
     "Id": "76",
     "Title": "Lys",
     "Description": "One of the Free Cities, Lys is known for its pleasure houses and the training of highly skilled courtesans and bed slaves. It is a center of the slave trade and a hotbed of intrigue and debauchery."
@@ -545,6 +820,11 @@
     "Description": "A heavily fortified castle located in the Neck, Moat Cailin guards the northern approaches to the rest of Westeros. It is a key strategic location in conflicts between the North and the South."
   },
   {
+    "Id": "307",
+    "Title": "Moon of my life",
+    "Description": "This is an affectionate term used by Khal Drogo to address Daenerys Targaryen."
+  },
+  {
     "Id": "164",
     "Title": "Mother of Dragons",
     "Description": "The title \u0027Mother of Dragons\u0027 is given to Daenerys Targaryen, who hatched three dragon eggs and became the mother and rider of dragons. She commands the loyalty of the powerful creatures and uses them to further her ambitions."
@@ -555,6 +835,11 @@
     "Description": "A religion worshiped by a minority group in eastern Dorne, associated with the Rhoynar people and their river-based culture."
   },
   {
+    "Id": "308",
+    "Title": "My sun and stars",
+    "Description": "This is an affectionate term used by Daenerys Targaryen to address Khal Drogo."
+  },
+  {
     "Id": "50",
     "Title": "Myrcella Baratheon",
     "Description": "Myrcella Baratheon is a kind-hearted and tragic character in Game of Thrones. She is the daughter of Cersei Lannister and Robert Baratheon. Myrcella\u0027s story revolves around her political marriages and the consequences of her family\u0027s actions."
@@ -563,6 +848,36 @@
     "Id": "21",
     "Title": "Ned Stark",
     "Description": "Eddard Stark, commonly known as Ned Stark, is a pivotal character in Game of Thrones. He is the head of House Stark and the Lord of Winterfell. Ned\u0027s honor, integrity, and loyalty set the tone for the series, and his death serves as a catalyst for the power struggles that follow."
+  },
+  {
+    "Id": "412",
+    "Title": "Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you",
+    "Description": "A quote by Tyrion Lannister to Jon Snow, advising him to embrace his identity as a bastard."
+  },
+  {
+    "Id": "333",
+    "Title": "Never Resting",
+    "Description": "This is the motto of House Redwyne, a noble house from the Reach."
+  },
+  {
+    "Id": "326",
+    "Title": "No one can withstand us",
+    "Description": "This is the motto of House Codd, a noble house from the Iron Islands."
+  },
+  {
+    "Id": "346",
+    "Title": "None so Wise",
+    "Description": "This is the motto of House Waynwood, a noble house from the Vale."
+  },
+  {
+    "Id": "316",
+    "Title": "Not today",
+    "Description": "Syrio Forel\u0027s famous saying to Arya Stark during their sword-fighting lessons."
+  },
+  {
+    "Id": "373",
+    "Title": "Nothing burns like the cold",
+    "Description": "A phrase highlighting the harsh and unforgiving nature of the winters in Westeros."
   },
   {
     "Id": "35",
@@ -585,6 +900,26 @@
     "Description": "Olenna Tyrell, also known as the Queen of Thorns, is a shrewd and witty character in Game of Thrones. She is the matriarch of House Tyrell and a skilled player in the political landscape. Olenna\u0027s sharp tongue and strategic maneuvers make her a fan-favorite character."
   },
   {
+    "Id": "323",
+    "Title": "Our Blades are Sharp",
+    "Description": "This is the motto of House Bolton, a noble house from the North."
+  },
+  {
+    "Id": "366",
+    "Title": "Our is the fury",
+    "Description": "The official motto of House Baratheon, it signifies their fierce temperament and power."
+  },
+  {
+    "Id": "395",
+    "Title": "Ours is the fury",
+    "Description": "The motto of House Baratheon, symbolizing their fierce temper and swift retribution."
+  },
+  {
+    "Id": "317",
+    "Title": "Ours is the Fury",
+    "Description": "This is the motto of House Baratheon, one of the Great Houses of Westeros."
+  },
+  {
     "Id": "75",
     "Title": "Pentos",
     "Description": "One of the Free Cities, Pentos is a wealthy city known for its trade and commerce. It is where Daenerys Targaryen and her brother Viserys begin their journey at the start of the series."
@@ -600,9 +935,24 @@
     "Description": "Podrick Payne is a loyal and humble character in Game of Thrones. He serves as a squire to various knights and becomes a trusted companion. Podrick\u0027s unwavering loyalty and kindness make him a beloved character in the series."
   },
   {
+    "Id": "315",
+    "Title": "Power resides where men believe it resides",
+    "Description": "A quote from Varys, illustrating his view on the concept of power."
+  },
+  {
+    "Id": "382",
+    "Title": "Power resides where men believe it resides",
+    "Description": "A quote from Lord Varys discussing the nature of power and perception."
+  },
+  {
     "Id": "189",
     "Title": "Prince of Dragonstone",
     "Description": "The title \u0027Prince of Dragonstone\u0027 is traditionally held by the heir to the Iron Throne. It represents the direct lineage of House Targaryen and their connection to the dragons and Valyrian heritage."
+  },
+  {
+    "Id": "340",
+    "Title": "Proud and Free",
+    "Description": "This is the motto of House Reed, a noble house from the North."
   },
   {
     "Id": "88",
@@ -655,6 +1005,11 @@
     "Description": "Rhaegar Targaryen is a legendary and enigmatic character in Game of Thrones. He is the eldest son of the Mad King Aerys II Targaryen and is known for his beauty, charisma, and skill in combat. Rhaegar\u0027s actions and choices have profound implications for the events of the series."
   },
   {
+    "Id": "327",
+    "Title": "Right Conquers Might",
+    "Description": "This is the motto of House Rykker, a noble house from the Crownlands."
+  },
+  {
     "Id": "87",
     "Title": "Riverrun",
     "Description": "The ancestral seat of House Tully, Riverrun is a castle located in the Riverlands. It is strategically positioned at the convergence of several major rivers and has a long history of military significance."
@@ -680,6 +1035,11 @@
     "Description": "Roose Bolton is a cunning and ruthless character in Game of Thrones. He is the Lord of the Dreadfort and becomes a key player in the War of the Five Kings. Roose\u0027s actions and alliances have far-reaching consequences for the North and the realm."
   },
   {
+    "Id": "336",
+    "Title": "Rouse Me Not",
+    "Description": "This is the motto of House Grandison, a noble house from the Stormlands."
+  },
+  {
     "Id": "31",
     "Title": "Samwell Tarly",
     "Description": "Samwell Tarly, often referred to as Sam, is a kind-hearted and intellectual character in Game of Thrones. He is a member of the Night\u0027s Watch and becomes a close friend and advisor to Jon Snow. Sam\u0027s knowledge and bravery contribute to the fight against the White Walkers."
@@ -698,6 +1058,11 @@
     "Id": "208",
     "Title": "Seasmoke",
     "Description": "Seasmoke was a dragon ridden by Prince Jacaerys Velaryon during the Targaryen civil war known as the Dance of the Dragons. He was known for his shimmering blue-green scales."
+  },
+  {
+    "Id": "342",
+    "Title": "Set Down Our Deeds",
+    "Description": "This is the motto of House Ashford, a noble house from the Reach."
   },
   {
     "Id": "204",
@@ -950,6 +1315,11 @@
     "Description": "The Children of the Forest are a mystical race that inhabited Westeros long before the arrival of humans. They are skilled in magic and have a deep connection with nature. They play a crucial role in the history and mythology of the series."
   },
   {
+    "Id": "344",
+    "Title": "The Choice is Yours",
+    "Description": "This is the motto of House Yronwood, a noble house from Dorne."
+  },
+  {
     "Id": "159",
     "Title": "The Citadel",
     "Description": "The Citadel is the center of learning and knowledge in Westeros. It is located in Oldtown and houses the Maesters. It is a place where scholars study and train to become Maesters, and it holds a vast library with a wide range of knowledge."
@@ -1030,6 +1400,11 @@
     "Description": "The Free Folk, also known as the wildlings, are a group of people who live beyond the Wall. They reject the authority of the Seven Kingdoms and have their own customs and traditions. They are seen as a threat by the Night\u0027s Watch and the people of the North."
   },
   {
+    "Id": "404",
+    "Title": "The freedom to make my own mistakes was all I ever wanted",
+    "Description": "A quote by Mance Rayder, expressing his desire for freedom and autonomy above all else."
+  },
+  {
     "Id": "276",
     "Title": "The Ghiscari religion",
     "Description": "The major religion in Slaver\u0027s Bay, run by priestesses known as Graces."
@@ -1100,9 +1475,19 @@
     "Description": "The Iron Throne is the ultimate symbol of power and authority in Westeros. It is the seat of the ruler who sits upon it, governing the Seven Kingdoms and wielding immense influence over the realm."
   },
   {
+    "Id": "361",
+    "Title": "The Iron Throne is mine by right",
+    "Description": "A common claim made by those seeking to take control of the Seven Kingdoms, often said by Stannis Baratheon."
+  },
+  {
     "Id": "127",
     "Title": "The King in the North",
     "Description": "The proclamation of Jon Snow as the King in the North by the Northern lords, solidifying his position as a key player in the power struggles of Westeros."
+  },
+  {
+    "Id": "306",
+    "Title": "The king in the north!",
+    "Description": "This is a rallying cry of House Stark, often used to acknowledge the leader of the North."
   },
   {
     "Id": "243",
@@ -1118,6 +1503,11 @@
     "Id": "277",
     "Title": "The Lion of Night and Maiden-Made-of-Light",
     "Description": "Chief deities in the religion of Yi Ti, in the far east of Essos."
+  },
+  {
+    "Id": "369",
+    "Title": "The lone wolf dies but the pack survives",
+    "Description": "A quote from Ned Stark to Arya Stark emphasizing the importance of sticking together as a family."
   },
   {
     "Id": "110",
@@ -1138,6 +1528,11 @@
     "Id": "150",
     "Title": "The Maesters",
     "Description": "The Maesters are a learned order of scholars and healers who serve as advisors to the noble houses of Westeros. They study various subjects, including medicine, history, and science. They are based in the Citadel and are responsible for training new Maesters."
+  },
+  {
+    "Id": "380",
+    "Title": "The man who passes the sentence should swing the sword",
+    "Description": "This phrase was often repeated by Ned Stark as a code of justice and responsibility."
   },
   {
     "Id": "103",
@@ -1190,6 +1585,11 @@
     "Description": "The night is dark and full of terrors is a phrase often associated with the followers of the Lord of Light, emphasizing the dangers that lurk in the shadows."
   },
   {
+    "Id": "409",
+    "Title": "The night is dark and full of terrors, but the fire burns them all away",
+    "Description": "A quote by Melisandre, expressing her faith in the Lord of Light\u0027s power to vanquish darkness."
+  },
+  {
     "Id": "143",
     "Title": "The Night\u0027s Watch",
     "Description": "The Night\u0027s Watch is a sworn brotherhood of men who guard the realms of men from the dangers beyond the Wall. They are tasked with defending the Seven Kingdoms from wildlings, White Walkers, and other supernatural threats."
@@ -1203,6 +1603,11 @@
     "Id": "227",
     "Title": "The North Remembers",
     "Description": "The North Remembers is a phrase associated with the people of the North, particularly House Stark, and signifies their enduring loyalty and determination."
+  },
+  {
+    "Id": "324",
+    "Title": "The old gods and the new",
+    "Description": "A common phrase referring to the faiths in Westeros, both the new faith of the Seven and the old faith of the Children of the Forest."
   },
   {
     "Id": "100",
@@ -1233,6 +1638,11 @@
     "Id": "142",
     "Title": "The Purple Wedding",
     "Description": "The wedding of King Joffrey Baratheon and Margaery Tyrell, which ended in Joffrey\u0027s death, likely due to poisoning, leading to further political turmoil in King\u0027s Landing."
+  },
+  {
+    "Id": "374",
+    "Title": "The Queen in the North",
+    "Description": "A phrase recognizing Sansa Stark\u0027s claim to rule the North."
   },
   {
     "Id": "244",
@@ -1355,9 +1765,19 @@
     "Description": "The things I do for love is a recurring quote, representing the complex motivations and actions driven by love and desire in Game of Thrones."
   },
   {
+    "Id": "355",
+    "Title": "The things I do for love",
+    "Description": "This phrase is said by Jaime Lannister in reference to his dedication to his sister, Cersei."
+  },
+  {
     "Id": "240",
     "Title": "The things we do for love",
     "Description": "The things we do for love is a variation of Jaime Lannister\u0027s quote, illustrating the motivations behind characters\u0027 actions in the name of love."
+  },
+  {
+    "Id": "384",
+    "Title": "The things we love destroy us every time, lad",
+    "Description": "A quote from Jeor Mormont to Jon Snow, warning about the dangers of love and attachment."
   },
   {
     "Id": "250",
@@ -1375,6 +1795,11 @@
     "Description": "The trial by combat held to determine Tyrion Lannister\u0027s guilt or innocence in the murder of King Joffrey, with Tyrion\u0027s champion, Oberyn Martell, ultimately losing to Ser Gregor Clegane."
   },
   {
+    "Id": "371",
+    "Title": "The true king of Westeros",
+    "Description": "A phrase often used in reference to those with legitimate claims to the throne, such as Stannis Baratheon and Daenerys Targaryen."
+  },
+  {
     "Id": "83",
     "Title": "The Twins",
     "Description": "A pair of castles located at the crossing of the Green Fork and the Trident rivers. The Twins are held by House Frey and are infamous for their role in the Red Wedding."
@@ -1383,6 +1808,11 @@
     "Id": "147",
     "Title": "The Unsullied",
     "Description": "The Unsullied are a highly trained army of slave soldiers who were originally taken from their families at a young age and subjected to brutal training. They serve as an elite military force for Daenerys Targaryen and play a crucial role in her quest for power."
+  },
+  {
+    "Id": "372",
+    "Title": "The Wall protects us",
+    "Description": "A common saying in reference to the enormous wall of ice protecting the realm from the threats of the far north."
   },
   {
     "Id": "151",
@@ -1415,6 +1845,21 @@
     "Description": "Theon Greyjoy, also known as Reek, is a complex and tortured character in Game of Thrones. He is the only surviving son of Balon Greyjoy, the Lord of the Iron Islands. Theon\u0027s journey involves a crisis of identity and loyalty, as he struggles to find his place in the world."
   },
   {
+    "Id": "381",
+    "Title": "There\u0027s no cure for being a c*nt",
+    "Description": "A quote from Bronn, used to describe people with malicious intentions or actions."
+  },
+  {
+    "Id": "351",
+    "Title": "Thorough",
+    "Description": "This is the motto of House Sarsfield, a noble house from the Westerlands."
+  },
+  {
+    "Id": "347",
+    "Title": "To Tread on Us is to Tread on Stone",
+    "Description": "This is the motto of House Royce, a noble house from the Vale."
+  },
+  {
     "Id": "49",
     "Title": "Tommen Baratheon",
     "Description": "Tommen Baratheon is a gentle and impressionable character in Game of Thrones. He is the youngest son of Cersei Lannister and Robert Baratheon. Tommen\u0027s reign as king is marked by his naivety and vulnerability to manipulation."
@@ -1423,6 +1868,21 @@
     "Id": "39",
     "Title": "Tormund Giantsbane",
     "Description": "Tormund Giantsbane is a fearless and loyal character in Game of Thrones. He is a renowned warrior and leader of the Free Folk. Tormund\u0027s larger-than-life personality and his role in the fight against the Night King make him a beloved character."
+  },
+  {
+    "Id": "328",
+    "Title": "Touch Me Not",
+    "Description": "This is the motto of House Allyrion, a noble house from Dorne."
+  },
+  {
+    "Id": "341",
+    "Title": "Tread Lightly Here",
+    "Description": "This is the motto of House Lefford, a noble house from the Westerlands."
+  },
+  {
+    "Id": "349",
+    "Title": "True to the Mark",
+    "Description": "This is the motto of House Tarth, a noble house from the Stormlands."
   },
   {
     "Id": "13",
@@ -1435,9 +1895,24 @@
     "Description": "Tywin Lannister is a formidable and ruthless character in Game of Thrones. He is the head of House Lannister and the father of Cersei, Jaime, and Tyrion Lannister. Tywin\u0027s strategic brilliance and unwavering pursuit of power make him a formidable opponent in the game of thrones."
   },
   {
+    "Id": "309",
+    "Title": "Unbowed, Unbent, Unbroken",
+    "Description": "This is the motto of House Martell, one of the Great Houses of Westeros."
+  },
+  {
+    "Id": "385",
+    "Title": "Unbowed, Unbent, Unbroken",
+    "Description": "The motto of House Martell, symbolizing their indomitable spirit."
+  },
+  {
     "Id": "70",
     "Title": "Vaes Dothrak",
     "Description": "A sacred city of the Dothraki people, located in the vast central plains of Essos. Vaes Dothrak is the only permanent settlement of the nomadic horse-riding Dothraki and serves as their cultural and religious center."
+  },
+  {
+    "Id": "311",
+    "Title": "Valar Dohaeris",
+    "Description": "This phrase is a traditional response to \u0027Valar Morghulis\u0027, it translates to \u0027All men must serve\u0027 in High Valyrian."
   },
   {
     "Id": "225",
@@ -1485,9 +1960,59 @@
     "Description": "The Warden of the West is a title granted to the noble who is tasked with protecting the western lands and maintaining order within the region. This title symbolizes military authority and allegiance to the ruling house of the Westerlands."
   },
   {
+    "Id": "406",
+    "Title": "We are ironborn. We\u0027re not subjects, we\u0027re not slaves. We do not plow the field or toil in the mine. We take what is ours",
+    "Description": "A quote by Yara Greyjoy, capturing the fierce independence and warlike culture of the Iron Islands."
+  },
+  {
+    "Id": "359",
+    "Title": "We are the watchers on the wall",
+    "Description": "A part of the oath taken by the Night\u0027s Watch, the protectors of the realm against the threats beyond the Wall."
+  },
+  {
+    "Id": "393",
+    "Title": "We do not sow",
+    "Description": "The motto of House Greyjoy, indicating their reputation for reaving and pillaging."
+  },
+  {
+    "Id": "310",
+    "Title": "We Do Not Sow",
+    "Description": "This is the motto of House Greyjoy, one of the Great Houses of Westeros."
+  },
+  {
+    "Id": "357",
+    "Title": "We light the way",
+    "Description": "This is the motto of House Hightower, a noble house from the Reach."
+  },
+  {
+    "Id": "414",
+    "Title": "We never stop playing, make-believe",
+    "Description": "A quote by Petyr Baelish to Sansa Stark, suggesting that everyone is pretending to be something they\u0027re not in the game of thrones."
+  },
+  {
+    "Id": "386",
+    "Title": "What do we say to the God of Death? Not today",
+    "Description": "A quote from Syrio Forel to Arya Stark, teaching her to defy death and fight for her life."
+  },
+  {
+    "Id": "312",
+    "Title": "What is dead may never die",
+    "Description": "A common saying in the Iron Islands, usually in reference to the Drowned God."
+  },
+  {
+    "Id": "383",
+    "Title": "When the snows fall and the white winds blow, the lone wolf dies, but the pack survives",
+    "Description": "A quote from Sansa Stark remembering her father\u0027s lessons on the strength of unity."
+  },
+  {
     "Id": "230",
     "Title": "When You Play the Game of Thrones, You Win or You Die",
     "Description": "When You Play the Game of Thrones, You Win or You Die is a quote by Cersei Lannister, encapsulating the ruthless nature of the struggle for power in the Seven Kingdoms."
+  },
+  {
+    "Id": "402",
+    "Title": "When you tear out a man\u0027s tongue, you are not proving him a liar, you\u0027re only telling the world that you fear what he might say",
+    "Description": "A quote by Tyrion Lannister, condemning censorship and suppression of truth."
   },
   {
     "Id": "224",
@@ -1500,6 +2025,11 @@
     "Description": "The ancestral home of House Stark and the seat of the Warden of the North. Winterfell is located in the North of Westeros and is known for its strong fortifications and its association with the Stark family."
   },
   {
+    "Id": "345",
+    "Title": "Wisdom and Strength",
+    "Description": "This is the motto of House Harlaw, a noble house from the Iron Islands."
+  },
+  {
     "Id": "61",
     "Title": "Yara Greyjoy",
     "Description": "Yara Greyjoy, also known as Asha Greyjoy in the books, is a bold and determined character in Game of Thrones. She is the daughter of Balon Greyjoy and an influential leader of the Ironborn. Yara\u0027s role in the series involves her efforts to assert her power and independence in a male-dominated society."
@@ -1510,9 +2040,24 @@
     "Description": "Ygritte is a fierce and wild character in Game of Thrones. She is a skilled archer and a member of the Free Folk. Ygritte\u0027s relationship with Jon Snow is marked by love and conflict as they navigate the divide between the Night\u0027s Watch and the Free Folk."
   },
   {
+    "Id": "403",
+    "Title": "You are the blood of the dragon",
+    "Description": "A quote by Viserys Targaryen to his sister Daenerys, reminding her of their royal Targaryen lineage."
+  },
+  {
     "Id": "234",
     "Title": "You know nothing, Jon Snow",
     "Description": "You know nothing, Jon Snow is a recurring line spoken by Ygritte to Jon Snow, highlighting his lack of knowledge and experience in matters beyond the Wall."
+  },
+  {
+    "Id": "401",
+    "Title": "You\u0027re going to die tomorrow, Lord Bolton. Sleep well",
+    "Description": "A chilling promise from Sansa Stark to Ramsay Bolton on the eve of the Battle of the Bastards."
+  },
+  {
+    "Id": "411",
+    "Title": "You\u0027re not a knight? Women can\u0027t be knights",
+    "Description": "A quote by Brienne of Tarth expressing the gender restrictions and norms in the Seven Kingdoms."
   },
   {
     "Id": "79",
@@ -1525,548 +2070,328 @@
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
   },
   {
-    "Id": "306",
-    "Title": "The king in the north!",
-    "Description": "This is a rallying cry of House Stark, often used to acknowledge the leader of the North."
+    "Id": "415",
+    "Title": "Gulltown",
+    "Description": "A thriving port city in the Vale of Arryn, known for its economic prowess and its commanding view of the Narrow Sea."
   },
   {
-    "Id": "307",
-    "Title": "Moon of my life",
-    "Description": "This is an affectionate term used by Khal Drogo to address Daenerys Targaryen."
+    "Id": "416",
+    "Title": "White Harbor",
+    "Description": "The largest city in the North, located on the eastern coast. Governed by House Manderly, it\u0027s renowned for its busy seaport."
   },
   {
-    "Id": "308",
-    "Title": "My sun and stars",
-    "Description": "This is an affectionate term used by Daenerys Targaryen to address Khal Drogo."
+    "Id": "417",
+    "Title": "Sunspear",
+    "Description": "The capital of Dorne, Sunspear is a city of sand, sea, and sun, ruled by House Martell."
   },
   {
-    "Id": "309",
-    "Title": "Unbowed, Unbent, Unbroken",
-    "Description": "This is the motto of House Martell, one of the Great Houses of Westeros."
+    "Id": "418",
+    "Title": "Myr",
+    "Description": "One of the Free Cities on the continent of Essos. Myr is known for its artisans, especially lensmakers and armorers."
   },
   {
-    "Id": "310",
-    "Title": "We Do Not Sow",
-    "Description": "This is the motto of House Greyjoy, one of the Great Houses of Westeros."
+    "Id": "419",
+    "Title": "Norvos",
+    "Description": "A Free City in Essos, divided into a High City on the hills and a Low City on the banks of the river Noyne."
   },
   {
-    "Id": "311",
-    "Title": "Valar Dohaeris",
-    "Description": "This phrase is a traditional response to \u0027Valar Morghulis\u0027, it translates to \u0027All men must serve\u0027 in High Valyrian."
+    "Id": "420",
+    "Title": "Tyrosh",
+    "Description": "A bustling Free City of Essos, famed for its dye works and flamboyant fashions."
   },
   {
-    "Id": "312",
-    "Title": "What is dead may never die",
-    "Description": "A common saying in the Iron Islands, usually in reference to the Drowned God."
+    "Id": "421",
+    "Title": "Lorath",
+    "Description": "The smallest of the Free Cities in Essos. Known for its maze-makers, but otherwise poor and unimpressive."
   },
   {
-    "Id": "313",
-    "Title": "For the night is dark and full of terrors",
-    "Description": "This is a prayer to the Lord of Light, often quoted by Melisandre."
+    "Id": "422",
+    "Title": "Toad Stone",
+    "Description": "An island city on the Basilisk Isles off the coast of Sothoryos, inhabited by pirates and slavers."
   },
   {
-    "Id": "314",
-    "Title": "Growing strong",
-    "Description": "This is the motto of House Tyrell, one of the Great Houses of Westeros."
+    "Id": "423",
+    "Title": "Bayasabhad",
+    "Description": "A large city in the east of Essos, located beyond the Bone Mountains, known for its tall, pale blue buildings."
   },
   {
-    "Id": "315",
-    "Title": "Power resides where men believe it resides",
-    "Description": "A quote from Varys, illustrating his view on the concept of power."
+    "Id": "424",
+    "Title": "Port Yhos",
+    "Description": "An eastern city of Essos, located to the southeast of the Dothraki sea, on the coast of the Summer Sea."
   },
   {
-    "Id": "316",
-    "Title": "Not today",
-    "Description": "Syrio Forel\u0027s famous saying to Arya Stark during their sword-fighting lessons."
+    "Id": "425",
+    "Title": "Kayakayanaya",
+    "Description": "A city in Essos located at the eastern end of the Bone Mountains, known for its warrior women."
   },
   {
-    "Id": "317",
-    "Title": "Ours is the Fury",
-    "Description": "This is the motto of House Baratheon, one of the Great Houses of Westeros."
+    "Id": "426",
+    "Title": "Qarth",
+    "Description": "A wealthy port city in Essos, known as the \u0027Queen of Cities\u0027, located near the Jade Gates connecting the Summer Sea to the Jade Sea."
   },
   {
-    "Id": "318",
-    "Title": "Family, Duty, Honor",
-    "Description": "This is the motto of House Tully, one of the Great Houses of Westeros."
+    "Id": "427",
+    "Title": "Mantarys",
+    "Description": "A city located in the region of Essos known as the Demon Road, feared for its monstrous and malformed inhabitants."
   },
   {
-    "Id": "319",
-    "Title": "As High as Honor",
-    "Description": "This is the motto of House Arryn, one of the Great Houses of Westeros."
+    "Id": "428",
+    "Title": "Tolos",
+    "Description": "A city of Slaver\u0027s Bay in Essos, famous for its lockstep legions of trained slave soldiers."
   },
   {
-    "Id": "320",
-    "Title": "Here We Stand",
-    "Description": "This is the motto of House Mormont, a noble house from the North."
+    "Id": "429",
+    "Title": "Elyria",
+    "Description": "A small city on an island in Slaver\u0027s Bay, once part of the Valyrian Freehold."
   },
   {
-    "Id": "321",
-    "Title": "First of His Name",
-    "Description": "A title given to the first king of a new dynasty in the Seven Kingdoms."
+    "Id": "430",
+    "Title": "New Ghis",
+    "Description": "An island city in Slaver\u0027s Bay, home to the Ghiscari Empire, known for its lockstep legions."
   },
   {
-    "Id": "322",
-    "Title": "Kissed by Fire",
-    "Description": "A phrase used to describe someone with red hair, often seen as a sign of luck."
+    "Id": "431",
+    "Title": "Saath",
+    "Description": "A city in the Kingdom of Sarnor, located in northern Essos, known for its tall, slender towers."
   },
   {
-    "Id": "323",
-    "Title": "Our Blades are Sharp",
-    "Description": "This is the motto of House Bolton, a noble house from the North."
+    "Id": "432",
+    "Title": "Sathar",
+    "Description": "Another city in the Kingdom of Sarnor, home to the Sarnori people before their civilization was destroyed by the Dothraki."
   },
   {
-    "Id": "324",
-    "Title": "The old gods and the new",
-    "Description": "A common phrase referring to the faiths in Westeros, both the new faith of the Seven and the old faith of the Children of the Forest."
+    "Id": "433",
+    "Title": "Samyriana",
+    "Description": "An ancient city in the Kingdom of Sarnor, famous for its high towers and soaring arches."
   },
   {
-    "Id": "325",
-    "Title": "Above the rest",
-    "Description": "This is the motto of House Mallister, a noble house from the Riverlands."
+    "Id": "434",
+    "Title": "Sarys",
+    "Description": "The last city of the Sarnori people, located on the eastern banks of the Sarne, the great mother river of Sarnor."
   },
   {
-    "Id": "326",
-    "Title": "No one can withstand us",
-    "Description": "This is the motto of House Codd, a noble house from the Iron Islands."
+    "Id": "435",
+    "Title": "Pentos",
+    "Description": "A Free City of Essos, located on the western coastline of the continent, known for its cheese, wines, and elephants."
   },
   {
-    "Id": "327",
-    "Title": "Right Conquers Might",
-    "Description": "This is the motto of House Rykker, a noble house from the Crownlands."
+    "Id": "436",
+    "Title": "Sarnath",
+    "Description": "A city in Essos, once the capital of the Kingdom of Sarnor. Known as the \u0027City of a Thousand Nights\u0027."
   },
   {
-    "Id": "328",
-    "Title": "Touch Me Not",
-    "Description": "This is the motto of House Allyrion, a noble house from Dorne."
+    "Id": "437",
+    "Title": "Casterly Rock",
+    "Description": "Home of House Lannister, built into a massive rock beside the Sunset Sea. While not a city, it\u0027s significant and populous like one."
   },
   {
-    "Id": "329",
-    "Title": "First in Battle",
-    "Description": "This is the motto of House Tarly, a noble house from the Reach."
+    "Id": "438",
+    "Title": "The Dreadfort",
+    "Description": "Stronghold of House Bolton, located along the Weeping Water. It is a grim and austere fortification, similar to a small city."
   },
   {
-    "Id": "330",
-    "Title": "Death Before Disgrace",
-    "Description": "This is the motto of House Toyne, a noble house from the Stormlands."
+    "Id": "439",
+    "Title": "Fair Isle",
+    "Description": "An island in the Sunset Sea off the western coast of Westeros. The seat of House Farman, known for its shipyards."
   },
   {
-    "Id": "331",
-    "Title": "Let Me Soar",
-    "Description": "This is the motto of House Fowler, a noble house from Dorne."
+    "Id": "440",
+    "Title": "Fairmarket",
+    "Description": "A large town located along the Blue Fork of the Trident in the Riverlands. It\u0027s a strategic and bustling market town."
   },
   {
-    "Id": "332",
-    "Title": "Hear Me Roar!",
-    "Description": "This is the official motto of House Lannister, one of the Great Houses of Westeros."
+    "Id": "441",
+    "Title": "Maidenpool",
+    "Description": "A town in the Riverlands, known for its hot pools and its delicate pink marble keep."
   },
   {
-    "Id": "333",
-    "Title": "Never Resting",
-    "Description": "This is the motto of House Redwyne, a noble house from the Reach."
+    "Id": "442",
+    "Title": "The Arbor",
+    "Description": "An island off the southwest coast of Westeros, famous for its vineyards and wines. The seat of House Redwyne."
   },
   {
-    "Id": "334",
-    "Title": "Fly High, Fly Far",
-    "Description": "This is the motto of House Swyft, a noble house from the Westerlands."
+    "Id": "443",
+    "Title": "Saltpans",
+    "Description": "A town in the Riverlands, named for its chief industry of boiling seawater to produce salt."
   },
   {
-    "Id": "335",
-    "Title": "From Sea to Sea",
-    "Description": "This is the motto of House Seaworth, a noble house from the Stormlands."
+    "Id": "444",
+    "Title": "Duskendale",
+    "Description": "A port city in the Crownlands, known for its defiance against the Targaryen rule in its history."
   },
   {
-    "Id": "336",
-    "Title": "Rouse Me Not",
-    "Description": "This is the motto of House Grandison, a noble house from the Stormlands."
+    "Id": "445",
+    "Title": "Tumbleton",
+    "Description": "A town in the Reach, known for being the site of two major battles during the Dance of the Dragons."
   },
   {
-    "Id": "337",
-    "Title": "Every Man a King",
-    "Description": "This is the motto of House Broom, a noble house from the Westerlands."
+    "Id": "446",
+    "Title": "Bitterbridge",
+    "Description": "A town in the Reach, located at a strategic crossing of the river Mander, known for its large stone bridge."
   },
   {
-    "Id": "338",
-    "Title": "Beware the Fury of a Patient Man",
-    "Description": "This is the motto of House Corbray, a noble house from the Vale."
+    "Id": "447",
+    "Title": "Planky Town",
+    "Description": "The port at the mouth of the Greenblood River in Dorne, built largely on rafts and barges."
   },
   {
-    "Id": "339",
-    "Title": "By Day or Night",
-    "Description": "This is the motto of House Dayne, a noble house from Dorne."
+    "Id": "448",
+    "Title": "Ashford",
+    "Description": "A town in the Reach, ruled by House Ashford. Known for the Ashford Tourney in the history."
   },
   {
-    "Id": "340",
-    "Title": "Proud and Free",
-    "Description": "This is the motto of House Reed, a noble house from the North."
+    "Id": "449",
+    "Title": "Blackhaven",
+    "Description": "A Dornish castle in the Red Mountains, ruled by House Dondarrion. Functions as a settlement as well."
   },
   {
-    "Id": "341",
-    "Title": "Tread Lightly Here",
-    "Description": "This is the motto of House Lefford, a noble house from the Westerlands."
+    "Id": "450",
+    "Title": "Hellholt",
+    "Description": "A castle in Dorne, ruled by House Uller. Known for its harsh desert surroundings."
   },
   {
-    "Id": "342",
-    "Title": "Set Down Our Deeds",
-    "Description": "This is the motto of House Ashford, a noble house from the Reach."
+    "Id": "451",
+    "Title": "Vaes Khadokh",
+    "Description": "City in Essos deserted by the Dothraki, known as the \u0027City of Corpses\u0027."
   },
   {
-    "Id": "343",
-    "Title": "Honour, not Honours",
-    "Description": "This is the motto of House Smallwood, a noble house from the Riverlands."
+    "Id": "452",
+    "Title": "Asshai",
+    "Description": "A mysterious and ancient city located at the southeastern edge of the known world. Known for its dark magic and shadowbinders."
   },
   {
-    "Id": "344",
-    "Title": "The Choice is Yours",
-    "Description": "This is the motto of House Yronwood, a noble house from Dorne."
+    "Id": "453",
+    "Title": "Starfall",
+    "Description": "The ancestral seat of House Dayne, located on an island at the mouth of the Torrentine river in Dorne."
   },
   {
-    "Id": "345",
-    "Title": "Wisdom and Strength",
-    "Description": "This is the motto of House Harlaw, a noble house from the Iron Islands."
+    "Id": "454",
+    "Title": "Ten Towers",
+    "Description": "The seat of House Harlaw in the Iron Islands, a castle consisting of numerous keeps and towers."
   },
   {
-    "Id": "346",
-    "Title": "None so Wise",
-    "Description": "This is the motto of House Waynwood, a noble house from the Vale."
+    "Id": "455",
+    "Title": "Greywater Watch",
+    "Description": "The seat of House Reed in the North, located in the swamplands of the Neck. Known to be impossible to find by outsiders."
   },
   {
-    "Id": "347",
-    "Title": "To Tread on Us is to Tread on Stone",
-    "Description": "This is the motto of House Royce, a noble house from the Vale."
+    "Id": "456",
+    "Title": "Vaes Jini",
+    "Description": "An abandoned city in Essos, known as the \u0027City of the Winged Men\u0027 in Dothraki."
   },
   {
-    "Id": "348",
-    "Title": "Defender of the Dispossessed",
-    "Description": "This is the motto of House Blackfyre, a noble house from the Crownlands."
+    "Id": "457",
+    "Title": "Vaes Leqse",
+    "Description": "Another abandoned city in Essos, known as the \u0027City of the Shattered Idols\u0027 in Dothraki."
   },
   {
-    "Id": "349",
-    "Title": "True to the Mark",
-    "Description": "This is the motto of House Tarth, a noble house from the Stormlands."
+    "Id": "458",
+    "Title": "Vaes Qosar",
+    "Description": "City in Essos, abandoned and destroyed by the Dothraki, known as the \u0027City of Spiders\u0027."
   },
   {
-    "Id": "350",
-    "Title": "I Have No Rival",
-    "Description": "This is the motto of House Qorgyle, a noble house from Dorne."
+    "Id": "459",
+    "Title": "Vaes Tolorro",
+    "Description": "An abandoned city in the Red Waste of Essos, discovered by Daenerys Targaryen during her journey through the desert."
   },
   {
-    "Id": "351",
-    "Title": "Thorough",
-    "Description": "This is the motto of House Sarsfield, a noble house from the Westerlands."
+    "Id": "460",
+    "Title": "Sea Dragon Point",
+    "Description": "A peninsula in the North of Westeros. It\u0027s a wild and scarcely populated region, named after legends of sea dragons."
   },
   {
-    "Id": "352",
-    "Title": "Better than the Best",
-    "Description": "This is the motto of House Umber, a noble house from the North."
+    "Id": "461",
+    "Title": "Ironoaks",
+    "Description": "A castle and town in the Vale, overlooking Ironoaks Lake. The ancestral seat of House Waynwood."
   },
   {
-    "Id": "353",
-    "Title": "Bound by Blood",
-    "Description": "This is the motto of House Blackwood, a noble house from the Riverlands."
+    "Id": "462",
+    "Title": "Barrowton",
+    "Description": "The largest town in the Barrowlands, located in the North of Westeros. The seat of House Dustin."
   },
   {
-    "Id": "354",
-    "Title": "Beware Our Sting",
-    "Description": "This is the motto of House Beesbury, a noble house from the Reach."
+    "Id": "463",
+    "Title": "Ghis",
+    "Description": "The ancient capital of the Ghiscari Empire in Essos, now ruined and overgrown, known for its colossal architecture."
   },
   {
-    "Id": "355",
-    "Title": "The things I do for love",
-    "Description": "This phrase is said by Jaime Lannister in reference to his dedication to his sister, Cersei."
+    "Id": "464",
+    "Title": "The Tor",
+    "Description": "A Dornish castle near the mouth of the river Scourge, ruled by House Jordayne. It has a town around it."
   },
   {
-    "Id": "356",
-    "Title": "Hear the roar",
-    "Description": "A common phrase associated with House Lannister, it signifies their strength and power."
+    "Id": "465",
+    "Title": "Sharp Point",
+    "Description": "A peninsula in the Crownlands, ruled by House Bar Emmon. The castle overlooks the Blackwater Bay."
   },
   {
-    "Id": "357",
-    "Title": "We light the way",
-    "Description": "This is the motto of House Hightower, a noble house from the Reach."
+    "Id": "466",
+    "Title": "Red Lake",
+    "Description": "A castle in the Reach, the ancestral seat of House Crane. It\u0027s named after the lake nearby, said to be colored by the blood of a dragon."
   },
   {
-    "Id": "358",
-    "Title": "A Golden Crown",
-    "Description": "A phrase related to Viserys Targaryen\u0027s demand for a crown from Khal Drogo, resulting in his death by molten gold."
+    "Id": "467",
+    "Title": "Three Towers",
+    "Description": "A castle in the Reach, the seat of House Costayne. It overlooks the Sunset Sea."
   },
   {
-    "Id": "359",
-    "Title": "We are the watchers on the wall",
-    "Description": "A part of the oath taken by the Night\u0027s Watch, the protectors of the realm against the threats beyond the Wall."
+    "Id": "468",
+    "Title": "Bandallon",
+    "Description": "A castle in the Reach, the seat of House Blackbar. It\u0027s located on the southern coast of the Whispering Sound."
   },
   {
-    "Id": "360",
-    "Title": "I am the storm, brother",
-    "Description": "A quote from Euron Greyjoy to his brother Balon, signifying his ambitions and ruthlessness."
+    "Id": "469",
+    "Title": "Blackcrown",
+    "Description": "A castle in the Reach, the seat of House Bulwer. It\u0027s located on the Blackwater Bay."
   },
   {
-    "Id": "361",
-    "Title": "The Iron Throne is mine by right",
-    "Description": "A common claim made by those seeking to take control of the Seven Kingdoms, often said by Stannis Baratheon."
+    "Id": "470",
+    "Title": "Karhold",
+    "Description": "The seat of House Karstark, a vassal to House Stark. It\u0027s located in the North of Westeros."
   },
   {
-    "Id": "362",
-    "Title": "A lion does not concern himself with the opinion of sheep",
-    "Description": "A quote by Tywin Lannister signifying the dominance and disregard of House Lannister towards their less powerful subjects."
+    "Id": "471",
+    "Title": "Last Hearth",
+    "Description": "The seat of House Umber, located in the North of Westeros. It\u0027s the northernmost castle of the Seven Kingdoms."
   },
   {
-    "Id": "363",
-    "Title": "Fear cuts deeper than swords",
-    "Description": "A quote from Syrio Forel to Arya Stark during their training sessions, teaching her to conquer her fears."
+    "Id": "472",
+    "Title": "Deepwood Motte",
+    "Description": "A castle and its surrounding settlement in the North of Westeros, the seat of House Glover."
   },
   {
-    "Id": "364",
-    "Title": "A dragon is not a slave",
-    "Description": "A phrase spoken by Daenerys Targaryen in reference to her dragons, it signifies their strength and independence."
+    "Id": "473",
+    "Title": "Horn Hill",
+    "Description": "A castle in the Reach, the ancestral seat of House Tarly. It\u0027s surrounded by a large town."
   },
   {
-    "Id": "365",
-    "Title": "Kill the boy, Jon Snow",
-    "Description": "Advice given by Maester Aemon to Jon Snow, encouraging him to let go of his past and become a leader."
+    "Id": "474",
+    "Title": "The Shadow Tower",
+    "Description": "A castle on the Wall, at the western end. It\u0027s one of three manned castles of the Night\u0027s Watch."
   },
   {
-    "Id": "366",
-    "Title": "Our is the fury",
-    "Description": "The official motto of House Baratheon, it signifies their fierce temperament and power."
+    "Id": "475",
+    "Title": "The Nightfort",
+    "Description": "The oldest and largest castle on the Wall, now abandoned and filled with legends and ghost stories."
   },
   {
-    "Id": "367",
-    "Title": "Dark wings, dark words",
-    "Description": "A common saying in Westeros referring to the fact that messages brought by ravens often carry bad news."
+    "Id": "476",
+    "Title": "Yronwood",
+    "Description": "A castle in Dorne, the seat of House Yronwood. Known as the \u0027Wayward Daughter of Starfall\u0027."
   },
   {
-    "Id": "368",
-    "Title": "All men must die",
-    "Description": "The English translation of \u0027Valar Morghulis\u0027, a common saying in Essos."
+    "Id": "477",
+    "Title": "Sandstone",
+    "Description": "A castle in Dorne, the seat of House Qorgyle. It\u0027s located in the deep desert region."
   },
   {
-    "Id": "369",
-    "Title": "The lone wolf dies but the pack survives",
-    "Description": "A quote from Ned Stark to Arya Stark emphasizing the importance of sticking together as a family."
+    "Id": "478",
+    "Title": "Skyreach",
+    "Description": "A castle in Dorne, the seat of House Fowler. It\u0027s located in the Prince\u0027s Pass."
   },
   {
-    "Id": "370",
-    "Title": "I\u0027m not a Ser, I\u0027m a Lord",
-    "Description": "A quote from Bronn, expressing his desire for higher status and recognition."
-  },
-  {
-    "Id": "371",
-    "Title": "The true king of Westeros",
-    "Description": "A phrase often used in reference to those with legitimate claims to the throne, such as Stannis Baratheon and Daenerys Targaryen."
-  },
-  {
-    "Id": "372",
-    "Title": "The Wall protects us",
-    "Description": "A common saying in reference to the enormous wall of ice protecting the realm from the threats of the far north."
-  },
-  {
-    "Id": "373",
-    "Title": "Nothing burns like the cold",
-    "Description": "A phrase highlighting the harsh and unforgiving nature of the winters in Westeros."
-  },
-  {
-    "Id": "374",
-    "Title": "The Queen in the North",
-    "Description": "A phrase recognizing Sansa Stark\u0027s claim to rule the North."
-  },
-  {
-    "Id": "375",
-    "Title": "Burn them all",
-    "Description": "The last words of King Aerys II Targaryen, revealing his madness and obsession with fire."
-  },
-  {
-    "Id": "376",
-    "Title": "A Targaryen alone in the world is a terrible thing",
-    "Description": "A quote from Maester Aemon revealing his sympathy and concern for Daenerys Targaryen."
-  },
-  {
-    "Id": "377",
-    "Title": "A queen must rule",
-    "Description": "A quote from Daenerys Targaryen asserting her authority and power."
-  },
-  {
-    "Id": "378",
-    "Title": "I am the king!",
-    "Description": "A quote from King Joffrey, often said in moments of anger or when his authority is questioned."
-  },
-  {
-    "Id": "379",
-    "Title": "Every flight begins with a fall",
-    "Description": "A quote from the Three-eyed Raven to Bran Stark, explaining the path to learning and growth."
-  },
-  {
-    "Id": "380",
-    "Title": "The man who passes the sentence should swing the sword",
-    "Description": "This phrase was often repeated by Ned Stark as a code of justice and responsibility."
-  },
-  {
-    "Id": "381",
-    "Title": "There\u0027s no cure for being a c*nt",
-    "Description": "A quote from Bronn, used to describe people with malicious intentions or actions."
-  },
-  {
-    "Id": "382",
-    "Title": "Power resides where men believe it resides",
-    "Description": "A quote from Lord Varys discussing the nature of power and perception."
-  },
-  {
-    "Id": "383",
-    "Title": "When the snows fall and the white winds blow, the lone wolf dies, but the pack survives",
-    "Description": "A quote from Sansa Stark remembering her father\u0027s lessons on the strength of unity."
-  },
-  {
-    "Id": "384",
-    "Title": "The things we love destroy us every time, lad",
-    "Description": "A quote from Jeor Mormont to Jon Snow, warning about the dangers of love and attachment."
-  },
-  {
-    "Id": "385",
-    "Title": "Unbowed, Unbent, Unbroken",
-    "Description": "The motto of House Martell, symbolizing their indomitable spirit."
-  },
-  {
-    "Id": "386",
-    "Title": "What do we say to the God of Death? Not today",
-    "Description": "A quote from Syrio Forel to Arya Stark, teaching her to defy death and fight for her life."
-  },
-  {
-    "Id": "387",
-    "Title": "As High As Honor",
-    "Description": "The motto of House Arryn, signifying their noble and virtuous nature."
-  },
-  {
-    "Id": "388",
-    "Title": "Any man who must say, \u0027I am the king\u0027, is no true king",
-    "Description": "A quote from Tywin Lannister teaching his grandson Joffrey about the nature of true authority."
-  },
-  {
-    "Id": "389",
-    "Title": "In the game of thrones, even the humblest pieces can have wills of their own",
-    "Description": "A quote from Tyrion Lannister highlighting the unpredictability and complexity of political power struggles."
-  },
-  {
-    "Id": "390",
-    "Title": "Growing Strong",
-    "Description": "The motto of House Tyrell, representing their resilience and growth in power."
-  },
-  {
-    "Id": "391",
-    "Title": "If you think this has a happy ending, you haven\u0027t been paying attention",
-    "Description": "A quote from Ramsay Bolton highlighting the often tragic and unexpected outcomes in the game of thrones."
-  },
-  {
-    "Id": "392",
-    "Title": "Different roads sometimes lead to the same castle",
-    "Description": "A quote from Jon Snow emphasizing that there are often different paths to the same goal."
-  },
-  {
-    "Id": "393",
-    "Title": "We do not sow",
-    "Description": "The motto of House Greyjoy, indicating their reputation for reaving and pillaging."
-  },
-  {
-    "Id": "394",
-    "Title": "Love is the death of duty",
-    "Description": "A quote from Maester Aemon revealing the conflict between personal desires and responsibilities."
-  },
-  {
-    "Id": "395",
-    "Title": "Ours is the fury",
-    "Description": "The motto of House Baratheon, symbolizing their fierce temper and swift retribution."
-  },
-  {
-    "Id": "396",
-    "Title": "I swear it by the old gods and the new",
-    "Description": "A common oath in the Seven Kingdoms, encompassing all religious beliefs."
-  },
-  {
-    "Id": "397",
-    "Title": "Family, Duty, Honor",
-    "Description": "The motto of House Tully, outlining their priorities and values."
-  },
-  {
-    "Id": "398",
-    "Title": "I have a tender spot in my heart for cripples, bastards and broken things",
-    "Description": "A quote by Tyrion Lannister, revealing his empathy for the marginalized and mistreated."
-  },
-  {
-    "Id": "399",
-    "Title": "I was born to rule the Seven Kingdoms",
-    "Description": "A quote by Daenerys Targaryen, expressing her conviction in her birthright and destiny."
-  },
-  {
-    "Id": "400",
-    "Title": "A very small man can cast a very large shadow",
-    "Description": "A quote by Varys to Tyrion, highlighting the significance of influence over physical size or strength."
-  },
-  {
-    "Id": "401",
-    "Title": "You\u0027re going to die tomorrow, Lord Bolton. Sleep well",
-    "Description": "A chilling promise from Sansa Stark to Ramsay Bolton on the eve of the Battle of the Bastards."
-  },
-  {
-    "Id": "402",
-    "Title": "When you tear out a man\u0027s tongue, you are not proving him a liar, you\u0027re only telling the world that you fear what he might say",
-    "Description": "A quote by Tyrion Lannister, condemning censorship and suppression of truth."
-  },
-  {
-    "Id": "403",
-    "Title": "You are the blood of the dragon",
-    "Description": "A quote by Viserys Targaryen to his sister Daenerys, reminding her of their royal Targaryen lineage."
-  },
-  {
-    "Id": "404",
-    "Title": "The freedom to make my own mistakes was all I ever wanted",
-    "Description": "A quote by Mance Rayder, expressing his desire for freedom and autonomy above all else."
-  },
-  {
-    "Id": "405",
-    "Title": "A ruler who kills those devoted to her is not a ruler who inspires devotion",
-    "Description": "A quote by Tyrion Lannister, advising Daenerys on the importance of mercy and respect as a ruler."
-  },
-  {
-    "Id": "406",
-    "Title": "We are ironborn. We\u0027re not subjects, we\u0027re not slaves. We do not plow the field or toil in the mine. We take what is ours",
-    "Description": "A quote by Yara Greyjoy, capturing the fierce independence and warlike culture of the Iron Islands."
-  },
-  {
-    "Id": "407",
-    "Title": "I have nothing to say to you",
-    "Description": "A quote by Sansa Stark to Littlefinger, rejecting his manipulations and ending his influence over her."
-  },
-  {
-    "Id": "408",
-    "Title": "He\u0027s the prince that was promised, and his is the song of ice and fire",
-    "Description": "A quote by Rhaegar Targaryen in reference to his son, hinting at the prophecy of the prince who was promised."
-  },
-  {
-    "Id": "409",
-    "Title": "The night is dark and full of terrors, but the fire burns them all away",
-    "Description": "A quote by Melisandre, expressing her faith in the Lord of Light\u0027s power to vanquish darkness."
-  },
-  {
-    "Id": "410",
-    "Title": "First lesson, stick them with the pointy end",
-    "Description": "A quote by Jon Snow to Arya Stark, giving her basic advice on how to use a sword."
-  },
-  {
-    "Id": "411",
-    "Title": "You\u0027re not a knight? Women can\u0027t be knights",
-    "Description": "A quote by Brienne of Tarth expressing the gender restrictions and norms in the Seven Kingdoms."
-  },
-  {
-    "Id": "412",
-    "Title": "Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you",
-    "Description": "A quote by Tyrion Lannister to Jon Snow, advising him to embrace his identity as a bastard."
-  },
-  {
-    "Id": "413",
-    "Title": "If I fall, don\u0027t bring me back",
-    "Description": "A quote by Jon Snow to Melisandre, asking not to be resurrected should he die in battle."
-  },
-  {
-    "Id": "414",
-    "Title": "We never stop playing, make-believe",
-    "Description": "A quote by Petyr Baelish to Sansa Stark, suggesting that everyone is pretending to be something they\u0027re not in the game of thrones."
+    "Id": "479",
+    "Title": "Griffin\u0027s Roost",
+    "Description": "A castle in the Stormlands, the seat of House Connington. Known for its white stone and blue roofs."
   }
 ]
