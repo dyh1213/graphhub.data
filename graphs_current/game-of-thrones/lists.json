@@ -98,5 +98,13 @@
     "ParentConceptId": "1",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-ad76-47ae-8fa7-1fdd0c64765d",
+    "Title": "Kingdoms",
+    "Description": "List of the kingdoms of the Game of Thrones \u0027known world\u0027 which include Westeros and Essos. ",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
   }
 ]
