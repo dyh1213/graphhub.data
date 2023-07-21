@@ -78,5 +78,13 @@
     "ParentConceptId": "1",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
+  },
+  {
+    "Id": "11",
+    "Title": "Major Battles",
+    "Description": "List of the most significant battles in Game of Thrones like the Battle of the Bastards and the Battle of Blackwater, which shape the course of the story, influencing alliances, allegiances, and character development.",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
   }
 ]
