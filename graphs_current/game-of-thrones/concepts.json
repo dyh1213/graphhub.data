@@ -820,14 +820,34 @@
     "Description": "Daenerys Targaryen\u0027s hatching of three dragon eggs in the funeral pyre of Khal Drogo, resulting in the birth of her dragons and the resurgence of dragons in the world."
   },
   {
+    "Id": "266",
+    "Title": "The Black Ears",
+    "Description": "A hill tribe from the Vale of Arryn, known for cutting off the ears of their enemies."
+  },
+  {
     "Id": "105",
     "Title": "The Black Goat of Qohor",
     "Description": "The Black Goat of Qohor is the central deity of the city of Qohor in Essos. It is associated with blood sacrifices and is worshipped by the city\u0027s inhabitants."
   },
   {
+    "Id": "251",
+    "Title": "The Brave Companions",
+    "Description": "Also known as the \u0027Bloody Mummers\u0027, they are a sellsword company of brutal and diverse fighters."
+  },
+  {
+    "Id": "267",
+    "Title": "The Brotherhood of Winged Knights",
+    "Description": "An elite group of knights serving House Arryn in the Vale."
+  },
+  {
     "Id": "148",
     "Title": "The Brotherhood Without Banners",
     "Description": "The Brotherhood Without Banners is an outlaw group that operates in the Riverlands. They are led by Beric Dondarrion and fight against injustice and tyranny. They are known for their Robin Hood-like activities and their allegiance to the Lord of Light."
+  },
+  {
+    "Id": "253",
+    "Title": "The Burned Men",
+    "Description": "One of the mountain clans of the Vale, known for the self-mutilation ritual of burning body parts."
   },
   {
     "Id": "155",
@@ -845,9 +865,19 @@
     "Description": "The Citadel is the center of learning and knowledge in Westeros. It is located in Oldtown and houses the Maesters. It is a place where scholars study and train to become Maesters, and it holds a vast library with a wide range of knowledge."
   },
   {
+    "Id": "252",
+    "Title": "The City Watch",
+    "Description": "Also known as the \u0027Gold Cloaks\u0027, they are responsible for maintaining order within King\u0027s Landing."
+  },
+  {
     "Id": "125",
     "Title": "The Death of Ned Stark",
     "Description": "The execution of Eddard Stark, Lord of Winterfell, by order of King Joffrey Baratheon, marking a major turning point in the series and the beginning of the War of the Five Kings."
+  },
+  {
+    "Id": "246",
+    "Title": "The Dothraki",
+    "Description": "A nomadic horse-riding culture from the continent of Essos, known for their exceptional skills in battle."
   },
   {
     "Id": "101",
@@ -875,6 +905,11 @@
     "Description": "The Faceless Men are a secretive organization of assassins from the city of Braavos. They worship the Many-Faced God and have the ability to change their appearance at will. They offer their services to those who can afford their high price."
   },
   {
+    "Id": "242",
+    "Title": "The Faith Militant",
+    "Description": "A military order serving the Faith of the Seven, who carry out the will of the High Septon."
+  },
+  {
     "Id": "99",
     "Title": "The Faith of the Seven",
     "Description": "The Faith of the Seven is the predominant religion in the Seven Kingdoms. It worships a single deity represented by seven aspects, each corresponding to a different facet of life."
@@ -895,6 +930,16 @@
     "Description": "The Golden Company is a sellsword company known for its discipline and effectiveness in battle. They are composed of exiles, outlaws, and other fighters who seek fortune and glory. They are hired by various factions throughout the series."
   },
   {
+    "Id": "254",
+    "Title": "The Good Masters",
+    "Description": "The ruling class of Astapor, known for their involvement in the slave trade."
+  },
+  {
+    "Id": "269",
+    "Title": "The Great Masters",
+    "Description": "The ruling class of the city of Meereen, they are wealthy slavers."
+  },
+  {
     "Id": "104",
     "Title": "The Great Stallion",
     "Description": "The Great Stallion is the primary deity worshipped by the Dothraki, a nomadic horse-riding culture. They believe that a warrior who dies in battle joins the Great Stallion in the afterlife."
@@ -903,6 +948,21 @@
     "Id": "156",
     "Title": "The Guild of Alchemists",
     "Description": "The Guild of Alchemists is an organization of alchemists based in King\u0027s Landing. They are responsible for the production and management of wildfire, a highly volatile and dangerous substance. They play a role in the Battle of the Blackwater and subsequent events."
+  },
+  {
+    "Id": "265",
+    "Title": "The Hornfoot",
+    "Description": "A clan of the Free Folk from beyond the Wall, known for their hardened feet."
+  },
+  {
+    "Id": "270",
+    "Title": "The House of Black and White",
+    "Description": "The temple in Braavos dedicated to the Many-Faced God and home to the Faceless Men."
+  },
+  {
+    "Id": "264",
+    "Title": "The Ice-river Clans",
+    "Description": "A clan of the Free Folk beyond the Wall, known for their savage and cannibalistic tendencies."
   },
   {
     "Id": "149",
@@ -923,6 +983,11 @@
     "Id": "127",
     "Title": "The King in the North",
     "Description": "The proclamation of Jon Snow as the King in the North by the Northern lords, solidifying his position as a key player in the power struggles of Westeros."
+  },
+  {
+    "Id": "243",
+    "Title": "The Kingsguard",
+    "Description": "An elite group of seven knights sworn to serve and protect the King of the Seven Kingdoms."
   },
   {
     "Id": "129",
@@ -965,6 +1030,11 @@
     "Description": "The Many-Faced God of Death is a deity worshipped by the Faceless Men of Braavos. They believe that death is a natural part of life and see themselves as servants of this god."
   },
   {
+    "Id": "262",
+    "Title": "The Moon Brothers",
+    "Description": "One of the mountain clans living in the Vale, recognized by their moon-and-stars sigil."
+  },
+  {
     "Id": "231",
     "Title": "The night is dark and full of terrors",
     "Description": "The night is dark and full of terrors is a phrase often associated with the followers of the Lord of Light, emphasizing the dangers that lurk in the shadows."
@@ -995,6 +1065,16 @@
     "Description": "The Order of the Maesters is a council of scholars and healers who serve as advisors to the Night\u0027s Watch. They possess knowledge in various fields and provide guidance to the Lord Commander and other members of the Night\u0027s Watch."
   },
   {
+    "Id": "263",
+    "Title": "The Painted Dogs",
+    "Description": "A clan of the Free Folk beyond the Wall, recognized by their body paintings."
+  },
+  {
+    "Id": "255",
+    "Title": "The Pureborn",
+    "Description": "Descendants of the ancient kings and queens of Qarth, they hold a significant amount of power in the city."
+  },
+  {
     "Id": "115",
     "Title": "The Purple Wedding",
     "Description": "The wedding of King Joffrey Baratheon and Margaery Tyrell, which ended in Joffrey\u0027s death, likely due to poisoning, leading to further political turmoil in King\u0027s Landing."
@@ -1003,6 +1083,11 @@
     "Id": "142",
     "Title": "The Purple Wedding",
     "Description": "The wedding of King Joffrey Baratheon and Margaery Tyrell, which ended in Joffrey\u0027s death, likely due to poisoning, leading to further political turmoil in King\u0027s Landing."
+  },
+  {
+    "Id": "244",
+    "Title": "The Queensguard",
+    "Description": "A protective detail established for the reigning Queen Regent in Meereen."
   },
   {
     "Id": "92",
@@ -1030,6 +1115,16 @@
     "Description": "The event during Robert\u0027s Rebellion when the Lannister forces, led by Jaime Lannister, attacked King\u0027s Landing, resulting in the deaths of King Aerys II Targaryen and his family."
   },
   {
+    "Id": "247",
+    "Title": "The Second Sons",
+    "Description": "A sellsword company operating in Essos, named for the societal norm of second sons having fewer inheritance rights."
+  },
+  {
+    "Id": "260",
+    "Title": "The Shadowbinders",
+    "Description": "Mysterious and feared practitioners of magic, most commonly found in Asshai."
+  },
+  {
     "Id": "131",
     "Title": "The Siege of Meereen",
     "Description": "The siege of the city of Meereen by the forces of the Wise Masters and the Sons of the Harpy, which was ultimately repelled by Daenerys Targaryen and her allies."
@@ -1040,9 +1135,49 @@
     "Description": "The Silent Sisters are a religious order of women who are responsible for preparing the dead for burial. They dress in grey robes and take vows of silence. They play a role in funerals and mourning customs throughout the Seven Kingdoms."
   },
   {
+    "Id": "257",
+    "Title": "The Slavers of Slaver\u0027s Bay",
+    "Description": "Groups who engage in the slave trade, operating out of Yunkai, Meereen, and Astapor."
+  },
+  {
+    "Id": "245",
+    "Title": "The Small Council",
+    "Description": "A body of advisors to the monarch, consisting of the highest officers of the realm."
+  },
+  {
+    "Id": "256",
+    "Title": "The Sons of the Harpy",
+    "Description": "A resistance movement against Daenerys Targaryen\u0027s rule in Meereen."
+  },
+  {
+    "Id": "261",
+    "Title": "The Sorrowful Men",
+    "Description": "An infamous guild of assassins based in Qarth, known to offer an apology to their victims."
+  },
+  {
     "Id": "146",
     "Title": "The Sparrows",
     "Description": "The Sparrows are a religious movement in Westeros led by the High Sparrow. They follow the Faith of the Seven and seek to purify the realm by eradicating corruption and decadence. They gain power and influence during Cersei Lannister\u0027s rule as Queen Regent."
+  },
+  {
+    "Id": "248",
+    "Title": "The Stone Crows",
+    "Description": "One of the hill tribes living in the west of the Vale of Arryn, known for their aggressive nature."
+  },
+  {
+    "Id": "258",
+    "Title": "The Stone Men",
+    "Description": "People afflicted with greyscale, considered \u0027unclean\u0027 and are exiled to live in the ruins of Valyria."
+  },
+  {
+    "Id": "249",
+    "Title": "The Stormcrows",
+    "Description": "A company of sellswords who sell their combat skills to the highest bidder, operating in Essos."
+  },
+  {
+    "Id": "259",
+    "Title": "The Thenns",
+    "Description": "A Free Folk clan living beyond the Wall, they are known for their discipline and organization."
   },
   {
     "Id": "241",
@@ -1053,6 +1188,11 @@
     "Id": "240",
     "Title": "The things we do for love",
     "Description": "The things we do for love is a variation of Jaime Lannister\u0027s quote, illustrating the motivations behind characters\u0027 actions in the name of love."
+  },
+  {
+    "Id": "250",
+    "Title": "The Thirteen",
+    "Description": "The rulers of Qarth, consisting of thirteen individuals who govern the city."
   },
   {
     "Id": "168",
@@ -1083,6 +1223,11 @@
     "Id": "219",
     "Title": "The Winds of Winter",
     "Description": "The Winds of Winter is the forthcoming sixth novel in the A Song of Ice and Fire series. As of the knowledge cutoff in September 2021, the book has not been released. It is highly anticipated by fans and will continue the complex narrative of the series."
+  },
+  {
+    "Id": "268",
+    "Title": "The Wise Masters",
+    "Description": "The ruling class of the city of Yunkai, known for their involvement in the slave trade."
   },
   {
     "Id": "221",
@@ -1205,148 +1350,28 @@
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
   },
   {
-    "Id": "242",
-    "Title": "The Faith Militant",
-    "Description": "A military order serving the Faith of the Seven, who carry out the will of the High Septon."
+    "Id": "271",
+    "Title": "The Moonsingers",
+    "Description": "The primary religion of the people of Braavos, the Moonsingers led the original slaves to their new city."
   },
   {
-    "Id": "243",
-    "Title": "The Kingsguard",
-    "Description": "An elite group of seven knights sworn to serve and protect the King of the Seven Kingdoms."
+    "Id": "272",
+    "Title": "Church of Starry Wisdom",
+    "Description": "A religion that exists in several port cities throughout the known world. It worships a deity known as the Lion of Night."
   },
   {
-    "Id": "244",
-    "Title": "The Queensguard",
-    "Description": "A protective detail established for the reigning Queen Regent in Meereen."
+    "Id": "273",
+    "Title": "The Bearded Priests of Norvos",
+    "Description": "A sect in Norvos that has very strict laws and customs, with each follower\u0027s life being regulated by the ringing of their city\u0027s bells."
   },
   {
-    "Id": "245",
-    "Title": "The Small Council",
-    "Description": "A body of advisors to the monarch, consisting of the highest officers of the realm."
+    "Id": "274",
+    "Title": "The Graces",
+    "Description": "An order of priestesses in the Ghiscari religion, dedicated to various aspects of life and society."
   },
   {
-    "Id": "246",
-    "Title": "The Dothraki",
-    "Description": "A nomadic horse-riding culture from the continent of Essos, known for their exceptional skills in battle."
-  },
-  {
-    "Id": "247",
-    "Title": "The Second Sons",
-    "Description": "A sellsword company operating in Essos, named for the societal norm of second sons having fewer inheritance rights."
-  },
-  {
-    "Id": "248",
-    "Title": "The Stone Crows",
-    "Description": "One of the hill tribes living in the west of the Vale of Arryn, known for their aggressive nature."
-  },
-  {
-    "Id": "249",
-    "Title": "The Stormcrows",
-    "Description": "A company of sellswords who sell their combat skills to the highest bidder, operating in Essos."
-  },
-  {
-    "Id": "250",
-    "Title": "The Thirteen",
-    "Description": "The rulers of Qarth, consisting of thirteen individuals who govern the city."
-  },
-  {
-    "Id": "251",
-    "Title": "The Brave Companions",
-    "Description": "Also known as the \u0027Bloody Mummers\u0027, they are a sellsword company of brutal and diverse fighters."
-  },
-  {
-    "Id": "252",
-    "Title": "The City Watch",
-    "Description": "Also known as the \u0027Gold Cloaks\u0027, they are responsible for maintaining order within King\u0027s Landing."
-  },
-  {
-    "Id": "253",
-    "Title": "The Burned Men",
-    "Description": "One of the mountain clans of the Vale, known for the self-mutilation ritual of burning body parts."
-  },
-  {
-    "Id": "254",
-    "Title": "The Good Masters",
-    "Description": "The ruling class of Astapor, known for their involvement in the slave trade."
-  },
-  {
-    "Id": "255",
-    "Title": "The Pureborn",
-    "Description": "Descendants of the ancient kings and queens of Qarth, they hold a significant amount of power in the city."
-  },
-  {
-    "Id": "256",
-    "Title": "The Sons of the Harpy",
-    "Description": "A resistance movement against Daenerys Targaryen\u0027s rule in Meereen."
-  },
-  {
-    "Id": "257",
-    "Title": "The Slavers of Slaver\u0027s Bay",
-    "Description": "Groups who engage in the slave trade, operating out of Yunkai, Meereen, and Astapor."
-  },
-  {
-    "Id": "258",
-    "Title": "The Stone Men",
-    "Description": "People afflicted with greyscale, considered \u0027unclean\u0027 and are exiled to live in the ruins of Valyria."
-  },
-  {
-    "Id": "259",
-    "Title": "The Thenns",
-    "Description": "A Free Folk clan living beyond the Wall, they are known for their discipline and organization."
-  },
-  {
-    "Id": "260",
-    "Title": "The Shadowbinders",
-    "Description": "Mysterious and feared practitioners of magic, most commonly found in Asshai."
-  },
-  {
-    "Id": "261",
-    "Title": "The Sorrowful Men",
-    "Description": "An infamous guild of assassins based in Qarth, known to offer an apology to their victims."
-  },
-  {
-    "Id": "262",
-    "Title": "The Moon Brothers",
-    "Description": "One of the mountain clans living in the Vale, recognized by their moon-and-stars sigil."
-  },
-  {
-    "Id": "263",
-    "Title": "The Painted Dogs",
-    "Description": "A clan of the Free Folk beyond the Wall, recognized by their body paintings."
-  },
-  {
-    "Id": "264",
-    "Title": "The Ice-river Clans",
-    "Description": "A clan of the Free Folk beyond the Wall, known for their savage and cannibalistic tendencies."
-  },
-  {
-    "Id": "265",
-    "Title": "The Hornfoot",
-    "Description": "A clan of the Free Folk from beyond the Wall, known for their hardened feet."
-  },
-  {
-    "Id": "266",
-    "Title": "The Black Ears",
-    "Description": "A hill tribe from the Vale of Arryn, known for cutting off the ears of their enemies."
-  },
-  {
-    "Id": "267",
-    "Title": "The Brotherhood of Winged Knights",
-    "Description": "An elite group of knights serving House Arryn in the Vale."
-  },
-  {
-    "Id": "268",
-    "Title": "The Wise Masters",
-    "Description": "The ruling class of the city of Yunkai, known for their involvement in the slave trade."
-  },
-  {
-    "Id": "269",
-    "Title": "The Great Masters",
-    "Description": "The ruling class of the city of Meereen, they are wealthy slavers."
-  },
-  {
-    "Id": "270",
-    "Title": "The House of Black and White",
-    "Description": "The temple in Braavos dedicated to the Many-Faced God and home to the Faceless Men."
+    "Id": "275",
+    "Title": "Lady of the Waves and the Lord of the Skies",
+    "Description": "Old gods of the Three Sisters Islands in the Bite, who were said to be married."
   }
 ]
