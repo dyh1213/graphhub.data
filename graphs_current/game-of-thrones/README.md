@@ -1,4 +1,4 @@
-# Game of Thrones Knowledge Graph
+# Game of Thrones Knowledge Graph 
 
 The Game of Thrones knowledge graph maps the characters, cities, houses, religions, major events, groups, titles, dragons, famous quotes, and much more. It is community-built and available as an open-source downloadable JSON that provides all concepts, lists, and relationships between them.
 
