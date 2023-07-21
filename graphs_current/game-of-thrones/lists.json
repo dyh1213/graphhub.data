@@ -98,5 +98,13 @@
     "ParentConceptId": "1",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
+  },
+  {
+    "Id": "13",
+    "Title": "Kingdoms",
+    "Description": "List of the Game of Thrones kingdoms which includes Westeros and Essos.",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
   }
 ]
