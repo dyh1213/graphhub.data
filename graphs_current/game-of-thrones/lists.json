@@ -20,9 +20,7 @@
     "Title": "Cities",
     "Description": "A list of the notable urban centers in the Game of Thrones universe, situated in Westeros and Essos. Key cities in Westeros include King\u0027s Landing, Winterfell, and Dragonstone, while Yunkai, Volantis, and Meereen are prominent in Essos.",
     "ParentConceptId": "1",
-    "PullFromListsIds": [
-      "12"
-    ],
+    "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
   {
@@ -72,7 +70,9 @@
     "Title": "Locations",
     "Description": "A list of the notable locations in the Game of Thrones universe which includes cities, castles, towns and more.",
     "ParentConceptId": null,
-    "PullFromListsIds": null,
+    "PullFromListsIds": [
+      "3"
+    ],
     "DisableDirectMembers": false
   },
   {
