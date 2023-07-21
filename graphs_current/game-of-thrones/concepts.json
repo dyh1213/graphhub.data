@@ -125,6 +125,16 @@
     "Description": "The motto of House Arryn, signifying their noble and virtuous nature."
   },
   {
+    "Id": "448",
+    "Title": "Ashford",
+    "Description": "A town in the Reach, ruled by House Ashford. Known for the Ashford Tourney in the history."
+  },
+  {
+    "Id": "452",
+    "Title": "Asshai",
+    "Description": "A mysterious and ancient city located at the southeastern edge of the known world. Known for its dark magic and shadowbinders."
+  },
+  {
     "Id": "73",
     "Title": "Astapor",
     "Description": "A city located in Slaver\u0027s Bay, Astapor is known for its Unsullied warriors, highly disciplined eunuch slave soldiers. It plays a significant role in Daenerys Targaryen\u0027s liberation campaign."
@@ -145,6 +155,21 @@
     "Description": "Balerion, also known as Balerion the Black Dread, was the largest and most powerful dragon in Westerosi history. He was the dragon of Aegon the Conqueror and played a crucial role in the Targaryen conquest of Westeros."
   },
   {
+    "Id": "468",
+    "Title": "Bandallon",
+    "Description": "A castle in the Reach, the seat of House Blackbar. It\u0027s located on the southern coast of the Whispering Sound."
+  },
+  {
+    "Id": "462",
+    "Title": "Barrowton",
+    "Description": "The largest town in the Barrowlands, located in the North of Westeros. The seat of House Dustin."
+  },
+  {
+    "Id": "423",
+    "Title": "Bayasabhad",
+    "Description": "A large city in the east of Essos, located beyond the Bone Mountains, known for its tall, pale blue buildings."
+  },
+  {
     "Id": "42",
     "Title": "Beric Dondarrion",
     "Description": "Beric Dondarrion is a resilient and enigmatic character in Game of Thrones. He is the leader of the Brotherhood Without Banners and has been resurrected multiple times by the power of the Lord of Light. Beric\u0027s purpose revolves around serving the greater good and fighting against the forces of darkness."
@@ -163,6 +188,21 @@
     "Id": "338",
     "Title": "Beware the Fury of a Patient Man",
     "Description": "This is the motto of House Corbray, a noble house from the Vale."
+  },
+  {
+    "Id": "446",
+    "Title": "Bitterbridge",
+    "Description": "A town in the Reach, located at a strategic crossing of the river Mander, known for its large stone bridge."
+  },
+  {
+    "Id": "469",
+    "Title": "Blackcrown",
+    "Description": "A castle in the Reach, the seat of House Bulwer. It\u0027s located on the Blackwater Bay."
+  },
+  {
+    "Id": "449",
+    "Title": "Blackhaven",
+    "Description": "A Dornish castle in the Red Mountains, ruled by House Dondarrion. Functions as a settlement as well."
   },
   {
     "Id": "353",
@@ -215,6 +255,11 @@
     "Description": "The ancestral stronghold of House Lannister, Casterly Rock is a massive fortress located on the western coast of Westeros. It is known for its vast gold mines and its strategic importance."
   },
   {
+    "Id": "437",
+    "Title": "Casterly Rock",
+    "Description": "Home of House Lannister, built into a massive rock beside the Sunset Sea. While not a city, it\u0027s significant and populous like one."
+  },
+  {
     "Id": "19",
     "Title": "Catelyn Stark",
     "Description": "Catelyn Stark, also known as Lady Stark, is a strong-willed and protective character in Game of Thrones. She is the wife of Eddard Stark and the mother of Robb, Sansa, Arya, Bran, and Rickon Stark. Catelyn\u0027s actions and decisions have significant repercussions for her family and the realm."
@@ -263,6 +308,11 @@
     "Id": "330",
     "Title": "Death Before Disgrace",
     "Description": "This is the motto of House Toyne, a noble house from the Stormlands."
+  },
+  {
+    "Id": "472",
+    "Title": "Deepwood Motte",
+    "Description": "A castle and its surrounding settlement in the North of Westeros, the seat of House Glover."
   },
   {
     "Id": "348",
@@ -315,6 +365,11 @@
     "Description": "Drogon was one of the three dragons born to Aegon III Targaryen during the Targaryen civil war known as the Dance of the Dragons. He was named after Daenerys\u0027 dragon and played a significant role in the war."
   },
   {
+    "Id": "444",
+    "Title": "Duskendale",
+    "Description": "A port city in the Crownlands, known for its defiance against the Targaryen rule in its history."
+  },
+  {
     "Id": "51",
     "Title": "Eddison Tollett",
     "Description": "Eddison Tollett, often called Dolorous Edd, is a loyal and sarcastic character in Game of Thrones. He is a member of the Night\u0027s Watch and becomes Jon Snow\u0027s close friend. Eddison\u0027s dry humor and pessimistic outlook provide moments of levity in the series."
@@ -323,6 +378,11 @@
     "Id": "52",
     "Title": "Ellaria Sand",
     "Description": "Ellaria Sand is a passionate and vengeful character in Game of Thrones. She is the paramour of Oberyn Martell and becomes involved in the conflict between House Martell and House Lannister. Ellaria\u0027s desire for revenge and her fierce loyalty to her family drive her actions."
+  },
+  {
+    "Id": "429",
+    "Title": "Elyria",
+    "Description": "A small city on an island in Slaver\u0027s Bay, once part of the Valyrian Freehold."
   },
   {
     "Id": "41",
@@ -338,6 +398,16 @@
     "Id": "337",
     "Title": "Every Man a King",
     "Description": "This is the motto of House Broom, a noble house from the Westerlands."
+  },
+  {
+    "Id": "439",
+    "Title": "Fair Isle",
+    "Description": "An island in the Sunset Sea off the western coast of Westeros. The seat of House Farman, known for its shipyards."
+  },
+  {
+    "Id": "440",
+    "Title": "Fairmarket",
+    "Description": "A large town located along the Blue Fork of the Trident in the Riverlands. It\u0027s a strategic and bustling market town."
   },
   {
     "Id": "318",
@@ -405,6 +475,11 @@
     "Description": "Gendry is a skilled blacksmith and a legitimate son of Robert Baratheon in Game of Thrones. He becomes an ally to various characters and plays a key role in the conflict for the Iron Throne. Gendry\u0027s skills and noble bloodline make him a valuable asset in the series."
   },
   {
+    "Id": "463",
+    "Title": "Ghis",
+    "Description": "The ancient capital of the Ghiscari Empire in Essos, now ruined and overgrown, known for its colossal architecture."
+  },
+  {
     "Id": "205",
     "Title": "Grey Ghost",
     "Description": "Grey Ghost was a dragon ridden by Queen Alysanne Targaryen, wife of King Jaehaerys I, during their reign. He was known for his silver-white scales and silent flight."
@@ -415,6 +490,16 @@
     "Description": "Grey Worm is a skilled and disciplined character in Game of Thrones. He is the commander of the Unsullied, an army of eunuch slave soldiers. Grey Worm\u0027s journey involves finding his identity and forging deep connections in a world defined by war and political intrigue."
   },
   {
+    "Id": "455",
+    "Title": "Greywater Watch",
+    "Description": "The seat of House Reed in the North, located in the swamplands of the Neck. Known to be impossible to find by outsiders."
+  },
+  {
+    "Id": "479",
+    "Title": "Griffin\u0027s Roost",
+    "Description": "A castle in the Stormlands, the seat of House Connington. Known for its white stone and blue roofs."
+  },
+  {
     "Id": "314",
     "Title": "Growing strong",
     "Description": "This is the motto of House Tyrell, one of the Great Houses of Westeros."
@@ -423,6 +508,11 @@
     "Id": "390",
     "Title": "Growing Strong",
     "Description": "The motto of House Tyrell, representing their resilience and growth in power."
+  },
+  {
+    "Id": "415",
+    "Title": "Gulltown",
+    "Description": "A thriving port city in the Vale of Arryn, known for its economic prowess and its commanding view of the Narrow Sea."
   },
   {
     "Id": "167",
@@ -448,6 +538,11 @@
     "Id": "356",
     "Title": "Hear the roar",
     "Description": "A common phrase associated with House Lannister, it signifies their strength and power."
+  },
+  {
+    "Id": "450",
+    "Title": "Hellholt",
+    "Description": "A castle in Dorne, ruled by House Uller. Known for its harsh desert surroundings."
   },
   {
     "Id": "320",
@@ -483,6 +578,11 @@
     "Id": "97",
     "Title": "Horn Hill",
     "Description": "The ancestral seat of House Tarly, Horn Hill is a castle located in the Reach of Westeros. It is known for its martial tradition and the formidable warriors produced by House Tarly."
+  },
+  {
+    "Id": "473",
+    "Title": "Horn Hill",
+    "Description": "A castle in the Reach, the ancestral seat of House Tarly. It\u0027s surrounded by a large town."
   },
   {
     "Id": "10",
@@ -600,6 +700,11 @@
     "Description": "A quote from Tyrion Lannister highlighting the unpredictability and complexity of political power struggles."
   },
   {
+    "Id": "461",
+    "Title": "Ironoaks",
+    "Description": "A castle and town in the Vale, overlooking Ironoaks Lake. The ancestral seat of House Waynwood."
+  },
+  {
     "Id": "16",
     "Title": "Jaime Lannister",
     "Description": "Jaime Lannister, also known as the Kingslayer, is a conflicted character in Game of Thrones. He is a member of House Lannister and is known for his skill in combat. Jaime\u0027s journey is characterized by his moral transformation and his complex relationship with his siblings and honor."
@@ -633,6 +738,16 @@
     "Id": "34",
     "Title": "Jorah Mormont",
     "Description": "Jorah Mormont is a loyal and conflicted character in Game of Thrones. He is an exiled knight and serves as an advisor to Daenerys Targaryen. Jorah\u0027s journey involves his unrequited love for Daenerys and his struggle to redeem himself and regain his honor."
+  },
+  {
+    "Id": "470",
+    "Title": "Karhold",
+    "Description": "The seat of House Karstark, a vassal to House Stark. It\u0027s located in the North of Westeros."
+  },
+  {
+    "Id": "425",
+    "Title": "Kayakayanaya",
+    "Description": "A city in Essos located at the eastern end of the Bone Mountains, known for its warrior women."
   },
   {
     "Id": "191",
@@ -675,6 +790,11 @@
     "Description": "The largest city on the western coast of Westeros, Lannisport is the seat of House Lannister\u0027s power. It is known for its bustling port, its wealthy residents, and its connection to Casterly Rock."
   },
   {
+    "Id": "471",
+    "Title": "Last Hearth",
+    "Description": "The seat of House Umber, located in the North of Westeros. It\u0027s the northernmost castle of the Seven Kingdoms."
+  },
+  {
     "Id": "64",
     "Title": "Leaf",
     "Description": "Leaf is a mysterious and ancient character in Game of Thrones. She is one of the Children of the Forest, a magical and reclusive species. Leaf\u0027s role in the series involves protecting their sacred lands and confronting the threats beyond the Wall."
@@ -688,6 +808,11 @@
     "Id": "98",
     "Title": "Lorath",
     "Description": "One of the Free Cities, Lorath is a small and isolated city known for its seafaring tradition and its unusual customs. It is the least populated and least influential of the Free Cities."
+  },
+  {
+    "Id": "421",
+    "Title": "Lorath",
+    "Description": "The smallest of the Free Cities in Essos. Known for its maze-makers, but otherwise poor and unimpressive."
   },
   {
     "Id": "166",
@@ -770,6 +895,16 @@
     "Description": "The Eyrie is the seat of House Arryn and is situated in the Vale of Arryn, high in the mountains. It is known for its impregnable defenses and its breathtaking views."
   },
   {
+    "Id": "441",
+    "Title": "Maidenpool",
+    "Description": "A town in the Riverlands, known for its hot pools and its delicate pink marble keep."
+  },
+  {
+    "Id": "427",
+    "Title": "Mantarys",
+    "Description": "A city located in the region of Essos known as the Demon Road, feared for its monstrous and malformed inhabitants."
+  },
+  {
     "Id": "36",
     "Title": "Margaery Tyrell",
     "Description": "Margaery Tyrell is a cunning and ambitious character in Game of Thrones. She is a member of House Tyrell and becomes a queen consort to multiple kings. Margaery\u0027s political acumen and manipulation of those around her make her a formidable player in the game of thrones."
@@ -840,6 +975,11 @@
     "Description": "This is an affectionate term used by Daenerys Targaryen to address Khal Drogo."
   },
   {
+    "Id": "418",
+    "Title": "Myr",
+    "Description": "One of the Free Cities on the continent of Essos. Myr is known for its artisans, especially lensmakers and armorers."
+  },
+  {
     "Id": "50",
     "Title": "Myrcella Baratheon",
     "Description": "Myrcella Baratheon is a kind-hearted and tragic character in Game of Thrones. She is the daughter of Cersei Lannister and Robert Baratheon. Myrcella\u0027s story revolves around her political marriages and the consequences of her family\u0027s actions."
@@ -860,6 +1000,11 @@
     "Description": "This is the motto of House Redwyne, a noble house from the Reach."
   },
   {
+    "Id": "430",
+    "Title": "New Ghis",
+    "Description": "An island city in Slaver\u0027s Bay, home to the Ghiscari Empire, known for its lockstep legions."
+  },
+  {
     "Id": "326",
     "Title": "No one can withstand us",
     "Description": "This is the motto of House Codd, a noble house from the Iron Islands."
@@ -868,6 +1013,11 @@
     "Id": "346",
     "Title": "None so Wise",
     "Description": "This is the motto of House Waynwood, a noble house from the Vale."
+  },
+  {
+    "Id": "419",
+    "Title": "Norvos",
+    "Description": "A Free City in Essos, divided into a High City on the hills and a Low City on the banks of the river Noyne."
   },
   {
     "Id": "316",
@@ -925,14 +1075,29 @@
     "Description": "One of the Free Cities, Pentos is a wealthy city known for its trade and commerce. It is where Daenerys Targaryen and her brother Viserys begin their journey at the start of the series."
   },
   {
+    "Id": "435",
+    "Title": "Pentos",
+    "Description": "A Free City of Essos, located on the western coastline of the continent, known for its cheese, wines, and elephants."
+  },
+  {
     "Id": "27",
     "Title": "Petyr Baelish",
     "Description": "Petyr Baelish, also known as Littlefinger, is a cunning and manipulative character in Game of Thrones. He is the master of coin on the Small Council and holds significant influence over the events in Westeros. Littlefinger\u0027s intricate schemes and political machinations make him a dangerous player in the game of thrones."
   },
   {
+    "Id": "447",
+    "Title": "Planky Town",
+    "Description": "The port at the mouth of the Greenblood River in Dorne, built largely on rafts and barges."
+  },
+  {
     "Id": "55",
     "Title": "Podrick Payne",
     "Description": "Podrick Payne is a loyal and humble character in Game of Thrones. He serves as a squire to various knights and becomes a trusted companion. Podrick\u0027s unwavering loyalty and kindness make him a beloved character in the series."
+  },
+  {
+    "Id": "424",
+    "Title": "Port Yhos",
+    "Description": "An eastern city of Essos, located to the southeast of the Dothraki sea, on the coast of the Summer Sea."
   },
   {
     "Id": "315",
@@ -965,6 +1130,11 @@
     "Description": "A wealthy and powerful city located in the eastern continent of Essos. Qarth is known for its opulent architecture, its rich merchant princes, and its history as a center of trade and culture."
   },
   {
+    "Id": "426",
+    "Title": "Qarth",
+    "Description": "A wealthy port city in Essos, known as the \u0027Queen of Cities\u0027, located near the Jade Gates connecting the Summer Sea to the Jade Sea."
+  },
+  {
     "Id": "74",
     "Title": "Qohor",
     "Description": "A city located in the region of Essos, Qohor is famous for its skilled blacksmiths who are renowned for their ability to reforge Valyrian steel. It is known for its distinctive black walls."
@@ -988,6 +1158,11 @@
     "Id": "44",
     "Title": "Ramsay Bolton",
     "Description": "Ramsay Bolton is a sadistic and ruthless character in Game of Thrones. He is the legitimized son of Roose Bolton and becomes the Lord of Winterfell. Ramsay\u0027s penchant for torture and cruelty make him one of the most despised characters in the series."
+  },
+  {
+    "Id": "466",
+    "Title": "Red Lake",
+    "Description": "A castle in the Reach, the ancestral seat of House Crane. It\u0027s named after the lake nearby, said to be colored by the blood of a dragon."
   },
   {
     "Id": "25",
@@ -1040,9 +1215,24 @@
     "Description": "This is the motto of House Grandison, a noble house from the Stormlands."
   },
   {
+    "Id": "431",
+    "Title": "Saath",
+    "Description": "A city in the Kingdom of Sarnor, located in northern Essos, known for its tall, slender towers."
+  },
+  {
+    "Id": "443",
+    "Title": "Saltpans",
+    "Description": "A town in the Riverlands, named for its chief industry of boiling seawater to produce salt."
+  },
+  {
     "Id": "31",
     "Title": "Samwell Tarly",
     "Description": "Samwell Tarly, often referred to as Sam, is a kind-hearted and intellectual character in Game of Thrones. He is a member of the Night\u0027s Watch and becomes a close friend and advisor to Jon Snow. Sam\u0027s knowledge and bravery contribute to the fight against the White Walkers."
+  },
+  {
+    "Id": "433",
+    "Title": "Samyriana",
+    "Description": "An ancient city in the Kingdom of Sarnor, famous for its high towers and soaring arches."
   },
   {
     "Id": "33",
@@ -1050,9 +1240,34 @@
     "Description": "Sandor Clegane, also known as the Hound, is a complex and tormented character in Game of Thrones. He is a skilled warrior with a fierce reputation. Sandor\u0027s journey involves confronting his traumatic past and finding a sense of purpose and redemption."
   },
   {
+    "Id": "477",
+    "Title": "Sandstone",
+    "Description": "A castle in Dorne, the seat of House Qorgyle. It\u0027s located in the deep desert region."
+  },
+  {
     "Id": "17",
     "Title": "Sansa Stark",
     "Description": "Sansa Stark is a resilient and strategic character in Game of Thrones. She is the eldest daughter of Eddard Stark and Catelyn Stark. Sansa\u0027s character arc involves navigating treacherous political waters and surviving in a world filled with manipulation and cruelty."
+  },
+  {
+    "Id": "436",
+    "Title": "Sarnath",
+    "Description": "A city in Essos, once the capital of the Kingdom of Sarnor. Known as the \u0027City of a Thousand Nights\u0027."
+  },
+  {
+    "Id": "434",
+    "Title": "Sarys",
+    "Description": "The last city of the Sarnori people, located on the eastern banks of the Sarne, the great mother river of Sarnor."
+  },
+  {
+    "Id": "432",
+    "Title": "Sathar",
+    "Description": "Another city in the Kingdom of Sarnor, home to the Sarnori people before their civilization was destroyed by the Dothraki."
+  },
+  {
+    "Id": "460",
+    "Title": "Sea Dragon Point",
+    "Description": "A peninsula in the North of Westeros. It\u0027s a wild and scarcely populated region, named after legends of sea dragons."
   },
   {
     "Id": "208",
@@ -1063,6 +1278,11 @@
     "Id": "342",
     "Title": "Set Down Our Deeds",
     "Description": "This is the motto of House Ashford, a noble house from the Reach."
+  },
+  {
+    "Id": "465",
+    "Title": "Sharp Point",
+    "Description": "A peninsula in the Crownlands, ruled by House Bar Emmon. The castle overlooks the Blackwater Bay."
   },
   {
     "Id": "204",
@@ -1080,9 +1300,19 @@
     "Description": "Silverwing was a dragon ridden by Queen Alysanne Targaryen, wife of King Jaehaerys I, during their reign. She was known for her silver scales and gentle nature."
   },
   {
+    "Id": "478",
+    "Title": "Skyreach",
+    "Description": "A castle in Dorne, the seat of House Fowler. It\u0027s located in the Prince\u0027s Pass."
+  },
+  {
     "Id": "24",
     "Title": "Stannis Baratheon",
     "Description": "Stannis Baratheon, also known as the Mannis, is a determined and rigid character in Game of Thrones. He is the younger brother of Robert Baratheon and the older brother of Renly Baratheon. Stannis believes himself to be the rightful king of Westeros and wages a relentless campaign to claim the Iron Throne."
+  },
+  {
+    "Id": "453",
+    "Title": "Starfall",
+    "Description": "The ancestral seat of House Dayne, located on an island at the mouth of the Torrentine river in Dorne."
   },
   {
     "Id": "91",
@@ -1105,6 +1335,11 @@
     "Description": "Sunfyre was a dragon ridden by King Aegon II Targaryen during the Dance of the Dragons. He was known for his golden scales and was one of the most beautiful dragons of his time."
   },
   {
+    "Id": "417",
+    "Title": "Sunspear",
+    "Description": "The capital of Dorne, Sunspear is a city of sand, sea, and sun, ruled by House Martell."
+  },
+  {
     "Id": "211",
     "Title": "Syrax",
     "Description": "Syrax was a dragon ridden by Princess Rhaenyra Targaryen during the Targaryen civil war known as the Dance of the Dragons. Syrax was known for her cream and gold scales."
@@ -1115,9 +1350,19 @@
     "Description": "Talisa Stark, originally from Volantis, is a compassionate and independent character in Game of Thrones. She becomes the wife of Robb Stark and plays a significant role in his campaign. Talisa\u0027s tragic fate and her dedication to helping others define her character."
   },
   {
+    "Id": "454",
+    "Title": "Ten Towers",
+    "Description": "The seat of House Harlaw in the Iron Islands, a castle consisting of numerous keeps and towers."
+  },
+  {
     "Id": "212",
     "Title": "Tessarion",
     "Description": "Tessarion was a dragon ridden by Prince Daemon Targaryen during the Targaryen civil war known as the Dance of the Dragons. Tessarion was known for her silver and gold scales and her loyalty to Prince Daemon."
+  },
+  {
+    "Id": "442",
+    "Title": "The Arbor",
+    "Description": "An island off the southwest coast of Westeros, famous for its vineyards and wines. The seat of House Redwyne."
   },
   {
     "Id": "295",
@@ -1343,6 +1588,11 @@
     "Id": "246",
     "Title": "The Dothraki",
     "Description": "A nomadic horse-riding culture from the continent of Essos, known for their exceptional skills in battle."
+  },
+  {
+    "Id": "438",
+    "Title": "The Dreadfort",
+    "Description": "Stronghold of House Bolton, located along the Weeping Water. It is a grim and austere fortification, similar to a small city."
   },
   {
     "Id": "101",
@@ -1600,6 +1850,11 @@
     "Description": "The Night\u0027s Watch is an ancient order tasked with defending the realms of men from the threats beyond the Wall. Its members, known as the black brothers, serve as protectors of the realm, guarding against wildlings and supernatural dangers."
   },
   {
+    "Id": "475",
+    "Title": "The Nightfort",
+    "Description": "The oldest and largest castle on the Wall, now abandoned and filled with legends and ghost stories."
+  },
+  {
     "Id": "227",
     "Title": "The North Remembers",
     "Description": "The North Remembers is a phrase associated with the people of the North, particularly House Stark, and signifies their enduring loyalty and determination."
@@ -1693,6 +1948,11 @@
     "Id": "247",
     "Title": "The Second Sons",
     "Description": "A sellsword company operating in Essos, named for the societal norm of second sons having fewer inheritance rights."
+  },
+  {
+    "Id": "474",
+    "Title": "The Shadow Tower",
+    "Description": "A castle on the Wall, at the western end. It\u0027s one of three manned castles of the Night\u0027s Watch."
   },
   {
     "Id": "260",
@@ -1790,6 +2050,11 @@
     "Description": "The Three-Eyed Raven is an ancient mystical entity who possesses the knowledge of the past, present, and future. The title is passed down to individuals who become the vessel for this powerful being."
   },
   {
+    "Id": "464",
+    "Title": "The Tor",
+    "Description": "A Dornish castle near the mouth of the river Scourge, ruled by House Jordayne. It has a town around it."
+  },
+  {
     "Id": "119",
     "Title": "The Trial by Combat - Tyrion\u0027s Trial",
     "Description": "The trial by combat held to determine Tyrion Lannister\u0027s guilt or innocence in the murder of King Joffrey, with Tyrion\u0027s champion, Oberyn Martell, ultimately losing to Ser Gregor Clegane."
@@ -1855,9 +2120,24 @@
     "Description": "This is the motto of House Sarsfield, a noble house from the Westerlands."
   },
   {
+    "Id": "467",
+    "Title": "Three Towers",
+    "Description": "A castle in the Reach, the seat of House Costayne. It overlooks the Sunset Sea."
+  },
+  {
     "Id": "347",
     "Title": "To Tread on Us is to Tread on Stone",
     "Description": "This is the motto of House Royce, a noble house from the Vale."
+  },
+  {
+    "Id": "422",
+    "Title": "Toad Stone",
+    "Description": "An island city on the Basilisk Isles off the coast of Sothoryos, inhabited by pirates and slavers."
+  },
+  {
+    "Id": "428",
+    "Title": "Tolos",
+    "Description": "A city of Slaver\u0027s Bay in Essos, famous for its lockstep legions of trained slave soldiers."
   },
   {
     "Id": "49",
@@ -1885,9 +2165,19 @@
     "Description": "This is the motto of House Tarth, a noble house from the Stormlands."
   },
   {
+    "Id": "445",
+    "Title": "Tumbleton",
+    "Description": "A town in the Reach, known for being the site of two major battles during the Dance of the Dragons."
+  },
+  {
     "Id": "13",
     "Title": "Tyrion Lannister",
     "Description": "Tyrion Lannister is a witty and intelligent character in Game of Thrones. He is a member of House Lannister and is often underestimated due to his dwarfism. Tyrion\u0027s sharp mind and strategic abilities make him a valuable player in the political landscape of Westeros."
+  },
+  {
+    "Id": "420",
+    "Title": "Tyrosh",
+    "Description": "A bustling Free City of Essos, famed for its dye works and flamboyant fashions."
   },
   {
     "Id": "22",
@@ -1908,6 +2198,31 @@
     "Id": "70",
     "Title": "Vaes Dothrak",
     "Description": "A sacred city of the Dothraki people, located in the vast central plains of Essos. Vaes Dothrak is the only permanent settlement of the nomadic horse-riding Dothraki and serves as their cultural and religious center."
+  },
+  {
+    "Id": "456",
+    "Title": "Vaes Jini",
+    "Description": "An abandoned city in Essos, known as the \u0027City of the Winged Men\u0027 in Dothraki."
+  },
+  {
+    "Id": "451",
+    "Title": "Vaes Khadokh",
+    "Description": "City in Essos deserted by the Dothraki, known as the \u0027City of Corpses\u0027."
+  },
+  {
+    "Id": "457",
+    "Title": "Vaes Leqse",
+    "Description": "Another abandoned city in Essos, known as the \u0027City of the Shattered Idols\u0027 in Dothraki."
+  },
+  {
+    "Id": "458",
+    "Title": "Vaes Qosar",
+    "Description": "City in Essos, abandoned and destroyed by the Dothraki, known as the \u0027City of Spiders\u0027."
+  },
+  {
+    "Id": "459",
+    "Title": "Vaes Tolorro",
+    "Description": "An abandoned city in the Red Waste of Essos, discovered by Daenerys Targaryen during her journey through the desert."
   },
   {
     "Id": "311",
@@ -2015,6 +2330,11 @@
     "Description": "A quote by Tyrion Lannister, condemning censorship and suppression of truth."
   },
   {
+    "Id": "416",
+    "Title": "White Harbor",
+    "Description": "The largest city in the North, located on the eastern coast. Governed by House Manderly, it\u0027s renowned for its busy seaport."
+  },
+  {
     "Id": "224",
     "Title": "Winter is Coming",
     "Description": "Winter is Coming is the motto of House Stark, one of the noble families in Game of Thrones. It serves as a warning and reminder that harsh times are approaching."
@@ -2060,6 +2380,11 @@
     "Description": "A quote by Brienne of Tarth expressing the gender restrictions and norms in the Seven Kingdoms."
   },
   {
+    "Id": "476",
+    "Title": "Yronwood",
+    "Description": "A castle in Dorne, the seat of House Yronwood. Known as the \u0027Wayward Daughter of Starfall\u0027."
+  },
+  {
     "Id": "79",
     "Title": "Yunkai",
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
@@ -2070,328 +2395,8 @@
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
   },
   {
-    "Id": "415",
-    "Title": "Gulltown",
-    "Description": "A thriving port city in the Vale of Arryn, known for its economic prowess and its commanding view of the Narrow Sea."
-  },
-  {
-    "Id": "416",
-    "Title": "White Harbor",
-    "Description": "The largest city in the North, located on the eastern coast. Governed by House Manderly, it\u0027s renowned for its busy seaport."
-  },
-  {
-    "Id": "417",
-    "Title": "Sunspear",
-    "Description": "The capital of Dorne, Sunspear is a city of sand, sea, and sun, ruled by House Martell."
-  },
-  {
-    "Id": "418",
-    "Title": "Myr",
-    "Description": "One of the Free Cities on the continent of Essos. Myr is known for its artisans, especially lensmakers and armorers."
-  },
-  {
-    "Id": "419",
-    "Title": "Norvos",
-    "Description": "A Free City in Essos, divided into a High City on the hills and a Low City on the banks of the river Noyne."
-  },
-  {
-    "Id": "420",
-    "Title": "Tyrosh",
-    "Description": "A bustling Free City of Essos, famed for its dye works and flamboyant fashions."
-  },
-  {
-    "Id": "421",
-    "Title": "Lorath",
-    "Description": "The smallest of the Free Cities in Essos. Known for its maze-makers, but otherwise poor and unimpressive."
-  },
-  {
-    "Id": "422",
-    "Title": "Toad Stone",
-    "Description": "An island city on the Basilisk Isles off the coast of Sothoryos, inhabited by pirates and slavers."
-  },
-  {
-    "Id": "423",
-    "Title": "Bayasabhad",
-    "Description": "A large city in the east of Essos, located beyond the Bone Mountains, known for its tall, pale blue buildings."
-  },
-  {
-    "Id": "424",
-    "Title": "Port Yhos",
-    "Description": "An eastern city of Essos, located to the southeast of the Dothraki sea, on the coast of the Summer Sea."
-  },
-  {
-    "Id": "425",
-    "Title": "Kayakayanaya",
-    "Description": "A city in Essos located at the eastern end of the Bone Mountains, known for its warrior women."
-  },
-  {
-    "Id": "426",
-    "Title": "Qarth",
-    "Description": "A wealthy port city in Essos, known as the \u0027Queen of Cities\u0027, located near the Jade Gates connecting the Summer Sea to the Jade Sea."
-  },
-  {
-    "Id": "427",
-    "Title": "Mantarys",
-    "Description": "A city located in the region of Essos known as the Demon Road, feared for its monstrous and malformed inhabitants."
-  },
-  {
-    "Id": "428",
-    "Title": "Tolos",
-    "Description": "A city of Slaver\u0027s Bay in Essos, famous for its lockstep legions of trained slave soldiers."
-  },
-  {
-    "Id": "429",
-    "Title": "Elyria",
-    "Description": "A small city on an island in Slaver\u0027s Bay, once part of the Valyrian Freehold."
-  },
-  {
-    "Id": "430",
-    "Title": "New Ghis",
-    "Description": "An island city in Slaver\u0027s Bay, home to the Ghiscari Empire, known for its lockstep legions."
-  },
-  {
-    "Id": "431",
-    "Title": "Saath",
-    "Description": "A city in the Kingdom of Sarnor, located in northern Essos, known for its tall, slender towers."
-  },
-  {
-    "Id": "432",
-    "Title": "Sathar",
-    "Description": "Another city in the Kingdom of Sarnor, home to the Sarnori people before their civilization was destroyed by the Dothraki."
-  },
-  {
-    "Id": "433",
-    "Title": "Samyriana",
-    "Description": "An ancient city in the Kingdom of Sarnor, famous for its high towers and soaring arches."
-  },
-  {
-    "Id": "434",
-    "Title": "Sarys",
-    "Description": "The last city of the Sarnori people, located on the eastern banks of the Sarne, the great mother river of Sarnor."
-  },
-  {
-    "Id": "435",
-    "Title": "Pentos",
-    "Description": "A Free City of Essos, located on the western coastline of the continent, known for its cheese, wines, and elephants."
-  },
-  {
-    "Id": "436",
-    "Title": "Sarnath",
-    "Description": "A city in Essos, once the capital of the Kingdom of Sarnor. Known as the \u0027City of a Thousand Nights\u0027."
-  },
-  {
-    "Id": "437",
-    "Title": "Casterly Rock",
-    "Description": "Home of House Lannister, built into a massive rock beside the Sunset Sea. While not a city, it\u0027s significant and populous like one."
-  },
-  {
-    "Id": "438",
-    "Title": "The Dreadfort",
-    "Description": "Stronghold of House Bolton, located along the Weeping Water. It is a grim and austere fortification, similar to a small city."
-  },
-  {
-    "Id": "439",
-    "Title": "Fair Isle",
-    "Description": "An island in the Sunset Sea off the western coast of Westeros. The seat of House Farman, known for its shipyards."
-  },
-  {
-    "Id": "440",
-    "Title": "Fairmarket",
-    "Description": "A large town located along the Blue Fork of the Trident in the Riverlands. It\u0027s a strategic and bustling market town."
-  },
-  {
-    "Id": "441",
-    "Title": "Maidenpool",
-    "Description": "A town in the Riverlands, known for its hot pools and its delicate pink marble keep."
-  },
-  {
-    "Id": "442",
-    "Title": "The Arbor",
-    "Description": "An island off the southwest coast of Westeros, famous for its vineyards and wines. The seat of House Redwyne."
-  },
-  {
-    "Id": "443",
-    "Title": "Saltpans",
-    "Description": "A town in the Riverlands, named for its chief industry of boiling seawater to produce salt."
-  },
-  {
-    "Id": "444",
-    "Title": "Duskendale",
-    "Description": "A port city in the Crownlands, known for its defiance against the Targaryen rule in its history."
-  },
-  {
-    "Id": "445",
-    "Title": "Tumbleton",
-    "Description": "A town in the Reach, known for being the site of two major battles during the Dance of the Dragons."
-  },
-  {
-    "Id": "446",
-    "Title": "Bitterbridge",
-    "Description": "A town in the Reach, located at a strategic crossing of the river Mander, known for its large stone bridge."
-  },
-  {
-    "Id": "447",
-    "Title": "Planky Town",
-    "Description": "The port at the mouth of the Greenblood River in Dorne, built largely on rafts and barges."
-  },
-  {
-    "Id": "448",
-    "Title": "Ashford",
-    "Description": "A town in the Reach, ruled by House Ashford. Known for the Ashford Tourney in the history."
-  },
-  {
-    "Id": "449",
-    "Title": "Blackhaven",
-    "Description": "A Dornish castle in the Red Mountains, ruled by House Dondarrion. Functions as a settlement as well."
-  },
-  {
-    "Id": "450",
-    "Title": "Hellholt",
-    "Description": "A castle in Dorne, ruled by House Uller. Known for its harsh desert surroundings."
-  },
-  {
-    "Id": "451",
-    "Title": "Vaes Khadokh",
-    "Description": "City in Essos deserted by the Dothraki, known as the \u0027City of Corpses\u0027."
-  },
-  {
-    "Id": "452",
-    "Title": "Asshai",
-    "Description": "A mysterious and ancient city located at the southeastern edge of the known world. Known for its dark magic and shadowbinders."
-  },
-  {
-    "Id": "453",
-    "Title": "Starfall",
-    "Description": "The ancestral seat of House Dayne, located on an island at the mouth of the Torrentine river in Dorne."
-  },
-  {
-    "Id": "454",
-    "Title": "Ten Towers",
-    "Description": "The seat of House Harlaw in the Iron Islands, a castle consisting of numerous keeps and towers."
-  },
-  {
-    "Id": "455",
-    "Title": "Greywater Watch",
-    "Description": "The seat of House Reed in the North, located in the swamplands of the Neck. Known to be impossible to find by outsiders."
-  },
-  {
-    "Id": "456",
-    "Title": "Vaes Jini",
-    "Description": "An abandoned city in Essos, known as the \u0027City of the Winged Men\u0027 in Dothraki."
-  },
-  {
-    "Id": "457",
-    "Title": "Vaes Leqse",
-    "Description": "Another abandoned city in Essos, known as the \u0027City of the Shattered Idols\u0027 in Dothraki."
-  },
-  {
-    "Id": "458",
-    "Title": "Vaes Qosar",
-    "Description": "City in Essos, abandoned and destroyed by the Dothraki, known as the \u0027City of Spiders\u0027."
-  },
-  {
-    "Id": "459",
-    "Title": "Vaes Tolorro",
-    "Description": "An abandoned city in the Red Waste of Essos, discovered by Daenerys Targaryen during her journey through the desert."
-  },
-  {
-    "Id": "460",
-    "Title": "Sea Dragon Point",
-    "Description": "A peninsula in the North of Westeros. It\u0027s a wild and scarcely populated region, named after legends of sea dragons."
-  },
-  {
-    "Id": "461",
-    "Title": "Ironoaks",
-    "Description": "A castle and town in the Vale, overlooking Ironoaks Lake. The ancestral seat of House Waynwood."
-  },
-  {
-    "Id": "462",
-    "Title": "Barrowton",
-    "Description": "The largest town in the Barrowlands, located in the North of Westeros. The seat of House Dustin."
-  },
-  {
-    "Id": "463",
-    "Title": "Ghis",
-    "Description": "The ancient capital of the Ghiscari Empire in Essos, now ruined and overgrown, known for its colossal architecture."
-  },
-  {
-    "Id": "464",
-    "Title": "The Tor",
-    "Description": "A Dornish castle near the mouth of the river Scourge, ruled by House Jordayne. It has a town around it."
-  },
-  {
-    "Id": "465",
-    "Title": "Sharp Point",
-    "Description": "A peninsula in the Crownlands, ruled by House Bar Emmon. The castle overlooks the Blackwater Bay."
-  },
-  {
-    "Id": "466",
-    "Title": "Red Lake",
-    "Description": "A castle in the Reach, the ancestral seat of House Crane. It\u0027s named after the lake nearby, said to be colored by the blood of a dragon."
-  },
-  {
-    "Id": "467",
-    "Title": "Three Towers",
-    "Description": "A castle in the Reach, the seat of House Costayne. It overlooks the Sunset Sea."
-  },
-  {
-    "Id": "468",
-    "Title": "Bandallon",
-    "Description": "A castle in the Reach, the seat of House Blackbar. It\u0027s located on the southern coast of the Whispering Sound."
-  },
-  {
-    "Id": "469",
-    "Title": "Blackcrown",
-    "Description": "A castle in the Reach, the seat of House Bulwer. It\u0027s located on the Blackwater Bay."
-  },
-  {
-    "Id": "470",
-    "Title": "Karhold",
-    "Description": "The seat of House Karstark, a vassal to House Stark. It\u0027s located in the North of Westeros."
-  },
-  {
-    "Id": "471",
-    "Title": "Last Hearth",
-    "Description": "The seat of House Umber, located in the North of Westeros. It\u0027s the northernmost castle of the Seven Kingdoms."
-  },
-  {
-    "Id": "472",
-    "Title": "Deepwood Motte",
-    "Description": "A castle and its surrounding settlement in the North of Westeros, the seat of House Glover."
-  },
-  {
-    "Id": "473",
-    "Title": "Horn Hill",
-    "Description": "A castle in the Reach, the ancestral seat of House Tarly. It\u0027s surrounded by a large town."
-  },
-  {
-    "Id": "474",
-    "Title": "The Shadow Tower",
-    "Description": "A castle on the Wall, at the western end. It\u0027s one of three manned castles of the Night\u0027s Watch."
-  },
-  {
-    "Id": "475",
-    "Title": "The Nightfort",
-    "Description": "The oldest and largest castle on the Wall, now abandoned and filled with legends and ghost stories."
-  },
-  {
-    "Id": "476",
-    "Title": "Yronwood",
-    "Description": "A castle in Dorne, the seat of House Yronwood. Known as the \u0027Wayward Daughter of Starfall\u0027."
-  },
-  {
-    "Id": "477",
-    "Title": "Sandstone",
-    "Description": "A castle in Dorne, the seat of House Qorgyle. It\u0027s located in the deep desert region."
-  },
-  {
-    "Id": "478",
-    "Title": "Skyreach",
-    "Description": "A castle in Dorne, the seat of House Fowler. It\u0027s located in the Prince\u0027s Pass."
-  },
-  {
-    "Id": "479",
-    "Title": "Griffin\u0027s Roost",
-    "Description": "A castle in the Stormlands, the seat of House Connington. Known for its white stone and blue roofs."
+    "Id": "480",
+    "Title": "Westeros",
+    "Description": "\nWesteros is a large, westernmost continent in the fictional universe of the \u0022Game of Thrones\u0022 series. It is situated to the west of the Narrow Sea, separating it from the continent of Essos. The series predominantly unfolds in Westeros, which is characterized by diverse landscapes and complex sociopolitical dynamics."
   }
 ]
