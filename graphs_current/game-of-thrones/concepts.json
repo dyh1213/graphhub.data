@@ -2305,6 +2305,11 @@
     "Description": "A quote by Petyr Baelish to Sansa Stark, suggesting that everyone is pretending to be something they\u0027re not in the game of thrones."
   },
   {
+    "Id": "480",
+    "Title": "Westeros",
+    "Description": "\nWesteros is a large, westernmost continent in the fictional universe of the \u0022Game of Thrones\u0022 series. It is situated to the west of the Narrow Sea, separating it from the continent of Essos. The series predominantly unfolds in Westeros, which is characterized by diverse landscapes and complex sociopolitical dynamics."
+  },
+  {
     "Id": "386",
     "Title": "What do we say to the God of Death? Not today",
     "Description": "A quote from Syrio Forel to Arya Stark, teaching her to defy death and fight for her life."
@@ -2395,8 +2400,8 @@
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
   },
   {
-    "Id": "480",
-    "Title": "Westeros",
-    "Description": "\nWesteros is a large, westernmost continent in the fictional universe of the \u0022Game of Thrones\u0022 series. It is situated to the west of the Narrow Sea, separating it from the continent of Essos. The series predominantly unfolds in Westeros, which is characterized by diverse landscapes and complex sociopolitical dynamics."
+    "Id": "481",
+    "Title": "Essos",
+    "Description": "Essos is a vast, eastern continent in the \u0022Game of Thrones\u0022 fictional universe. Bounded by the Narrow Sea to the west, separating it from Westeros, Essos hosts a rich diversity of cultures, peoples, and landscapes. Notable narratives within the series, including those of Daenerys Targaryen and the city-states of the Free Cities, primarily transpire in Essos."
   }
 ]
