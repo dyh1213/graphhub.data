@@ -670,6 +670,11 @@
     "Description": "The civil war that overthrew the Targaryen dynasty, led by Robert Baratheon, Eddard Stark, and Jon Arryn, among others, resulting in the ascension of Robert Baratheon as king."
   },
   {
+    "Id": "297",
+    "Title": "Robert\u0027s Rebellion",
+    "Description": "Also known as the War of the Usurper, this war led to the end of the Targaryen dynasty and the start of Robert Baratheon\u0027s reign."
+  },
+  {
     "Id": "59",
     "Title": "Roose Bolton",
     "Description": "Roose Bolton is a cunning and ruthless character in Game of Thrones. He is the Lord of the Dreadfort and becomes a key player in the War of the Five Kings. Roose\u0027s actions and alliances have far-reaching consequences for the North and the realm."
@@ -750,6 +755,21 @@
     "Description": "Tessarion was a dragon ridden by Prince Daemon Targaryen during the Targaryen civil war known as the Dance of the Dragons. Tessarion was known for her silver and gold scales and her loyalty to Prince Daemon."
   },
   {
+    "Id": "295",
+    "Title": "The Assassination at the Red Wedding",
+    "Description": "This event wasn\u0027t a traditional battle but marked a significant turning point in the War of the Five Kings, with House Stark\u0027s power significantly weakened."
+  },
+  {
+    "Id": "303",
+    "Title": "The Battle Above the Gods Eye",
+    "Description": "A climactic battle in the Dance of the Dragons where two dragonriders fought each other in a duel that ended with both their deaths."
+  },
+  {
+    "Id": "304",
+    "Title": "The Battle of Ashford",
+    "Description": "In Robert\u0027s Rebellion, the forces of Robert Baratheon suffered their only defeat by the army of House Tyrell."
+  },
+  {
     "Id": "117",
     "Title": "The Battle of Blackwater Bay",
     "Description": "The naval battle between Stannis Baratheon\u0027s fleet and the forces defending King\u0027s Landing during the War of the Five Kings, resulting in Stannis\u0027 defeat and the survival of House Lannister\u0027s rule."
@@ -770,9 +790,29 @@
     "Description": "The battle between the Night\u0027s Watch and the wildlings at Castle Black, led by Mance Rayder, resulting in the defeat of the wildlings and the death of Mance Rayder."
   },
   {
+    "Id": "289",
+    "Title": "The Battle of Deepwood Motte",
+    "Description": "This battle saw House Glover retake their home from the Ironborn, with help from Stannis Baratheon\u0027s forces."
+  },
+  {
+    "Id": "292",
+    "Title": "The Battle of Green Fork",
+    "Description": "Fought between House Stark and House Lannister, this battle was a tactical victory for the Lannisters, though it allowed Robb Stark to gain a strategic advantage."
+  },
+  {
     "Id": "126",
     "Title": "The Battle of Hardhome",
     "Description": "The battle between Jon Snow and the Night King\u0027s army of wights and White Walkers, resulting in the rescue of some wildlings but also highlighting the threat of the Night King\u0027s forces."
+  },
+  {
+    "Id": "286",
+    "Title": "The Battle of Oxcross",
+    "Description": "The Battle of Oxcross was a major engagement in the War of the Five Kings, where Robb Stark scored a surprise victory against the Lannister forces."
+  },
+  {
+    "Id": "298",
+    "Title": "The Battle of Redgrass Field",
+    "Description": "The deciding battle of the Blackfyre Rebellion. The loyalist forces, led by Baelor Breakspear, defeated the Blackfyre rebels."
   },
   {
     "Id": "116",
@@ -783,6 +823,11 @@
     "Id": "139",
     "Title": "The Battle of the Bastards",
     "Description": "The battle between Jon Snow and Ramsay Bolton for control of Winterfell, resulting in the defeat of Ramsay and the restoration of House Stark\u0027s rule in the North."
+  },
+  {
+    "Id": "299",
+    "Title": "The Battle of the Bells",
+    "Description": "A major battle in Robert\u0027s Rebellion, where Robert Baratheon\u0027s forces clashed with those of the Mad King in the town of Stoney Sept."
   },
   {
     "Id": "133",
@@ -800,6 +845,11 @@
     "Description": "The decisive battle during the War of the Five Kings, where Stannis Baratheon\u0027s attempt to capture King\u0027s Landing was thwarted by the combined forces of House Lannister and House Tyrell."
   },
   {
+    "Id": "288",
+    "Title": "The Battle of the Camps",
+    "Description": "The Battle of the Camps was a surprise attack led by Robb Stark\u0027s forces against the Lannister army, which resulted in a strategic victory for House Stark."
+  },
+  {
     "Id": "136",
     "Title": "The Battle of the Fist of the First Men",
     "Description": "The battle between the Night\u0027s Watch and the White Walkers\u0027 army of wights at the Fist of the First Men, resulting in heavy casualties for the Night\u0027s Watch."
@@ -815,9 +865,19 @@
     "Description": "The battle between Robb Stark\u0027s forces and Tywin Lannister\u0027s forces during the War of the Five Kings, where Robb executed a diversionary tactic to draw Tywin\u0027s attention away from Riverrun."
   },
   {
+    "Id": "301",
+    "Title": "The Battle of the Gullet",
+    "Description": "A major naval battle during the Dance of the Dragons, the Targaryen civil war, resulted in heavy losses on both sides."
+  },
+  {
     "Id": "135",
     "Title": "The Battle of the Ruby Ford",
     "Description": "The battle between Robert Baratheon and Rhaegar Targaryen during Robert\u0027s Rebellion, where Robert emerged victorious and killed Rhaegar, further weakening the Targaryen dynasty."
+  },
+  {
+    "Id": "293",
+    "Title": "The Battle of the Shield Islands",
+    "Description": "In the battle, the Iron Fleet under Euron Greyjoy captured the Shield Islands, paving the way for his larger plans of conquest."
   },
   {
     "Id": "124",
@@ -900,6 +960,11 @@
     "Description": "Also known as the \u0027Gold Cloaks\u0027, they are responsible for maintaining order within King\u0027s Landing."
   },
   {
+    "Id": "296",
+    "Title": "The Dance of the Dragons",
+    "Description": "This was a civil war during Targaryen rule, primarily fought between the forces of Rhaenyra Targaryen and her half-brother Aegon II for control over the Iron Throne."
+  },
+  {
     "Id": "125",
     "Title": "The Death of Ned Stark",
     "Description": "The execution of Eddard Stark, Lord of Winterfell, by order of King Joffrey Baratheon, marking a major turning point in the series and the beginning of the War of the Five Kings."
@@ -948,6 +1013,16 @@
     "Id": "132",
     "Title": "The Fall of House Tyrell",
     "Description": "The event where House Tyrell, one of the most powerful houses in Westeros, fell from power due to the actions of Cersei Lannister and the destruction of the Great Sept of Baelor."
+  },
+  {
+    "Id": "294",
+    "Title": "The Fall of Moat Cailin",
+    "Description": "The Fall of Moat Cailin was a critical moment in the War of the Five Kings, where Ramsay Bolton captured Moat Cailin, securing the North for House Bolton."
+  },
+  {
+    "Id": "300",
+    "Title": "The Field of Fire",
+    "Description": "This was the only battle in the War of Conquest where all three of Aegon the Conqueror\u0027s dragons were deployed. It led to the surrender of King Loren Lannister."
   },
   {
     "Id": "145",
@@ -1080,6 +1155,11 @@
     "Description": "The Many-Faced God of Death is a deity worshipped by the Faceless Men of Braavos. They believe that death is a natural part of life and see themselves as servants of this god."
   },
   {
+    "Id": "290",
+    "Title": "The Massacre at Hardhome",
+    "Description": "The Massacre at Hardhome was a surprise attack by the Night King and his army of White Walkers and wights on the free folk settlement of Hardhome."
+  },
+  {
     "Id": "282",
     "Title": "The Merling King",
     "Description": "Also favored by sailors."
@@ -1098,6 +1178,11 @@
     "Id": "271",
     "Title": "The Moonsingers",
     "Description": "The primary religion of the people of Braavos, the Moonsingers led the original slaves to their new city."
+  },
+  {
+    "Id": "287",
+    "Title": "The Mutiny at Craster\u0027s Keep",
+    "Description": "The mutiny was a severe internal conflict within the Night\u0027s Watch, at the homestead of Craster north of the Wall."
   },
   {
     "Id": "231",
@@ -1155,6 +1240,11 @@
     "Description": "A protective detail established for the reigning Queen Regent in Meereen."
   },
   {
+    "Id": "302",
+    "Title": "The Rains of Castamere",
+    "Description": "Not a battle but a massacre. House Reyne rebelled against their liege lord, House Lannister, and were utterly destroyed."
+  },
+  {
     "Id": "92",
     "Title": "The Red Keep",
     "Description": "The royal palace located within King\u0027s Landing, the Red Keep is the residence of the ruling monarch of the Seven Kingdoms. It is a massive fortress with iconic red walls and towers."
@@ -1180,6 +1270,16 @@
     "Description": "The event during Robert\u0027s Rebellion when the Lannister forces, led by Jaime Lannister, attacked King\u0027s Landing, resulting in the deaths of King Aerys II Targaryen and his family."
   },
   {
+    "Id": "305",
+    "Title": "The Sack of King\u0027s Landing",
+    "Description": "During Robert\u0027s Rebellion, House Lannister sacked King\u0027s Landing, ending the Targaryen rule."
+  },
+  {
+    "Id": "291",
+    "Title": "The Second Siege of Riverrun",
+    "Description": "This siege saw the return of House Frey control after a successful negotiation between Jaime Lannister and Edmure Tully."
+  },
+  {
     "Id": "247",
     "Title": "The Second Sons",
     "Description": "A sellsword company operating in Essos, named for the societal norm of second sons having fewer inheritance rights."
@@ -1193,6 +1293,11 @@
     "Id": "131",
     "Title": "The Siege of Meereen",
     "Description": "The siege of the city of Meereen by the forces of the Wise Masters and the Sons of the Harpy, which was ultimately repelled by Daenerys Targaryen and her allies."
+  },
+  {
+    "Id": "285",
+    "Title": "The Siege of Riverrun",
+    "Description": "The Siege of Riverrun was a prolonged conflict where House Frey and House Lannister besieged the ancestral home of House Tully."
   },
   {
     "Id": "158",
@@ -1420,108 +1525,548 @@
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
   },
   {
-    "Id": "285",
-    "Title": "The Siege of Riverrun",
-    "Description": "The Siege of Riverrun was a prolonged conflict where House Frey and House Lannister besieged the ancestral home of House Tully."
+    "Id": "306",
+    "Title": "The king in the north!",
+    "Description": "This is a rallying cry of House Stark, often used to acknowledge the leader of the North."
   },
   {
-    "Id": "286",
-    "Title": "The Battle of Oxcross",
-    "Description": "The Battle of Oxcross was a major engagement in the War of the Five Kings, where Robb Stark scored a surprise victory against the Lannister forces."
+    "Id": "307",
+    "Title": "Moon of my life",
+    "Description": "This is an affectionate term used by Khal Drogo to address Daenerys Targaryen."
   },
   {
-    "Id": "287",
-    "Title": "The Mutiny at Craster\u0027s Keep",
-    "Description": "The mutiny was a severe internal conflict within the Night\u0027s Watch, at the homestead of Craster north of the Wall."
+    "Id": "308",
+    "Title": "My sun and stars",
+    "Description": "This is an affectionate term used by Daenerys Targaryen to address Khal Drogo."
   },
   {
-    "Id": "288",
-    "Title": "The Battle of the Camps",
-    "Description": "The Battle of the Camps was a surprise attack led by Robb Stark\u0027s forces against the Lannister army, which resulted in a strategic victory for House Stark."
+    "Id": "309",
+    "Title": "Unbowed, Unbent, Unbroken",
+    "Description": "This is the motto of House Martell, one of the Great Houses of Westeros."
   },
   {
-    "Id": "289",
-    "Title": "The Battle of Deepwood Motte",
-    "Description": "This battle saw House Glover retake their home from the Ironborn, with help from Stannis Baratheon\u0027s forces."
+    "Id": "310",
+    "Title": "We Do Not Sow",
+    "Description": "This is the motto of House Greyjoy, one of the Great Houses of Westeros."
   },
   {
-    "Id": "290",
-    "Title": "The Massacre at Hardhome",
-    "Description": "The Massacre at Hardhome was a surprise attack by the Night King and his army of White Walkers and wights on the free folk settlement of Hardhome."
+    "Id": "311",
+    "Title": "Valar Dohaeris",
+    "Description": "This phrase is a traditional response to \u0027Valar Morghulis\u0027, it translates to \u0027All men must serve\u0027 in High Valyrian."
   },
   {
-    "Id": "291",
-    "Title": "The Second Siege of Riverrun",
-    "Description": "This siege saw the return of House Frey control after a successful negotiation between Jaime Lannister and Edmure Tully."
+    "Id": "312",
+    "Title": "What is dead may never die",
+    "Description": "A common saying in the Iron Islands, usually in reference to the Drowned God."
   },
   {
-    "Id": "292",
-    "Title": "The Battle of Green Fork",
-    "Description": "Fought between House Stark and House Lannister, this battle was a tactical victory for the Lannisters, though it allowed Robb Stark to gain a strategic advantage."
+    "Id": "313",
+    "Title": "For the night is dark and full of terrors",
+    "Description": "This is a prayer to the Lord of Light, often quoted by Melisandre."
   },
   {
-    "Id": "293",
-    "Title": "The Battle of the Shield Islands",
-    "Description": "In the battle, the Iron Fleet under Euron Greyjoy captured the Shield Islands, paving the way for his larger plans of conquest."
+    "Id": "314",
+    "Title": "Growing strong",
+    "Description": "This is the motto of House Tyrell, one of the Great Houses of Westeros."
   },
   {
-    "Id": "294",
-    "Title": "The Fall of Moat Cailin",
-    "Description": "The Fall of Moat Cailin was a critical moment in the War of the Five Kings, where Ramsay Bolton captured Moat Cailin, securing the North for House Bolton."
+    "Id": "315",
+    "Title": "Power resides where men believe it resides",
+    "Description": "A quote from Varys, illustrating his view on the concept of power."
   },
   {
-    "Id": "295",
-    "Title": "The Assassination at the Red Wedding",
-    "Description": "This event wasn\u0027t a traditional battle but marked a significant turning point in the War of the Five Kings, with House Stark\u0027s power significantly weakened."
+    "Id": "316",
+    "Title": "Not today",
+    "Description": "Syrio Forel\u0027s famous saying to Arya Stark during their sword-fighting lessons."
   },
   {
-    "Id": "296",
-    "Title": "The Dance of the Dragons",
-    "Description": "This was a civil war during Targaryen rule, primarily fought between the forces of Rhaenyra Targaryen and her half-brother Aegon II for control over the Iron Throne."
+    "Id": "317",
+    "Title": "Ours is the Fury",
+    "Description": "This is the motto of House Baratheon, one of the Great Houses of Westeros."
   },
   {
-    "Id": "297",
-    "Title": "Robert\u0027s Rebellion",
-    "Description": "Also known as the War of the Usurper, this war led to the end of the Targaryen dynasty and the start of Robert Baratheon\u0027s reign."
+    "Id": "318",
+    "Title": "Family, Duty, Honor",
+    "Description": "This is the motto of House Tully, one of the Great Houses of Westeros."
   },
   {
-    "Id": "298",
-    "Title": "The Battle of Redgrass Field",
-    "Description": "The deciding battle of the Blackfyre Rebellion. The loyalist forces, led by Baelor Breakspear, defeated the Blackfyre rebels."
+    "Id": "319",
+    "Title": "As High as Honor",
+    "Description": "This is the motto of House Arryn, one of the Great Houses of Westeros."
   },
   {
-    "Id": "299",
-    "Title": "The Battle of the Bells",
-    "Description": "A major battle in Robert\u0027s Rebellion, where Robert Baratheon\u0027s forces clashed with those of the Mad King in the town of Stoney Sept."
+    "Id": "320",
+    "Title": "Here We Stand",
+    "Description": "This is the motto of House Mormont, a noble house from the North."
   },
   {
-    "Id": "300",
-    "Title": "The Field of Fire",
-    "Description": "This was the only battle in the War of Conquest where all three of Aegon the Conqueror\u0027s dragons were deployed. It led to the surrender of King Loren Lannister."
+    "Id": "321",
+    "Title": "First of His Name",
+    "Description": "A title given to the first king of a new dynasty in the Seven Kingdoms."
   },
   {
-    "Id": "301",
-    "Title": "The Battle of the Gullet",
-    "Description": "A major naval battle during the Dance of the Dragons, the Targaryen civil war, resulted in heavy losses on both sides."
+    "Id": "322",
+    "Title": "Kissed by Fire",
+    "Description": "A phrase used to describe someone with red hair, often seen as a sign of luck."
   },
   {
-    "Id": "302",
-    "Title": "The Rains of Castamere",
-    "Description": "Not a battle but a massacre. House Reyne rebelled against their liege lord, House Lannister, and were utterly destroyed."
+    "Id": "323",
+    "Title": "Our Blades are Sharp",
+    "Description": "This is the motto of House Bolton, a noble house from the North."
   },
   {
-    "Id": "303",
-    "Title": "The Battle Above the Gods Eye",
-    "Description": "A climactic battle in the Dance of the Dragons where two dragonriders fought each other in a duel that ended with both their deaths."
+    "Id": "324",
+    "Title": "The old gods and the new",
+    "Description": "A common phrase referring to the faiths in Westeros, both the new faith of the Seven and the old faith of the Children of the Forest."
   },
   {
-    "Id": "304",
-    "Title": "The Battle of Ashford",
-    "Description": "In Robert\u0027s Rebellion, the forces of Robert Baratheon suffered their only defeat by the army of House Tyrell."
+    "Id": "325",
+    "Title": "Above the rest",
+    "Description": "This is the motto of House Mallister, a noble house from the Riverlands."
   },
   {
-    "Id": "305",
-    "Title": "The Sack of King\u0027s Landing",
-    "Description": "During Robert\u0027s Rebellion, House Lannister sacked King\u0027s Landing, ending the Targaryen rule."
+    "Id": "326",
+    "Title": "No one can withstand us",
+    "Description": "This is the motto of House Codd, a noble house from the Iron Islands."
+  },
+  {
+    "Id": "327",
+    "Title": "Right Conquers Might",
+    "Description": "This is the motto of House Rykker, a noble house from the Crownlands."
+  },
+  {
+    "Id": "328",
+    "Title": "Touch Me Not",
+    "Description": "This is the motto of House Allyrion, a noble house from Dorne."
+  },
+  {
+    "Id": "329",
+    "Title": "First in Battle",
+    "Description": "This is the motto of House Tarly, a noble house from the Reach."
+  },
+  {
+    "Id": "330",
+    "Title": "Death Before Disgrace",
+    "Description": "This is the motto of House Toyne, a noble house from the Stormlands."
+  },
+  {
+    "Id": "331",
+    "Title": "Let Me Soar",
+    "Description": "This is the motto of House Fowler, a noble house from Dorne."
+  },
+  {
+    "Id": "332",
+    "Title": "Hear Me Roar!",
+    "Description": "This is the official motto of House Lannister, one of the Great Houses of Westeros."
+  },
+  {
+    "Id": "333",
+    "Title": "Never Resting",
+    "Description": "This is the motto of House Redwyne, a noble house from the Reach."
+  },
+  {
+    "Id": "334",
+    "Title": "Fly High, Fly Far",
+    "Description": "This is the motto of House Swyft, a noble house from the Westerlands."
+  },
+  {
+    "Id": "335",
+    "Title": "From Sea to Sea",
+    "Description": "This is the motto of House Seaworth, a noble house from the Stormlands."
+  },
+  {
+    "Id": "336",
+    "Title": "Rouse Me Not",
+    "Description": "This is the motto of House Grandison, a noble house from the Stormlands."
+  },
+  {
+    "Id": "337",
+    "Title": "Every Man a King",
+    "Description": "This is the motto of House Broom, a noble house from the Westerlands."
+  },
+  {
+    "Id": "338",
+    "Title": "Beware the Fury of a Patient Man",
+    "Description": "This is the motto of House Corbray, a noble house from the Vale."
+  },
+  {
+    "Id": "339",
+    "Title": "By Day or Night",
+    "Description": "This is the motto of House Dayne, a noble house from Dorne."
+  },
+  {
+    "Id": "340",
+    "Title": "Proud and Free",
+    "Description": "This is the motto of House Reed, a noble house from the North."
+  },
+  {
+    "Id": "341",
+    "Title": "Tread Lightly Here",
+    "Description": "This is the motto of House Lefford, a noble house from the Westerlands."
+  },
+  {
+    "Id": "342",
+    "Title": "Set Down Our Deeds",
+    "Description": "This is the motto of House Ashford, a noble house from the Reach."
+  },
+  {
+    "Id": "343",
+    "Title": "Honour, not Honours",
+    "Description": "This is the motto of House Smallwood, a noble house from the Riverlands."
+  },
+  {
+    "Id": "344",
+    "Title": "The Choice is Yours",
+    "Description": "This is the motto of House Yronwood, a noble house from Dorne."
+  },
+  {
+    "Id": "345",
+    "Title": "Wisdom and Strength",
+    "Description": "This is the motto of House Harlaw, a noble house from the Iron Islands."
+  },
+  {
+    "Id": "346",
+    "Title": "None so Wise",
+    "Description": "This is the motto of House Waynwood, a noble house from the Vale."
+  },
+  {
+    "Id": "347",
+    "Title": "To Tread on Us is to Tread on Stone",
+    "Description": "This is the motto of House Royce, a noble house from the Vale."
+  },
+  {
+    "Id": "348",
+    "Title": "Defender of the Dispossessed",
+    "Description": "This is the motto of House Blackfyre, a noble house from the Crownlands."
+  },
+  {
+    "Id": "349",
+    "Title": "True to the Mark",
+    "Description": "This is the motto of House Tarth, a noble house from the Stormlands."
+  },
+  {
+    "Id": "350",
+    "Title": "I Have No Rival",
+    "Description": "This is the motto of House Qorgyle, a noble house from Dorne."
+  },
+  {
+    "Id": "351",
+    "Title": "Thorough",
+    "Description": "This is the motto of House Sarsfield, a noble house from the Westerlands."
+  },
+  {
+    "Id": "352",
+    "Title": "Better than the Best",
+    "Description": "This is the motto of House Umber, a noble house from the North."
+  },
+  {
+    "Id": "353",
+    "Title": "Bound by Blood",
+    "Description": "This is the motto of House Blackwood, a noble house from the Riverlands."
+  },
+  {
+    "Id": "354",
+    "Title": "Beware Our Sting",
+    "Description": "This is the motto of House Beesbury, a noble house from the Reach."
+  },
+  {
+    "Id": "355",
+    "Title": "The things I do for love",
+    "Description": "This phrase is said by Jaime Lannister in reference to his dedication to his sister, Cersei."
+  },
+  {
+    "Id": "356",
+    "Title": "Hear the roar",
+    "Description": "A common phrase associated with House Lannister, it signifies their strength and power."
+  },
+  {
+    "Id": "357",
+    "Title": "We light the way",
+    "Description": "This is the motto of House Hightower, a noble house from the Reach."
+  },
+  {
+    "Id": "358",
+    "Title": "A Golden Crown",
+    "Description": "A phrase related to Viserys Targaryen\u0027s demand for a crown from Khal Drogo, resulting in his death by molten gold."
+  },
+  {
+    "Id": "359",
+    "Title": "We are the watchers on the wall",
+    "Description": "A part of the oath taken by the Night\u0027s Watch, the protectors of the realm against the threats beyond the Wall."
+  },
+  {
+    "Id": "360",
+    "Title": "I am the storm, brother",
+    "Description": "A quote from Euron Greyjoy to his brother Balon, signifying his ambitions and ruthlessness."
+  },
+  {
+    "Id": "361",
+    "Title": "The Iron Throne is mine by right",
+    "Description": "A common claim made by those seeking to take control of the Seven Kingdoms, often said by Stannis Baratheon."
+  },
+  {
+    "Id": "362",
+    "Title": "A lion does not concern himself with the opinion of sheep",
+    "Description": "A quote by Tywin Lannister signifying the dominance and disregard of House Lannister towards their less powerful subjects."
+  },
+  {
+    "Id": "363",
+    "Title": "Fear cuts deeper than swords",
+    "Description": "A quote from Syrio Forel to Arya Stark during their training sessions, teaching her to conquer her fears."
+  },
+  {
+    "Id": "364",
+    "Title": "A dragon is not a slave",
+    "Description": "A phrase spoken by Daenerys Targaryen in reference to her dragons, it signifies their strength and independence."
+  },
+  {
+    "Id": "365",
+    "Title": "Kill the boy, Jon Snow",
+    "Description": "Advice given by Maester Aemon to Jon Snow, encouraging him to let go of his past and become a leader."
+  },
+  {
+    "Id": "366",
+    "Title": "Our is the fury",
+    "Description": "The official motto of House Baratheon, it signifies their fierce temperament and power."
+  },
+  {
+    "Id": "367",
+    "Title": "Dark wings, dark words",
+    "Description": "A common saying in Westeros referring to the fact that messages brought by ravens often carry bad news."
+  },
+  {
+    "Id": "368",
+    "Title": "All men must die",
+    "Description": "The English translation of \u0027Valar Morghulis\u0027, a common saying in Essos."
+  },
+  {
+    "Id": "369",
+    "Title": "The lone wolf dies but the pack survives",
+    "Description": "A quote from Ned Stark to Arya Stark emphasizing the importance of sticking together as a family."
+  },
+  {
+    "Id": "370",
+    "Title": "I\u0027m not a Ser, I\u0027m a Lord",
+    "Description": "A quote from Bronn, expressing his desire for higher status and recognition."
+  },
+  {
+    "Id": "371",
+    "Title": "The true king of Westeros",
+    "Description": "A phrase often used in reference to those with legitimate claims to the throne, such as Stannis Baratheon and Daenerys Targaryen."
+  },
+  {
+    "Id": "372",
+    "Title": "The Wall protects us",
+    "Description": "A common saying in reference to the enormous wall of ice protecting the realm from the threats of the far north."
+  },
+  {
+    "Id": "373",
+    "Title": "Nothing burns like the cold",
+    "Description": "A phrase highlighting the harsh and unforgiving nature of the winters in Westeros."
+  },
+  {
+    "Id": "374",
+    "Title": "The Queen in the North",
+    "Description": "A phrase recognizing Sansa Stark\u0027s claim to rule the North."
+  },
+  {
+    "Id": "375",
+    "Title": "Burn them all",
+    "Description": "The last words of King Aerys II Targaryen, revealing his madness and obsession with fire."
+  },
+  {
+    "Id": "376",
+    "Title": "A Targaryen alone in the world is a terrible thing",
+    "Description": "A quote from Maester Aemon revealing his sympathy and concern for Daenerys Targaryen."
+  },
+  {
+    "Id": "377",
+    "Title": "A queen must rule",
+    "Description": "A quote from Daenerys Targaryen asserting her authority and power."
+  },
+  {
+    "Id": "378",
+    "Title": "I am the king!",
+    "Description": "A quote from King Joffrey, often said in moments of anger or when his authority is questioned."
+  },
+  {
+    "Id": "379",
+    "Title": "Every flight begins with a fall",
+    "Description": "A quote from the Three-eyed Raven to Bran Stark, explaining the path to learning and growth."
+  },
+  {
+    "Id": "380",
+    "Title": "The man who passes the sentence should swing the sword",
+    "Description": "This phrase was often repeated by Ned Stark as a code of justice and responsibility."
+  },
+  {
+    "Id": "381",
+    "Title": "There\u0027s no cure for being a c*nt",
+    "Description": "A quote from Bronn, used to describe people with malicious intentions or actions."
+  },
+  {
+    "Id": "382",
+    "Title": "Power resides where men believe it resides",
+    "Description": "A quote from Lord Varys discussing the nature of power and perception."
+  },
+  {
+    "Id": "383",
+    "Title": "When the snows fall and the white winds blow, the lone wolf dies, but the pack survives",
+    "Description": "A quote from Sansa Stark remembering her father\u0027s lessons on the strength of unity."
+  },
+  {
+    "Id": "384",
+    "Title": "The things we love destroy us every time, lad",
+    "Description": "A quote from Jeor Mormont to Jon Snow, warning about the dangers of love and attachment."
+  },
+  {
+    "Id": "385",
+    "Title": "Unbowed, Unbent, Unbroken",
+    "Description": "The motto of House Martell, symbolizing their indomitable spirit."
+  },
+  {
+    "Id": "386",
+    "Title": "What do we say to the God of Death? Not today",
+    "Description": "A quote from Syrio Forel to Arya Stark, teaching her to defy death and fight for her life."
+  },
+  {
+    "Id": "387",
+    "Title": "As High As Honor",
+    "Description": "The motto of House Arryn, signifying their noble and virtuous nature."
+  },
+  {
+    "Id": "388",
+    "Title": "Any man who must say, \u0027I am the king\u0027, is no true king",
+    "Description": "A quote from Tywin Lannister teaching his grandson Joffrey about the nature of true authority."
+  },
+  {
+    "Id": "389",
+    "Title": "In the game of thrones, even the humblest pieces can have wills of their own",
+    "Description": "A quote from Tyrion Lannister highlighting the unpredictability and complexity of political power struggles."
+  },
+  {
+    "Id": "390",
+    "Title": "Growing Strong",
+    "Description": "The motto of House Tyrell, representing their resilience and growth in power."
+  },
+  {
+    "Id": "391",
+    "Title": "If you think this has a happy ending, you haven\u0027t been paying attention",
+    "Description": "A quote from Ramsay Bolton highlighting the often tragic and unexpected outcomes in the game of thrones."
+  },
+  {
+    "Id": "392",
+    "Title": "Different roads sometimes lead to the same castle",
+    "Description": "A quote from Jon Snow emphasizing that there are often different paths to the same goal."
+  },
+  {
+    "Id": "393",
+    "Title": "We do not sow",
+    "Description": "The motto of House Greyjoy, indicating their reputation for reaving and pillaging."
+  },
+  {
+    "Id": "394",
+    "Title": "Love is the death of duty",
+    "Description": "A quote from Maester Aemon revealing the conflict between personal desires and responsibilities."
+  },
+  {
+    "Id": "395",
+    "Title": "Ours is the fury",
+    "Description": "The motto of House Baratheon, symbolizing their fierce temper and swift retribution."
+  },
+  {
+    "Id": "396",
+    "Title": "I swear it by the old gods and the new",
+    "Description": "A common oath in the Seven Kingdoms, encompassing all religious beliefs."
+  },
+  {
+    "Id": "397",
+    "Title": "Family, Duty, Honor",
+    "Description": "The motto of House Tully, outlining their priorities and values."
+  },
+  {
+    "Id": "398",
+    "Title": "I have a tender spot in my heart for cripples, bastards and broken things",
+    "Description": "A quote by Tyrion Lannister, revealing his empathy for the marginalized and mistreated."
+  },
+  {
+    "Id": "399",
+    "Title": "I was born to rule the Seven Kingdoms",
+    "Description": "A quote by Daenerys Targaryen, expressing her conviction in her birthright and destiny."
+  },
+  {
+    "Id": "400",
+    "Title": "A very small man can cast a very large shadow",
+    "Description": "A quote by Varys to Tyrion, highlighting the significance of influence over physical size or strength."
+  },
+  {
+    "Id": "401",
+    "Title": "You\u0027re going to die tomorrow, Lord Bolton. Sleep well",
+    "Description": "A chilling promise from Sansa Stark to Ramsay Bolton on the eve of the Battle of the Bastards."
+  },
+  {
+    "Id": "402",
+    "Title": "When you tear out a man\u0027s tongue, you are not proving him a liar, you\u0027re only telling the world that you fear what he might say",
+    "Description": "A quote by Tyrion Lannister, condemning censorship and suppression of truth."
+  },
+  {
+    "Id": "403",
+    "Title": "You are the blood of the dragon",
+    "Description": "A quote by Viserys Targaryen to his sister Daenerys, reminding her of their royal Targaryen lineage."
+  },
+  {
+    "Id": "404",
+    "Title": "The freedom to make my own mistakes was all I ever wanted",
+    "Description": "A quote by Mance Rayder, expressing his desire for freedom and autonomy above all else."
+  },
+  {
+    "Id": "405",
+    "Title": "A ruler who kills those devoted to her is not a ruler who inspires devotion",
+    "Description": "A quote by Tyrion Lannister, advising Daenerys on the importance of mercy and respect as a ruler."
+  },
+  {
+    "Id": "406",
+    "Title": "We are ironborn. We\u0027re not subjects, we\u0027re not slaves. We do not plow the field or toil in the mine. We take what is ours",
+    "Description": "A quote by Yara Greyjoy, capturing the fierce independence and warlike culture of the Iron Islands."
+  },
+  {
+    "Id": "407",
+    "Title": "I have nothing to say to you",
+    "Description": "A quote by Sansa Stark to Littlefinger, rejecting his manipulations and ending his influence over her."
+  },
+  {
+    "Id": "408",
+    "Title": "He\u0027s the prince that was promised, and his is the song of ice and fire",
+    "Description": "A quote by Rhaegar Targaryen in reference to his son, hinting at the prophecy of the prince who was promised."
+  },
+  {
+    "Id": "409",
+    "Title": "The night is dark and full of terrors, but the fire burns them all away",
+    "Description": "A quote by Melisandre, expressing her faith in the Lord of Light\u0027s power to vanquish darkness."
+  },
+  {
+    "Id": "410",
+    "Title": "First lesson, stick them with the pointy end",
+    "Description": "A quote by Jon Snow to Arya Stark, giving her basic advice on how to use a sword."
+  },
+  {
+    "Id": "411",
+    "Title": "You\u0027re not a knight? Women can\u0027t be knights",
+    "Description": "A quote by Brienne of Tarth expressing the gender restrictions and norms in the Seven Kingdoms."
+  },
+  {
+    "Id": "412",
+    "Title": "Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you",
+    "Description": "A quote by Tyrion Lannister to Jon Snow, advising him to embrace his identity as a bastard."
+  },
+  {
+    "Id": "413",
+    "Title": "If I fall, don\u0027t bring me back",
+    "Description": "A quote by Jon Snow to Melisandre, asking not to be resurrected should he die in battle."
+  },
+  {
+    "Id": "414",
+    "Title": "We never stop playing, make-believe",
+    "Description": "A quote by Petyr Baelish to Sansa Stark, suggesting that everyone is pretending to be something they\u0027re not in the game of thrones."
   }
 ]
