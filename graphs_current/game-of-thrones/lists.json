@@ -61,7 +61,7 @@
     "Id": "1",
     "Title": "Houses",
     "Description": "List of the noble families in Game of Thrones, such as Stark, Lannister, and Targaryen, each with their distinct sigils and mottoes.",
-    "ParentConceptId": "1",
+    "ParentConceptId": "483",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
