@@ -705,6 +705,11 @@
     "Description": "A quote from Tyrion Lannister highlighting the unpredictability and complexity of political power struggles."
   },
   {
+    "Id": "482",
+    "Title": "Individual",
+    "Description": "In the context of \u0022Game of Thrones,\u0022 an individual refers to a distinct character with a unique role in the series\u0027 multifaceted narrative. This can range from main protagonists such as Jon Snow or Daenerys Targaryen, to supporting characters like Bronn or Samwell Tarly, and even to less prominent figures such as the servants, soldiers, and minor nobility who populate the world of Westeros and beyond. Each character, regardless of the breadth of their role or the depth of their development, contributes to the overarching story and the dynamics of power, politics, and personal struggle in the show. Their backgrounds, personalities, and actions help to shape the series\u0027 complex and intertwined plotlines."
+  },
+  {
     "Id": "461",
     "Title": "Ironoaks",
     "Description": "A castle and town in the Vale, overlooking Ironoaks Lake. The ancestral seat of House Waynwood."
@@ -2405,8 +2410,8 @@
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
   },
   {
-    "Id": "482",
-    "Title": "Individual",
-    "Description": "In the context of \u0022Game of Thrones,\u0022 an individual refers to a distinct character with a unique role in the series\u0027 multifaceted narrative. This can range from main protagonists such as Jon Snow or Daenerys Targaryen, to supporting characters like Bronn or Samwell Tarly, and even to less prominent figures such as the servants, soldiers, and minor nobility who populate the world of Westeros and beyond. Each character, regardless of the breadth of their role or the depth of their development, contributes to the overarching story and the dynamics of power, politics, and personal struggle in the show. Their backgrounds, personalities, and actions help to shape the series\u0027 complex and intertwined plotlines."
+    "Id": "483",
+    "Title": "House",
+    "Description": "A House in \u0022Game of Thrones\u0022 is a familial or clan-based entity with a unique sigil and motto, often representing a region in Westeros. They range from powerful Great Houses like Stark or Lannister, to smaller houses that pledge fealty to them. These Houses, defined by unique histories, traits, alliances, and rivalries, shape the series\u0027 intricate political landscape and narrative dynamics."
   }
 ]
