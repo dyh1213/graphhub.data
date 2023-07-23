@@ -325,9 +325,9 @@
     "Description": "Natural style art often seeks to depict the natural world in an accurate or emotionally evocative way. This may involve a varied composition with a focus on natural light, and a calm mood."
   },
   {
-    "Id": "1065",
+    "Id": "284",
     "Title": "Varied",
-    "Description": null
+    "Description": "Varied style art is marked by a dynamic and complex mood, often incorporating mixed lighting conditions. The composition is usually dynamic and non-uniform. This style is associated with Cubism, Abstract Expressionism, and Surrealism."
   },
   {
     "Id": "1066",
@@ -975,9 +975,9 @@
     "Description": null
   },
   {
-    "Id": "1195",
+    "Id": "285",
     "Title": "Natural Light",
-    "Description": null
+    "Description": "Natural Light style art primarily captures scenes under natural light, often creating a calm mood. The composition is typically open, capturing wide landscapes or outdoor scenes. It is closely associated with Impressionism, Realism, and Landscape Art."
   },
   {
     "Id": "48",
@@ -3970,9 +3970,9 @@
     "Description": null
   },
   {
-    "Id": "1794",
+    "Id": "286",
     "Title": "Artificial Light",
-    "Description": null
+    "Description": "Artificial Light style art is characterized by the use of artificial lighting, often creating a dramatic mood. The composition is usually focused or centralized. This style is commonly associated with Film Noir, Neon Art, and Digital Art."
   },
   {
     "Id": "1795",
@@ -4002,6 +4002,26 @@
   {
     "Id": "1800",
     "Title": "Focused",
+    "Description": null
+  },
+  {
+    "Id": "1801",
+    "Title": "Mixed Lighting",
+    "Description": null
+  },
+  {
+    "Id": "1802",
+    "Title": "Tracey Emin",
+    "Description": null
+  },
+  {
+    "Id": "1803",
+    "Title": "Nam June Paik",
+    "Description": null
+  },
+  {
+    "Id": "1804",
+    "Title": "Neon Art",
     "Description": null
   }
 ]
