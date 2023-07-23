@@ -1,28 +1,8 @@
-# GraphHub 
+# GraphHub - Collaborative Knowledge Hub
 
-Collaborative Knowledge Hub
+GraphHub is an interactive UI for building, sharing, and managing knowledge graphs. All graoh data is saved as raw JSON files in this repository. When the graph is updated on GraphHub, the JSON is either updated or a pull request is created (depending on the permissions of the user who made the request). 
 
-Build, share, and manage knowledge graphs without writing a single line of code.
-
----
-
-## Knowledge Organized By
-
-Knowledge Organized By Concepts, Lists, Images, Events, Timelines, Entities, and Fields.
-
----
-
-### Discover
-
-Find knowledge graphs that are free and open source for you to learn, export, or integrate with any tool.
-
-### Contribute
-
-Add your own knowledge to an existing graph by suggesting changes, just like on GitHub.
-
-### Create
-
-Can't find what you need? Simply create your own knowledge graph and expand the community.
+To learn more, visit [GraphHub.Net](https://graphhub.net/)
 
 ---
 
@@ -35,16 +15,6 @@ The Game of Thrones graph includes the expected lists of characters, locations, 
 #### [Text To Image](https://graphhub.net/text-to-image)
 
 The 'text-to-image' graph is a definitive guide for users of tools such as Midjourney, DALLE-2, Stable Diffusion, or similar AIs. This chart presents a mapping of art styles, lighting, colors, moods, and renowned entities, assisting in crafting prompts that yield predictable and consistent results.
-
----
-
-## GraphHub for Business
-
-Streamline and Centralize Your Product Assets
-
-- A solution for housing and managing all the product and business assets, labels, rules, images, decisions, events, entities, and attributes for use throughout your software supply chain.
-- Serves as your central hub for product managers, integrating with your tools and processes to improve automation, increase integrity, and incorporate best practices along the way. Make the answer to the question 'what is this?' or 'why is it like that?' be just one click away.
-- Leveraging GraphHub, product owners now have the capability to administer APIs, versioning, access management, taxonomy & ontology, and detailed change logs utilizing the same reliable & scalable approaches used for code & binaries.
 
 ---
 
@@ -68,8 +38,8 @@ GraphHub is the perfect place to start mapping knowledge in a structured, collab
 
 Hello There! I'm Daniel, the creator of GraphHub. You can follow the development of GraphHub through my product and engineering vlog 'PM-DevLog' on YouTube and LinkedIn. Feel free to connect with me on LinkedIn for any queries, suggestions, or to simply chat about GraphHub!
 
-[Connect on LinkedIn](https://www.linkedin.com/in/daniel-hai/)
-[Watch PM-DevLog on YouTube](https://www.youtube.com/watch?v=JJBO2r0F1Ug)
+- [Connect on LinkedIn](https://www.linkedin.com/in/daniel-hai/)
+- [Watch PM-DevLog on YouTube](https://www.youtube.com/watch?v=JJBO2r0F1Ug)
 
 ---
 
