@@ -385,6 +385,11 @@
     "Description": "A small city on an island in Slaver\u0027s Bay, once part of the Valyrian Freehold."
   },
   {
+    "Id": "481",
+    "Title": "Essos",
+    "Description": "Essos is a vast, eastern continent in the \u0022Game of Thrones\u0022 fictional universe. Bounded by the Narrow Sea to the west, separating it from Westeros, Essos hosts a rich diversity of cultures, peoples, and landscapes. Notable narratives within the series, including those of Daenerys Targaryen and the city-states of the Free Cities, primarily transpire in Essos."
+  },
+  {
     "Id": "41",
     "Title": "Euron Greyjoy",
     "Description": "Euron Greyjoy is a sadistic and unpredictable character in Game of Thrones. He is the uncle of Theon Greyjoy and seeks to claim the Iron Islands for himself. Euron\u0027s brutal nature and his mastery of naval warfare make him a dangerous adversary."
@@ -525,11 +530,6 @@
     "Description": "A massive castle located in the Riverlands, Harrenhal is the largest and most haunted castle in Westeros. It is associated with tragedy and misfortune and has changed hands multiple times throughout history."
   },
   {
-    "Id": "408",
-    "Title": "He\u0027s the prince that was promised, and his is the song of ice and fire",
-    "Description": "A quote by Rhaegar Targaryen in reference to his son, hinting at the prophecy of the prince who was promised."
-  },
-  {
     "Id": "332",
     "Title": "Hear Me Roar!",
     "Description": "This is the official motto of House Lannister, one of the Great Houses of Westeros."
@@ -548,6 +548,11 @@
     "Id": "320",
     "Title": "Here We Stand",
     "Description": "This is the motto of House Mormont, a noble house from the North."
+  },
+  {
+    "Id": "408",
+    "Title": "He\u0027s the prince that was promised, and his is the song of ice and fire",
+    "Description": "A quote by Rhaegar Targaryen in reference to his son, hinting at the prophecy of the prince who was promised."
   },
   {
     "Id": "48",
@@ -680,11 +685,6 @@
     "Description": "A quote by Daenerys Targaryen, expressing her conviction in her birthright and destiny."
   },
   {
-    "Id": "370",
-    "Title": "I\u0027m not a Ser, I\u0027m a Lord",
-    "Description": "A quote from Bronn, expressing his desire for higher status and recognition."
-  },
-  {
     "Id": "413",
     "Title": "If I fall, don\u0027t bring me back",
     "Description": "A quote by Jon Snow to Melisandre, asking not to be resurrected should he die in battle."
@@ -693,6 +693,11 @@
     "Id": "391",
     "Title": "If you think this has a happy ending, you haven\u0027t been paying attention",
     "Description": "A quote from Ramsay Bolton highlighting the often tragic and unexpected outcomes in the game of thrones."
+  },
+  {
+    "Id": "370",
+    "Title": "I\u0027m not a Ser, I\u0027m a Lord",
+    "Description": "A quote from Bronn, expressing his desire for higher status and recognition."
   },
   {
     "Id": "389",
@@ -1150,11 +1155,6 @@
     "Description": "Quicksilver was a dragon ridden by Queen Rhaenyra Targaryen during the Targaryen civil war known as the Dance of the Dragons. Quicksilver was named for his incredible speed."
   },
   {
-    "Id": "102",
-    "Title": "R\u0027hllor, the Lord of Light",
-    "Description": "R\u0027hllor, also known as the Lord of Light, is a religion prominent in Essos. It believes in the struggle between light and darkness, with the Red Priests and Priestesses acting as intermediaries."
-  },
-  {
     "Id": "44",
     "Title": "Ramsay Bolton",
     "Description": "Ramsay Bolton is a sadistic and ruthless character in Game of Thrones. He is the legitimized son of Roose Bolton and becomes the Lord of Winterfell. Ramsay\u0027s penchant for torture and cruelty make him one of the most despised characters in the series."
@@ -1178,6 +1178,11 @@
     "Id": "60",
     "Title": "Rhaegar Targaryen",
     "Description": "Rhaegar Targaryen is a legendary and enigmatic character in Game of Thrones. He is the eldest son of the Mad King Aerys II Targaryen and is known for his beauty, charisma, and skill in combat. Rhaegar\u0027s actions and choices have profound implications for the events of the series."
+  },
+  {
+    "Id": "102",
+    "Title": "R\u0027hllor, the Lord of Light",
+    "Description": "R\u0027hllor, also known as the Lord of Light, is a religion prominent in Essos. It believes in the struggle between light and darkness, with the Red Priests and Priestesses acting as intermediaries."
   },
   {
     "Id": "327",
@@ -1315,14 +1320,14 @@
     "Description": "The ancestral seat of House Dayne, located on an island at the mouth of the Torrentine river in Dorne."
   },
   {
-    "Id": "91",
-    "Title": "Storm\u0027s End",
-    "Description": "The ancestral seat of House Baratheon, Storm\u0027s End is a formidable castle located in the Stormlands. It is known for its strong defenses and its association with the Baratheon dynasty."
-  },
-  {
     "Id": "207",
     "Title": "Stormcloud",
     "Description": "Stormcloud was a dragon ridden by Queen Rhaenyra Targaryen during the Targaryen civil war known as the Dance of the Dragons. He was known for his dark gray scales and fierce temperament."
+  },
+  {
+    "Id": "91",
+    "Title": "Storm\u0027s End",
+    "Description": "The ancestral seat of House Baratheon, Storm\u0027s End is a formidable castle located in the Stormlands. It is known for its strong defenses and its association with the Baratheon dynasty."
   },
   {
     "Id": "283",
@@ -1840,6 +1845,11 @@
     "Description": "A quote by Melisandre, expressing her faith in the Lord of Light\u0027s power to vanquish darkness."
   },
   {
+    "Id": "475",
+    "Title": "The Nightfort",
+    "Description": "The oldest and largest castle on the Wall, now abandoned and filled with legends and ghost stories."
+  },
+  {
     "Id": "143",
     "Title": "The Night\u0027s Watch",
     "Description": "The Night\u0027s Watch is a sworn brotherhood of men who guard the realms of men from the dangers beyond the Wall. They are tasked with defending the Seven Kingdoms from wildlings, White Walkers, and other supernatural threats."
@@ -1848,11 +1858,6 @@
     "Id": "163",
     "Title": "The Night\u0027s Watch",
     "Description": "The Night\u0027s Watch is an ancient order tasked with defending the realms of men from the threats beyond the Wall. Its members, known as the black brothers, serve as protectors of the realm, guarding against wildlings and supernatural dangers."
-  },
-  {
-    "Id": "475",
-    "Title": "The Nightfort",
-    "Description": "The oldest and largest castle on the Wall, now abandoned and filled with legends and ghost stories."
   },
   {
     "Id": "227",
@@ -2400,8 +2405,8 @@
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
   },
   {
-    "Id": "481",
-    "Title": "Essos",
-    "Description": "Essos is a vast, eastern continent in the \u0022Game of Thrones\u0022 fictional universe. Bounded by the Narrow Sea to the west, separating it from Westeros, Essos hosts a rich diversity of cultures, peoples, and landscapes. Notable narratives within the series, including those of Daenerys Targaryen and the city-states of the Free Cities, primarily transpire in Essos."
+    "Id": "482",
+    "Title": "Individual",
+    "Description": "In the context of \u0022Game of Thrones,\u0022 an individual refers to a distinct character with a unique role in the series\u0027 multifaceted narrative. This can range from main protagonists such as Jon Snow or Daenerys Targaryen, to supporting characters like Bronn or Samwell Tarly, and even to less prominent figures such as the servants, soldiers, and minor nobility who populate the world of Westeros and beyond. Each character, regardless of the breadth of their role or the depth of their development, contributes to the overarching story and the dynamics of power, politics, and personal struggle in the show. Their backgrounds, personalities, and actions help to shape the series\u0027 complex and intertwined plotlines."
   }
 ]
