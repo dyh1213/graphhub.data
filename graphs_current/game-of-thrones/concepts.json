@@ -590,6 +590,11 @@
     "Description": "A castle in the Reach, the ancestral seat of House Tarly. It\u0027s surrounded by a large town."
   },
   {
+    "Id": "483",
+    "Title": "House",
+    "Description": "A House in \u0022Game of Thrones\u0022 is a familial or clan-based entity with a unique sigil and motto, often representing a region in Westeros. They range from powerful Great Houses like Stark or Lannister, to smaller houses that pledge fealty to them. These Houses, defined by unique histories, traits, alliances, and rivalries, shape the series\u0027 intricate political landscape and narrative dynamics."
+  },
+  {
     "Id": "10",
     "Title": "House Arryn",
     "Description": "Rulers of the Vale, known for their strong defensive position, nobility, and honor. Sigil is a falcon and moon, motto: \u0022As High As Honor.\u0022"
@@ -2410,8 +2415,8 @@
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
   },
   {
-    "Id": "483",
-    "Title": "House",
-    "Description": "A House in \u0022Game of Thrones\u0022 is a familial or clan-based entity with a unique sigil and motto, often representing a region in Westeros. They range from powerful Great Houses like Stark or Lannister, to smaller houses that pledge fealty to them. These Houses, defined by unique histories, traits, alliances, and rivalries, shape the series\u0027 intricate political landscape and narrative dynamics."
+    "Id": "484",
+    "Title": "Title",
+    "Description": "In Game of Thrones titles and prestigious designations are given to characters, such as Mother of Dragons, King in the North, and Lord Commander, representing their positions, accomplishments, and influence in the realm."
   }
 ]
