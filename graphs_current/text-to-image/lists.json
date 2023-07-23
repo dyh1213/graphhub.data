@@ -9,8 +9,8 @@
   },
   {
     "Id": "2",
-    "Title": "Art Properties",
-    "Description": "A list that contains artisitc concepts like color, lighting, moods and more that can be used as additional information for a prompt.",
+    "Title": "Artistic Elements \u0026 Techniques",
+    "Description": "List of all elements and techniques that offer a structured way to analyze an image. It includes items such as medium which identifies the tool canvas or material used, environment indicates the setting, lighting style illuminates the subject, color defines the palette used, mood captures the emotional tone, while composition refers to how the image elements are arranged. Each of these attributes can help to understand and describe an image\u0027s unique artistic qualities and the intentions behind it.",
     "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
     "PullFromListsIds": [
       "4",
@@ -59,7 +59,7 @@
   {
     "Id": "4",
     "Title": "Art Mediums",
-    "Description": "This can range from conventional mediums like oil, acrylic, watercolor, charcoal, to more contemporary ones like digital, mixed media, or installations.",
+    "Description": "List of artistic mediums used by creators across the world. It spans traditional classics like oil, acrylic, watercolor, and charcoal, alongside contemporary innovations such as digital art, mixed media, and installations. Embrace the diverse array of mediums employed by artists to express their creativity and vision, representing a rich tapestry of human ingenuity in the world of art.",
     "ParentConceptId": null,
     "PullFromListsIds": [],
     "DisableDirectMembers": false
@@ -67,7 +67,7 @@
   {
     "Id": "5",
     "Title": "Environments",
-    "Description": "AThis is a catalogue of different environmental settings within art. This could include forests, cityscapes, seascapes, deserts, or abstract backgrounds, depicting the context and backdrop of the artwork.",
+    "Description": "List of art environments, from urban cityscapes to fantastical realms, post-apocalyptic wastelands to serene nature scenes. Delve into historical eras, futuristic worlds, and underwater wonders, as artists depict captivating backdrops that enrich their artworks with imaginative contexts and emotions. Whether it\u0027s the charm of Victorian elegance or the allure of cybernetic futurism, this collection showcases the boundless creativity of human expression through various captivating landscapes.",
     "ParentConceptId": null,
     "PullFromListsIds": [],
     "DisableDirectMembers": false
@@ -75,7 +75,7 @@
   {
     "Id": "6",
     "Title": "Lighting Styles",
-    "Description": "The lightings list explores different types of illumination used in an artwork. This could be soft morning light, harsh midday light, artificial light, or magical surrealistic light, playing crucial roles in the art\u0027s ambiance and focus.",
+    "Description": "List of the diverse lighting styles that breathe life into artworks. From soft morning light to dramatic chiaroscuro, each style plays a crucial role in setting the ambiance and focus. Explore the enchanting glow of natural, artificial, and ultraviolet lights, as well as vibrant and high-contrast illuminations. Delight in surrealistic and electro-illuminated effects, as artists masterfully wield lighting to evoke emotions and accentuate their artistic creations.",
     "ParentConceptId": null,
     "PullFromListsIds": [],
     "DisableDirectMembers": false
