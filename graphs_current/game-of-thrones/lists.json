@@ -8,14 +8,6 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "2",
-    "Title": "Individuals",
-    "Description": "List of all Game of Throne\u0027s individuals \u0026 characters such as Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Arya Stark. Many of the characters belong to sublists, such as the houses with which they are affiliated. ",
-    "ParentConceptId": "1",
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
     "Id": "3",
     "Title": "Cities",
     "Description": "List of the notable urban centers in the Game of Thrones universe, situated in Westeros and Essos. Key cities in Westeros include King\u0027s Landing, Winterfell, and Dragonstone, while Yunkai, Volantis, and Meereen are prominent in Essos.",
@@ -70,6 +62,14 @@
     "Title": "Houses",
     "Description": "List of the noble families in Game of Thrones, such as Stark, Lannister, and Targaryen, each with their distinct sigils and mottoes.",
     "ParentConceptId": "1",
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "2",
+    "Title": "Individuals",
+    "Description": "List of all Game of Throne\u0027s individuals \u0026 characters such as Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Arya Stark. Many of the characters belong to sublists, such as the houses with which they are affiliated. ",
+    "ParentConceptId": "482",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
