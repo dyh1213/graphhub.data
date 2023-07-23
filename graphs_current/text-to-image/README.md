@@ -1,6 +1,6 @@
 # Text To Image Knowledge Graph
 
-The 'text-to-image' graph is a the definitive guide for users of tools such as Midjourney, DALLE-2, Stable Diffusion, or similar AIs. This chart presents a mapping of art styles, lighting, colors, moods, and renowned entities, assisting in crafting prompts that yield predictable and consistent results. 
+The 'text-to-image' graph is a the definitive guide for users of tools such as Midjourney, DALLE-2, Stable Diffusion, or similar AIs. This chart presents a mapping of art styles, lighting, colors, moods, and renowned entities, assisting in crafting prompts that yield predictable and consistent results. a 
 
 The '[Text To Image](https://graphhub.net/text-to-image)' knowledge graph can be viewed and edited on [GraphHub.net](https://graphhub.net)
 
@@ -56,7 +56,7 @@ License: MIT
    - Description: A collection of entities that have a definitive art style, this could be artists from a spefici field or other entities like tv-shows, games, studios etc.
    - Members: 284
    - Parent Concept: [Art Styles Knowledge Graph](https://graphhub.net/text-to-image/concept/art-styles-knowledge-graph?id=10000000-024a-44e5-8844-998342022971)
-   - Contains Lists: [UnmappedEntities](https://graphhub.net/text-to-image/list/unmappedentities?id=999), [Person](https://graphhub.net/text-to-image/list/person?id=1010), [Game](https://graphhub.net/text-to-image/list/game?id=1016), [Company](https://graphhub.net/text-to-image/list/company?id=1019), [Culture](https://graphhub.net/text-to-image/list/culture?id=1031)
+   - Contains Lists: [UnmappedEntities](https://graphhub.net/text-to-image/list/unmappedentities?id=999), [Person](https://graphhub.net/text-to-image/list/person?id=1010), [Game](https://graphhub.net/text-to-image/list/game?id=1016), [Company](https://graphhub.net/text-to-image/list/company?id=1019), [Culture](https://graphhub.net/text-to-image/list/culture?id=1031), +12 more
 1. [Art Mediums](https://graphhub.net/text-to-image/list/art-mediums?id=4) (list:4)
    - Description: This can range from conventional mediums like [oil](https://graphhub.net/text-to-image/concept/oil?id=1100), acrylic, [watercolor](https://graphhub.net/text-to-image/concept/watercolor?id=1216), charcoal, to more [contemporary](https://graphhub.net/text-to-image/concept/contemporary?id=188) ones like [digital](https://graphhub.net/text-to-image/concept/digital?id=1040), [mixed](https://graphhub.net/text-to-image/concept/mixed?id=1573) media, or installations.
    - Members: 50
@@ -65,7 +65,7 @@ License: MIT
    - Description: A list that contains artisitc concepts like color, lighting, [moods](https://graphhub.net/text-to-image/list/moods?id=8) and more that can be used as additional information for a prompt.
    - Members: 237
    - Parent Concept: [Art Styles Knowledge Graph](https://graphhub.net/text-to-image/concept/art-styles-knowledge-graph?id=10000000-024a-44e5-8844-998342022971)
-   - Contains Lists: [Art Mediums](https://graphhub.net/text-to-image/list/art-mediums?id=4), [Environments](https://graphhub.net/text-to-image/list/environments?id=5), [Lighting Styles](https://graphhub.net/text-to-image/list/lighting-styles?id=6), [Colors](https://graphhub.net/text-to-image/list/colors?id=7), [Moods](https://graphhub.net/text-to-image/list/moods?id=8)
+   - Contains Lists: [Art Mediums](https://graphhub.net/text-to-image/list/art-mediums?id=4), [Environments](https://graphhub.net/text-to-image/list/environments?id=5), [Lighting Styles](https://graphhub.net/text-to-image/list/lighting-styles?id=6), [Colors](https://graphhub.net/text-to-image/list/colors?id=7), [Moods](https://graphhub.net/text-to-image/list/moods?id=8), +1 more
 1. [Art Styles](https://graphhub.net/text-to-image/list/art-styles?id=1) (list:1)
    - Description: A list that contains all [art styles](https://graphhub.net/text-to-image/list/art-styles?id=1) pulled from other lists related to specific domains like [Painting](https://graphhub.net/text-to-image/concept/painting?id=1011), Architercture, [Graphic](https://graphhub.net/text-to-image/concept/graphic?id=1704) [Design](https://graphhub.net/text-to-image/concept/design?id=1315) etc.
    - Members: 264
@@ -304,7 +304,7 @@ License: MIT
    - Description: 
    - Members: 156
    - Parent Concept: [TBD](https://graphhub.net/text-to-image/concept/tbd?id=10000000-0000-0000-0000-000000000000)
-   - Contains Lists: [Street Artist](https://graphhub.net/text-to-image/list/street-artist?id=1011), [Painter](https://graphhub.net/text-to-image/list/painter?id=1012), [Comic Artist](https://graphhub.net/text-to-image/list/comic-artist?id=1013), [Illustrator](https://graphhub.net/text-to-image/list/illustrator?id=1014), [Digital Artist](https://graphhub.net/text-to-image/list/digital-artist?id=1015)
+   - Contains Lists: [Street Artist](https://graphhub.net/text-to-image/list/street-artist?id=1011), [Painter](https://graphhub.net/text-to-image/list/painter?id=1012), [Comic Artist](https://graphhub.net/text-to-image/list/comic-artist?id=1013), [Illustrator](https://graphhub.net/text-to-image/list/illustrator?id=1014), [Digital Artist](https://graphhub.net/text-to-image/list/digital-artist?id=1015), +25 more
    - Part of Lists: [Art Entities](https://graphhub.net/text-to-image/list/art-entities?id=3)
 1. [Photographer](https://graphhub.net/text-to-image/list/photographer?id=1021) (list:1021)
    - Description: 
@@ -2486,7 +2486,7 @@ License: MIT
    - Member of Lists: [Art Styles](https://graphhub.net/text-to-image/list/art-styles?id=1)
 1. [TBD](https://graphhub.net/text-to-image/concept/tbd?id=10000000-0000-0000-0000-000000000000) (concept:10000000-0000-0000-0000-000000000000)
    - Description: 
-   - Owner of Lists: [Animation](https://graphhub.net/text-to-image/list/animation?id=1048), [Animation Studio](https://graphhub.net/text-to-image/list/animation-studio?id=1046), [Animator](https://graphhub.net/text-to-image/list/animator?id=1043), [Anime](https://graphhub.net/text-to-image/list/anime?id=1033), [Anime Genre](https://graphhub.net/text-to-image/list/anime-genre?id=1066)
+   - Owner of Lists: [Animation](https://graphhub.net/text-to-image/list/animation?id=1048), [Animation Studio](https://graphhub.net/text-to-image/list/animation-studio?id=1046), [Animator](https://graphhub.net/text-to-image/list/animator?id=1043), [Anime](https://graphhub.net/text-to-image/list/anime?id=1033), [Anime Genre](https://graphhub.net/text-to-image/list/anime-genre?id=1066), +60 more
 1. [Technical Drawing](https://graphhub.net/text-to-image/concept/technical-drawing?id=1252) (concept:1252)
    - Description: 
    - Member of Lists: [Art Styles](https://graphhub.net/text-to-image/list/art-styles?id=1)
