@@ -4,7 +4,7 @@
   "GraphUrlName": "text-to-image",
   "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/text-to-image",
   "RootConcept": "10000000-024a-44e5-8844-998342022971",
-  "Description": "The \u0027text-to-image\u0027 graph is a the definitive guide for users of tools such as Midjourney, DALLE-2, Stable Diffusion, or similar AIs. This chart presents a mapping of art styles, lighting, colors, moods, and renowned entities, assisting in crafting prompts that yield predictable and consistent results. a",
+  "Description": "The \u0027text-to-image\u0027 graph is a the definitive guide for users of tools such as Midjourney, DALLE-2, Stable Diffusion, or similar AIs. This chart presents a mapping of art styles, lighting, colors, moods, and renowned entities, assisting in crafting prompts that yield predictable and consistent results.",
   "FeaturedLists": [
     "4",
     "5",
