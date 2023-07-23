@@ -395,6 +395,11 @@
     "Description": "Euron Greyjoy is a sadistic and unpredictable character in Game of Thrones. He is the uncle of Theon Greyjoy and seeks to claim the Iron Islands for himself. Euron\u0027s brutal nature and his mastery of naval warfare make him a dangerous adversary."
   },
   {
+    "Id": "485",
+    "Title": "Event",
+    "Description": "In the context of Game of Thrones, an event referred to a significant occurrence that has shaped the narrative of the series. This could be a major battle like the Battle of Blackwater and the Battle of Winterfell, a pivotal siege such as the Siege of Meereen and the Siege of Riverrun, and political intrigue like the Red Wedding and the Trial by Combat. Other categories involve the emergence of dragons, the death of key characters like Ned Stark, and important historical periods like Robert\u0027s Rebellion and Aegon\u0027s Conquest. These events are pivotal moments that influence the power struggles, alliances, and conflicts in the world of Westeros."
+  },
+  {
     "Id": "379",
     "Title": "Every flight begins with a fall",
     "Description": "A quote from the Three-eyed Raven to Bran Stark, explaining the path to learning and growth."
@@ -2418,10 +2423,5 @@
     "Id": "96",
     "Title": "Yunkai",
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery."
-  },
-  {
-    "Id": "485",
-    "Title": "Event",
-    "Description": "In the context of Game of Thrones, events refer to significant occurrences that have shaped the narrative of the series. These include major battles like the Battle of Blackwater and the Battle of Winterfell, pivotal sieges such as the Siege of Meereen and the Siege of Riverrun, and political intrigues like the Red Wedding and the Trial by Combat. Other events involve the emergence of dragons, the death of key characters like Ned Stark, and important historical periods like Robert\u0027s Rebellion and Aegon\u0027s Conquest. These events are pivotal moments that influence the power struggles, alliances, and conflicts in the world of Westeros."
   }
 ]
