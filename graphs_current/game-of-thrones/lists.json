@@ -9,8 +9,8 @@
   },
   {
     "Id": "2",
-    "Title": "Characters",
-    "Description": "List of all Game of Throne\u0027s characters such as Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Arya Stark. Many of the characters belong to sublists, such as the houses with which they are affiliated. ",
+    "Title": "Individuals",
+    "Description": "List of all Game of Throne\u0027s individuals \u0026 characters such as Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Arya Stark. Many of the characters belong to sublists, such as the houses with which they are affiliated. ",
     "ParentConceptId": "1",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
