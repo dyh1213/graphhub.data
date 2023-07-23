@@ -35,7 +35,7 @@
     "Id": "5",
     "Title": "Events",
     "Description": "List of the most significant events in Game of Thrones like the Red Wedding, Battle of the Bastards, and the Battle of Blackwater, which shape the course of the story, influencing alliances, allegiances, and character development.",
-    "ParentConceptId": "1",
+    "ParentConceptId": "485",
     "PullFromListsIds": [
       "11"
     ],
