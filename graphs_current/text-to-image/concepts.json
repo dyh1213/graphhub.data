@@ -20,14 +20,14 @@
     "Description": null
   },
   {
-    "Id": "1004",
+    "Id": "327",
     "Title": "Sculpture",
-    "Description": null
+    "Description": "Sculpture is a three-dimensional art form. Styles range from Classical to Abstract, with renowned artists such as Michelangelo, Rodin, and Moore."
   },
   {
-    "Id": "1005",
+    "Id": "317",
     "Title": "Found Objects",
-    "Description": null
+    "Description": "Found Objects is an artistic style where objects not typically considered art are used in a piece. It\u0027s often seen in Dada, Surrealism, and Pop Art. The medium is typically sculpture, with artists like Marcel Duchamp leading the way."
   },
   {
     "Id": "1006",
@@ -55,9 +55,9 @@
     "Description": null
   },
   {
-    "Id": "1011",
+    "Id": "318",
     "Title": "Painting",
-    "Description": null
+    "Description": "Painting is a widely recognized art form, with a variety of styles from Impressionism to Cubism. It uses the medium of paint, and renowned artists include Vincent Van Gogh and Pablo Picasso."
   },
   {
     "Id": "279",
@@ -110,9 +110,9 @@
     "Description": null
   },
   {
-    "Id": "1022",
+    "Id": "319",
     "Title": "Illustration",
-    "Description": null
+    "Description": "Illustration is a visual interpretation used to convey information or messages. Styles vary from cartoons to fantasy, with the medium often being drawing. Notable illustrators include Maurice Sendak and Quentin Blake."
   },
   {
     "Id": "288",
@@ -140,9 +140,9 @@
     "Description": null
   },
   {
-    "Id": "1028",
+    "Id": "320",
     "Title": "Text",
-    "Description": null
+    "Description": "Text in art can be a medium in itself, used in styles like Conceptual Art and Typography. Artists like Barbara Kruger and Jenny Holzer have effectively used text to convey powerful messages."
   },
   {
     "Id": "1029",
@@ -200,9 +200,9 @@
     "Description": "AssasinMonkey, an internet pseudonym, is recognized for digital art, often depicting fantastical and vibrant scenes. The artist\u0027s compositions are generally figurative, showcasing characters and creatures in dynamic scenarios. Artists like Noah Bradley and Dan Dos Santos work in a similar vein."
   },
   {
-    "Id": "1040",
+    "Id": "321",
     "Title": "Digital",
-    "Description": null
+    "Description": "Digital art is a modern medium style encompassing a variety of styles such as Digital Painting, Vector Art, and 3D Modeling. Artists like David Revoy and Wei Wei have pioneered in this field."
   },
   {
     "Id": "1041",
@@ -260,9 +260,9 @@
     "Description": null
   },
   {
-    "Id": "1052",
+    "Id": "322",
     "Title": "Mixed Media",
-    "Description": null
+    "Description": "Mixed Media is an art style where artists use more than one medium in a single piece. Styles include Collage and Assemblage, with artists like Robert Rauschenberg and Joseph Cornell known for their work in this style."
   },
   {
     "Id": "11",
@@ -310,9 +310,9 @@
     "Description": null
   },
   {
-    "Id": "1062",
+    "Id": "323",
     "Title": "Photography",
-    "Description": null
+    "Description": "Photography is a diverse medium style capturing a wide range of artistic styles such as Photojournalism and Landscape Photography. Influential photographers include Ansel Adams and Dorothea Lange."
   },
   {
     "Id": "1063",
@@ -450,9 +450,9 @@
     "Description": null
   },
   {
-    "Id": "1090",
+    "Id": "324",
     "Title": "Ink",
-    "Description": null
+    "Description": "Ink is a medium style associated with forms like Calligraphy and Sumi-e, where ink is the primary tool. Notable artists include Yoko Takenaka and Aubrey Beardsley."
   },
   {
     "Id": "1091",
@@ -485,9 +485,9 @@
     "Description": null
   },
   {
-    "Id": "1097",
+    "Id": "325",
     "Title": "Textile",
-    "Description": null
+    "Description": "Textile as an art medium encompasses styles like Weaving and Embroidery. Artists such as Faith Ringgold and Sheila Hicks have significantly contributed to this medium."
   },
   {
     "Id": "1098",
@@ -500,9 +500,9 @@
     "Description": "Audrey Kawasaki is a Los Angeles-based painter known for her distinct style that blends elements of manga and Art Nouveau. Her work, rendered in oil, often features pastel colors, mysterious moods, and figurative compositions set in fantastical environments. Artists James Jean and Yoshitaka Amano have similar styles."
   },
   {
-    "Id": "1100",
+    "Id": "326",
     "Title": "Oil",
-    "Description": null
+    "Description": "Oil painting is a traditional medium style associated with various art movements like Baroque and Impressionism. Famous oil painters include Rembrandt, Monet, and Van Gogh."
   },
   {
     "Id": "292",
@@ -660,9 +660,9 @@
     "Description": null
   },
   {
-    "Id": "1132",
+    "Id": "328",
     "Title": "Architecture",
-    "Description": null
+    "Description": "Architecture is an artistic and technical discipline, with styles from Modernist to Art Deco. Prominent architects include Frank Lloyd Wright, Zaha Hadid, and Le Corbusier."
   },
   {
     "Id": "29",
@@ -685,9 +685,9 @@
     "Description": "Black Lagoon is a renowned anime and manga series created by Rei Hiroe. The style of Black Lagoon is known for its vivid color schemes, action-filled moods, and dynamic compositions set in urban environments, rendered mainly through animation."
   },
   {
-    "Id": "1137",
+    "Id": "329",
     "Title": "Animation",
-    "Description": null
+    "Description": "Animation is a dynamic medium style that brings art to life. Styles range from 2D Animation to Stop Motion, with pioneers like Hayao Miyazaki and Walt Disney."
   },
   {
     "Id": "1138",
@@ -715,9 +715,9 @@
     "Description": null
   },
   {
-    "Id": "1143",
+    "Id": "330",
     "Title": "Chalk",
-    "Description": null
+    "Description": "Chalk is a versatile medium style utilized in various formats from Street Art to Chalk Pastel. Artists such as Julian Beever and Edgar Degas have produced notable work in this medium."
   },
   {
     "Id": "1144",
@@ -810,9 +810,9 @@
     "Description": null
   },
   {
-    "Id": "1162",
+    "Id": "331",
     "Title": "Drawing",
-    "Description": null
+    "Description": "Drawing is a fundamental medium style with diverse styles from Realism to Abstract. Artists like Albrecht D\u00FCrer and Leonardo da Vinci have mastered this art form."
   },
   {
     "Id": "37",
@@ -845,9 +845,9 @@
     "Description": null
   },
   {
-    "Id": "1169",
+    "Id": "332",
     "Title": "Video",
-    "Description": null
+    "Description": "Video is a modern medium style encompassing styles such as Video Art and Experimental Film. Artists like Nam June Paik and Marina Abramovic have contributed significantly to this medium."
   },
   {
     "Id": "1170",
@@ -920,9 +920,9 @@
     "Description": null
   },
   {
-    "Id": "1184",
+    "Id": "333",
     "Title": "Digital Painting",
-    "Description": null
+    "Description": "Digital Painting is a style that replicates traditional painting techniques in a digital format. Styles range from Concept Art to Digital Realism, with artists such as Craig Mullins and Aaron Blaise making significant contributions."
   },
   {
     "Id": "1185",
@@ -1015,9 +1015,9 @@
     "Description": null
   },
   {
-    "Id": "1203",
+    "Id": "334",
     "Title": "Stone Lithography",
-    "Description": null
+    "Description": "Stone Lithography is a printmaking medium style that involves etching on a smooth stone. It\u0027s been used by artists like Honor\u00E9 Daumier and Francisco Goya."
   },
   {
     "Id": "297",
@@ -1060,9 +1060,9 @@
     "Description": null
   },
   {
-    "Id": "1212",
+    "Id": "335",
     "Title": "Ceramics",
-    "Description": null
+    "Description": "Ceramics is a medium style, often associated with pottery and sculpture. Artists such as Peter Voulkos and Lucie Rie have significantly contributed to ceramic art."
   },
   {
     "Id": "299",
@@ -1080,9 +1080,9 @@
     "Description": "Cicely Mary Barker was an illustrator known for her fantastical, nature-based watercolor illustrations featuring vibrant colors and figurative compositions."
   },
   {
-    "Id": "1216",
+    "Id": "336",
     "Title": "Watercolor",
-    "Description": null
+    "Description": "Watercolor is a medium style, known for its light and fluid aesthetic. Styles range from Landscape to Abstract, with artists such as J.M.W. Turner and Winslow Homer using it extensively."
   },
   {
     "Id": "1217",
@@ -1195,9 +1195,9 @@
     "Description": null
   },
   {
-    "Id": "1239",
+    "Id": "337",
     "Title": "Clothing",
-    "Description": null
+    "Description": "Clothing as an art form explores styles such as Fashion Design and Costume Design. Notable designers in this medium include Coco Chanel and Alexander McQueen."
   },
   {
     "Id": "302",
@@ -1225,9 +1225,9 @@
     "Description": null
   },
   {
-    "Id": "1245",
+    "Id": "338",
     "Title": "Encaustic Paint",
-    "Description": null
+    "Description": "Encaustic Paint involves using heated beeswax and has been used in styles such as Abstract Expressionism. Artists like Jasper Johns and Diego Rivera have experimented with this medium."
   },
   {
     "Id": "60",
@@ -1245,9 +1245,9 @@
     "Description": null
   },
   {
-    "Id": "1249",
+    "Id": "339",
     "Title": "Print",
-    "Description": null
+    "Description": "Print is a medium style involving the transfer of images from one surface to another. Styles include Silkscreen, Etching, and Lithography, with artists like D\u00FCrer, Hokusai, and Warhol contributing significantly."
   },
   {
     "Id": "1250",
@@ -4362,6 +4362,296 @@
   {
     "Id": "1872",
     "Title": "Indigo and Cool Tones",
+    "Description": null
+  },
+  {
+    "Id": "1873",
+    "Title": "Marcel Duchamp",
+    "Description": null
+  },
+  {
+    "Id": "1874",
+    "Title": "Robert Rauschenberg",
+    "Description": null
+  },
+  {
+    "Id": "1875",
+    "Title": "Dada",
+    "Description": null
+  },
+  {
+    "Id": "1876",
+    "Title": "Maurice Sendak",
+    "Description": null
+  },
+  {
+    "Id": "1877",
+    "Title": "Quentin Blake",
+    "Description": null
+  },
+  {
+    "Id": "1878",
+    "Title": "Beatrix Potter",
+    "Description": null
+  },
+  {
+    "Id": "1879",
+    "Title": "Children\u0027s Book",
+    "Description": null
+  },
+  {
+    "Id": "1880",
+    "Title": "Barbara Kruger",
+    "Description": null
+  },
+  {
+    "Id": "1881",
+    "Title": "Jenny Holzer",
+    "Description": null
+  },
+  {
+    "Id": "1882",
+    "Title": "David Revoy",
+    "Description": null
+  },
+  {
+    "Id": "1883",
+    "Title": "Wei Wei",
+    "Description": null
+  },
+  {
+    "Id": "1884",
+    "Title": "Vector Art",
+    "Description": null
+  },
+  {
+    "Id": "1885",
+    "Title": "3D Modeling",
+    "Description": null
+  },
+  {
+    "Id": "1886",
+    "Title": "Richard Avedon",
+    "Description": null
+  },
+  {
+    "Id": "1887",
+    "Title": "Dorothea Lange",
+    "Description": null
+  },
+  {
+    "Id": "1888",
+    "Title": "Portrait Photography",
+    "Description": null
+  },
+  {
+    "Id": "1889",
+    "Title": "Still Life Photography",
+    "Description": null
+  },
+  {
+    "Id": "1890",
+    "Title": "Yoko Takenaka",
+    "Description": null
+  },
+  {
+    "Id": "1891",
+    "Title": "Sumi-e",
+    "Description": null
+  },
+  {
+    "Id": "1892",
+    "Title": "Line Art",
+    "Description": null
+  },
+  {
+    "Id": "1893",
+    "Title": "Faith Ringgold",
+    "Description": null
+  },
+  {
+    "Id": "1894",
+    "Title": "Weaving",
+    "Description": null
+  },
+  {
+    "Id": "1895",
+    "Title": "Embroidery",
+    "Description": null
+  },
+  {
+    "Id": "1896",
+    "Title": "Auguste Rodin",
+    "Description": null
+  },
+  {
+    "Id": "1897",
+    "Title": "Henry Moore",
+    "Description": null
+  },
+  {
+    "Id": "1898",
+    "Title": "Kinetic",
+    "Description": null
+  },
+  {
+    "Id": "1899",
+    "Title": "Zaha Hadid",
+    "Description": null
+  },
+  {
+    "Id": "1900",
+    "Title": "Le Corbusier",
+    "Description": null
+  },
+  {
+    "Id": "1901",
+    "Title": "Modernist",
+    "Description": null
+  },
+  {
+    "Id": "1902",
+    "Title": "Postmodern",
+    "Description": null
+  },
+  {
+    "Id": "1903",
+    "Title": "Hayao Miyazaki",
+    "Description": null
+  },
+  {
+    "Id": "1904",
+    "Title": "Walt Disney",
+    "Description": null
+  },
+  {
+    "Id": "1905",
+    "Title": "2D Animation",
+    "Description": null
+  },
+  {
+    "Id": "1906",
+    "Title": "3D Animation",
+    "Description": null
+  },
+  {
+    "Id": "1907",
+    "Title": "Stop Motion",
+    "Description": null
+  },
+  {
+    "Id": "1908",
+    "Title": "Julian Beever",
+    "Description": null
+  },
+  {
+    "Id": "1909",
+    "Title": "Chalk Pastel",
+    "Description": null
+  },
+  {
+    "Id": "1910",
+    "Title": "Katsushika Hokusai",
+    "Description": null
+  },
+  {
+    "Id": "1911",
+    "Title": "Marina Abramovic",
+    "Description": null
+  },
+  {
+    "Id": "1912",
+    "Title": "Experimental Film",
+    "Description": null
+  },
+  {
+    "Id": "1913",
+    "Title": "Craig Mullins",
+    "Description": null
+  },
+  {
+    "Id": "1914",
+    "Title": "Aaron Blaise",
+    "Description": null
+  },
+  {
+    "Id": "1915",
+    "Title": "Pixel Art",
+    "Description": null
+  },
+  {
+    "Id": "1916",
+    "Title": "Digital Realism",
+    "Description": null
+  },
+  {
+    "Id": "1917",
+    "Title": "Honor\u00E9 Daumier",
+    "Description": null
+  },
+  {
+    "Id": "1918",
+    "Title": "Francisco Goya",
+    "Description": null
+  },
+  {
+    "Id": "1919",
+    "Title": "Peter Voulkos",
+    "Description": null
+  },
+  {
+    "Id": "1920",
+    "Title": "Lucie Rie",
+    "Description": null
+  },
+  {
+    "Id": "1921",
+    "Title": "Pottery",
+    "Description": null
+  },
+  {
+    "Id": "1922",
+    "Title": "J.M.W. Turner",
+    "Description": null
+  },
+  {
+    "Id": "1923",
+    "Title": "Georgia O\u2019Keeffe",
+    "Description": null
+  },
+  {
+    "Id": "1924",
+    "Title": "Coco Chanel",
+    "Description": null
+  },
+  {
+    "Id": "1925",
+    "Title": "Alexander McQueen",
+    "Description": null
+  },
+  {
+    "Id": "1926",
+    "Title": "Costume Design",
+    "Description": null
+  },
+  {
+    "Id": "1927",
+    "Title": "Diego Rivera",
+    "Description": null
+  },
+  {
+    "Id": "1928",
+    "Title": "Silkscreen",
+    "Description": null
+  },
+  {
+    "Id": "1929",
+    "Title": "Etching",
+    "Description": null
+  },
+  {
+    "Id": "1930",
+    "Title": "Lithography",
     "Description": null
   }
 ]
