@@ -85,9 +85,9 @@
     "Description": null
   },
   {
-    "Id": "1017",
+    "Id": "287",
     "Title": "Subdued",
-    "Description": null
+    "Description": "The subdued color style refers to a visual approach that relies on darker, muted colors and minimal contrast. This style can often be found in realism and impressionism, creating a serene, balanced mood. Notable artists include Edward Hopper and Winslow Homer."
   },
   {
     "Id": "1018",
@@ -115,9 +115,9 @@
     "Description": null
   },
   {
-    "Id": "1023",
+    "Id": "288",
     "Title": "Vivid",
-    "Description": null
+    "Description": "The vivid color style is characterized by vibrant, high-contrast colors. Often used in Pop Art, Expressionism, and Fauvism, this style evokes an energetic mood and tends to utilize dynamic compositions. Prominent artists include Andy Warhol and Henri Matisse."
   },
   {
     "Id": "1024",
@@ -185,14 +185,14 @@
     "Description": null
   },
   {
-    "Id": "1037",
+    "Id": "289",
     "Title": "Muted",
-    "Description": null
+    "Description": "The muted color style refers to the use of low saturation colors, often seen in minimalism, impressionism, and abstract art. This style, usually set in outdoor environments with soft lighting, induces a calm mood and is represented by artists like JMW Turner and Claude Monet."
   },
   {
-    "Id": "1038",
+    "Id": "291",
     "Title": "Dark",
-    "Description": null
+    "Description": "The dark color style employs dark hues and is often associated with gothic and baroque art as well as film noir. Typically set in low-light indoor environments, it evokes a gloomy mood through its dramatic compositions. Caravaggio and Rembrandt are key artists in this style."
   },
   {
     "Id": "8",
@@ -280,9 +280,9 @@
     "Description": null
   },
   {
-    "Id": "1056",
+    "Id": "290",
     "Title": "Monochrome",
-    "Description": null
+    "Description": "Monochrome color style is a visual approach using a single hue, often seen in photography and minimalist art. The style places a strong emphasis on lines and shapes, with the mood largely dependent on the subject. Notable artists include Cindy Sherman and Ansel Adams."
   },
   {
     "Id": "1057",
@@ -505,9 +505,9 @@
     "Description": null
   },
   {
-    "Id": "1101",
+    "Id": "292",
     "Title": "Pastel",
-    "Description": null
+    "Description": "The pastel color style is characterized by the use of soft and light colors, often seen in Impressionism, Post-Impressionism, and contemporary art. It typically creates a peaceful mood, with a loose and fluid composition. Notable artists include Edgar Degas and Mary Cassatt."
   },
   {
     "Id": "1102",
@@ -530,9 +530,9 @@
     "Description": "Orphism, also known as Orphic Cubism, was an art movement in the early 20th century that focused on pure abstraction and bright colors. Orphism aimed to convey meaning through color and abstract form, often with a musical or lyrical quality."
   },
   {
-    "Id": "1106",
+    "Id": "293",
     "Title": "Bright",
-    "Description": null
+    "Description": "The bright color style is associated with high saturation colors, typically found in Pop Art, Abstract Expressionism, and Fauvism. It\u0027s characterized by a joyful mood, dynamic composition, and can be set in both indoor and outdoor environments. Prominent artists include Roy Lichtenstein and Piet Mondrian."
   },
   {
     "Id": "1107",
@@ -550,14 +550,14 @@
     "Description": null
   },
   {
-    "Id": "1110",
+    "Id": "309",
     "Title": "Neutral",
-    "Description": null
+    "Description": "The Neutral color style utilizes neutral colors, common in Minimalism and Realism. Typically set in indoor environments with soft lighting, it creates a calm mood through simplistic compositions. Notable artists include Agnes Martin and Edward Hopper."
   },
   {
-    "Id": "1111",
+    "Id": "295",
     "Title": "Realistic",
-    "Description": null
+    "Description": "The realistic color style is characterized by the use of naturalistic colors, closely aligned with Realism and Photorealism. Typically employing natural light and detailed, precise composition, this style exudes a neutral mood. Artists Jean-Baptiste Greuze and Gustave Courbet are associated with this style."
   },
   {
     "Id": "23",
@@ -760,9 +760,9 @@
     "Description": "Ultraviolet style art refers to works created with vibrant colors that are fluorescent under electro-illuminated light, often exploring mysterious or other-worldly themes. Such art is associated with surrealism and psychedelic art."
   },
   {
-    "Id": "1152",
+    "Id": "294",
     "Title": "Fluorescent",
-    "Description": null
+    "Description": "Fluorescent color style involves the use of bright, glowing colors, common in Pop Art, Neon Art, and Digital Art. This style, usually presented in indoor environments under artificial light, creates an exciting mood with bold and geometric compositions. Artists such as Keith Haring and Dan Flavin are associated with this style."
   },
   {
     "Id": "1153",
@@ -990,9 +990,9 @@
     "Description": null
   },
   {
-    "Id": "1198",
+    "Id": "296",
     "Title": "Monochromatic",
-    "Description": null
+    "Description": "Monochromatic color style refers to the use of one color with varying tones, as seen in Minimalism and Abstract Art. The style, which places an emphasis on form and texture, elicits a mood that is dependent on the chosen color. Yves Klein and Ad Reinhardt are key artists of this style."
   },
   {
     "Id": "1199",
@@ -1020,9 +1020,9 @@
     "Description": null
   },
   {
-    "Id": "1204",
+    "Id": "297",
     "Title": "Multi-color",
-    "Description": null
+    "Description": "The multi-color style uses multiple vibrant colors, often seen in Pop Art, Fauvism, and Abstract Expressionism. This style, which can be set in both indoor and outdoor environments with bright lighting, creates an energetic mood through dynamic compositions. Notable artists include Piet Mondrian and Wassily Kandinsky."
   },
   {
     "Id": "1205",
@@ -1040,9 +1040,9 @@
     "Description": null
   },
   {
-    "Id": "1208",
+    "Id": "298",
     "Title": "Full Spectrum",
-    "Description": null
+    "Description": "Full Spectrum color style involves the use of all hues of the color spectrum, commonly seen in Color Field painting and Abstract Art. This style, usually set in indoor environments with bright lighting, induces a joyful mood and expansive composition. Prominent artists include Mark Rothko and Barnett Newman."
   },
   {
     "Id": "1209",
@@ -1065,9 +1065,9 @@
     "Description": null
   },
   {
-    "Id": "1213",
+    "Id": "299",
     "Title": "Blue and White",
-    "Description": null
+    "Description": "Blue and White color style is defined by the use of blue and white colors, predominantly seen in porcelain art and Cubism. Typically displayed in indoor environments with soft lighting, this style creates a serene mood through detailed and precise compositions. Notable artists include Pablo Picasso and Josiah Wedgwood."
   },
   {
     "Id": "1214",
@@ -1150,9 +1150,9 @@
     "Description": null
   },
   {
-    "Id": "1230",
+    "Id": "300",
     "Title": "Period-specific",
-    "Description": null
+    "Description": "Period-specific color style refers to color styles that are characteristic of certain historical art periods, such as the Renaissance, Baroque, or Romanticism. The color, mood, and composition vary according to the specific period. Notable artists include Leonardo da Vinci and Caravaggio."
   },
   {
     "Id": "1231",
@@ -1170,9 +1170,9 @@
     "Description": null
   },
   {
-    "Id": "1234",
+    "Id": "301",
     "Title": "Saturated",
-    "Description": null
+    "Description": "Saturated color style is marked by the use of highly saturated colors, often found in Pop Art, Abstract Expressionism, and Fauvism. This style, set in both indoor and outdoor environments under bright light, conveys an energetic mood through dynamic compositions. Prominent artists include Andy Warhol and Henri Matisse."
   },
   {
     "Id": "1235",
@@ -1200,9 +1200,9 @@
     "Description": null
   },
   {
-    "Id": "1240",
+    "Id": "302",
     "Title": "Black and Bright Colors",
-    "Description": null
+    "Description": "The Black and Bright Colors style employs black as a base color with bright colors for contrast, often used in Pop Art, Street Art, and Abstract Art. It\u0027s typically set in urban environments, creating an energetic mood with bold, striking compositions. Notable artists include Keith Haring and Jean-Michel Basquiat."
   },
   {
     "Id": "1241",
@@ -1320,9 +1320,9 @@
     "Description": null
   },
   {
-    "Id": "1264",
+    "Id": "303",
     "Title": "Full Color",
-    "Description": null
+    "Description": "The Full Color style is characterized by a wide range of colors, often seen in Impressionism, Post-Impressionism, and Fauvism. It\u0027s typically set in both indoor and outdoor environments under natural light, creating a joyful mood with loose, fluid compositions. Artists such as Claude Monet and Vincent van Gogh are associated with this style."
   },
   {
     "Id": "1265",
@@ -1435,9 +1435,9 @@
     "Description": null
   },
   {
-    "Id": "1287",
+    "Id": "304",
     "Title": "Bold",
-    "Description": null
+    "Description": "Bold color style involves the use of vivid, high contrast colors, often found in Pop Art, Abstract Expressionism, and Fauvism. This style, typically set in both indoor and outdoor environments under bright light, creates a provocative mood with dynamic compositions. Artists like Andy Warhol and Mark Rothko are key figures of this style."
   },
   {
     "Id": "72",
@@ -2105,9 +2105,9 @@
     "Description": null
   },
   {
-    "Id": "1421",
+    "Id": "305",
     "Title": "Redscale",
-    "Description": null
+    "Description": "The Redscale color style, common in photography and film, is marked by the use of red and warm tones. This style, set in both indoor and outdoor environments under natural light, evokes a melancholic mood, with compositions focused on light and shadow. Prominent photographers include Steve McCurry and Nan Goldin."
   },
   {
     "Id": "142",
@@ -2255,9 +2255,9 @@
     "Description": null
   },
   {
-    "Id": "1451",
+    "Id": "306",
     "Title": "Retro Tones",
-    "Description": null
+    "Description": "The Retro Tones color style uses desaturated, vintage colors, often found in photography and Pop Art. Typically set in urban environments under soft lighting, this style conveys a nostalgic mood, with a composition focus on form and texture. Notable artists include David Hockney and William Eggleston."
   },
   {
     "Id": "1452",
@@ -2295,9 +2295,9 @@
     "Description": "Reylia Slaby is a conceptual photographer known for her poignant and melancholic images. Her style often uses muted tones to evoke a certain mood, with a focus on storytelling and exploration of personal themes."
   },
   {
-    "Id": "1459",
+    "Id": "307",
     "Title": "Muted Tones",
-    "Description": null
+    "Description": "The Muted Tones color style involves the use of muted, low saturation colors, often seen in Impressionism and Realism. This style, set in both indoor and outdoor environments with soft lighting, conveys a calm mood through balanced compositions. Artists such as Claude Monet and Edward Hopper are associated with this style."
   },
   {
     "Id": "161",
@@ -2505,9 +2505,9 @@
     "Description": "Yayoi Kusama is a renowned Japanese contemporary artist recognized for her distinctive style that blends pop art and minimalism. She is known for her use of polychromatic color and repetitive composition, typically featuring polka dots."
   },
   {
-    "Id": "1501",
+    "Id": "308",
     "Title": "Polychromatic",
-    "Description": null
+    "Description": "Polychromatic color style is characterized by the use of multiple vibrant colors, often found in Fauvism, Abstract Expressionism, and Pop Art. This style, set in both indoor and outdoor environments under bright light, creates an energetic mood through dynamic compositions. Key artists include Henri Matisse and Wassily Kandinsky."
   },
   {
     "Id": "174",
@@ -2610,9 +2610,9 @@
     "Description": null
   },
   {
-    "Id": "1522",
+    "Id": "310",
     "Title": "Gold",
-    "Description": null
+    "Description": "The Gold color style is defined by the use of gold and rich colors, predominantly seen in Byzantine Art and Rococo. Set in indoor environments with soft, reflective light, this style imparts a luxurious mood through detailed compositions. Artists such as Gustav Klimt and Jan Van Eyck are associated with this style."
   },
   {
     "Id": "181",
@@ -2825,9 +2825,9 @@
     "Description": null
   },
   {
-    "Id": "1565",
+    "Id": "313",
     "Title": "Contrasting",
-    "Description": null
+    "Description": "The Contrasting color style involves the use of high contrast colors, often found in Abstract Art and Pop Art. This style, typically set in both indoor and outdoor environments under bright light, creates a dynamic mood with bold, striking compositions. Artists such as Piet Mondrian and Andy Warhol are key figures of this style."
   },
   {
     "Id": "191",
@@ -2865,9 +2865,9 @@
     "Description": "Adrian Ghenie is known for his contemporary and expressionistic painting style. His works often incorporate a mixed color palette and figurative composition. His style is sometimes compared to Francis Bacon and Gerhard Richter."
   },
   {
-    "Id": "1573",
+    "Id": "311",
     "Title": "Mixed",
-    "Description": null
+    "Description": "The Mixed color style involves a combination of different colors, often seen in Abstract Art and Mixed Media. This style, set in both indoor and outdoor environments with varied lighting, offers diverse compositions and moods. Notable artists include Pablo Picasso and Jean-Michel Basquiat."
   },
   {
     "Id": "194",
@@ -2950,9 +2950,9 @@
     "Description": "Affandi, an Expressionist painter, is known for his emotional mood, warm color scheme, and impasto composition. His style is somewhat akin to Abdurrahman Chughtai."
   },
   {
-    "Id": "1590",
+    "Id": "312",
     "Title": "Warm",
-    "Description": null
+    "Description": "The Warm color style employs warm colors, often seen in Impressionism, Post-Impressionism, and Fauvism. Typically set in outdoor environments under natural light, it conveys a comforting mood with loose, fluid compositions. Artists like Claude Monet and Vincent van Gogh are associated with this style."
   },
   {
     "Id": "1591",
@@ -3475,9 +3475,9 @@
     "Description": "Shibori is a Japanese manual resist dyeing technique, resulting in different patterns on fabric. The traditional color used is indigo. The method has been adopted by many artists worldwide for creating intricate textile art, including Yoshiko Wada, Sachio Yoshioka, and Itchiku Kubota."
   },
   {
-    "Id": "1695",
+    "Id": "314",
     "Title": "Indigo",
-    "Description": null
+    "Description": "The Indigo color style, common in Impressionism and Abstract Expressionism, is characterized by the use of indigo and cool tones. This style, set in both indoor and outdoor environments under soft light, evokes a melancholic mood, with compositions focused on balance. Prominent artists include Claude Monet and Mark Rothko."
   },
   {
     "Id": "249",
@@ -3800,9 +3800,9 @@
     "Description": null
   },
   {
-    "Id": "1760",
+    "Id": "315",
     "Title": "Warm Tones",
-    "Description": null
+    "Description": "The Warm Tones color style involves the use of warm tones, often seen in Impressionism, Post-Impressionism, and Fauvism. This style, typically set in outdoor environments under natural light, creates a comforting mood with loose, fluid compositions. Notable artists include Claude Monet and Vincent van Gogh."
   },
   {
     "Id": "1761",
@@ -3880,9 +3880,9 @@
     "Description": null
   },
   {
-    "Id": "1776",
+    "Id": "316",
     "Title": "Black and White",
-    "Description": null
+    "Description": "The Black and White color style is defined by the use of black and white, predominantly seen in photography and film. Set in both indoor and outdoor environments with contrasting light, this style imparts a dramatic mood through compositions focused on light and shadow. Artists such as Ansel Adams and Henri Cartier-Bresson are associated with this style."
   },
   {
     "Id": "1777",
@@ -4022,6 +4022,346 @@
   {
     "Id": "1804",
     "Title": "Neon Art",
+    "Description": null
+  },
+  {
+    "Id": "1805",
+    "Title": "Edward Hopper",
+    "Description": null
+  },
+  {
+    "Id": "1806",
+    "Title": "Soft Light",
+    "Description": null
+  },
+  {
+    "Id": "1807",
+    "Title": "Dark and Muted Colors",
+    "Description": null
+  },
+  {
+    "Id": "1808",
+    "Title": "Serene",
+    "Description": null
+  },
+  {
+    "Id": "1809",
+    "Title": "Indoor and Outdoor",
+    "Description": null
+  },
+  {
+    "Id": "1810",
+    "Title": "Bright Light",
+    "Description": null
+  },
+  {
+    "Id": "1811",
+    "Title": "Vibrant and High-contrast Colors",
+    "Description": null
+  },
+  {
+    "Id": "1812",
+    "Title": "Low Saturation Colors",
+    "Description": null
+  },
+  {
+    "Id": "1813",
+    "Title": "Ansel Adams",
+    "Description": null
+  },
+  {
+    "Id": "1814",
+    "Title": "Single Hue",
+    "Description": null
+  },
+  {
+    "Id": "1815",
+    "Title": "Dependent on Subject",
+    "Description": null
+  },
+  {
+    "Id": "1816",
+    "Title": "Strong Emphasis on Lines and Shapes",
+    "Description": null
+  },
+  {
+    "Id": "1817",
+    "Title": "Dark Hues",
+    "Description": null
+  },
+  {
+    "Id": "1818",
+    "Title": "Mary Cassatt",
+    "Description": null
+  },
+  {
+    "Id": "1819",
+    "Title": "Soft and Light Colors",
+    "Description": null
+  },
+  {
+    "Id": "1820",
+    "Title": "Loose and Fluid",
+    "Description": null
+  },
+  {
+    "Id": "1821",
+    "Title": "Roy Lichtenstein",
+    "Description": null
+  },
+  {
+    "Id": "1822",
+    "Title": "Piet Mondrian",
+    "Description": null
+  },
+  {
+    "Id": "1823",
+    "Title": "Both Indoor and Outdoor",
+    "Description": null
+  },
+  {
+    "Id": "1824",
+    "Title": "High Saturation Colors",
+    "Description": null
+  },
+  {
+    "Id": "1825",
+    "Title": "Keith Haring",
+    "Description": null
+  },
+  {
+    "Id": "1826",
+    "Title": "Dan Flavin",
+    "Description": null
+  },
+  {
+    "Id": "1827",
+    "Title": "Glowing Colors",
+    "Description": null
+  },
+  {
+    "Id": "1828",
+    "Title": "Exciting",
+    "Description": null
+  },
+  {
+    "Id": "1829",
+    "Title": "Bold and Geometric",
+    "Description": null
+  },
+  {
+    "Id": "1830",
+    "Title": "Gustave Courbet",
+    "Description": null
+  },
+  {
+    "Id": "1831",
+    "Title": "Naturalistic Colors",
+    "Description": null
+  },
+  {
+    "Id": "1832",
+    "Title": "Detailed and Precise",
+    "Description": null
+  },
+  {
+    "Id": "1833",
+    "Title": "Yves Klein",
+    "Description": null
+  },
+  {
+    "Id": "1834",
+    "Title": "Ad Reinhardt",
+    "Description": null
+  },
+  {
+    "Id": "1835",
+    "Title": "One Color With Varying Tones",
+    "Description": null
+  },
+  {
+    "Id": "1836",
+    "Title": "Dependent on the Chosen Color",
+    "Description": null
+  },
+  {
+    "Id": "1837",
+    "Title": "Emphasis on Form and Texture",
+    "Description": null
+  },
+  {
+    "Id": "1838",
+    "Title": "Multiple Vibrant Colors",
+    "Description": null
+  },
+  {
+    "Id": "1839",
+    "Title": "Mark Rothko",
+    "Description": null
+  },
+  {
+    "Id": "1840",
+    "Title": "Barnett Newman",
+    "Description": null
+  },
+  {
+    "Id": "1841",
+    "Title": "Color Field",
+    "Description": null
+  },
+  {
+    "Id": "1842",
+    "Title": "All Hues of the Color Spectrum",
+    "Description": null
+  },
+  {
+    "Id": "1843",
+    "Title": "Expansive",
+    "Description": null
+  },
+  {
+    "Id": "1844",
+    "Title": "Josiah Wedgwood",
+    "Description": null
+  },
+  {
+    "Id": "1845",
+    "Title": "Varies According to Period",
+    "Description": null
+  },
+  {
+    "Id": "1846",
+    "Title": "Highly Saturated Colors",
+    "Description": null
+  },
+  {
+    "Id": "1847",
+    "Title": "Jean-Michel Basquiat",
+    "Description": null
+  },
+  {
+    "Id": "1848",
+    "Title": "Contrasting Light",
+    "Description": null
+  },
+  {
+    "Id": "1849",
+    "Title": "Black With Bright Colors",
+    "Description": null
+  },
+  {
+    "Id": "1850",
+    "Title": "Bold and Striking",
+    "Description": null
+  },
+  {
+    "Id": "1851",
+    "Title": "Wide Range of Colors",
+    "Description": null
+  },
+  {
+    "Id": "1852",
+    "Title": "Vivid, High Contrast Colors",
+    "Description": null
+  },
+  {
+    "Id": "1853",
+    "Title": "Nan Goldin",
+    "Description": null
+  },
+  {
+    "Id": "1854",
+    "Title": "Red and Warm Tones",
+    "Description": null
+  },
+  {
+    "Id": "1855",
+    "Title": "Focused on Light and Shadow",
+    "Description": null
+  },
+  {
+    "Id": "1856",
+    "Title": "William Eggleston",
+    "Description": null
+  },
+  {
+    "Id": "1857",
+    "Title": "Desaturated, Vintage Colors",
+    "Description": null
+  },
+  {
+    "Id": "1858",
+    "Title": "Focused on Form and Texture",
+    "Description": null
+  },
+  {
+    "Id": "1859",
+    "Title": "Muted, Low Saturation Colors",
+    "Description": null
+  },
+  {
+    "Id": "1860",
+    "Title": "Agnes Martin",
+    "Description": null
+  },
+  {
+    "Id": "1861",
+    "Title": "Neutral Colors",
+    "Description": null
+  },
+  {
+    "Id": "1862",
+    "Title": "Simplicity",
+    "Description": null
+  },
+  {
+    "Id": "1863",
+    "Title": "Gustav Klimt",
+    "Description": null
+  },
+  {
+    "Id": "1864",
+    "Title": "Rococo",
+    "Description": null
+  },
+  {
+    "Id": "1865",
+    "Title": "Soft, Reflective Light",
+    "Description": null
+  },
+  {
+    "Id": "1866",
+    "Title": "Gold and Rich Colors",
+    "Description": null
+  },
+  {
+    "Id": "1867",
+    "Title": "Combination of Different Colors",
+    "Description": null
+  },
+  {
+    "Id": "1868",
+    "Title": "Diverse",
+    "Description": null
+  },
+  {
+    "Id": "1869",
+    "Title": "Warm Colors",
+    "Description": null
+  },
+  {
+    "Id": "1870",
+    "Title": "Comforting",
+    "Description": null
+  },
+  {
+    "Id": "1871",
+    "Title": "High Contrast Colors",
+    "Description": null
+  },
+  {
+    "Id": "1872",
+    "Title": "Indigo and Cool Tones",
     "Description": null
   }
 ]
