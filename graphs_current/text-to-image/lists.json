@@ -83,7 +83,7 @@
   {
     "Id": "7",
     "Title": "Colors",
-    "Description": "This list describes the myriad of colors artists employ in their work. From primary, secondary, and tertiary hues, to monochrome or vibrant palettes, colors breathe life and emotion into the artwork.",
+    "Description": "This list is a vibrant preview of the expansive world of color. It offers a glimpse into the variety of color schemes, from bold and high-contrast, to subdued and muted, painting a picture of possibilities. It explores the broad spectrum from monochrome to multi-color, and from vintage to modern palettes. You\u0027ll encounter warm, cool, natural, and period-specific tones, setting the stage for a more in-depth exploration.",
     "ParentConceptId": null,
     "PullFromListsIds": [],
     "DisableDirectMembers": false
@@ -91,7 +91,7 @@
   {
     "Id": "8",
     "Title": "Moods",
-    "Description": "The moods list represents the range of emotions or feelings an artwork can evoke, like happiness, sadness, tranquility, mystery, anger or nostalgia. It\u0027s about the emotional resonance of an artwork.",
+    "Description": "List of the diverse landscape of moods and themes in art. It illustrates a vast range from the playful and whimsical, to the introspective and contemplative, from the joyful and vibrant, to the mysterious and surreal. The list hints at the potential for art to be political, satirical, rebellious, or fantastical, reflecting the complexities of the human experience. Whether you\u0027re seeking the calm and tranquil, the edgy and dystopian, or the humorous and quirky, this list provides a glimpse into the powerful moods that art can evoke.",
     "ParentConceptId": null,
     "PullFromListsIds": [],
     "DisableDirectMembers": false
@@ -99,7 +99,7 @@
   {
     "Id": "9",
     "Title": "Compositions",
-    "Description": "This list details different compositional techniques used in art. These may include rules like the Golden Ratio, Rule of Thirds, Symmetry or Asymmetry, leading lines, or framing, influencing the viewer\u0027s focus and the overall balance of the piece.",
+    "Description": "List of the diverse tapestry of artistic compositions. From the bold, dynamic and geometric designs to the serene, harmonious and naturalistic forms. It includes abstract and surrealistic patterns, fluid and symmetrical structures, and extends into the detail-oriented world of anatomical, mechanical, and text-based compositions. Discover the artistry in three-dimensional space, layered imagery, or in the simplicity of a monospace canvas. Get specific like an organized grid, the or generic like an expansive landscape.",
     "ParentConceptId": null,
     "PullFromListsIds": [],
     "DisableDirectMembers": false
