@@ -1,0 +1,17 @@
+{
+  "GraphId": "8452090c-80fb-4552-9ae5-8cca14aa09b1",
+  "GraphDisplayName": "uyuyu",
+  "GraphUrlName": "uyuyu",
+  "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/uyuyu",
+  "RootConcept": null,
+  "Description": "Welcome to your new knowledge graph! To get started add your first concept through the graph menu. Once you have a few concepts you can combine them into a list. To get you started this graph already includes a two concepts and a list for reference.",
+  "FeaturedLists": [
+    "1"
+  ],
+  "FeaturedConcepts": [
+    "1",
+    "2"
+  ],
+  "TopFeaturedLists": null,
+  "TopFeaturedConcepts": null
+}
