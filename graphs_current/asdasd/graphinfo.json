@@ -1,0 +1,17 @@
+{
+  "GraphId": "e687a032-2994-4213-aaf9-1b944ee1e411",
+  "GraphDisplayName": "asdasd",
+  "GraphUrlName": "asdasd",
+  "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/asdasd",
+  "RootConcept": null,
+  "Description": "Welcome to your new knowledge graph! To get started add your first concept through the graph menu. Once you have a few concepts you can combine them into a list. To get you started this graph already includes a two concepts and a list for reference.",
+  "FeaturedLists": [
+    "1"
+  ],
+  "FeaturedConcepts": [
+    "1",
+    "2"
+  ],
+  "TopFeaturedLists": null,
+  "TopFeaturedConcepts": null
+}
