@@ -1,0 +1,17 @@
+{
+  "GraphId": "636f0b1d-8136-44ee-9240-17be2a0637b0",
+  "GraphDisplayName": "test this bad boy",
+  "GraphUrlName": "test-this-bad-boy",
+  "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/test-this-bad-boy",
+  "RootConcept": null,
+  "Description": "Welcome to your new knowledge graph! To get started add your first concept through the graph menu. Once you have a few concepts with a common relationship you can create a list and add them. To get you started this graph includes a couple concept and a list for an example.",
+  "FeaturedLists": [
+    "1"
+  ],
+  "FeaturedConcepts": [
+    "1",
+    "2"
+  ],
+  "TopFeaturedLists": null,
+  "TopFeaturedConcepts": null
+}
