@@ -1,5 +1,13 @@
 [
   {
+    "Id": "2",
+    "Title": "abc",
+    "Description": "d",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "1",
     "Title": "Letters List",
     "Description": "This is an example list! To get started create your own through the graph menu and delete this one though the edit tab.",
@@ -8,9 +16,9 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "2",
-    "Title": "abc",
-    "Description": "d",
+    "Id": "20000000-71a7-44cb-8994-7bdafbff2842",
+    "Title": "asdasd",
+    "Description": "asdasd",
     "ParentConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
