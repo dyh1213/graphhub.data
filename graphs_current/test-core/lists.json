@@ -16,14 +16,6 @@
     "DisableDirectMembers": false
   },
   {
-    "Id": "1",
-    "Title": "Letters List",
-    "Description": "This is an example list! To get started create your own through the graph menu and delete this one though the edit tab.",
-    "ParentConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
     "Id": "EVENTS_YEAR_ID",
     "Title": "EVENTS_YEAR_NAME",
     "Description": "EVENTS_YEAR_DESCRIPTION",
@@ -32,10 +24,18 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "1",
+    "Title": "Letters List",
+    "Description": "This is an example list! To get started create your own through the graph menu and delete this one though the edit tab.",
+    "ParentConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_YEAR_1993",
     "Title": "UFC Events in YEAR_1993",
     "Description": "List of the UFC Events that took place in 1993 includes three events held in the state of Colorado, United States. UFC 1, held on November 12, 1993, marked the inaugural event of the Ultimate Fighting Championship. It took place at McNichols Sports Arena in Denver. UFC 2 and UFC 3 were held on March 11, 1994, and September 9, 1994, respectively, at Mammoth Gardens in Denver. These events showcased early mixed martial arts fights, featuring various disciplines and minimal rules.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_1993",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -43,7 +43,7 @@
     "Id": "EVENTS_YEAR_1994",
     "Title": "UFC Events in YEAR_1994",
     "Description": "List of the UFC Events that took place in 1994 includes three events held in the state of Colorado, United States. UFC 1, held on November 12, 1993, marked the inception of the Ultimate Fighting Championship. UFC 2 followed on March 11, 1994, and UFC 3 on September 9, 1994. These events showcased a variety of martial arts disciplines, including Brazilian Jiu-Jitsu, kickboxing, and wrestling, and took place at McNichols Sports Arena in Denver.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_1994",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -51,7 +51,7 @@
     "Id": "EVENTS_YEAR_1995",
     "Title": "UFC Events in YEAR_1995",
     "Description": "List of the UFC Events that took place in 1995 includes three events held in the state of North Carolina, United States. UFC 4 took place on December 16, 1994, at the Expo Center in Charlotte. UFC 5 followed on April 7, 1995, at the Independence Arena in Charlotte. Lastly, UFC 6 occurred on July 14, 1995, at the Casper Events Center in Casper, North Carolina. These events featured various mixed martial arts fights showcasing the evolving sport of UFC.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_1995",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -59,7 +59,7 @@
     "Id": "EVENTS_YEAR_1996",
     "Title": "UFC Events in YEAR_1996",
     "Description": "List of the UFC Events that took place in 1996 includes a total of 5 events held in different states across the United States. These events featured a series of mixed martial arts fights sanctioned by the Ultimate Fighting Championship (UFC). Notable venues included the Casper Events Center in Wyoming, the Mammoth Gardens in Colorado, and the Fairgrounds Arena in Louisiana.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_1996",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -67,7 +67,7 @@
     "Id": "EVENTS_YEAR_1997",
     "Title": "UFC Events in YEAR_1997",
     "Description": "List of the UFC Events that took place in 1997 includes a total of 5 events held in different states across the United States. The year witnessed thrilling fights and showcased the growing popularity of the UFC. Notable events include UFC 12 in Dothan, Alabama, featuring a heavyweight tournament, and UFC 15 in Bay St. Louis, Mississippi, where Randy Couture won the heavyweight championship. These events were held in various venues, providing fans with exciting MMA action throughout the year.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_1997",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -75,7 +75,7 @@
     "Id": "EVENTS_YEAR_1998",
     "Title": "UFC Events in YEAR_1998",
     "Description": "List of the UFC Events that took place in 1998 includes a total of 5 events held in various states across the United States. These events featured a series of intense mixed martial arts fights, showcasing the skills of renowned UFC fighters. The venues for these events included the Mobile Civic Center in Alabama, the Lake Charles Civic Center in Louisiana, and the Fairgrounds Arena in Louisiana.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_1998",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -83,7 +83,7 @@
     "Id": "EVENTS_YEAR_1999",
     "Title": "UFC Events in YEAR_1999",
     "Description": "List of the UFC Events that took place in 1999 includes a total of 5 events held in various states across the United States. These events featured a series of intense mixed martial arts fights, showcasing the skills of renowned UFC fighters. Notable venues included the Trump Taj Mahal in New Jersey and the Boutwell Auditorium in Alabama. The year 1999 marked another successful chapter in the history of the UFC.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_1999",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -91,7 +91,7 @@
     "Id": "EVENTS_YEAR_2000",
     "Title": "UFC Events in YEAR_2000",
     "Description": "List of the UFC Events that took place in 2000 includes a total of 5 events held in various states across the United States. These events featured a series of intense mixed martial arts fights, showcasing the skills of renowned UFC fighters. The venues for these events included the Lake Charles Civic Center in Louisiana, the Trump Taj Mahal in New Jersey, and the MGM Grand Garden Arena in Nevada.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2000",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -99,7 +99,7 @@
     "Id": "EVENTS_YEAR_2001",
     "Title": "UFC Events in YEAR_2001",
     "Description": "List of the UFC Events that took place in 2001 includes a total of 5 events held in various states across the United States. These events featured a series of intense mixed martial arts fights, showcasing the skills of renowned UFC fighters. The venues for these events included the MGM Grand Garden Arena in Nevada, the Trump Taj Mahal in New Jersey, and the National Guard Armory in Alabama.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2001",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -107,7 +107,7 @@
     "Id": "EVENTS_YEAR_2002",
     "Title": "UFC Events in YEAR_2002",
     "Description": "List of the UFC Events that took place in 2002 includes a total of 8 events held in various states across the United States. These events showcased a series of intense mixed martial arts fights featuring renowned UFC fighters. Notable venues included the MGM Grand Garden Arena in Nevada, the Mohegan Sun Arena in Connecticut, and the Trump Taj Mahal in New Jersey.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2002",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -115,7 +115,7 @@
     "Id": "EVENTS_YEAR_2003",
     "Title": "UFC Events in YEAR_2003",
     "Description": "List of the UFC Events that took place in 2003 includes a total of 8 events held in various states across the United States. These events showcased a series of intense mixed martial arts fights featuring renowned UFC fighters. Notable venues included the Mandalay Bay Events Center in Las Vegas, Nevada, and the American Airlines Center in Dallas, Texas. The events in 2003 witnessed the rise of new champions and thrilling matchups that captivated UFC fans worldwide.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2003",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -123,7 +123,7 @@
     "Id": "EVENTS_YEAR_2004",
     "Title": "UFC Events in YEAR_2004",
     "Description": "List of the UFC Events that took place in 2004 includes a total of 7 events held in various states across the United States. These events featured a series of intense mixed martial arts fights, showcasing the skills of renowned UFC fighters. Notable venues included the Mandalay Bay Events Center in Las Vegas, Nevada, and the Mohegan Sun Arena in Uncasville, Connecticut.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2004",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -131,7 +131,7 @@
     "Id": "EVENTS_YEAR_2005",
     "Title": "UFC Events in YEAR_2005",
     "Description": "List of the UFC Events that took place in 2005 includes a total of 9 events held in various states across the United States. Notable events include UFC 51: Super Saturday in Nevada, featuring a main event between Chuck Liddell and Randy Couture for the Light Heavyweight Championship. UFC 52: Couture vs. Liddell 2 took place in Indiana, where Couture successfully defended his title. Other events were held in California, Connecticut, and New Jersey, showcasing thrilling fights and attracting a growing fan base.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2005",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -139,7 +139,7 @@
     "Id": "EVENTS_YEAR_2006",
     "Title": "UFC Events in YEAR_2006",
     "Description": "List of the UFC Events that took place in 2006 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). This year witnessed a total of 10 events held in various states across the United States. Notable fights and events included UFC 57 in Nevada, featuring a championship bout between Chuck Liddell and Randy Couture, and UFC 64 in Nevada, where Anderson Silva won the Middleweight title.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2006",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -147,7 +147,7 @@
     "Id": "EVENTS_YEAR_2007",
     "Title": "UFC Events in YEAR_2007",
     "Description": "List of the UFC Events that took place in 2007 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, showcasing a range of intense fights and thrilling matchups. Notable venues included the Mandalay Bay Events Center in Las Vegas, Nevada, and the Honda Center in Anaheim, California.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2007",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -155,7 +155,7 @@
     "Id": "EVENTS_YEAR_2008",
     "Title": "UFC Events in YEAR_2008",
     "Description": "List of the UFC Events that took place in 2008 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, showcasing thrilling fights and attracting a large audience. Notable venues included the Mandalay Bay Events Center in Las Vegas, Nevada, and the Prudential Center in Newark, New Jersey. The events featured top UFC fighters competing in different weight classes, providing intense and action-packed matchups for fans to enjoy.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2008",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -163,7 +163,7 @@
     "Id": "EVENTS_YEAR_2009",
     "Title": "UFC Events in YEAR_2009",
     "Description": "List of the UFC Events that took place in 2009 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, showcasing a range of thrilling fights. Notable venues included the Mandalay Bay Events Center in Las Vegas, Nevada, and the Toyota Center in Houston, Texas. The year featured several high-profile matchups, including the highly anticipated rematch between Brock Lesnar and Frank Mir for the UFC Heavyweight Championship.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2009",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -171,7 +171,7 @@
     "Id": "EVENTS_YEAR_2010",
     "Title": "UFC Events in YEAR_2010",
     "Description": "List of the UFC Events that took place in 2010 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, such as Nevada, California, and New Jersey. The fights featured renowned UFC fighters and took place in notable venues like the MGM Grand Garden Arena, HP Pavilion, and Prudential Center.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2010",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -179,7 +179,7 @@
     "Id": "EVENTS_YEAR_2011",
     "Title": "UFC Events in YEAR_2011",
     "Description": "List of the UFC Events that took place in 2011 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, showcasing thrilling fights and attracting a large audience. Notable venues included the MGM Grand Garden Arena in Las Vegas, Nevada, and the Rogers Centre in Toronto, Ontario, Canada. The events featured top UFC fighters competing in different weight classes, providing intense and action-packed matchups throughout the year.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2011",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -187,7 +187,7 @@
     "Id": "EVENTS_YEAR_2012",
     "Title": "UFC Events in YEAR_2012",
     "Description": "List of the UFC Events that took place in 2012 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, showcasing thrilling fights and attracting a large audience. Notable venues included the MGM Grand Garden Arena in Nevada, the Honda Center in California, and the Prudential Center in New Jersey.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2012",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -195,7 +195,7 @@
     "Id": "EVENTS_YEAR_2013",
     "Title": "UFC Events in YEAR_2013",
     "Description": "List of the UFC Events that took place in 2013 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, showcasing thrilling fights and attracting a large audience. Notable venues included the MGM Grand Garden Arena in Las Vegas, Nevada, and the HSBC Arena in Rio de Janeiro, Brazil. The events featured top UFC fighters competing in different weight classes, providing intense and action-packed matchups throughout the year.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2013",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -203,7 +203,7 @@
     "Id": "EVENTS_YEAR_2014",
     "Title": "UFC Events in YEAR_2014",
     "Description": "List of the UFC Events that took place in 2014 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, showcasing thrilling fights and attracting a large audience. Notable venues included the MGM Grand Garden Arena in Las Vegas, Nevada, and the Staples Center in Los Angeles, California. The events featured top UFC fighters competing in different weight classes, providing intense and action-packed matchups throughout the year.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2014",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -211,7 +211,7 @@
     "Id": "EVENTS_YEAR_2015",
     "Title": "UFC Events in YEAR_2015",
     "Description": "List of the UFC Events that took place in 2015 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, showcasing thrilling fights and attracting a large audience. Notable venues included the MGM Grand Garden Arena in Las Vegas, Nevada, and the Staples Center in Los Angeles, California. The events featured top UFC fighters competing in different weight classes, providing intense and action-packed matchups for fans to enjoy.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2015",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -219,7 +219,7 @@
     "Id": "EVENTS_YEAR_2016",
     "Title": "UFC Events in YEAR_2016",
     "Description": "List of the UFC Events that took place in 2016 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, such as Nevada, California, and New York. Notable fights and events included UFC 200, which took place in Las Vegas, Nevada, and featured a highly anticipated rematch between Conor McGregor and Nate Diaz. Other venues included Madison Square Garden in New York City, where UFC held its first-ever event after the legalization of professional mixed martial arts in the state.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2016",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -227,7 +227,7 @@
     "Id": "EVENTS_YEAR_2017",
     "Title": "UFC Events in YEAR_2017",
     "Description": "List of the UFC Events that took place in 2017 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, such as Nevada, New York, Texas, and California. The fights featured top UFC fighters competing in different weight classes, with notable events including UFC 209, UFC 210, UFC 211, and UFC 214. The venues ranged from the T-Mobile Arena in Las Vegas to Madison Square Garden in New York City.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2017",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -235,7 +235,7 @@
     "Id": "EVENTS_YEAR_2018",
     "Title": "UFC Events in YEAR_2018",
     "Description": "List of the UFC Events that took place in 2018 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, such as Nevada, California, and New York. The fights showcased top UFC fighters in different weight classes, featuring notable events like UFC 223, UFC 226, and UFC 229. The venues ranged from the T-Mobile Arena in Las Vegas to the Barclays Center in Brooklyn.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2018",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -243,7 +243,7 @@
     "Id": "EVENTS_YEAR_2019",
     "Title": "UFC Events in YEAR_2019",
     "Description": "List of the UFC Events that took place in 2019 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, such as Nevada, California, and New York. The fights featured top UFC fighters competing in different weight classes, with notable events including UFC 235, UFC 241, and UFC 244. The venues ranged from the T-Mobile Arena in Las Vegas to the Madison Square Garden in New York City.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2019",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -251,7 +251,7 @@
     "Id": "EVENTS_YEAR_2020",
     "Title": "UFC Events in YEAR_2020",
     "Description": "List of the UFC Events that took place in 2020 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, such as Nevada, Florida, and Abu Dhabi. The fights featured top UFC fighters competing in different weight classes, showcasing their skills and techniques. Notable venues included the UFC Apex in Las Vegas, VyStar Veterans Memorial Arena in Jacksonville, and Flash Forum on Yas Island.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2020",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -259,7 +259,7 @@
     "Id": "EVENTS_YEAR_2021",
     "Title": "UFC Events in YEAR_2021",
     "Description": "List of the UFC Events that took place in 2021 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, such as Nevada, Florida, Arizona, and Texas. The fights featured top UFC fighters competing in different weight classes, showcasing their skills and techniques. Notable venues for these events included the UFC Apex in Las Vegas, the VyStar Veterans Memorial Arena in Jacksonville, and the Gila River Arena in Glendale.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2021",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -267,7 +267,7 @@
     "Id": "EVENTS_YEAR_2022",
     "Title": "UFC Events in YEAR_2022",
     "Description": "List of the UFC Events that took place in 2022 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, showcasing thrilling fights between top-ranked fighters. Notable venues hosting these events included the T-Mobile Arena in Las Vegas, Nevada, and the Toyota Center in Houston, Texas. The year 2022 witnessed intense matchups, featuring fighters from different weight classes, as they battled for supremacy in the octagon.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2022",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -275,7 +275,7 @@
     "Id": "EVENTS_YEAR_2023",
     "Title": "UFC Events in YEAR_2023",
     "Description": "List of the UFC Events that took place in 2023 includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). These events were held in various states across the United States, showcasing thrilling fights between top-ranked fighters. Notable venues hosting these events included the T-Mobile Arena in Las Vegas, Nevada, and the Madison Square Garden in New York City, New York.",
-    "ParentConceptId": null,
+    "ParentConceptId": "YEAR_2023",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   }
