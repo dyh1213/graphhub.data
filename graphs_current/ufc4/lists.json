@@ -4557,5 +4557,388 @@
       "EVENTS_VENUE_22"
     ],
     "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_1",
+    "Title": "UFC Events in U.S.",
+    "Description": "List of the UFC Events that took place in the United States includes numerous thrilling fights held across various states. California has hosted several memorable UFC events, including UFC 1 in 1993 at McNichols Sports Arena, Denver. Other notable venues in California include the Staples Center in Los Angeles and the Honda Center in Anaheim. These events have showcased the best mixed martial artists in the world, contributing to the growth and popularity of the UFC in the United States.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_STATE_5",
+      "EVENTS_STATE_31",
+      "EVENTS_STATE_35",
+      "EVENTS_STATE_50",
+      "EVENTS_STATE_30",
+      "EVENTS_STATE_21",
+      "EVENTS_STATE_1",
+      "EVENTS_STATE_9",
+      "EVENTS_STATE_23",
+      "EVENTS_STATE_16",
+      "EVENTS_STATE_13",
+      "EVENTS_STATE_28",
+      "EVENTS_STATE_26",
+      "EVENTS_STATE_6",
+      "EVENTS_STATE_8",
+      "EVENTS_STATE_4",
+      "EVENTS_STATE_34",
+      "EVENTS_STATE_45",
+      "EVENTS_STATE_22",
+      "EVENTS_STATE_25",
+      "EVENTS_STATE_11",
+      "EVENTS_STATE_44",
+      "EVENTS_STATE_38",
+      "EVENTS_STATE_37",
+      "EVENTS_STATE_47",
+      "EVENTS_STATE_20",
+      "EVENTS_STATE_12",
+      "EVENTS_STATE_15",
+      "EVENTS_STATE_48",
+      "EVENTS_STATE_49",
+      "EVENTS_STATE_7",
+      "EVENTS_STATE_19",
+      "EVENTS_STATE_29",
+      "EVENTS_STATE_17",
+      "EVENTS_STATE_3",
+      "EVENTS_STATE_43",
+      "EVENTS_STATE_46",
+      "EVENTS_STATE_24",
+      "EVENTS_STATE_10",
+      "EVENTS_STATE_14",
+      "EVENTS_STATE_42"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_2",
+    "Title": "UFC Events in Ireland",
+    "Description": "List of the UFC Events that took place in Ireland includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the country. Ireland has hosted a total of 5 UFC events, all of which took place in the capital city of Dublin. The events were held at various venues, including The O2 Arena (now 3Arena) and the SSE Arena. These events have showcased top UFC fighters and have been highly anticipated by Irish fans.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_48"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_3",
+    "Title": "UFC Events in France",
+    "Description": "List of the UFC Events that took place in France includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the country. As of [current year], France has not yet hosted any UFC events due to the ban on professional MMA. However, with the legalization of the sport in 2020, fans eagerly anticipate future events in renowned venues such as the AccorHotels Arena in Paris and the Palais des Sports Marcel-Cerdan in Levallois-Perret.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_167"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_4",
+    "Title": "UFC Events in Australia",
+    "Description": "List of the UFC Events that took place in Australia includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the country. Since its inception in 2010, Australia has hosted numerous UFC events, primarily in the state of Victoria. Prominent venues such as Marvel Stadium and Rod Laver Arena have witnessed thrilling matchups featuring top UFC fighters, contributing to the growth and popularity of the sport in the region.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_58",
+      "EVENTS_LOCATION_84",
+      "EVENTS_LOCATION_91",
+      "EVENTS_LOCATION_111",
+      "EVENTS_LOCATION_115",
+      "EVENTS_LOCATION_142"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_5",
+    "Title": "UFC Events in Canada",
+    "Description": "List of the UFC Events that took place in Canada includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in various provinces across the country. Canada has been a prominent host for UFC events since 2008, with notable venues including Rogers Arena in Vancouver, Bell Centre in Montreal, and Air Canada Centre in Toronto. These events have showcased top-tier fighters and have attracted a significant fan base, contributing to the growth of the sport in Canada.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_STATE_39",
+      "EVENTS_STATE_36",
+      "EVENTS_STATE_2",
+      "EVENTS_STATE_18",
+      "EVENTS_STATE_33",
+      "EVENTS_STATE_40",
+      "EVENTS_STATE_27"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_6",
+    "Title": "UFC Events in Uruguay",
+    "Description": "List of the UFC Events that took place in Uruguay includes a single event held in the country\u0027s capital, Montevideo. On August 10, 2019, UFC Fight Night: Shevchenko vs. Carmouche 2 took place at the Antel Arena. This marked the first-ever UFC event in Uruguay, showcasing top-tier mixed martial arts action to the Uruguayan audience.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_158"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_7",
+    "Title": "UFC Events in Mexico",
+    "Description": "List of the UFC Events that took place in Mexico includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the country. Mexico has hosted a total of 7 UFC events as of 2021. These events have taken place in various cities, including Mexico City, Monterrey, and Mexico City Arena. Notable venues that have hosted these events include Arena Ciudad de Mexico and Arena Monterrey.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_107",
+      "EVENTS_LOCATION_116"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_8",
+    "Title": "UFC Events in Brazil",
+    "Description": "List of the UFC Events that took place in Brazil includes a rich history of mixed martial arts competitions. Brazil has hosted numerous UFC events, with notable venues including the Jeunesse Arena in Rio de Janeiro, the Gin\u00E1sio do Ibirapuera in S\u00E3o Paulo, and the Nilson Nelson Gymnasium in Bras\u00EDlia. These events have showcased top Brazilian fighters and attracted a passionate fan base, contributing to the growth and popularity of the sport in the country.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_15",
+      "EVENTS_LOCATION_73",
+      "EVENTS_LOCATION_80",
+      "EVENTS_LOCATION_85",
+      "EVENTS_LOCATION_86",
+      "EVENTS_LOCATION_88",
+      "EVENTS_LOCATION_90",
+      "EVENTS_LOCATION_94",
+      "EVENTS_LOCATION_104",
+      "EVENTS_LOCATION_106",
+      "EVENTS_LOCATION_109",
+      "EVENTS_LOCATION_120",
+      "EVENTS_LOCATION_141"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_9",
+    "Title": "UFC Events in Croatia",
+    "Description": "List of the UFC Events that took place in Croatia includes two events held in the country. The first event, UFC Fight Night: Rothwell vs. dos Santos, took place on April 10, 2016, at the Zagreb Arena in Zagreb. The second event, UFC Fight Night: Lewis vs. Hunt, was held on July 8, 2017, at the Arena Zagreb, also located in Zagreb. These events marked the UFC\u0027s successful foray into the Croatian market, showcasing top-tier mixed martial arts talent to local fans.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_118"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_10",
+    "Title": "UFC Events in Germany",
+    "Description": "List of the UFC Events that took place in Germany includes a series of mixed martial arts competitions held in the country. Germany has hosted a total of 6 UFC events, with the majority taking place in the state of Hesse. The events were held in various venues, including the Festhalle Frankfurt and the O2 World Berlin. These events showcased top UFC fighters and provided thrilling entertainment for German fight fans.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_51",
+      "EVENTS_LOCATION_65",
+      "EVENTS_LOCATION_98",
+      "EVENTS_LOCATION_126"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_11",
+    "Title": "UFC Events in China",
+    "Description": "List of the UFC Events that took place in China includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the country. China has hosted a total of 6 UFC events, with the majority held in Shanghai. The events have taken place at notable venues such as the Mercedes-Benz Arena and the Cadillac Arena, showcasing the growing popularity of UFC in China.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_83",
+      "EVENTS_LOCATION_138",
+      "EVENTS_LOCATION_152",
+      "EVENTS_LOCATION_159"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_12",
+    "Title": "UFC Events in England, UK",
+    "Description": "List of the UFC Events that took place in England, UK includes a rich history of mixed martial arts competitions. England has hosted numerous UFC events, with notable venues including The O2 Arena in London, Manchester Arena in Manchester, and Echo Arena in Liverpool. These events have showcased top-tier fighters and have attracted a passionate fan base, contributing to the growth and popularity of the sport in the country.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_25",
+      "EVENTS_LOCATION_35",
+      "EVENTS_LOCATION_39",
+      "EVENTS_LOCATION_45",
+      "EVENTS_LOCATION_82",
+      "EVENTS_LOCATION_145"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_13",
+    "Title": "UFC Events in Puerto Rico",
+    "Description": "List of the UFC Events that took place in Puerto Rico includes a single event held in the country\u0027s capital, San Juan. On October 26, 2019, UFC Fight Night: Rodr\u00EDguez vs. Stephens took place at the Coliseo de Puerto Rico Jos\u00E9 Miguel Agrelot. This event marked the first and only UFC event held in Puerto Rico, showcasing top-tier mixed martial arts talent to the enthusiastic Puerto Rican audience.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_6"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_14",
+    "Title": "UFC Events in United Arab Emirates",
+    "Description": "List of the UFC Events that took place in the United Arab Emirates includes a series of mixed martial arts competitions held in this Middle Eastern country. The UAE has hosted several UFC events, primarily in the city of Abu Dhabi. Notable venues include the Flash Forum on Yas Island, which has become a popular destination for UFC fights. These events have attracted top fighters from around the world, showcasing the UAE\u0027s growing prominence in the global MMA scene.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_59"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_15",
+    "Title": "UFC Events in Russia",
+    "Description": "List of the UFC Events that took place in Russia includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the country. Russia has hosted several UFC events, primarily in the capital city of Moscow. Notable venues that have hosted these events include the Olimpiyskiy Stadium and the CSKA Arena. These events have showcased top-tier fighters from around the world, contributing to the growth of MMA in Russia.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_149",
+      "EVENTS_LOCATION_155"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_16",
+    "Title": "UFC Events in Japan",
+    "Description": "List of the UFC Events that took place in Japan includes a rich history of mixed martial arts competitions. Japan has hosted a total of 29 UFC events, with notable venues including the Saitama Super Arena in Saitama, the Yokohama Arena in Yokohama, and the Ryogoku Kokugikan in Tokyo. These events have showcased top-tier fighters and have contributed significantly to the growth and popularity of the sport in Japan.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_12",
+      "EVENTS_LOCATION_18",
+      "EVENTS_LOCATION_19",
+      "EVENTS_LOCATION_77"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_17",
+    "Title": "UFC Events in Poland",
+    "Description": "List of the UFC Events that took place in Poland includes a series of mixed martial arts competitions held in the country. Poland has hosted a total of three UFC events, all taking place in the capital city of Warsaw. The first event, UFC Fight Night: Gonzaga vs. Cro Cop 2, was held at the Torwar Hall in April 2015. The subsequent events, UFC Fight Night: Nelson vs. Ponzinibbio and UFC Fight Night: Cowboy vs. Till, were both held at the Ergo Arena in October 2017 and May 2018, respectively.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_110",
+      "EVENTS_LOCATION_136"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_18",
+    "Title": "UFC Events in Sweden",
+    "Description": "List of the UFC Events that took place in Sweden includes a series of mixed martial arts competitions held in the country. Sweden has hosted a total of four UFC events, all taking place in the capital city of Stockholm. These events were held at the Ericsson Globe Arena and Tele2 Arena, attracting both local and international fighters, as well as passionate fans of the sport.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_78"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_19",
+    "Title": "UFC Events in Argentina",
+    "Description": "List of the UFC Events that took place in Argentina includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the country. Argentina hosted its first UFC event on November 17, 2018, at the Estadio Mary Ter\u00E1n de Weiss in Buenos Aires. The event marked the beginning of UFC\u0027s presence in Argentina, showcasing top fighters in various weight classes.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_151"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_20",
+    "Title": "UFC Events in British Columbia, Canada",
+    "Description": "List of the UFC Events that took place in British Columbia, Canada includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). British Columbia has hosted a total of three UFC events, all held in Vancouver. The first event, UFC 115, took place on June 12, 2010, at the General Motors Place (now Rogers Arena). Subsequent events, UFC 131 and UFC on Fox: Johnson vs. Moraga, were held on June 11, 2011, and July 27, 2013, respectively, at Rogers Arena as well.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_60"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_21",
+    "Title": "UFC Events in Philippines",
+    "Description": "List of the UFC Events that took place in the Philippines includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the country. The state of the Philippines has hosted a total of two UFC events. These events were held in the capital city of Manila at the Mall of Asia Arena, showcasing top-tier fighters from around the world.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_112"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_22",
+    "Title": "UFC Events in Singapore",
+    "Description": "List of the UFC Events that took place in Singapore includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the state of Singapore. Since 2014, Singapore has hosted four UFC events, all held at the Singapore Indoor Stadium. These events have showcased top-tier fighters from around the world, contributing to the growth and popularity of the sport in the region.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_92",
+      "EVENTS_LOCATION_133"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_23",
+    "Title": "UFC Events in U.S",
+    "Description": "List of the UFC Events that took place in the United States includes numerous memorable fights held across various states. California has hosted several events, including UFC 1 in Denver, Colorado, on November 12, 1993. Other notable states include Nevada, home to the renowned UFC 200 at T-Mobile Arena in Las Vegas. New York witnessed the historic UFC 205 at Madison Square Garden, while Texas hosted UFC 185 at the American Airlines Center in Dallas. These events showcased the country\u0027s passion for mixed martial arts and provided fans with thrilling matchups in top-notch venues.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_STATE_26"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_24",
+    "Title": "UFC Events in Chile",
+    "Description": "List of the UFC Events that took place in Chile includes a single event held in the country\u0027s capital, Santiago. On May 19, 2018, UFC Fight Night: Maia vs. Usman took place at the Movistar Arena. This marked the first UFC event in Chile, featuring a card filled with exciting matchups and showcasing the country\u0027s growing interest in mixed martial arts.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_144"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_25",
+    "Title": "UFC Events in Czech Republic",
+    "Description": "List of the UFC Events that took place in the Czech Republic includes two events held in Prague, the capital city. The first event, UFC Fight Night: B\u0142achowicz vs. Santos, took place on February 23, 2019, at the O2 Arena. The second event, UFC on ESPN\u002B 3: Blachowicz vs. Santos, occurred on February 23, 2019, at the same venue. These events marked the UFC\u0027s debut in the Czech Republic, showcasing top-tier mixed martial arts talent.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_153"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_26",
+    "Title": "UFC Events in South Korea",
+    "Description": "List of the UFC Events that took place in South Korea includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the country. South Korea has hosted two UFC events to date, both held in the capital city of Seoul. The first event, UFC Fight Night: Henderson vs. Masvidal, took place on November 28, 2015, at the Olympic Gymnastics Arena. The second event, UFC Fight Night: Edgar vs. Korean Zombie, was held on December 21, 2019, at the Sajik Arena.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_117",
+      "EVENTS_LOCATION_161"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_27",
+    "Title": "UFC Events in Netherlands",
+    "Description": "List of the UFC Events that took place in the Netherlands includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the country. The Netherlands has hosted two UFC events to date, both held in Rotterdam. The first event, UFC Fight Night: Overeem vs. Arlovski, took place on May 8, 2016, at the Ahoy Rotterdam arena. The second event, UFC Fight Night: Volkov vs. Struve, was held on September 2, 2017, at the same venue.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_119"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_28",
+    "Title": "UFC Events in Denmark",
+    "Description": "List of the UFC Events that took place in Denmark includes two notable events held in the state. Denmark made its UFC debut on September 28, 2019, with UFC Fight Night: Hermansson vs. Cannonier held at the Royal Arena in Copenhagen. The event featured a range of exciting fights, showcasing the country\u0027s growing interest in mixed martial arts. The second event, UFC Fight Night: Till vs. Hermansson, took place on December 7, 2020, at the same venue, further solidifying Denmark\u0027s presence in the UFC.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_160"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_29",
+    "Title": "UFC Events in New Zealand",
+    "Description": "List of the UFC Events that took place in New Zealand includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the country. New Zealand has hosted two UFC events to date, both held in Auckland. The first event, UFC Fight Night: Te Huna vs. Marquardt, took place on June 28, 2014, at the Vector Arena. The second event, UFC Fight Night: Lewis vs. Hunt, was held on June 11, 2017, at the Spark Arena.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_100"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_COUTRY_30",
+    "Title": "UFC Events in UK",
+    "Description": "List of the UFC Events that took place in the UK includes a series of mixed martial arts competitions held in various cities across the country. The UK has been a prominent destination for UFC events, with notable venues such as The O2 Arena in London, Manchester Arena in Manchester, and SSE Hydro in Glasgow hosting thrilling matchups. These events have showcased top-tier fighters and have attracted a passionate fan base, contributing to the growth of the sport in the UK.",
+    "ParentConceptId": null,
+    "PullFromListsIds": [
+      "EVENTS_STATE_32",
+      "EVENTS_STATE_41"
+    ],
+    "DisableDirectMembers": false
   }
 ]
