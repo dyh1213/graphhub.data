@@ -153,5 +153,1250 @@
     "Id": "YEAR_2023",
     "Title": "2023",
     "Description": "Year in which UFC events and fights took place."
+  },
+  {
+    "Id": "VENUE_1",
+    "Title": "1stBank Center",
+    "Description": "The 1stBank Center is a multi-purpose arena located in Broomfield, Colorado, United States. It has hosted several UFC events, including UFC Fight Night: Henderson vs. Thatch in 2015 and UFC Fight Night: Korean Zombie vs. Rodr\u00EDguez in 2018. The venue offers a seating capacity of approximately 6,500 and has become a popular destination for UFC fans in the region."
+  },
+  {
+    "Id": "VENUE_2",
+    "Title": "3Arena",
+    "Description": "The 3Arena, located in Dublin, Ireland, is a renowned venue for UFC events. It has hosted several notable UFC events, including UFC Fight Night: McGregor vs. Brandao in 2014, UFC Fight Night: Holohan vs. Smolka in 2015, and UFC 93: Franklin vs. Henderson in 2009. With a seating capacity of approximately 9,500, the 3Arena continues to attract UFC fans from around the world."
+  },
+  {
+    "Id": "VENUE_3",
+    "Title": "Accor Arena",
+    "Description": "Accor Arena, located in Paris, France, is a prominent venue for UFC events. It hosted its first UFC event on October 10, 2020, featuring a highly anticipated matchup between Thiago Santos and Glover Teixeira. The arena\u0027s state-of-the-art facilities and capacity to accommodate large crowds make it an ideal location for thrilling UFC fights."
+  },
+  {
+    "Id": "VENUE_4",
+    "Title": "Acer Arena",
+    "Description": "Acer Arena, located in Sydney Olympic Park, Australia, is a multi-purpose indoor arena that has hosted several UFC events. It first hosted UFC 110 in 2010, featuring a heavyweight title fight between Cain Velasquez and Antonio Rodrigo Nogueira. Since then, it has been a popular venue for UFC events, including UFC 127 and UFC Fight Night: Rockhold vs. Bisping."
+  },
+  {
+    "Id": "VENUE_5",
+    "Title": "Adelaide Entertainment Centre",
+    "Description": "The Adelaide Entertainment Centre is a multi-purpose indoor arena located in Hindmarsh, South Australia. It has hosted several UFC events, including UFC Fight Night: dos Santos vs. Tuivasa in 2018, which featured a heavyweight bout between Junior dos Santos and Tai Tuivasa. The venue has also hosted other combat sports events, concerts, and various entertainment shows since its opening in 1991."
+  },
+  {
+    "Id": "VENUE_6",
+    "Title": "Adirondack Bank Center",
+    "Description": "The Adirondack Bank Center is a multi-purpose arena located in Utica, New York, United States. It has hosted several UFC events, including UFC Fight Night: Rivera vs. Moraes on June 1, 2018, and UFC Fight Night: dos Anjos vs. Lee on May 18, 2019. The venue has a seating capacity of approximately 4,000 for MMA events and offers state-of-the-art facilities for both fighters and spectators."
+  },
+  {
+    "Id": "VENUE_7",
+    "Title": "Air Canada Centre",
+    "Description": "The Air Canada Centre, located in Toronto, Canada, is a prominent venue for UFC events. It has hosted several high-profile UFC fights, including UFC 129 in 2011, which set a North American attendance record of 55,724 spectators. The venue has also witnessed other notable events, such as UFC 206 in 2016, featuring a memorable featherweight title fight between Max Holloway and Anthony Pettis."
+  },
+  {
+    "Id": "VENUE_8",
+    "Title": "Allphones Arena",
+    "Description": "Allphones Arena, located in Sydney Olympic Park, Australia, is a multi-purpose indoor arena that has hosted several UFC events. It has a seating capacity of 21,000 and has been a popular venue for UFC fights since its opening in 1999. Notable UFC events held at Allphones Arena include UFC 127 in 2011 and UFC Fight Night: Rockhold vs. Bisping in 2014."
+  },
+  {
+    "Id": "VENUE_9",
+    "Title": "Allstate Arena",
+    "Description": "The Allstate Arena, located in Rosemont, Illinois, has been a prominent venue for UFC events. Since its first UFC event in 1994, the arena has hosted numerous high-profile fights, including championship bouts and memorable matchups. With a seating capacity of over 18,000, the Allstate Arena continues to attract passionate MMA fans from around the world."
+  },
+  {
+    "Id": "VENUE_10",
+    "Title": "Amalie Arena",
+    "Description": "The Amalie Arena is a multi-purpose indoor venue located in Tampa, Florida, United States. It has hosted several UFC events, including UFC on Fox: Teixeira vs. Evans in 2012, UFC on Fox: Johnson vs. Dodson in 2013, and UFC Fight Night: dos Anjos vs. Cerrone 2 in 2015. The arena has a seating capacity of approximately 20,500 for UFC events."
+  },
+  {
+    "Id": "VENUE_11",
+    "Title": "American Airlines Center",
+    "Description": "The American Airlines Center is a multi-purpose arena located in Dallas, Texas. It has hosted several UFC events, including UFC 103 in 2009, UFC 171 in 2014, and UFC 185 in 2015. The venue has a seating capacity of approximately 20,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_12",
+    "Title": "AmericanAirlines Arena",
+    "Description": "The AmericanAirlines Arena is a multi-purpose indoor arena located in Miami, Florida. It has hosted several UFC events, including UFC 42 in 2003, UFC 47 in 2004, and UFC 146 in 2012. The arena has a seating capacity of approximately 19,600 and is known for its state-of-the-art facilities and modern design."
+  },
+  {
+    "Id": "VENUE_13",
+    "Title": "Amway Center",
+    "Description": "The Amway Center is a multi-purpose indoor arena located in Orlando, Florida, United States. It has hosted several UFC events, including UFC on Fox: dos Anjos vs. Cerrone 2 in 2015 and UFC on Fox: dos Santos vs. Miocic in 2014. The venue offers state-of-the-art facilities and has a seating capacity of approximately 20,000 for UFC events."
+  },
+  {
+    "Id": "VENUE_14",
+    "Title": "Antel Arena",
+    "Description": "The Antel Arena is a multi-purpose indoor arena located in Montevideo, Uruguay. It has hosted several UFC events since its opening in 2018, including UFC Fight Night: Shevchenko vs. Carmouche 2 in 2019 and UFC Fight Night: Rodr\u00EDguez vs. Stephens in 2020. The venue offers state-of-the-art facilities and has a seating capacity of approximately 10,000 spectators."
+  },
+  {
+    "Id": "VENUE_15",
+    "Title": "ARCO Arena",
+    "Description": "ARCO Arena, located in Sacramento, California, has been a prominent venue for UFC events. It hosted its first UFC event, UFC 65, on November 18, 2006, featuring a welterweight championship bout between Georges St-Pierre and Matt Hughes. Since then, ARCO Arena has continued to host several UFC events, showcasing top-tier fighters and thrilling matchups in the world of mixed martial arts."
+  },
+  {
+    "Id": "VENUE_16",
+    "Title": "Arena at Gwinnett Center",
+    "Description": "The Arena at Gwinnett Center is a multi-purpose indoor arena located in Duluth, Georgia, United States. It has hosted several UFC events, including UFC Fight Night: Rockhold vs. Philippou in 2014 and UFC Fight Night: Machida vs. Romero in 2015. The venue has a seating capacity of approximately 13,000 and offers state-of-the-art facilities for mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_17",
+    "Title": "Arena Ciudad de M\u00E9xico",
+    "Description": "The Arena Ciudad de M\u00E9xico is a multi-purpose indoor arena located in Mexico City, Mexico. It has hosted several UFC events, including UFC 180 in 2014, where Fabricio Werdum defeated Mark Hunt to become the interim UFC Heavyweight Champion. The venue\u0027s capacity of 22,300 spectators and state-of-the-art facilities make it an ideal location for high-profile UFC fights."
+  },
+  {
+    "Id": "VENUE_18",
+    "Title": "Arena da Baixada",
+    "Description": "Arena da Baixada is a multi-purpose stadium located in Curitiba, Brazil. It has hosted several UFC events, including UFC 198 in 2016, which featured a heavyweight title fight between Fabricio Werdum and Stipe Miocic. The venue\u0027s capacity of 42,372 spectators and state-of-the-art facilities make it a popular choice for UFC events in South America."
+  },
+  {
+    "Id": "VENUE_19",
+    "Title": "Arena Guilherme Paraense",
+    "Description": "Arena Guilherme Paraense, located in Bel\u00E9m, Brazil, is a prominent UFC venue. It has hosted several UFC events, including UFC Fight Night: Machida vs. Anders in 2018 and UFC Fight Night: Assun\u00E7\u00E3o vs. Moraes 2 in 2019. With a seating capacity of 10,000, this arena provides an electrifying atmosphere for MMA enthusiasts and has become a popular destination for UFC events in the region."
+  },
+  {
+    "Id": "VENUE_20",
+    "Title": "Arena Jaragu\u00E1",
+    "Description": "Arena Jaragu\u00E1 is a multi-purpose indoor arena located in Jaragu\u00E1 do Sul, Brazil. It has hosted several UFC events, including UFC on FX: Belfort vs. Bisping in 2013 and UFC Fight Night: Machida vs. Mousasi in 2014. The venue has a seating capacity of approximately 15,000 and offers state-of-the-art facilities for combat sports events."
+  },
+  {
+    "Id": "VENUE_21",
+    "Title": "Arena Monterrey",
+    "Description": "Arena Monterrey is a multi-purpose indoor arena located in Monterrey, Mexico. It has hosted several UFC events, including UFC Fight Night: Magny vs. Gastelum in November 2015 and UFC Fight Night: Pettis vs. Moreno in August 2017. The venue has a seating capacity of approximately 17,599 and offers state-of-the-art facilities for combat sports enthusiasts."
+  },
+  {
+    "Id": "VENUE_22",
+    "Title": "Arena Zagreb",
+    "Description": "Arena Zagreb is a multi-purpose indoor arena located in Zagreb, Croatia. Since its opening in 2008, it has hosted several UFC events, including UFC Fight Night: Rothwell vs. Dos Santos in 2016 and UFC Fight Night: Lewis vs. Hunt in 2017. With a seating capacity of 15,200, the venue provides a state-of-the-art facility for mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_23",
+    "Title": "Arrowhead Pond of Anaheim",
+    "Description": "The Arrowhead Pond of Anaheim, located in Anaheim, California, has been a prominent venue for UFC events. It has hosted several high-profile UFC fights, including UFC 59: Reality Check in 2006, UFC 63: Hughes vs. Penn in 2006, and UFC 76: Knockout in 2007. With a seating capacity of over 17,000, the venue offers a spacious and electrifying atmosphere for UFC fans."
+  },
+  {
+    "Id": "VENUE_24",
+    "Title": "AT\u0026T Center",
+    "Description": "The AT\u0026T Center is a multi-purpose indoor arena located in San Antonio, Texas, United States. It has hosted several UFC events, including UFC Fight Night: Swanson vs. Stephens in 2014 and UFC Fight Night: Dos Anjos vs. Cerrone 2 in 2015. The venue has a seating capacity of approximately 18,000 for mixed martial arts events."
+  },
+  {
+    "Id": "VENUE_25",
+    "Title": "Augusta Civic Center",
+    "Description": "The Augusta Civic Center is a multi-purpose arena located in Augusta, Maine. While primarily used for concerts, trade shows, and sporting events, it has also hosted several UFC events. Notable UFC events held at the venue include UFC Fight Night: Bader vs. Nogueira 2 in 2016 and UFC Fight Night: Swanson vs. Lobov in 2017."
+  },
+  {
+    "Id": "VENUE_26",
+    "Title": "Avenir Centre",
+    "Description": "The Avenir Centre is a multi-purpose arena located in Moncton, New Brunswick, Canada. It has hosted one UFC event to date, UFC Fight Night: Volkan vs. Smith, on October 27, 2018. The event featured a main event bout between light heavyweight contenders Volkan Oezdemir and Anthony Smith, with Smith emerging victorious via submission in the third round."
+  },
+  {
+    "Id": "VENUE_27",
+    "Title": "Baltimore Arena",
+    "Description": "The Baltimore Arena, located in Baltimore, Maryland, has hosted several UFC events. In 2014, it hosted UFC 172, headlined by Jon Jones vs. Glover Teixeira for the light heavyweight title. In 2015, it hosted UFC 181, featuring Robbie Lawler vs. Johny Hendricks for the welterweight title. The venue has provided a platform for thrilling UFC fights, attracting fans from across the region."
+  },
+  {
+    "Id": "VENUE_28",
+    "Title": "BankAtlantic Center",
+    "Description": "The BankAtlantic Center, located in Sunrise, Florida, has been a prominent venue for UFC events. It has hosted several high-profile UFC fights, including UFC 106: Ortiz vs. Griffin 2 in 2009 and UFC on FX: Johnson vs. McCall in 2012. With a seating capacity of over 20,000, the arena offers a state-of-the-art facility for mixed martial arts enthusiasts."
+  },
+  {
+    "Id": "VENUE_29",
+    "Title": "Bankers Life Fieldhouse",
+    "Description": "Bankers Life Fieldhouse, located in Indianapolis, Indiana, is a renowned venue for UFC events. Since its opening in 1999, it has hosted several thrilling UFC fights, including UFC 119 in 2010, featuring Frank Mir vs. Mirko Cro Cop. With a seating capacity of over 17,000, Bankers Life Fieldhouse continues to attract fans from around the world to witness the excitement of UFC competitions."
+  },
+  {
+    "Id": "VENUE_30",
+    "Title": "Barclaycard Arena",
+    "Description": "The Barclaycard Arena, located in Birmingham, England, has hosted several UFC events. In 2014, it hosted UFC Fight Night: Bisping vs. Leites, featuring a middleweight bout between Michael Bisping and Thales Leites. The venue also hosted UFC Fight Night: Nelson vs. Ponzinibbio in 2017, headlined by a welterweight clash between Gunnar Nelson and Santiago Ponzinibbio."
+  },
+  {
+    "Id": "VENUE_31",
+    "Title": "Barclays Center",
+    "Description": "The Barclays Center is a multi-purpose indoor arena located in Brooklyn, New York City. Since its opening in 2012, it has hosted several UFC events, including UFC 208 in 2017, which featured the inaugural women\u0027s featherweight title fight. The venue has also hosted other notable UFC events, showcasing top-ranked fighters and attracting a large audience."
+  },
+  {
+    "Id": "VENUE_32",
+    "Title": "BB\u0026T Center",
+    "Description": "The BB\u0026T Center is a multi-purpose arena located in Sunrise, Florida, United States. It has hosted several UFC events, including UFC on FX: Johnson vs. McCall in 2012, UFC on Fox: Jacar\u00E9 vs. Brunson 2 in 2018, and UFC Fight Night: Rodr\u00EDguez vs. Waterson in 2021. The venue offers a seating capacity of approximately 20,000 for UFC events and has become a popular destination for mixed martial arts fans in the region."
+  },
+  {
+    "Id": "VENUE_33",
+    "Title": "Bell Centre",
+    "Description": "The Bell Centre is a multi-purpose arena located in Montreal, Quebec, Canada. It has been a prominent venue for UFC events, hosting several high-profile fights since 2008. Notable events include UFC 83, where Georges St-Pierre became the first Canadian to win a UFC title, and UFC 124, featuring St-Pierre defending his welterweight championship against Josh Koscheck. The Bell Centre continues to be a popular choice for UFC events due to its capacity and fan support."
+  },
+  {
+    "Id": "VENUE_34",
+    "Title": "Bell MTS Place",
+    "Description": "Bell MTS Place is a multi-purpose arena located in Winnipeg, Manitoba, Canada. It has hosted several UFC events, including UFC 161 in 2013, which featured a main event between Rashad Evans and Dan Henderson. The venue has also hosted UFC on Fox 26 in 2017, headlined by a welterweight bout between Robbie Lawler and Rafael dos Anjos. Bell MTS Place has a seating capacity of approximately 15,000 for UFC events."
+  },
+  {
+    "Id": "VENUE_35",
+    "Title": "Bellagio",
+    "Description": "The Bellagio is a luxury hotel and casino located in Las Vegas, Nevada, United States. While it is renowned for its entertainment offerings, it has not hosted any UFC events in its history. The venue primarily focuses on providing a high-end resort experience to its guests, featuring world-class amenities, including a casino, restaurants, and a renowned fountain show."
+  },
+  {
+    "Id": "VENUE_36",
+    "Title": "Blue Cross Arena",
+    "Description": "The Blue Cross Arena, located in Rochester, New York, has hosted several UFC events since its opening in 1955. Notable UFC events held at this venue include UFC Fight Night: Lewis vs. Abdurakhimov in 2016 and UFC Fight Night: dos Anjos vs. Lee in 2019. With a seating capacity of approximately 11,215, the arena provides a suitable setting for thrilling UFC bouts."
+  },
+  {
+    "Id": "VENUE_37",
+    "Title": "BMO Harris Bradley Center",
+    "Description": "The BMO Harris Bradley Center was a multi-purpose arena located in Milwaukee, Wisconsin, United States. It served as a venue for several UFC events, including UFC Live: Hardy vs. Lytle in 2011 and UFC 164: Henderson vs. Pettis in 2013. The arena had a seating capacity of approximately 18,000 for mixed martial arts events."
+  },
+  {
+    "Id": "VENUE_38",
+    "Title": "Boardwalk Hall",
+    "Description": "Boardwalk Hall is a multi-purpose venue located in Atlantic City, New Jersey, United States. It has hosted several UFC events, including UFC 53 in 2005, UFC Fight Night: Barboza vs. Lee in 2018, and UFC Fight Night: Covington vs. Lawler in 2019. With a seating capacity of over 14,000, Boardwalk Hall continues to be a popular destination for UFC fans and fighters alike."
+  },
+  {
+    "Id": "VENUE_39",
+    "Title": "Bojangles Coliseum",
+    "Description": "Bojangles Coliseum is a multi-purpose arena located in Charlotte, North Carolina, USA. It has hosted several UFC events, including UFC Fight Night: Jacar\u00E9 vs. Brunson 2 in 2018 and UFC on ESPN: Blaydes vs. dos Santos in 2020. With a seating capacity of approximately 8,600, the venue offers a suitable setting for thrilling UFC bouts."
+  },
+  {
+    "Id": "VENUE_40",
+    "Title": "BOK Center",
+    "Description": "The BOK Center is a multi-purpose arena located in Tulsa, Oklahoma, United States. Since its opening in 2008, it has hosted several UFC events, including UFC Fight Night: Henderson vs. dos Anjos in 2015 and UFC Fight Night: Chiesa vs. Magny in 2021. The venue has a seating capacity of approximately 19,199 for mixed martial arts events."
+  },
+  {
+    "Id": "VENUE_41",
+    "Title": "Bon Secours Wellness Arena",
+    "Description": "The Bon Secours Wellness Arena is a multi-purpose venue located in Greenville, South Carolina, United States. It has hosted several UFC events, including UFC Fight Night: Korean Zombie vs. Rodriguez in 2021 and UFC Fight Night: Stephens vs. Choi in 2018. The arena offers a seating capacity of approximately 15,000 spectators and has become a popular destination for UFC fans in the region."
+  },
+  {
+    "Id": "VENUE_42",
+    "Title": "Boutwell Memorial Auditorium",
+    "Description": "Boutwell Memorial Auditorium is a multi-purpose venue located in Birmingham, Alabama, United States. It has hosted several UFC events, including UFC Fight Night: Shogun vs. Sonnen in 2013 and UFC Fight Night: Johnson vs. Saint Preux in 2015. The auditorium offers a seating capacity of approximately 5,000 and has been a popular choice for UFC events in the region."
+  },
+  {
+    "Id": "VENUE_43",
+    "Title": "Bradley Center",
+    "Description": "The Bradley Center was a multi-purpose arena located in Milwaukee, Wisconsin, United States. It served as a venue for several UFC events, including UFC Live: Hardy vs. Lytle in 2011 and UFC 164: Henderson vs. Pettis in 2013. The arena had a seating capacity of approximately 18,000 for mixed martial arts events."
+  },
+  {
+    "Id": "VENUE_44",
+    "Title": "Bridgestone Arena",
+    "Description": "The Bridgestone Arena is a multi-purpose indoor venue located in Nashville, Tennessee, United States. It has hosted several UFC events, including UFC Fight Night: Swanson vs. Lobov in 2017 and UFC Fight Night: Thompson vs. Pettis in 2019. The arena has a seating capacity of approximately 17,500 for mixed martial arts events and offers state-of-the-art facilities for both fighters and spectators."
+  },
+  {
+    "Id": "VENUE_45",
+    "Title": "Brisbane Entertainment Centre",
+    "Description": "The Brisbane Entertainment Centre is a multi-purpose indoor arena located in Boondall, Brisbane, Australia. It has hosted several UFC events, including UFC Fight Night: Hunt vs. Mir in 2016 and UFC Fight Night: dos Santos vs. Tuivasa in 2018. The venue has a seating capacity of approximately 13,000 and offers state-of-the-art facilities for combat sports events."
+  },
+  {
+    "Id": "VENUE_46",
+    "Title": "Broomfield Event Center",
+    "Description": "The Broomfield Event Center, located in Broomfield, Colorado, has hosted several UFC events. It first hosted UFC Fight Night: Florian vs. Lauzon on April 2, 2008. Since then, it has been a popular venue for UFC events, including UFC Fight Night: Henderson vs. Thatch on February 14, 2015, and UFC Fight Night: Korean Zombie vs. Rodriguez on November 10, 2018."
+  },
+  {
+    "Id": "VENUE_47",
+    "Title": "Buffalo Memorial Auditorium",
+    "Description": "The Buffalo Memorial Auditorium, located in Buffalo, New York, served as a venue for several UFC events. It hosted UFC 7 on September 8, 1995, where Marco Ruas emerged as the tournament champion. Additionally, UFC 34 took place on November 2, 2001, featuring a title fight between Randy Couture and Pedro Rizzo. The venue\u0027s rich history in hosting UFC events contributed to its significance in the sport\u0027s early years."
+  },
+  {
+    "Id": "VENUE_48",
+    "Title": "Cadillac Arena",
+    "Description": "The Cadillac Arena, located in Beijing, China, is a multi-purpose indoor arena that has hosted several UFC events. It made its debut as a UFC venue on November 24, 2018, with UFC Fight Night: Blaydes vs. Ngannou 2. Since then, it has been a popular destination for UFC events, showcasing thrilling fights and attracting a large audience."
+  },
+  {
+    "Id": "VENUE_49",
+    "Title": "Canadian Tire Centre",
+    "Description": "The Canadian Tire Centre is a multi-purpose indoor arena located in Ottawa, Ontario, Canada. It has hosted several UFC events since its opening in 1996, including UFC 161 in 2013 and UFC Fight Night: MacDonald vs. Thompson in 2016. The venue has a seating capacity of approximately 18,500 for mixed martial arts events."
+  },
+  {
+    "Id": "VENUE_50",
+    "Title": "Capital FM Arena",
+    "Description": "The Capital FM Arena, located in Nottingham, England, has hosted several UFC events. It first hosted UFC on Fuel TV: Struve vs. Miocic on September 29, 2012, followed by UFC Fight Night: Machida vs. Mu\u00F1oz on October 26, 2013. The venue has also been the site for UFC Fight Night: Gonzaga vs. Cro Cop 2 on April 10, 2015, and UFC Fight Night: Till vs. Masvidal on March 16, 2019."
+  },
+  {
+    "Id": "VENUE_51",
+    "Title": "Capital One Arena",
+    "Description": "The Capital One Arena, located in Washington, D.C., has been a prominent venue for UFC events. It has hosted several high-profile fights, including UFC on Versus 6 in 2011, UFC on ESPN 7 in 2019, and UFC Fight Night 112 in 2022. With a seating capacity of over 20,000, the arena offers a state-of-the-art facility for mixed martial arts enthusiasts."
+  },
+  {
+    "Id": "VENUE_52",
+    "Title": "Casino Magic Bay St. Louis",
+    "Description": "Casino Magic Bay St. Louis is a former casino and hotel located in Bay St. Louis, Mississippi, United States. The venue hosted two UFC events in its history. UFC 37: High Impact took place on May 10, 2002, and UFC 47: It\u0027s On! was held on April 2, 2004. These events featured notable fighters and showcased various mixed martial arts disciplines."
+  },
+  {
+    "Id": "VENUE_53",
+    "Title": "Casper Events Center",
+    "Description": "The Casper Events Center is a multi-purpose arena located in Casper, Wyoming, United States. It has hosted several UFC events, including UFC Fight Night: Rothwell vs. Dos Santos in 2016 and UFC Fight Night: Rodriguez vs. Penn in 2017. The venue offers a seating capacity of approximately 10,000 and has become a popular destination for UFC fans in the region."
+  },
+  {
+    "Id": "VENUE_54",
+    "Title": "Centro de Forma\u00E7\u00E3o Ol\u00EDmpica do Nordeste",
+    "Description": "The Centro de Forma\u00E7\u00E3o Ol\u00EDmpica do Nordeste, located in Fortaleza, Brazil, is a state-of-the-art venue that has hosted several UFC events. It made its debut as a UFC venue in 2013, hosting UFC on Fuel TV: Nogueira vs. Werdum. Since then, it has been a popular choice for UFC events, showcasing thrilling fights and attracting a passionate crowd."
+  },
+  {
+    "Id": "VENUE_55",
+    "Title": "CenturyLink Arena",
+    "Description": "CenturyLink Arena is a multi-purpose indoor venue located in Boise, Idaho, United States. It has hosted several UFC events, including UFC Fight Night: dos Santos vs. Ivanov in 2018, which marked the first UFC event held in Idaho. The arena has a seating capacity of approximately 5,000 and offers state-of-the-art facilities for combat sports competitions."
+  },
+  {
+    "Id": "VENUE_56",
+    "Title": "CenturyTel Center",
+    "Description": "The CenturyTel Center, located in Bossier City, Louisiana, has hosted several UFC events. Notable events include UFC Fight Night: Stout vs. Fisher in 2007, UFC Fight Night: Condit vs. Kampmann 2 in 2013, and UFC Fight Night: Swanson vs. Lobov in 2017. The venue has provided a platform for thrilling mixed martial arts bouts, attracting both local and international fighters."
+  },
+  {
+    "Id": "VENUE_57",
+    "Title": "Chartway Arena",
+    "Description": "Chartway Arena, located in Norfolk, Virginia, is a renowned venue for UFC events. It has hosted several thrilling UFC fights, including UFC Fight Night: Poirier vs. Pettis in 2017 and UFC Fight Night: Korean Zombie vs. Rodr\u00EDguez in 2018. With its state-of-the-art facilities and capacity to accommodate thousands of spectators, Chartway Arena continues to be a popular choice for UFC events in the region."
+  },
+  {
+    "Id": "VENUE_58",
+    "Title": "Chesapeake Energy Arena",
+    "Description": "The Chesapeake Energy Arena, located in Oklahoma City, Oklahoma, is a prominent venue for UFC events. It has hosted several thrilling UFC fights, including UFC Fight Night: Chiesa vs. Lee in 2017 and UFC Fight Night: Swanson vs. Lobov in 2017. With a seating capacity of over 18,000, the arena provides an electrifying atmosphere for MMA enthusiasts."
+  },
+  {
+    "Id": "VENUE_59",
+    "Title": "Cobo Arena",
+    "Description": "Cobo Arena is a multi-purpose indoor venue located in Detroit, Michigan, United States. It has hosted several UFC events, including UFC 9: Motor City Madness in 1996 and UFC 123: Rampage vs. Machida in 2010. With a seating capacity of approximately 12,000, Cobo Arena has been a popular choice for UFC events in the past."
+  },
+  {
+    "Id": "VENUE_60",
+    "Title": "Colis\u00E9e Pepsi",
+    "Description": "The Colis\u00E9e Pepsi is a multi-purpose arena located in Quebec City, Canada. It has hosted several UFC events, including UFC 97: Redemption in 2009, where Anderson Silva defended his middleweight title against Thales Leites. The venue\u0027s capacity is approximately 15,176 for UFC events, providing a suitable setting for high-profile mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_61",
+    "Title": "Coliseo Rub\u00E9n Rodr\u00EDguez",
+    "Description": "The Coliseo Rub\u00E9n Rodr\u00EDguez is a multi-purpose indoor arena located in Bayam\u00F3n, Puerto Rico. It has hosted several UFC events, including UFC 8: David vs. Goliath in 1996 and UFC 39: The Warriors Return in 2002. The venue has a seating capacity of approximately 10,000 and offers a state-of-the-art facility for mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_62",
+    "Title": "Concert Arena, Yas Island",
+    "Description": "The Concert Arena, located on Yas Island, Abu Dhabi, has been a prominent venue for UFC events. Since its inception, the arena has hosted numerous high-profile UFC fights, including championship bouts and international fight nights. Its state-of-the-art facilities and capacity to accommodate large crowds have made it a preferred destination for UFC events in the Middle East."
+  },
+  {
+    "Id": "VENUE_63",
+    "Title": "Conseco Fieldhouse",
+    "Description": "Conseco Fieldhouse, located in Indianapolis, Indiana, has hosted several notable UFC events. In 2010, UFC 119 took place at the venue, featuring a heavyweight bout between Frank Mir and Mirko Cro Cop. Additionally, UFC Fight Night: Condit vs. Kampmann 2 was held at Conseco Fieldhouse in 2013, showcasing a welterweight clash between Carlos Condit and Martin Kampmann. The venue\u0027s capacity of approximately 17,923 spectators provides an electrifying atmosphere for UFC events."
+  },
+  {
+    "Id": "VENUE_64",
+    "Title": "Consol Energy Center",
+    "Description": "The Consol Energy Center, located in Pittsburgh, Pennsylvania, has hosted several UFC events. It first hosted UFC on Versus 4 in 2011, followed by UFC Fight Night 83 in 2016. Notable fights include Cheick Kongo vs. Pat Barry and Donald Cerrone vs. Alex Oliveira. The venue\u0027s capacity is approximately 19,000 and it is home to the Pittsburgh Penguins of the NHL."
+  },
+  {
+    "Id": "VENUE_65",
+    "Title": "Continental Airlines Arena",
+    "Description": "Continental Airlines Arena, located in East Rutherford, New Jersey, served as a prominent venue for several UFC events. It hosted UFC 32 in 2001, where Tito Ortiz defended his light heavyweight title against Elvis Sinosic. Additionally, UFC 78 took place at this venue in 2007, featuring a main event between Michael Bisping and Rashad Evans. The arena\u0027s capacity of approximately 20,000 spectators made it an ideal location for these high-profile UFC events."
+  },
+  {
+    "Id": "VENUE_66",
+    "Title": "CotaiArena",
+    "Description": "The CotaiArena is a multi-purpose indoor arena located in Cotai, Macau, China. It has hosted several UFC events, including UFC Fight Night: Bisping vs. Le in 2014 and UFC Fight Night: Kim vs. Hathaway in 2014. These events showcased a mix of local and international fighters, attracting a global audience. The venue\u0027s state-of-the-art facilities and capacity to accommodate large crowds make it an ideal location for UFC events."
+  },
+  {
+    "Id": "VENUE_67",
+    "Title": "Cox Convention Center",
+    "Description": "The Cox Convention Center is a multi-purpose arena located in Oklahoma City, Oklahoma, United States. It has hosted several UFC events, including UFC Fight Night: Diaz vs. Guillard in 2009 and UFC Fight Night: Chiesa vs. Lee in 2017. The venue has a seating capacity of approximately 13,000 and offers state-of-the-art facilities for various sporting and entertainment events."
+  },
+  {
+    "Id": "VENUE_68",
+    "Title": "Cox Pavilion",
+    "Description": "The Cox Pavilion is a multi-purpose indoor arena located in Paradise, Nevada, United States. While primarily used for basketball and volleyball events, it has also hosted several UFC events. Notable UFC events held at the venue include The Ultimate Fighter 1 Finale in 2005 and UFC Fight Night: Diaz vs. Guillard in 2009. The Cox Pavilion has a seating capacity of approximately 2,500 spectators."
+  },
+  {
+    "Id": "VENUE_69",
+    "Title": "Cross Insurance Center",
+    "Description": "The Cross Insurance Center is a multi-purpose arena located in Bangor, Maine, United States. It has hosted several UFC events, including UFC Fight Night: Bader vs. St. Preux on August 16, 2014, and UFC Fight Night: Rivera vs. Moraes on June 1, 2018. The venue offers a seating capacity of approximately 8,000 spectators and has become a popular destination for UFC fans in the region."
+  },
+  {
+    "Id": "VENUE_70",
+    "Title": "Crown Coliseum",
+    "Description": "The Crown Coliseum is a multi-purpose arena located in Fayetteville, North Carolina. It has hosted several UFC events, including UFC Fight Night: Florian vs. Gomi in 2010 and UFC Fight Night: Jacar\u00E9 vs. Brunson 2 in 2018. The venue offers a seating capacity of approximately 10,000 and has been a popular choice for UFC events in the region."
+  },
+  {
+    "Id": "VENUE_71",
+    "Title": "CSKA Arena",
+    "Description": "CSKA Arena, located in Moscow, Russia, is a prominent venue for Ultimate Fighting Championship (UFC) events. Since its opening in 2015, the arena has hosted several high-profile UFC events, including UFC Fight Night: Hunt vs. Oleinik in 2018 and UFC Fight Night: Volkov vs. Overeem in 2020. With a seating capacity of over 12,000, CSKA Arena continues to attract MMA enthusiasts from around the world."
+  },
+  {
+    "Id": "VENUE_72",
+    "Title": "Denny Sanford Premier Center",
+    "Description": "The Denny Sanford Premier Center is a multi-purpose arena located in Sioux Falls, South Dakota, United States. Since its opening in 2014, the venue has hosted several UFC events, including UFC Fight Night: McDonald vs. Lineker in 2016 and UFC Fight Night: Rodriguez vs. Caceres in 2016. The arena has a seating capacity of approximately 12,000 for UFC events."
+  },
+  {
+    "Id": "VENUE_73",
+    "Title": "Differ Ariake Arena",
+    "Description": "Differ Ariake Arena is a multi-purpose indoor venue located in Tokyo, Japan. It has hosted several UFC events, including UFC Fight Night: Barnett vs. Nelson in 2015 and UFC Fight Night: Edgar vs. The Korean Zombie in 2019. The arena offers a seating capacity of approximately 10,000 spectators and has become a popular destination for mixed martial arts enthusiasts in the region."
+  },
+  {
+    "Id": "VENUE_74",
+    "Title": "Dothan Civic Center",
+    "Description": "The Dothan Civic Center is a multi-purpose arena located in Dothan, Alabama. While primarily used for concerts and sporting events, it has also hosted several UFC events. Notable UFC events held at the venue include UFC Fight Night: Dothan in 2007 and UFC Fight Night: Dothan 2 in 2010. The Dothan Civic Center has a seating capacity of approximately 3,000 spectators."
+  },
+  {
+    "Id": "VENUE_75",
+    "Title": "du Arena",
+    "Description": "The du Arena is a multi-purpose venue located in Abu Dhabi, United Arab Emirates. It has hosted several UFC events, including UFC 112 in 2010, which featured the first-ever outdoor event in UFC history. The du Arena has also hosted UFC Fight Island events during the COVID-19 pandemic, providing a secure and controlled environment for fighters and staff."
+  },
+  {
+    "Id": "VENUE_76",
+    "Title": "du Forum",
+    "Description": "The du Forum is an indoor venue located in Abu Dhabi, United Arab Emirates. It has hosted several UFC events, including UFC Fight Night: Nogueira vs. Nelson in 2014 and UFC Fight Night: Nogueira vs. Davis in 2015. The du Forum offers a spacious setting for mixed martial arts enthusiasts to witness thrilling UFC bouts in the heart of Abu Dhabi."
+  },
+  {
+    "Id": "VENUE_77",
+    "Title": "Echo Arena",
+    "Description": "The Echo Arena is a multi-purpose indoor venue located in Liverpool, England. It has hosted several UFC events, including UFC Fight Night: Thompson vs. Till in 2018, which marked the first UFC event held in Liverpool. The venue has a seating capacity of approximately 11,000 and offers state-of-the-art facilities for combat sports competitions."
+  },
+  {
+    "Id": "VENUE_78",
+    "Title": "Ergo Arena",
+    "Description": "The Ergo Arena is a multi-purpose indoor venue located in Gda\u0144sk, Poland. It has hosted several UFC events, including UFC Fight Night: Gonzaga vs. Cro Cop 2 in 2015 and UFC Fight Night: Till vs. Thompson in 2018. With a seating capacity of 11,409, the Ergo Arena provides a state-of-the-art facility for mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_79",
+    "Title": "Ericsson Globe",
+    "Description": "The Ericsson Globe, located in Stockholm, Sweden, is a renowned venue for UFC events. It has hosted several notable UFC fights, including UFC on Fuel TV: Gustafsson vs. Silva in 2012 and UFC Fight Night: Gustafsson vs. Manuwa in 2014. With a seating capacity of 16,000, the Ericsson Globe continues to attract fans from around the world for thrilling UFC matchups."
+  },
+  {
+    "Id": "VENUE_80",
+    "Title": "Ericsson Globe Arena",
+    "Description": "The Ericsson Globe Arena, located in Stockholm, Sweden, has been a prominent venue for UFC events. It hosted its first UFC event, UFC on Fuel TV: Gustafsson vs. Silva, on April 14, 2012. Since then, the arena has witnessed several thrilling fights, including UFC on Fuel TV: Mousasi vs. Latifi and UFC Fight Night: Gustafsson vs. Manuwa. With a seating capacity of 16,000, the Ericsson Globe Arena continues to be a popular choice for UFC events in Europe."
+  },
+  {
+    "Id": "VENUE_81",
+    "Title": "Ernest N. Morial Convention Center",
+    "Description": "The Ernest N. Morial Convention Center, located in New Orleans, Louisiana, has hosted several UFC events. Notable events include UFC Fight Night: Boetsch vs. Henderson in 2016 and UFC Fight Night: Johnson vs. Bader in 2016. The venue offers a spacious and versatile setting for UFC fights, accommodating large crowds and providing state-of-the-art facilities for both fighters and spectators."
+  },
+  {
+    "Id": "VENUE_82",
+    "Title": "Estadio Mary Ter\u00E1n de Weiss",
+    "Description": "Estadio Mary Ter\u00E1n de Weiss is a multi-purpose stadium located in Buenos Aires, Argentina. It has hosted several UFC events, including UFC Fight Night: Magny vs. Ponzinibbio in 2018. The venue has a seating capacity of 14,000 and offers state-of-the-art facilities for both athletes and spectators. It continues to be a popular choice for UFC events in South America."
+  },
+  {
+    "Id": "VENUE_83",
+    "Title": "Etihad Arena",
+    "Description": "The Etihad Arena is a multi-purpose indoor venue located on Yas Island in Abu Dhabi, United Arab Emirates. Since its opening in 2020, it has hosted several UFC events, including UFC 251, UFC Fight Island 3, and UFC 257. The arena offers state-of-the-art facilities and has become a popular destination for mixed martial arts enthusiasts worldwide."
+  },
+  {
+    "Id": "VENUE_84",
+    "Title": "Etihad Stadium",
+    "Description": "Etihad Stadium, located in Melbourne, Australia, is a multi-purpose venue that has hosted several UFC events. Notable events include UFC 193 in 2015, which set a record for the largest attendance in UFC history with over 56,000 spectators. The stadium\u0027s state-of-the-art facilities and retractable roof make it an ideal location for hosting high-profile mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_85",
+    "Title": "Expo Square Pavilion",
+    "Description": "The Expo Square Pavilion is a multi-purpose venue located in Tulsa, Oklahoma, United States. It has hosted several UFC events, including UFC Fight Night: Chiesa vs. Magny in January 2021. The Pavilion offers a spacious indoor setting for mixed martial arts competitions, accommodating a large number of spectators and providing a suitable environment for high-level UFC fights."
+  },
+  {
+    "Id": "VENUE_86",
+    "Title": "Fair Park Arena",
+    "Description": "Fair Park Arena is a multi-purpose indoor venue located in Dallas, Texas. It has hosted several UFC events, including UFC 103 in 2009, where Vitor Belfort defeated Rich Franklin in the main event. The arena\u0027s capacity of 8,000 spectators provides an intimate setting for thrilling mixed martial arts action."
+  },
+  {
+    "Id": "VENUE_87",
+    "Title": "FedExForum",
+    "Description": "The FedExForum is a multi-purpose arena located in Memphis, Tennessee, United States. It has hosted several UFC events, including UFC 107 in 2009, where BJ Penn defended his lightweight title against Diego Sanchez. Additionally, the venue hosted UFC Fight Night: Swanson vs. Lobov in 2017, headlined by a featherweight bout between Cub Swanson and Artem Lobov."
+  },
+  {
+    "Id": "VENUE_88",
+    "Title": "Fiserv Forum",
+    "Description": "The Fiserv Forum is a multi-purpose arena located in Milwaukee, Wisconsin, United States. It has hosted several UFC events, including UFC on ESPN: Barboza vs. Gaethje in 2019 and UFC 164: Henderson vs. Pettis in 2013. The venue offers state-of-the-art facilities and has a seating capacity of approximately 17,500 for UFC events."
+  },
+  {
+    "Id": "VENUE_89",
+    "Title": "Five Seasons Events Center",
+    "Description": "The Five Seasons Events Center is a multi-purpose venue located in Cedar Rapids, Iowa. It has hosted several UFC events, including UFC Fight Night: Rothwell vs. Dos Santos in 2016 and UFC Fight Night: Gaethje vs. Vick in 2018. The center offers state-of-the-art facilities and has become a popular destination for mixed martial arts enthusiasts in the region."
+  },
+  {
+    "Id": "VENUE_90",
+    "Title": "Footprint Center",
+    "Description": "The Footprint Center, located in Phoenix, Arizona, is a multi-purpose indoor arena that has hosted several UFC events. Notable events held at this venue include UFC on Fox: dos Santos vs. Miocic in 2014, UFC Fight Night: Rodr\u00EDguez vs. Penn in 2017, and UFC Fight Night: Overeem vs. Sakai in 2020. The arena has a seating capacity of approximately 18,422 for UFC events."
+  },
+  {
+    "Id": "VENUE_91",
+    "Title": "Fort Campbell",
+    "Description": "Fort Campbell is a United States Army installation located on the Kentucky-Tennessee border. While not traditionally known for hosting UFC events, Fort Campbell has occasionally served as a venue for military-themed UFC Fight Nights. These events have showcased the skills of both active-duty military personnel and professional fighters, providing a unique and patriotic atmosphere for spectators."
+  },
+  {
+    "Id": "VENUE_92",
+    "Title": "Fort Hood",
+    "Description": "Fort Hood is a United States Army post located in Killeen, Texas. While not traditionally known as a UFC venue, Fort Hood hosted a special UFC event in 2010 as a tribute to the military. The event featured a series of exciting fights and showcased the talent and dedication of both the fighters and the armed forces."
+  },
+  {
+    "Id": "VENUE_93",
+    "Title": "Foxwoods Resort Casino",
+    "Description": "The Foxwoods Resort Casino, located in Mashantucket, Connecticut, has hosted several UFC events. It first hosted UFC Fight Night: Jacar\u00E9 vs. Mousasi 2 on September 5, 2014. Since then, it has been a popular venue for UFC events, including UFC Fight Night: Dillashaw vs. Cruz on January 17, 2016, and UFC Fight Night: Rodriguez vs. Caceres on August 6, 2016."
+  },
+  {
+    "Id": "VENUE_94",
+    "Title": "Frank Erwin Center",
+    "Description": "The Frank Erwin Center is a multi-purpose arena located in Austin, Texas, United States. It has hosted several UFC events, including UFC Fight Night: Swanson vs. Stephens in 2009 and UFC Fight Night: Cowboy vs. Medeiros in 2018. The venue has a seating capacity of approximately 16,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_95",
+    "Title": "General Motors Place",
+    "Description": "General Motors Place, located in Vancouver, Canada, has hosted several notable UFC events. It first hosted UFC 115 on June 12, 2010, featuring a main event between Rich Franklin and Chuck Liddell. The venue also hosted UFC 131 on June 11, 2011, headlined by Junior dos Santos and Shane Carwin. These events showcased the venue\u0027s capacity to accommodate large-scale mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_96",
+    "Title": "Gila River Arena",
+    "Description": "Gila River Arena, located in Glendale, Arizona, is a multi-purpose indoor arena that has hosted several UFC events. It first hosted UFC on Fox: Johnson vs. Dodson in 2013, followed by UFC Fight Night: Henderson vs. Khabilov in 2014. The venue also hosted UFC 263: Adesanya vs. Vettori 2 in 2021, featuring a highly anticipated rematch for the Middleweight Championship."
+  },
+  {
+    "Id": "VENUE_97",
+    "Title": "Gin\u00E1sio da Portuguesa",
+    "Description": "Gin\u00E1sio da Portuguesa is a sports venue located in S\u00E3o Paulo, Brazil. It has hosted several UFC events, including UFC Fight Night: Belfort vs. Henderson in 2013 and UFC Fight Night: Machida vs. Mousasi in 2014. The venue has a seating capacity of approximately 7,000 and offers a suitable environment for mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_98",
+    "Title": "Gin\u00E1sio do Ibirapuera",
+    "Description": "Gin\u00E1sio do Ibirapuera is a multi-purpose indoor arena located in S\u00E3o Paulo, Brazil. It has hosted several UFC events, including UFC Fight Night: Belfort vs. Henderson in 2013 and UFC Fight Night: Maia vs. LaFlare in 2015. The venue has a seating capacity of approximately 11,000 and is known for its energetic atmosphere and enthusiastic Brazilian fans."
+  },
+  {
+    "Id": "VENUE_99",
+    "Title": "Gin\u00E1sio do Maracan\u00E3zinho",
+    "Description": "Gin\u00E1sio do Maracan\u00E3zinho is an indoor arena located in Rio de Janeiro, Brazil. It has hosted several UFC events, including UFC 134 in 2011, which featured a Middleweight Championship bout between Anderson Silva and Yushin Okami. The venue\u0027s capacity is approximately 11,800 spectators and it has been praised for its acoustics and convenient location."
+  },
+  {
+    "Id": "VENUE_100",
+    "Title": "Gin\u00E1sio Gigantinho",
+    "Description": "Gin\u00E1sio Gigantinho is a multi-purpose indoor arena located in Porto Alegre, Brazil. It has hosted several UFC events, including UFC Fight Night: Belfort vs. Henderson in 2013 and UFC Fight Night: Machida vs. Dollaway in 2014. The venue has a seating capacity of approximately 12,000 and offers state-of-the-art facilities for combat sports competitions."
+  },
+  {
+    "Id": "VENUE_101",
+    "Title": "Gin\u00E1sio Jos\u00E9 Corr\u00EAa",
+    "Description": "Gin\u00E1sio Jos\u00E9 Corr\u00EAa is a multi-purpose indoor arena located in Barueri, S\u00E3o Paulo, Brazil. It has hosted several UFC events, including UFC Fight Night: Maia vs. LaFlare in 2015 and UFC Fight Night: Belfort vs. Henderson 3 in 2015. The venue has a seating capacity of approximately 8,000 and offers state-of-the-art facilities for mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_102",
+    "Title": "Gin\u00E1sio Municipal Tancredo Neves",
+    "Description": "The Gin\u00E1sio Municipal Tancredo Neves is a multi-purpose indoor arena located in Uberl\u00E2ndia, Brazil. It has hosted several UFC events, including UFC Fight Night: Shogun vs. Saint Preux in 2014 and UFC Fight Night: Pez\u00E3o vs. Arlovski 2 in 2015. The venue has a seating capacity of approximately 6,000 spectators and offers state-of-the-art facilities for combat sports competitions."
+  },
+  {
+    "Id": "VENUE_103",
+    "Title": "Gin\u00E1sio N\u00E9lio Dias",
+    "Description": "Gin\u00E1sio N\u00E9lio Dias is a multi-purpose indoor arena located in Natal, Brazil. It has hosted several UFC events, including UFC Fight Night: Shogun vs. Henderson in 2014 and UFC Fight Night: Belfort vs. Henderson in 2013. The venue has a seating capacity of approximately 10,000 spectators and offers state-of-the-art facilities for mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_104",
+    "Title": "Gin\u00E1sio Nilson Nelson",
+    "Description": "The Gin\u00E1sio Nilson Nelson is a multi-purpose indoor arena located in Bras\u00EDlia, Brazil. It has hosted several UFC events, including UFC Fight Night: Pez\u00E3o vs. Arlovski in 2014 and UFC Fight Night: Belfort vs. Henderson 3 in 2015. The venue has a seating capacity of 16,000 and is known for its state-of-the-art facilities, making it a popular choice for UFC events in the region."
+  },
+  {
+    "Id": "VENUE_105",
+    "Title": "Gin\u00E1sio Paulo Sarasate",
+    "Description": "Gin\u00E1sio Paulo Sarasate is a multi-purpose indoor arena located in Fortaleza, Brazil. It has hosted several UFC events, including UFC Fight Night: Belfort vs. Gastelum in 2017 and UFC Fight Night: Assun\u00E7\u00E3o vs. Moraes 2 in 2019. The venue has a seating capacity of approximately 10,000 and offers state-of-the-art facilities for mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_106",
+    "Title": "Goi\u00E2nia Arena",
+    "Description": "The Goi\u00E2nia Arena is a multi-purpose indoor arena located in Goi\u00E2nia, Brazil. It has hosted several UFC events, including UFC Fight Night: Belfort vs. Henderson in 2013 and UFC Fight Night: Condit vs. Alves in 2015. The venue has a seating capacity of approximately 10,000 spectators and offers state-of-the-art facilities for combat sports competitions."
+  },
+  {
+    "Id": "VENUE_107",
+    "Title": "Gold Coast Convention and Exhibition Centre",
+    "Description": "The Gold Coast Convention and Exhibition Centre is a multipurpose venue located in Broadbeach, Gold Coast, Australia. It has hosted several UFC events, including UFC Fight Night: Hunt vs. Mir in 2016 and UFC Fight Night: Maia vs. LaFlare in 2015. The venue offers state-of-the-art facilities and has a seating capacity of up to 6,000 spectators for combat sports events."
+  },
+  {
+    "Id": "VENUE_108",
+    "Title": "Golden 1 Center",
+    "Description": "The Golden 1 Center is a multi-purpose indoor arena located in Sacramento, California. It has hosted several UFC events, including UFC on Fox: VanZant vs. Waterson in 2016 and UFC Fight Night: Rodriguez vs. Penn in 2017. The venue has a seating capacity of approximately 17,600 for mixed martial arts events and offers state-of-the-art facilities for both athletes and spectators."
+  },
+  {
+    "Id": "VENUE_109",
+    "Title": "Grady Cole Center",
+    "Description": "The Grady Cole Center is a multi-purpose arena located in Charlotte, North Carolina. It has hosted several UFC events, including UFC Fight Night 21 in 2010, featuring a main event between Kenny Florian and Takanori Gomi. The venue has a seating capacity of approximately 3,000 and offers a versatile space for various sporting and entertainment events."
+  },
+  {
+    "Id": "VENUE_110",
+    "Title": "Hard Rock Hotel and Casino",
+    "Description": "The Hard Rock Hotel and Casino, located in Las Vegas, Nevada, has been a prominent venue for UFC events. It has hosted numerous high-profile fights, including championship bouts and notable matchups. The venue\u0027s state-of-the-art facilities and prime location have made it a popular choice for both fighters and fans alike."
+  },
+  {
+    "Id": "VENUE_111",
+    "Title": "Honda Center",
+    "Description": "The Honda Center, located in Anaheim, California, is a renowned venue for Ultimate Fighting Championship (UFC) events. Since its opening in 1993, the Honda Center has hosted numerous UFC events, including UFC 59, UFC 63, UFC 76, UFC 121, and UFC 214. These events have featured prominent fighters and have attracted large audiences, solidifying the Honda Center\u0027s status as a prominent UFC venue."
+  },
+  {
+    "Id": "VENUE_112",
+    "Title": "HP Pavilion",
+    "Description": "The HP Pavilion, located in San Jose, California, has been a prominent venue for UFC events. It has hosted numerous UFC Fight Night events, including memorable bouts such as Cain Velasquez vs. Junior dos Santos and Nate Diaz vs. Josh Thomson. The arena\u0027s capacity of over 17,000 spectators and state-of-the-art facilities make it a popular choice for UFC events."
+  },
+  {
+    "Id": "VENUE_113",
+    "Title": "HSBC Arena",
+    "Description": "The HSBC Arena, located in Rio de Janeiro, Brazil, is a prominent venue for Ultimate Fighting Championship (UFC) events. Since its inauguration in 2007, the arena has hosted numerous UFC events, including UFC 134, UFC 142, and UFC 163. These events have showcased top-tier fighters and attracted a global audience, solidifying the HSBC Arena\u0027s reputation as a premier destination for UFC competitions."
+  },
+  {
+    "Id": "VENUE_114",
+    "Title": "Independence Arena",
+    "Description": "Independence Arena, located in Charlotte, North Carolina, has hosted several UFC events. Notable events include UFC on Fox: Jacar\u00E9 vs. Brunson 2 in 2018, UFC on Fox: Johnson vs. Dodson in 2013, and UFC Fight Night: Florian vs. Gomi in 2010. The arena has a seating capacity of approximately 9,605 and has been a popular destination for UFC fans in the region."
+  },
+  {
+    "Id": "VENUE_115",
+    "Title": "Intrust Bank Arena",
+    "Description": "The Intrust Bank Arena is a multi-purpose indoor arena located in Wichita, Kansas, United States. Since its opening in 2010, it has hosted several UFC events, including UFC Fight Night: Rothwell vs. dos Santos in 2016 and UFC Fight Night: Lewis vs. dos Santos in 2019. The arena has a seating capacity of approximately 15,000 and offers state-of-the-art facilities for combat sports events."
+  },
+  {
+    "Id": "VENUE_116",
+    "Title": "IZOD Center",
+    "Description": "The IZOD Center, located in East Rutherford, New Jersey, served as a prominent venue for several UFC events. It hosted UFC 78 in 2007, featuring a light heavyweight bout between Michael Bisping and Rashad Evans. Additionally, the center hosted UFC 111 in 2010, headlined by a welterweight title fight between Georges St-Pierre and Dan Hardy. The IZOD Center provided a spacious and well-equipped setting for these notable UFC events."
+  },
+  {
+    "Id": "VENUE_117",
+    "Title": "Jeunesse Arena",
+    "Description": "Jeunesse Arena, located in Rio de Janeiro, Brazil, is a multi-purpose indoor arena that has hosted several UFC events. It first hosted UFC 134 in 2011, featuring the highly anticipated rematch between Anderson Silva and Yushin Okami. Since then, it has been a popular venue for UFC events, including UFC 142, UFC 163, and UFC 224, attracting both local and international fighters and fans."
+  },
+  {
+    "Id": "VENUE_118",
+    "Title": "Kaseya Center",
+    "Description": "The Kaseya Center is a multi-purpose indoor arena located in the heart of Miami, Florida. Since its opening in 2000, the venue has hosted several notable UFC events, including UFC 42 in 2003 and UFC 47 in 2004. With a seating capacity of over 20,000, the Kaseya Center continues to be a popular choice for UFC events, attracting both local and international fans."
+  },
+  {
+    "Id": "VENUE_119",
+    "Title": "KeyArena",
+    "Description": "The KeyArena is a multi-purpose arena located in Seattle, Washington. It has hosted several UFC events, including UFC Fight Night: Nogueira vs. Davis in 2010 and UFC on Fox: Johnson vs. Moraga in 2013. The venue has a seating capacity of approximately 17,000 and is known for its energetic atmosphere and enthusiastic crowd."
+  },
+  {
+    "Id": "VENUE_120",
+    "Title": "KeyBank Center",
+    "Description": "The KeyBank Center, located in Buffalo, New York, is a multi-purpose arena that has hosted several UFC events. It first hosted a UFC event on September 9, 1995, and has since been a popular venue for MMA fights. Notable events held at the KeyBank Center include UFC 210 in 2017, featuring a light heavyweight title fight between Daniel Cormier and Anthony Johnson."
+  },
+  {
+    "Id": "VENUE_121",
+    "Title": "KFC Yum! Center",
+    "Description": "The KFC Yum! Center is a multi-purpose arena located in Louisville, Kentucky, United States. Since its opening in 2010, it has hosted several UFC events, including UFC on Versus: Jones vs. Matyushenko in 2010 and UFC Fight Night: McDonald vs. Pickett in 2013. The venue has a seating capacity of approximately 22,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_122",
+    "Title": "K\u00F6nig Pilsener Arena",
+    "Description": "The K\u00F6nig Pilsener Arena is a multi-purpose indoor arena located in Oberhausen, Germany. It has hosted several UFC events, including UFC 122 in 2010 and UFC Fight Night: Arlovski vs. Barnett in 2016. The arena offers a seating capacity of approximately 12,500 spectators and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_123",
+    "Title": "Lake Charles Civic Center",
+    "Description": "The Lake Charles Civic Center is a multi-purpose venue located in Lake Charles, Louisiana. It has hosted several UFC events, including UFC Fight Night: Boetsch vs. Henderson in 2015 and UFC Fight Night: Poirier vs. Johnson in 2016. The venue offers a spacious arena with modern facilities, making it an ideal location for UFC events in the region."
+  },
+  {
+    "Id": "VENUE_124",
+    "Title": "Lakefront Arena",
+    "Description": "Lakefront Arena is a multi-purpose indoor arena located in New Orleans, Louisiana. It has hosted several UFC events, including UFC Fight Night: Boetsch vs. Henderson in 2016 and UFC Fight Night: Lewis vs. Abdurakhimov in 2016. The arena has a seating capacity of approximately 8,000 and offers a versatile space for various sporting and entertainment events."
+  },
+  {
+    "Id": "VENUE_125",
+    "Title": "Lanxess Arena",
+    "Description": "The Lanxess Arena is a multi-purpose indoor arena located in Cologne, Germany. It has hosted several UFC events, including UFC 99 in 2009, which marked the promotion\u0027s debut in Germany. The venue has also hosted UFC Fight Night events, such as UFC Fight Night: Arlovski vs. Barnett in 2016. With a seating capacity of over 18,000, the Lanxess Arena continues to be a popular choice for UFC events in Europe."
+  },
+  {
+    "Id": "VENUE_126",
+    "Title": "LG Arena",
+    "Description": "The LG Arena, located in Birmingham, England, has hosted several UFC events. It first hosted UFC 89 in 2008, featuring a main event between Michael Bisping and Chris Leben. The venue also hosted UFC 138 in 2011, UFC Fight Night: Nogueira vs. Nelson in 2014, and UFC Fight Night: Manuwa vs. Anderson in 2017. The LG Arena has provided a platform for thrilling UFC bouts in the United Kingdom."
+  },
+  {
+    "Id": "VENUE_127",
+    "Title": "Little Caesars Arena",
+    "Description": "Little Caesars Arena is a multi-purpose indoor venue located in Detroit, Michigan, United States. Since its opening in 2017, it has hosted several UFC events, including UFC 218 in 2017 and UFC 218 in 2018. The arena has a seating capacity of approximately 20,000 and offers state-of-the-art facilities for both athletes and spectators."
+  },
+  {
+    "Id": "VENUE_128",
+    "Title": "Madison Square Garden",
+    "Description": "Madison Square Garden, located in New York City, is a renowned sports and entertainment venue that has hosted several UFC events. It became the first venue in New York to hold a UFC event in November 2016, following the legalization of mixed martial arts in the state. Notable UFC events held at Madison Square Garden include UFC 205, featuring Conor McGregor, and UFC 244, headlined by Jorge Masvidal and Nate Diaz."
+  },
+  {
+    "Id": "VENUE_129",
+    "Title": "Mall of Asia Arena",
+    "Description": "The Mall of Asia Arena is a multi-purpose indoor arena located in Pasay City, Philippines. It has hosted several UFC events, including UFC Fight Night: Edgar vs. Faber in 2015 and UFC Fight Night: Lamas vs. Penn in 2016. The venue has a seating capacity of approximately 15,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_130",
+    "Title": "Mammoth Gardens",
+    "Description": "Mammoth Gardens is a former entertainment venue located in Denver, Colorado. It hosted two UFC events in its history. The first event, UFC 1, took place on November 12, 1993, marking the inception of the UFC. The second event, UFC 2, occurred on March 11, 1994. These events played a significant role in establishing the UFC as a prominent mixed martial arts organization."
+  },
+  {
+    "Id": "VENUE_131",
+    "Title": "Manchester Arena",
+    "Description": "The Manchester Arena is a multi-purpose indoor arena located in Manchester, England. It has hosted several UFC events, including UFC 70 in 2007, UFC 105 in 2009, and UFC Fight Night: Machida vs. Munoz in 2013. The arena has a seating capacity of up to 21,000 spectators and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_132",
+    "Title": "Manchester Evening News Arena",
+    "Description": "The Manchester Evening News Arena, located in Manchester, England, is a prominent venue for UFC events. It has hosted several high-profile UFC events, including UFC 70 in 2007, UFC 105 in 2009, and UFC Fight Night: Bisping vs. Leites in 2015. With a seating capacity of over 21,000, the arena provides a vibrant atmosphere for fans to witness thrilling mixed martial arts action."
+  },
+  {
+    "Id": "VENUE_133",
+    "Title": "Mandalay Bay Events Center",
+    "Description": "The Mandalay Bay Events Center is a multi-purpose arena located in Paradise, Nevada, United States. It has been a popular venue for UFC events since its opening in 1999. Notable UFC events held at the Mandalay Bay Events Center include UFC 33, UFC 43, and UFC 61. The venue has a seating capacity of approximately 12,000 for MMA events."
+  },
+  {
+    "Id": "VENUE_134",
+    "Title": "Marina Bay Sands",
+    "Description": "Marina Bay Sands is a renowned UFC venue located in Singapore. Since its inception in 2014, it has hosted several UFC events, including UFC Fight Night: Saffiedine vs. Lim and UFC Fight Night: Cowboy vs. Edwards. The venue\u0027s state-of-the-art facilities and iconic architecture make it a popular choice for both fighters and fans alike."
+  },
+  {
+    "Id": "VENUE_135",
+    "Title": "Marine Corps Air Station Miramar",
+    "Description": "Marine Corps Air Station Miramar, located in San Diego, California, has hosted several UFC events. In 2015, UFC Fight Night: Mir vs. Duffee took place at this venue, featuring a heavyweight bout between Frank Mir and Todd Duffee. The event attracted a large audience and showcased the facility\u0027s suitability for hosting high-profile mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_136",
+    "Title": "Marvel Stadium",
+    "Description": "Marvel Stadium, located in Melbourne, Australia, is a premier venue for UFC events. Since its opening in 2000, it has hosted several high-profile UFC events, including UFC 193 in 2015, which set a record for the largest attendance in UFC history. With its state-of-the-art facilities and capacity to hold over 50,000 spectators, Marvel Stadium continues to be a sought-after destination for thrilling UFC bouts."
+  },
+  {
+    "Id": "VENUE_137",
+    "Title": "McNichols Sports Arena",
+    "Description": "The McNichols Sports Arena was a multi-purpose indoor arena located in Denver, Colorado, United States. It served as a venue for several UFC events, including UFC 1 on November 12, 1993, which marked the inception of the Ultimate Fighting Championship. The arena hosted a total of four UFC events, with the last one taking place on May 30, 1997."
+  },
+  {
+    "Id": "VENUE_138",
+    "Title": "Mercedes-Benz Arena",
+    "Description": "The Mercedes-Benz Arena, located in Shanghai, China, has hosted several UFC events since its opening in 2011. Notable events include UFC Fight Night: Bisping vs. Gastelum in 2017, UFC Fight Night: Cowboy vs. Edwards in 2018, and UFC Fight Night: Andrade vs. Zhang in 2019. The arena has a seating capacity of approximately 18,000 and is known for its state-of-the-art facilities and modern design."
+  },
+  {
+    "Id": "VENUE_139",
+    "Title": "Metro Radio Arena",
+    "Description": "The Metro Radio Arena is a multi-purpose indoor venue located in Newcastle upon Tyne, England. It has hosted several UFC events, including UFC 80 in 2008, UFC Fight Night: Gonzaga vs. Cro Cop 2 in 2015, and UFC Fight Night: Nelson vs. Ponzinibbio in 2017. The arena has a seating capacity of approximately 11,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_140",
+    "Title": "MGM Grand Garden Arena",
+    "Description": "The MGM Grand Garden Arena is a renowned UFC venue located in Las Vegas, Nevada, United States. It has hosted numerous high-profile UFC events, including UFC 189, where Conor McGregor faced Chad Mendes for the interim featherweight title, and UFC 200, which featured a rematch between Jon Jones and Daniel Cormier for the light heavyweight championship. The arena\u0027s state-of-the-art facilities and capacity of over 16,000 spectators make it a popular choice for UFC events."
+  },
+  {
+    "Id": "VENUE_142",
+    "Title": "Mineirinho Arena",
+    "Description": "The Mineirinho Arena is a multi-purpose indoor arena located in Belo Horizonte, Brazil. It has hosted several UFC events, including UFC Fight Night: Shogun vs. Saint Preux in 2014 and UFC Fight Night: Belfort vs. Henderson 3 in 2015. The venue has a seating capacity of approximately 25,000 and is known for its energetic atmosphere during UFC fights."
+  },
+  {
+    "Id": "VENUE_143",
+    "Title": "Mobile Civic Center",
+    "Description": "The Mobile Civic Center is a multi-purpose arena located in Mobile, Alabama, United States. While it has hosted various events, it has also been a venue for several UFC events. Notably, it hosted UFC Fight Night: Swick vs. Burkman on January 23, 2010, and UFC Fight Night: Shogun vs. Smith on July 22, 2018. These events showcased thrilling mixed martial arts bouts, attracting both local and international audiences."
+  },
+  {
+    "Id": "VENUE_144",
+    "Title": "Moda Center",
+    "Description": "The Moda Center, located in Portland, Oregon, is a multi-purpose arena that has hosted several UFC events. It first hosted a UFC event in 2009, featuring a fight between Randy Couture and Antonio Rodrigo Nogueira. Since then, the venue has been a popular choice for UFC events, including UFC Fight Night: Lineker vs. Dodson in 2016 and UFC Fight Night: Lewis vs. Abdurakhimov in 2016."
+  },
+  {
+    "Id": "VENUE_145",
+    "Title": "Mohegan Sun Arena",
+    "Description": "The Mohegan Sun Arena is a multi-purpose venue located in Uncasville, Connecticut, United States. It has hosted several UFC events since its opening in 2001, including UFC 39, UFC 53, and UFC Fight Night: Jacar\u00E9 vs. Mousasi 2. The arena has a seating capacity of approximately 10,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_146",
+    "Title": "Moody Center",
+    "Description": "The Moody Center is a multi-purpose arena located in Austin, Texas, United States. It has hosted several UFC events since its opening in 2022. Notable UFC events held at the venue include UFC Fight Night: Austin in 2022 and UFC 268 in 2023. The Moody Center offers state-of-the-art facilities and has a seating capacity of approximately 15,000 for UFC events."
+  },
+  {
+    "Id": "VENUE_147",
+    "Title": "Movistar Arena",
+    "Description": "Movistar Arena is a multi-purpose indoor arena located in Santiago, Chile. Since its opening in 2006, it has hosted several UFC events, including UFC Fight Night: Maia vs. Usman in 2018 and UFC Fight Night: Shevchenko vs. Carmouche 2 in 2019. With a seating capacity of 15,000, it serves as a prominent venue for mixed martial arts competitions in South America."
+  },
+  {
+    "Id": "VENUE_148",
+    "Title": "MTS Centre",
+    "Description": "The MTS Centre is a multi-purpose indoor arena located in Winnipeg, Manitoba, Canada. It has hosted several UFC events, including UFC 161 in 2013, which featured a main event between Rashad Evans and Dan Henderson. The venue has also hosted UFC on Fox 26 in 2017, headlined by a welterweight bout between Robbie Lawler and Rafael dos Anjos."
+  },
+  {
+    "Id": "VENUE_149",
+    "Title": "Nassau Veterans Memorial Coliseum",
+    "Description": "The Nassau Veterans Memorial Coliseum is a multi-purpose indoor arena located in Uniondale, New York. It has hosted several UFC events, including UFC 32 in 2001, UFC 128 in 2011, and UFC on Fox: Weidman vs. Gastelum in 2017. The venue has a seating capacity of approximately 13,000 for MMA events and has been a popular choice for UFC events in the New York metropolitan area."
+  },
+  {
+    "Id": "VENUE_150",
+    "Title": "National Indoor Arena",
+    "Description": "The National Indoor Arena (NIA) is a multi-purpose indoor arena located in Birmingham, England. It has hosted several UFC events, including UFC 89 in 2008, UFC 138 in 2011, and UFC Fight Night: Manuwa vs. Anderson in 2017. The NIA offers a seating capacity of up to 15,800 spectators and has been a popular venue for various sports and entertainment events since its opening in 1991."
+  },
+  {
+    "Id": "VENUE_151",
+    "Title": "Nationwide Arena",
+    "Description": "Nationwide Arena is a multi-purpose indoor arena located in Columbus, Ohio. Since its opening in 2000, it has hosted several UFC events, including UFC 68 in 2007, where Randy Couture defended his heavyweight title against Tim Sylvia. Additionally, Nationwide Arena hosted UFC Fight Night: Rothwell vs. Dos Santos in 2016, featuring a heavyweight clash between Ben Rothwell and Junior dos Santos."
+  },
+  {
+    "Id": "VENUE_152",
+    "Title": "O2 arena",
+    "Description": "The O2 Arena, located in London, United Kingdom, has been a prominent venue for UFC events. Since its first UFC event in 2008, the arena has hosted numerous high-profile fights, including UFC 120, UFC on Fuel TV: Barao vs. McDonald, and UFC Fight Night: Gustafsson vs. Manuwa. With a seating capacity of over 20,000, the O2 Arena continues to attract fans from around the world for thrilling UFC matchups."
+  },
+  {
+    "Id": "VENUE_153",
+    "Title": "O2 World",
+    "Description": "The O2 World, located in Berlin, Germany, is a multi-purpose indoor arena that has hosted several UFC events. In 2014, it held UFC Fight Night: Munoz vs. Mousasi, featuring a middleweight bout between Mark Munoz and Gegard Mousasi. The venue also hosted UFC Fight Night: Arlovski vs. Barnett in 2016, headlined by a heavyweight clash between Andrei Arlovski and Josh Barnett."
+  },
+  {
+    "Id": "VENUE_154",
+    "Title": "Olimpiyskiy Stadium",
+    "Description": "The Olimpiyskiy Stadium is a multi-purpose venue located in Moscow, Russia. It has hosted several UFC events, including UFC Fight Night: Hunt vs. Oleinik in 2018 and UFC Fight Night: Magomedsharipov vs. Kattar in 2019. With a seating capacity of over 35,000, the stadium provides a spacious and dynamic setting for thrilling UFC fights."
+  },
+  {
+    "Id": "VENUE_155",
+    "Title": "Olympic Gymnastics Arena",
+    "Description": "The Olympic Gymnastics Arena, located in Seoul, South Korea, has hosted several UFC events. It first hosted UFC Fight Night: Kim vs. Hathaway on March 1, 2014. The venue has also been the site for UFC Fight Night: Henderson vs. Masvidal on November 28, 2015, and UFC Fight Night: Korean Zombie vs. Rodr\u00EDguez on November 10, 2018."
+  },
+  {
+    "Id": "VENUE_156",
+    "Title": "Omaha Civic Auditorium",
+    "Description": "The Omaha Civic Auditorium, located in Omaha, Nebraska, has hosted several UFC events. Notable events include UFC Fight Night: Gaethje vs. Vick in 2018, UFC Fight Night: Johnson vs. McCall in 2012, and UFC Fight Night: Lauzon vs. Stephens in 2011. The venue has provided a platform for thrilling mixed martial arts bouts, attracting both local and international fighters."
+  },
+  {
+    "Id": "VENUE_157",
+    "Title": "Oracle Arena",
+    "Description": "The Oracle Arena is a multi-purpose indoor arena located in Oakland, California, United States. It has hosted several UFC events, including UFC 117 in 2010, where Anderson Silva defended his middleweight title against Chael Sonnen. The venue has also hosted UFC 73 in 2007, featuring a light heavyweight championship bout between Quinton Jackson and Dan Henderson."
+  },
+  {
+    "Id": "VENUE_158",
+    "Title": "Palms Casino Resort",
+    "Description": "The Palms Casino Resort, located in Las Vegas, Nevada, has hosted several UFC events. Notable events include UFC 84: Ill Will in 2008, UFC 130: Rampage vs. Hamill in 2011, and UFC 226: Miocic vs. Cormier in 2018. The venue offers a state-of-the-art arena with a seating capacity of approximately 2,500 spectators, providing an intimate setting for UFC fights."
+  },
+  {
+    "Id": "VENUE_160",
+    "Title": "Park Theater",
+    "Description": "The Park Theater is a renowned UFC venue located in Las Vegas, Nevada. Since its opening in 2016, it has hosted numerous UFC events, including Fight Nights and The Ultimate Fighter Finales. The venue\u0027s state-of-the-art facilities and seating capacity of 5,200 make it an ideal location for showcasing thrilling mixed martial arts action."
+  },
+  {
+    "Id": "VENUE_161",
+    "Title": "Patriot Center",
+    "Description": "The Patriot Center, located in Fairfax, Virginia, has served as a venue for several UFC events. It hosted UFC Fight Night: Maynard vs. Diaz on January 11, 2010, and UFC Fight Night: Johnson vs. Bader on January 30, 2016. The venue has provided a platform for numerous exciting fights, showcasing the talents of renowned UFC fighters in front of enthusiastic audiences."
+  },
+  {
+    "Id": "VENUE_162",
+    "Title": "Pearl Theatre",
+    "Description": "The Pearl Theatre is a renowned UFC venue located in Las Vegas, Nevada. It has hosted numerous UFC events since its establishment, including high-profile fights featuring top-ranked fighters. The venue\u0027s state-of-the-art facilities and spacious seating capacity make it a popular choice for both fans and fighters alike."
+  },
+  {
+    "Id": "VENUE_163",
+    "Title": "Pechanga Arena",
+    "Description": "Pechanga Arena, located in San Diego, California, has been a prominent venue for UFC events. Since its opening in 1966, it has hosted several UFC fights, including UFC 139 in 2011 and UFC on Fox: Johnson vs. Moraga in 2013. With a seating capacity of approximately 14,500, Pechanga Arena continues to attract MMA enthusiasts for thrilling UFC matchups."
+  },
+  {
+    "Id": "VENUE_164",
+    "Title": "Pepsi Center",
+    "Description": "The Pepsi Center is a multi-purpose arena located in Denver, Colorado, United States. It has hosted several UFC events, including UFC 135 in 2011, where Jon Jones defended his light heavyweight title against Quinton Jackson. The venue also hosted UFC on Fox: Henderson vs. Diaz in 2012, featuring a lightweight championship bout between Benson Henderson and Nate Diaz."
+  },
+  {
+    "Id": "VENUE_165",
+    "Title": "Perth Arena",
+    "Description": "Perth Arena is a multi-purpose indoor venue located in Perth, Western Australia. Since its opening in 2012, it has hosted several UFC events, including UFC 221 in 2018, headlined by Yoel Romero vs. Luke Rockhold. The venue\u0027s state-of-the-art facilities and seating capacity of over 15,000 make it an ideal location for high-profile mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_166",
+    "Title": "Philips Arena",
+    "Description": "Philips Arena, located in Atlanta, Georgia, is a multi-purpose indoor arena that has hosted several UFC events. It has a seating capacity of approximately 21,000 for mixed martial arts competitions. Notable UFC events held at Philips Arena include UFC 88: Breakthrough in 2008 and UFC 145: Jones vs. Evans in 2012. The venue has provided a dynamic setting for thrilling fights and has attracted a passionate fan base."
+  },
+  {
+    "Id": "VENUE_167",
+    "Title": "Phones 4u Arena",
+    "Description": "The Phones 4u Arena, located in Manchester, England, has been a prominent venue for UFC events. It has hosted several high-profile fights, including UFC 70 in 2007, UFC 105 in 2009, and UFC Fight Night: Machida vs. Munoz in 2013. With a seating capacity of approximately 21,000, the arena offers a suitable setting for thrilling mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_168",
+    "Title": "Pinnacle Bank Arena",
+    "Description": "Pinnacle Bank Arena is a multi-purpose indoor arena located in Lincoln, Nebraska, United States. Since its opening in 2013, it has hosted several UFC events, including UFC Fight Night: Gaethje vs. Vick in 2018 and UFC Fight Night: Ladd vs. de Randamie in 2019. The arena has a seating capacity of 15,500 and offers state-of-the-art facilities for both athletes and spectators."
+  },
+  {
+    "Id": "VENUE_169",
+    "Title": "PNC Arena",
+    "Description": "The PNC Arena is a multi-purpose indoor arena located in Raleigh, North Carolina, United States. It has hosted several UFC events, including UFC on ESPN: Blaydes vs. dos Santos in January 2020 and UFC Fight Night: Korean Zombie vs. Ige in June 2021. The venue offers a seating capacity of approximately 18,000 for UFC events and has become a popular destination for mixed martial arts fans in the region."
+  },
+  {
+    "Id": "VENUE_170",
+    "Title": "Pontchartrain Center",
+    "Description": "The Pontchartrain Center is a multi-purpose arena located in Kenner, Louisiana, United States. It has hosted several UFC events, including UFC Fight Night: Boetsch vs. Henderson in 2016 and UFC Fight Night: Johnson vs. Reis in 2017. The venue offers a seating capacity of approximately 3,700 and has been a popular choice for UFC events in the region."
+  },
+  {
+    "Id": "VENUE_171",
+    "Title": "PPG Paints Arena",
+    "Description": "PPG Paints Arena is a multi-purpose indoor arena located in Pittsburgh, Pennsylvania. Since its opening in 2010, it has hosted several UFC events, including UFC on Versus: Marquardt vs. Story in 2011 and UFC Fight Night: Cowboy vs. Cowboy in 2016. The venue has a seating capacity of approximately 19,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_172",
+    "Title": "Prudential Center",
+    "Description": "The Prudential Center is a multi-purpose indoor arena located in Newark, New Jersey, United States. Since its opening in 2007, it has hosted several UFC events, including UFC 78 in 2007, UFC 111 in 2010, and UFC on Fox: Johnson vs. Bader in 2016. The venue has a seating capacity of approximately 19,500 for mixed martial arts events."
+  },
+  {
+    "Id": "VENUE_173",
+    "Title": "Qudos Bank Arena",
+    "Description": "Qudos Bank Arena, located in Sydney Olympic Park, Australia, is a multi-purpose indoor arena that has hosted several UFC events. It first hosted UFC 110 in 2010, featuring a heavyweight title fight. Since then, the venue has been a popular choice for UFC events, including UFC 127, UFC Fight Night: Rockhold vs. Bisping, and UFC 243, which saw a record-breaking attendance for a UFC event in Australia."
+  },
+  {
+    "Id": "VENUE_174",
+    "Title": "Quicken Loans Arena",
+    "Description": "The Quicken Loans Arena, located in Cleveland, Ohio, is a multi-purpose indoor arena that has hosted several UFC events. It first hosted UFC 203 in 2016, featuring the highly anticipated debut of former WWE wrestler CM Punk. The venue has since hosted other notable events, including UFC 203 and UFC 241, attracting a large audience of mixed martial arts enthusiasts."
+  },
+  {
+    "Id": "VENUE_175",
+    "Title": "RAC Arena",
+    "Description": "RAC Arena, located in Perth, Western Australia, is a multi-purpose indoor arena that has hosted several UFC events. In 2018, it held UFC 221, featuring a middleweight title fight between Yoel Romero and Luke Rockhold. The following year, RAC Arena hosted UFC 234, headlined by a middleweight championship bout between Robert Whittaker and Kelvin Gastelum. The venue continues to attract UFC events, showcasing top-tier mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_176",
+    "Title": "Red Rock Resort Spa and Casino",
+    "Description": "The Red Rock Resort Spa and Casino is a renowned venue located in Las Vegas, Nevada, United States. It has hosted several Ultimate Fighting Championship (UFC) events, including UFC Fight Night: Maynard vs. Diaz in 2010 and UFC 162: Silva vs. Weidman in 2013. The venue offers state-of-the-art facilities and amenities, making it a popular choice for UFC events."
+  },
+  {
+    "Id": "VENUE_177",
+    "Title": "Revel Casino Hotel",
+    "Description": "The Revel Casino Hotel, located in Atlantic City, New Jersey, has hosted several UFC events. It served as the venue for UFC 169 in 2014, featuring a bantamweight title fight between Renan Bar\u00E3o and Urijah Faber. Additionally, the hotel hosted UFC Fight Night 45 in 2014, headlined by a lightweight bout between Donald Cerrone and Jim Miller."
+  },
+  {
+    "Id": "VENUE_178",
+    "Title": "Rod Laver Arena",
+    "Description": "The Rod Laver Arena is a multi-purpose indoor arena located in Melbourne, Australia. It has hosted several UFC events, including UFC 193 in 2015, which set a record for the highest attendance in UFC history with over 56,000 spectators. The venue has also hosted other notable UFC events, such as UFC 234 in 2019 and UFC 243 in 2019, featuring prominent fighters from around the world."
+  },
+  {
+    "Id": "VENUE_179",
+    "Title": "Rogers Arena",
+    "Description": "Rogers Arena, located in Vancouver, Canada, is a multi-purpose indoor arena that has hosted several UFC events. It first hosted UFC 115 in 2010, featuring a main event between Rich Franklin and Chuck Liddell. Since then, it has been a popular venue for UFC events, including UFC 131 in 2011 and UFC on Fox: Johnson vs. Moraga in 2013. With a seating capacity of over 18,000, Rogers Arena continues to attract MMA fans for thrilling UFC bouts."
+  },
+  {
+    "Id": "VENUE_180",
+    "Title": "Rogers Centre",
+    "Description": "The Rogers Centre, located in Toronto, Canada, has hosted several UFC events since its opening in 1989. Notable events include UFC 129 in 2011, which set a North American attendance record of 55,724 spectators. The venue\u0027s retractable roof allows for both indoor and outdoor events, making it a versatile choice for UFC competitions."
+  },
+  {
+    "Id": "VENUE_181",
+    "Title": "Rogers Place",
+    "Description": "Rogers Place is a multi-purpose indoor arena located in Edmonton, Alberta, Canada. Since its opening in 2016, it has hosted several UFC events, including UFC 215 in 2017, where Amanda Nunes defended her bantamweight title against Valentina Shevchenko. The venue\u0027s state-of-the-art facilities and seating capacity of over 18,000 make it a popular choice for UFC events in the region."
+  },
+  {
+    "Id": "VENUE_182",
+    "Title": "Rose Garden",
+    "Description": "The Rose Garden, located in Portland, Oregon, has served as a venue for several UFC events. Notable events held at this venue include UFC 102: Couture vs. Nogueira in 2009, UFC Fight Night: Lineker vs. Dodson in 2016, and UFC Fight Night: Pettis vs. Moreno in 2017. The Rose Garden has provided a platform for thrilling mixed martial arts competitions, attracting both local and international fighters."
+  },
+  {
+    "Id": "VENUE_183",
+    "Title": "Rotterdam Ahoy",
+    "Description": "Rotterdam Ahoy is a multi-purpose indoor arena located in Rotterdam, Netherlands. It has hosted several UFC events, including UFC Fight Night: Overeem vs. Arlovski in 2016 and UFC Fight Night: Volkov vs. Struve in 2017. These events showcased thrilling mixed martial arts bouts, attracting a global audience and solidifying Rotterdam Ahoy as a prominent venue for UFC competitions."
+  },
+  {
+    "Id": "VENUE_184",
+    "Title": "Royal Albert Hall",
+    "Description": "The Royal Albert Hall, located in London, United Kingdom, has hosted several UFC events. Notably, on September 29, 2018, it hosted UFC Fight Night: Santos vs. Manuwa, featuring a main event between Thiago Santos and Jimi Manuwa. The historic venue\u0027s grandeur and acoustics make it a unique setting for UFC fights, attracting fans from around the world."
+  },
+  {
+    "Id": "VENUE_185",
+    "Title": "Royal Arena",
+    "Description": "The Royal Arena is a multi-purpose indoor arena located in \u00D8restad, Copenhagen, Denmark. Since its opening in 2017, it has hosted several UFC events, including UFC Fight Night: Nelson vs. Till in 2017 and UFC Fight Night: Hermansson vs. Cannonier in 2019. The venue has a seating capacity of 12,500 for MMA events and offers state-of-the-art facilities for both athletes and spectators."
+  },
+  {
+    "Id": "VENUE_186",
+    "Title": "Saitama Super Arena",
+    "Description": "The Saitama Super Arena is a multi-purpose indoor arena located in Saitama City, Japan. It has hosted several UFC events, including UFC 25 in 2000, UFC 144 in 2012, and UFC Fight Night: Barnett vs. Nelson in 2015. With a seating capacity of 37,000, it is one of the largest arenas in Japan and has become a popular destination for UFC fans in the country."
+  },
+  {
+    "Id": "VENUE_187",
+    "Title": "Sajik Arena",
+    "Description": "Sajik Arena, located in Busan, South Korea, is a multi-purpose indoor arena that has hosted several UFC events. In December 2011, it held UFC on Fuel TV: Korean Zombie vs. Poirier, featuring a featherweight bout between Chan Sung Jung and Dustin Poirier. The venue also hosted UFC Fight Night: Edgar vs. Korean Zombie in December 2019, headlined by a featherweight clash between Frankie Edgar and Chan Sung Jung."
+  },
+  {
+    "Id": "VENUE_188",
+    "Title": "San Diego Sports Arena",
+    "Description": "The San Diego Sports Arena, located in San Diego, California, has been a prominent venue for UFC events. It has hosted several notable UFC fights, including UFC 139 in 2011, where Dan Henderson defeated Maur\u00EDcio Rua in a highly acclaimed bout. The arena\u0027s capacity of approximately 14,500 spectators provides an ideal setting for thrilling UFC matchups."
+  },
+  {
+    "Id": "VENUE_189",
+    "Title": "Santa Ana Star Center",
+    "Description": "The Santa Ana Star Center is a multi-purpose arena located in Rio Rancho, New Mexico, United States. It has hosted several UFC events, including UFC Fight Night: Henderson vs. Khabilov in 2014 and UFC Fight Night: Rodriguez vs. Caceres in 2016. The venue has a seating capacity of approximately 6,000 and offers state-of-the-art facilities for combat sports events."
+  },
+  {
+    "Id": "VENUE_190",
+    "Title": "SAP Center",
+    "Description": "The SAP Center, located in San Jose, California, is a multi-purpose indoor arena that has hosted several UFC events. Notable events held at this venue include UFC 139 in 2011, featuring a light heavyweight championship bout between Dan Henderson and Maur\u00EDcio Rua, and UFC on Fox: Johnson vs. Moraga in 2013, headlined by a flyweight title fight between Demetrious Johnson and John Moraga."
+  },
+  {
+    "Id": "VENUE_191",
+    "Title": "SaskTel Centre",
+    "Description": "The SaskTel Centre is a multi-purpose arena located in Saskatoon, Saskatchewan, Canada. It has hosted several UFC events, including UFC Fight Night: Holloway vs. Oliveira in 2015 and UFC Fight Night: Lewis vs. Abdurakhimov in 2016. The venue has a seating capacity of approximately 15,000 and offers state-of-the-art facilities for combat sports events."
+  },
+  {
+    "Id": "VENUE_192",
+    "Title": "Save Mart Center",
+    "Description": "The Save Mart Center is a multi-purpose arena located in Fresno, California, United States. It has hosted several UFC events, including UFC Fight Night: Swick vs. Burkman in 2008 and UFC Fight Night: Swanson vs. Ortega in 2017. The venue has a seating capacity of approximately 15,000 and offers state-of-the-art facilities for combat sports events."
+  },
+  {
+    "Id": "VENUE_193",
+    "Title": "Scotiabank Arena",
+    "Description": "Scotiabank Arena, located in Toronto, Canada, is a prominent venue for UFC events. It has hosted several high-profile UFC fights, including UFC 129 in 2011, which set a North American attendance record of 55,724. Notable events held at Scotiabank Arena include UFC 206 in 2016 and UFC 231 in 2018, featuring renowned fighters and drawing significant global viewership."
+  },
+  {
+    "Id": "VENUE_194",
+    "Title": "Scotiabank Centre",
+    "Description": "The Scotiabank Centre, located in Halifax, Nova Scotia, Canada, is a multi-purpose indoor arena that has hosted several UFC events. It first hosted a UFC event on October 4, 2014, featuring a main event between Rory MacDonald and Tarec Saffiedine. Since then, the venue has been a popular choice for UFC events, showcasing thrilling fights and attracting a passionate crowd."
+  },
+  {
+    "Id": "VENUE_195",
+    "Title": "Scotiabank Saddledome",
+    "Description": "The Scotiabank Saddledome is a multi-purpose indoor arena located in Calgary, Alberta, Canada. It has hosted several UFC events, including UFC 149 in 2012, which featured a featherweight championship bout between Jos\u00E9 Aldo and Erik Koch. The venue has a seating capacity of approximately 19,000 and is known for its iconic saddle-shaped roof design."
+  },
+  {
+    "Id": "VENUE_196",
+    "Title": "Scottrade Center",
+    "Description": "The Scottrade Center, located in St. Louis, Missouri, is a multi-purpose arena that has hosted several UFC events. It first hosted a UFC event on January 14, 2018, featuring a featherweight bout between Jeremy Stephens and Doo Ho Choi. The venue has since been a popular choice for UFC events, attracting a large number of fans and showcasing thrilling fights."
+  },
+  {
+    "Id": "VENUE_197",
+    "Title": "Seminole Hard Rock Hotel and Casino",
+    "Description": "The Seminole Hard Rock Hotel and Casino, located in Hollywood, Florida, has served as a prominent venue for UFC events. It hosted UFC Fight Night: Jacar\u00E9 vs. Hermansson in 2019, featuring a middleweight bout between Ronaldo Souza and Jack Hermansson. The venue\u0027s state-of-the-art facilities and luxurious accommodations make it an ideal location for UFC events."
+  },
+  {
+    "Id": "VENUE_198",
+    "Title": "Shenzhen Universiade Sports Centre",
+    "Description": "The Shenzhen Universiade Sports Centre is a multi-purpose stadium located in Shenzhen, China. It has hosted several UFC events, including UFC Fight Night: Andrade vs. Zhang on August 31, 2019. This event marked the first time a UFC title fight took place in mainland China, with Zhang Weili defeating Jessica Andrade to become the UFC Women\u0027s Strawweight Champion."
+  },
+  {
+    "Id": "VENUE_199",
+    "Title": "Singapore Indoor Stadium",
+    "Description": "The Singapore Indoor Stadium is a multi-purpose indoor arena located in Kallang, Singapore. It has hosted several UFC events, including UFC Fight Night: Saffiedine vs. Lim in 2014, UFC Fight Night: Cerrone vs. Edwards in 2018, and UFC Fight Night: Maia vs. Askren in 2019. The venue has a seating capacity of 12,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_200",
+    "Title": "Sleep Train Arena",
+    "Description": "Sleep Train Arena, located in Sacramento, California, was a popular venue for UFC events. It hosted several memorable fights, including UFC on Fox: Johnson vs. Benavidez 2 in 2013 and UFC 177: Dillashaw vs. Soto in 2014. With a seating capacity of over 17,000, Sleep Train Arena provided an electrifying atmosphere for fans to witness thrilling UFC action."
+  },
+  {
+    "Id": "VENUE_201",
+    "Title": "Smoothie King Center",
+    "Description": "The Smoothie King Center is a multi-purpose indoor arena located in New Orleans, Louisiana, United States. It has hosted several UFC events, including UFC Fight Night: Boetsch vs. Henderson in 2016 and UFC Fight Night: Lewis vs. Browne in 2017. The venue has a seating capacity of approximately 17,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_202",
+    "Title": "Sommet Center",
+    "Description": "The Sommet Center, located in Nashville, Tennessee, has been a prominent venue for UFC events. It has hosted several notable UFC fights, including UFC Fight Night: Condit vs. Kampmann in 2009 and UFC Fight Night: Swanson vs. Lobov in 2017. With its capacity to accommodate thousands of spectators, the Sommet Center continues to attract UFC fans from around the world."
+  },
+  {
+    "Id": "VENUE_203",
+    "Title": "Spark Arena",
+    "Description": "Spark Arena, located in Auckland, New Zealand, is a premier venue for UFC events. Since its opening in 2007, it has hosted several thrilling UFC fights, including UFC Fight Night: Lewis vs. Hunt in 2017 and UFC Fight Night: Felder vs. Hooker in 2020. With a seating capacity of 12,000, Spark Arena continues to attract fans from around the world to witness the excitement of UFC bouts."
+  },
+  {
+    "Id": "VENUE_204",
+    "Title": "Spectrum Center",
+    "Description": "The Spectrum Center is a multi-purpose indoor arena located in Charlotte, North Carolina, United States. It has hosted several UFC events, including UFC on Fox: Jacar\u00E9 vs. Brunson 2 in 2018 and UFC Fight Night: Moicano vs. Korean Zombie in 2019. The venue offers a seating capacity of approximately 20,200 for UFC events and has become a popular destination for mixed martial arts fans in the region."
+  },
+  {
+    "Id": "VENUE_205",
+    "Title": "Sprint Center",
+    "Description": "The Sprint Center is a multi-purpose indoor arena located in Kansas City, Missouri, United States. Since its opening in 2007, the venue has hosted several UFC events, including UFC on Fox: Werdum vs. Browne in 2014 and UFC on Fox: Johnson vs. Moraga in 2013. The Sprint Center has a seating capacity of approximately 19,000 for mixed martial arts events."
+  },
+  {
+    "Id": "VENUE_206",
+    "Title": "Staples Center",
+    "Description": "The Staples Center is a multi-purpose indoor arena located in Los Angeles, California. It has hosted numerous UFC events since its opening in 1999, including UFC 60, UFC 104, and UFC 227. With a seating capacity of over 21,000, the venue has become a popular choice for UFC events, attracting both local and international fans."
+  },
+  {
+    "Id": "VENUE_207",
+    "Title": "State Farm Arena",
+    "Description": "State Farm Arena is a multi-purpose indoor venue located in Atlanta, Georgia, United States. It has hosted several notable UFC events, including UFC 236 in 2019, where Dustin Poirier defeated Max Holloway to become the interim UFC Lightweight Champion. The arena has also been the site of other UFC events, showcasing top-tier mixed martial arts talent in a state-of-the-art facility."
+  },
+  {
+    "Id": "VENUE_208",
+    "Title": "State Farm Arena",
+    "Description": "State Farm Arena is a multi-purpose indoor venue located in Atlanta, Georgia, United States. It has hosted several notable UFC events, including UFC 236 in 2019, where Dustin Poirier defeated Max Holloway to become the interim UFC Lightweight Champion. The arena has also been the site of other UFC events, showcasing top-tier mixed martial arts talent in a state-of-the-art facility."
+  },
+  {
+    "Id": "VENUE_209",
+    "Title": "T-Mobile Arena",
+    "Description": "The T-Mobile Arena is a multi-purpose indoor arena located in Paradise, Nevada, USA. Since its opening in 2016, it has hosted numerous UFC events, including high-profile fights such as UFC 200, UFC 229, and UFC 246. With a seating capacity of 20,000, the venue has become a popular choice for UFC events due to its state-of-the-art facilities and central location on the Las Vegas Strip."
+  },
+  {
+    "Id": "VENUE_211",
+    "Title": "T-Mobile Center",
+    "Description": "The T-Mobile Center, located in Kansas City, Missouri, is a prominent venue for UFC events. Since its opening in 2007, the center has hosted several high-profile UFC fights, including UFC on Fox: Johnson vs. Moraga in 2013 and UFC on Fox: Poirier vs. Gaethje in 2018. With a seating capacity of over 19,000, the T-Mobile Center continues to attract fans from around the world for thrilling UFC matchups."
+  },
+  {
+    "Id": "VENUE_212",
+    "Title": "Talking Stick Resort Arena",
+    "Description": "The Talking Stick Resort Arena is a multi-purpose indoor venue located in Phoenix, Arizona, United States. It has hosted several UFC events, including UFC on Fox: dos Santos vs. Miocic in 2014 and UFC on Fox: Poirier vs. Gaethje in 2018. The arena has a seating capacity of approximately 18,422 for UFC events and offers state-of-the-art facilities for both fighters and spectators."
+  },
+  {
+    "Id": "VENUE_213",
+    "Title": "Target Center",
+    "Description": "The Target Center is a multi-purpose arena located in Minneapolis, Minnesota, United States. It has hosted several UFC events, including UFC 87: Seek and Destroy in 2008, UFC on FX: Browne vs. Bigfoot in 2012, and UFC on ESPN: Ngannou vs. Velasquez in 2019. The venue has a seating capacity of approximately 19,356 for mixed martial arts events."
+  },
+  {
+    "Id": "VENUE_214",
+    "Title": "Tauron Arena Krak\u00F3w",
+    "Description": "Tauron Arena Krak\u00F3w is a multi-purpose indoor arena located in Krak\u00F3w, Poland. It has hosted several UFC events, including UFC Fight Night: Gonzaga vs. Cro Cop 2 in 2015. The venue has a seating capacity of 15,000 and offers state-of-the-art facilities for combat sports competitions. Tauron Arena Krak\u00F3w continues to attract top-tier MMA events, showcasing the sport\u0027s popularity in Poland."
+  },
+  {
+    "Id": "VENUE_215",
+    "Title": "TD Garden",
+    "Description": "The TD Garden, located in Boston, Massachusetts, is a multi-purpose arena that has hosted several UFC events. It first hosted a UFC event on August 28, 2010, featuring a lightweight championship bout between Frankie Edgar and B.J. Penn. Since then, the venue has been a popular choice for UFC events, including UFC 220 in 2018, headlined by a heavyweight title fight between Stipe Miocic and Francis Ngannou."
+  },
+  {
+    "Id": "VENUE_216",
+    "Title": "TD Place Arena",
+    "Description": "TD Place Arena is a multi-purpose indoor venue located in Ottawa, Canada. It has hosted several UFC events, including UFC Fight Night: MacDonald vs. Thompson in 2016, which featured a welterweight clash between Rory MacDonald and Stephen Thompson. The arena\u0027s state-of-the-art facilities and seating capacity of over 9,000 make it an ideal location for thrilling UFC bouts."
+  },
+  {
+    "Id": "VENUE_217",
+    "Title": "Ted Constant Convocation Center",
+    "Description": "The Ted Constant Convocation Center is a multi-purpose arena located in Norfolk, Virginia, United States. It has hosted several UFC events, including UFC Fight Night: Poirier vs. Pettis in 2017 and UFC Fight Night: Korean Zombie vs. Rodr\u00EDguez in 2018. The venue offers a seating capacity of approximately 9,100 for mixed martial arts events and has become a popular destination for UFC fans in the region."
+  },
+  {
+    "Id": "VENUE_218",
+    "Title": "Tele2 Arena",
+    "Description": "The Tele2 Arena is a multi-purpose indoor stadium located in Stockholm, Sweden. It has hosted several UFC events, including UFC on Fuel TV: Gustafsson vs. Silva in 2012, UFC Fight Night: Nelson vs. Story in 2014, and UFC Fight Night: Gustafsson vs. Teixeira in 2017. The arena has a seating capacity of 30,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_219",
+    "Title": "The Arena, Yas Island",
+    "Description": "The Arena, located on Yas Island, Abu Dhabi, is a prominent venue for UFC events. Since its inception, it has hosted numerous high-profile UFC fights, including UFC 251, UFC Fight Island 3, and UFC 242. The state-of-the-art facility offers a world-class experience for both fighters and spectators, making it a sought-after destination for UFC events."
+  },
+  {
+    "Id": "VENUE_220",
+    "Title": "The Chelsea at The Cosmopolitan",
+    "Description": "The Chelsea at The Cosmopolitan is a renowned UFC venue located in Las Vegas, Nevada. It has hosted several UFC events, including UFC 182: Jones vs. Cormier, UFC 194: Aldo vs. McGregor, and UFC 229: Khabib vs. McGregor. The venue offers a state-of-the-art facility with a seating capacity of approximately 3,200, providing an intimate setting for fans to witness thrilling UFC fights."
+  },
+  {
+    "Id": "VENUE_221",
+    "Title": "The Forum",
+    "Description": "The Forum is a multi-purpose indoor arena located in Inglewood, California, United States. It has hosted several UFC events, including UFC 199 in 2016, where Michael Bisping defeated Luke Rockhold to become the UFC Middleweight Champion. The venue has also hosted UFC 232 in 2018, featuring a Light Heavyweight title fight between Jon Jones and Alexander Gustafsson."
+  },
+  {
+    "Id": "VENUE_222",
+    "Title": "The O2",
+    "Description": "The O2, located in London, United Kingdom, is a renowned venue for UFC events. Since its debut as a UFC host in 2008, The O2 has witnessed numerous thrilling fights and showcased top-tier fighters. Notable events include UFC 120, UFC Fight Night: Silva vs. Bisping, and UFC Fight Night: Gustafsson vs. Manuwa. The O2 continues to attract fans with its state-of-the-art facilities and electrifying atmosphere."
+  },
+  {
+    "Id": "VENUE_223",
+    "Title": "The O2 arena",
+    "Description": "The O2 arena, located in London, United Kingdom, has been a prominent venue for UFC events. Since its first UFC event in 2008, the arena has hosted numerous high-profile fights, including UFC 120, UFC on Fuel TV: Barao vs. McDonald, and UFC Fight Night: Silva vs. Bisping. With a seating capacity of over 20,000, the O2 arena continues to attract a large audience for UFC events."
+  },
+  {
+    "Id": "VENUE_224",
+    "Title": "The Odyssey",
+    "Description": "The Odyssey is a multi-purpose arena located in Belfast, Northern Ireland. It has hosted several UFC events, including UFC Fight Night: Condit vs. Kampmann 2 in 2013 and UFC Fight Night: Nelson vs. Ponzinibbio in 2017. The venue offers a seating capacity of approximately 10,000 and has become a popular destination for mixed martial arts enthusiasts in the region."
+  },
+  {
+    "Id": "VENUE_225",
+    "Title": "The Palace of Auburn Hills",
+    "Description": "The Palace of Auburn Hills, located in Auburn Hills, Michigan, served as a prominent venue for several Ultimate Fighting Championship (UFC) events. It hosted UFC 9: Motor City Madness in 1996, UFC 123: Rampage vs. Machida in 2010, and UFC 220: Miocic vs. Ngannou in 2018. The arena\u0027s capacity of 22,076 spectators provided an electrifying atmosphere for these memorable UFC bouts."
+  },
+  {
+    "Id": "VENUE_226",
+    "Title": "The SSE Arena",
+    "Description": "The SSE Arena, located in Belfast, Northern Ireland, has hosted several UFC events. It first hosted UFC Fight Night: Nelson vs. Ponzinibbio on July 16, 2017, followed by UFC Fight Night: Werdum vs. Volkov on March 17, 2018. The venue has provided a platform for notable fighters to showcase their skills and has attracted a passionate fan base in the region."
+  },
+  {
+    "Id": "VENUE_227",
+    "Title": "The SSE Hydro",
+    "Description": "The SSE Hydro is a multi-purpose indoor arena located in Glasgow, Scotland. Since its opening in 2013, it has hosted several UFC events, including UFC Fight Night: Bisping vs. Leites in 2015 and UFC Fight Night: Nelson vs. Ponzinibbio in 2017. The venue has a seating capacity of 13,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_228",
+    "Title": "The Theater at Virgin Hotels",
+    "Description": "The Theater at Virgin Hotels is a renowned UFC venue located in Las Vegas, Nevada. Since its opening in 2021, it has hosted several high-profile UFC events, including UFC Fight Night: Hall vs. Strickland and UFC 267: Blachowicz vs. Teixeira. With its state-of-the-art facilities and capacity to accommodate thousands of spectators, the venue has become a popular choice for UFC events in the city."
+  },
+  {
+    "Id": "VENUE_229",
+    "Title": "Thomas \u0026 Mack Center",
+    "Description": "The Thomas \u0026 Mack Center is a multi-purpose arena located in Paradise, Nevada, United States. It has hosted several UFC events, including UFC 33 in 2001, UFC 46 in 2004, and UFC 64 in 2006. The venue has a seating capacity of 19,522 and is known for its versatility in accommodating various sporting and entertainment events."
+  },
+  {
+    "Id": "VENUE_230",
+    "Title": "Times Union Center",
+    "Description": "The Times Union Center is a multi-purpose arena located in Albany, New York. It has hosted several UFC events, including UFC Fight Night: Lewis vs. Abdurakhimov in 2016 and UFC Fight Night: Lee vs. Oliveira in 2020. The venue offers a seating capacity of approximately 17,500 and has become a popular destination for UFC fans in the Northeastern United States."
+  },
+  {
+    "Id": "VENUE_231",
+    "Title": "Tingley Coliseum",
+    "Description": "Tingley Coliseum is an indoor arena located in Albuquerque, New Mexico. It has hosted several UFC events, including UFC Fight Night: Henderson vs. Khabilov in 2014 and UFC Fight Night: Condit vs. Kampmann 2 in 2013. The venue has a seating capacity of approximately 11,571 and is known for its historic significance in the region\u0027s combat sports scene."
+  },
+  {
+    "Id": "VENUE_232",
+    "Title": "Tokyo Bay NK Hall",
+    "Description": "Tokyo Bay NK Hall is a renowned UFC venue located in Tokyo, Japan. It has hosted several notable UFC events, including UFC 23: Ultimate Japan, UFC 25: Ultimate Japan 3, and UFC 29: Defense of the Belts. With its capacity to accommodate thousands of spectators, the venue has become a popular destination for UFC fans in Japan."
+  },
+  {
+    "Id": "VENUE_233",
+    "Title": "Toyota Center",
+    "Description": "The Toyota Center is a multi-purpose indoor arena located in Houston, Texas, United States. It has hosted several UFC events, including UFC 69 in 2007, where Georges St-Pierre defeated Matt Serra to become the Welterweight Champion. The venue has also hosted UFC 166 in 2013, featuring a heavyweight title fight between Cain Velasquez and Junior dos Santos."
+  },
+  {
+    "Id": "VENUE_235",
+    "Title": "Trump Taj Mahal",
+    "Description": "The Trump Taj Mahal, located in Atlantic City, New Jersey, served as a venue for several UFC events. It hosted UFC 28 in 2000, UFC 30 in 2001, and UFC 53 in 2005. These events featured notable fighters such as Randy Couture, Tito Ortiz, and Chuck Liddell. The venue provided a spacious arena for thrilling mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_236",
+    "Title": "U.S. Airways Center",
+    "Description": "The U.S. Airways Center, located in Phoenix, Arizona, has hosted several UFC events. Notable events include UFC on Fox: dos Santos vs. Miocic in 2014, UFC on Fox: Poirier vs. Gaethje in 2018, and UFC on ESPN: Ngannou vs. Velasquez in 2019. The venue has a seating capacity of approximately 18,422 and offers state-of-the-art facilities for mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_237",
+    "Title": "U.S. Bank Arena",
+    "Description": "U.S. Bank Arena, located in Cincinnati, Ohio, is a multi-purpose indoor arena that has hosted several UFC events. Notable UFC events held at this venue include UFC Fight Night: Brown vs. Silva in 2014 and UFC Fight Night: Cerrone vs. Miller in 2015. With a seating capacity of approximately 17,500, the arena provides a suitable setting for thrilling mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_238",
+    "Title": "UBS Arena",
+    "Description": "The UBS Arena is a multi-purpose indoor arena located in Elmont, New York. It serves as a prominent venue for UFC events, hosting several high-profile fights since its opening in 2021. Notable UFC events held at the UBS Arena include championship bouts and exciting matchups featuring renowned fighters from various weight classes. The arena\u0027s state-of-the-art facilities and capacity to accommodate large crowds make it a preferred choice for UFC events in the region."
+  },
+  {
+    "Id": "VENUE_239",
+    "Title": "UFC Apex",
+    "Description": "The UFC Apex is a state-of-the-art mixed martial arts venue located in Las Vegas, Nevada, United States. It serves as the primary facility for hosting UFC events, including Fight Night and The Ultimate Fighter series. Since its opening in 2019, the UFC Apex has witnessed numerous high-profile fights and has become a prominent destination for both fighters and fans in the MMA community."
+  },
+  {
+    "Id": "VENUE_240",
+    "Title": "United Center",
+    "Description": "The United Center is a multi-purpose arena located in Chicago, Illinois, United States. It has hosted several UFC events, including UFC on Fox: Johnson vs. Dodson in 2013, UFC on Fox: Henderson vs. Thomson in 2014, and UFC on Fox: Holm vs. Shevchenko in 2016. The venue has a seating capacity of approximately 20,000 for UFC events and is known for its state-of-the-art facilities and enthusiastic crowd."
+  },
+  {
+    "Id": "VENUE_241",
+    "Title": "USF Sun Dome",
+    "Description": "The USF Sun Dome is an indoor arena located in Tampa, Florida, United States. It has hosted several UFC events, including UFC Fight Night: Swanson vs. Stephens in 2009 and UFC on Fox: Teixeira vs. Evans in 2016. The venue has a seating capacity of approximately 10,000 and offers state-of-the-art facilities for mixed martial arts competitions."
+  },
+  {
+    "Id": "VENUE_242",
+    "Title": "Valley View Casino Center",
+    "Description": "The Valley View Casino Center, located in San Diego, California, has hosted several UFC events. Notable events include UFC on Versus: Sanchez vs. Kampmann in 2011, UFC on Fox: Henderson vs. Melendez in 2013, and UFC Fight Night: Mir vs. Duffee in 2015. The venue has a seating capacity of approximately 14,500 and offers a versatile space for various sporting and entertainment events."
+  },
+  {
+    "Id": "VENUE_243",
+    "Title": "Vector Arena",
+    "Description": "The Vector Arena is a multi-purpose indoor arena located in Auckland, New Zealand. It has hosted several UFC events, including UFC Fight Night: Te Huna vs. Marquardt in 2014 and UFC Fight Night: Lewis vs. Hunt in 2017. The venue has a seating capacity of approximately 12,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_244",
+    "Title": "Verizon Center",
+    "Description": "The Verizon Center, located in Washington, D.C., is a prominent venue for UFC events. It has hosted several high-profile UFC fights, including UFC Live: Cruz vs. Johnson in 2011 and UFC on Versus: Jones vs. Matyushenko in 2010. With a seating capacity of over 20,000, the Verizon Center continues to attract fans from around the world for thrilling UFC matchups."
+  },
+  {
+    "Id": "VENUE_245",
+    "Title": "Vivint Arena",
+    "Description": "Vivint Arena, located in Salt Lake City, Utah, is a multi-purpose indoor arena that has hosted several UFC events. The venue has a seating capacity of approximately 18,300 and has been a popular choice for UFC events due to its state-of-the-art facilities and convenient location. Notable UFC events held at Vivint Arena include UFC Fight Night: Rodriguez vs. Caceres in 2016 and UFC Fight Night: Swanson vs. Lobov in 2017."
+  },
+  {
+    "Id": "VENUE_246",
+    "Title": "Vivint Smart Home Arena",
+    "Description": "Vivint Smart Home Arena, located in Salt Lake City, Utah, is a multi-purpose indoor arena that has hosted several UFC events. Notable events include UFC Fight Night: Rodriguez vs. Caceres in 2016 and UFC Fight Night: Swanson vs. Lobov in 2017. With a seating capacity of over 18,000, the arena provides a spacious and modern setting for thrilling UFC bouts."
+  },
+  {
+    "Id": "VENUE_247",
+    "Title": "VyStar Veterans Memorial Arena",
+    "Description": "The VyStar Veterans Memorial Arena is a multi-purpose indoor arena located in Jacksonville, Florida, United States. Since its opening in 2003, the venue has hosted several UFC events, including UFC 249 in 2020, which marked the return of live sports during the COVID-19 pandemic. The arena has a seating capacity of approximately 15,000 for UFC events and has become a popular destination for mixed martial arts fans."
+  },
+  {
+    "Id": "VENUE_248",
+    "Title": "Wachovia Center",
+    "Description": "The Wachovia Center, located in Philadelphia, Pennsylvania, has served as a prominent venue for UFC events. It has hosted several notable UFC fights, including UFC 101: Declaration, UFC 133: Evans vs. Ortiz, and UFC 133: Penn vs. Fitch. With a seating capacity of over 19,500, the Wachovia Center continues to attract fans from around the world for thrilling UFC matchups."
+  },
+  {
+    "Id": "VENUE_249",
+    "Title": "Wells Fargo Center",
+    "Description": "The Wells Fargo Center, located in Philadelphia, Pennsylvania, is a prominent venue for UFC events. It has hosted several high-profile UFC fights, including UFC 133 in 2011, UFC 101 in 2009, and UFC 133 in 2009. With a seating capacity of over 19,500, the Wells Fargo Center provides a spacious and electrifying atmosphere for fans to witness thrilling mixed martial arts action."
+  },
+  {
+    "Id": "VENUE_250",
+    "Title": "Wembley Arena",
+    "Description": "Wembley Arena, located in London, England, has hosted several notable UFC events. In 2002, UFC 38 took place at the venue, featuring a welterweight championship bout between Matt Hughes and Carlos Newton. Additionally, UFC 85 in 2008 showcased a middleweight clash between Nate Marquardt and Thales Leites. With a seating capacity of 12,500, Wembley Arena continues to be a popular choice for UFC events in the United Kingdom."
+  },
+  {
+    "Id": "VENUE_251",
+    "Title": "Yokohama Arena",
+    "Description": "The Yokohama Arena is a multi-purpose indoor arena located in Yokohama, Japan. It has hosted several UFC events, including UFC 23 in 1999, UFC 25 in 2000, and UFC Fight Night: Barnett vs. Nelson in 2015. The arena has a seating capacity of approximately 17,000 and is known for its state-of-the-art facilities and excellent acoustics."
+  },
+  {
+    "Id": "VENUE_252",
+    "Title": "Yoyogi National Gymnasium",
+    "Description": "Yoyogi National Gymnasium, located in Tokyo, Japan, has hosted several UFC events. Notable events include UFC 23 in 1999, UFC 25 in 2000, and UFC 29 in 2000. The venue, with a seating capacity of 13,291, has provided a platform for numerous thrilling fights and has become a popular destination for UFC fans in Japan."
+  },
+  {
+    "Id": "VENUE_253",
+    "Title": "Yubileyny Sports Palace",
+    "Description": "The Yubileyny Sports Palace is a multi-purpose indoor arena located in St. Petersburg, Russia. It has hosted several UFC events, including UFC Fight Night: Volkov vs. Struve in 2017 and UFC Fight Night: Overeem vs. Oleinik in 2019. The venue has a seating capacity of approximately 7,000 and offers state-of-the-art facilities for combat sports competitions."
   }
 ]
