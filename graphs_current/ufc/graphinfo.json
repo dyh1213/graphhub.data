@@ -5,9 +5,15 @@
   "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/ufc",
   "RootConcept": null,
   "Description": "The Ultimate Fighting Championship (UFC) knowledge graph includes all UFC events organized by their time and location.",
-  "FeaturedLists": [],
+  "FeaturedLists": [
+    "EVENTS_VENUE_140",
+    "EVENTS_COUTRY_16",
+    "EVENTS_LOCATION_34"
+  ],
   "FeaturedConcepts": [
-    "EVENT_1"
+    "EVENT_1",
+    "VENUE_133",
+    "LOCATION_22"
   ],
   "TopFeaturedLists": [],
   "TopFeaturedConcepts": []
