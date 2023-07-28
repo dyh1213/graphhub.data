@@ -328,12 +328,35 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_1",
+    "Title": "UFC Events in Alabama",
+    "Description": "List of the UFC Events that took place in the state of Alabama includes a limited number of events. The state hosted only one UFC event, UFC Fight Night: dos Santos vs. Ivanov, on July 14, 2018, at the Legacy Arena in Birmingham. Despite its limited history, Alabama remains an important destination for UFC fans in the southeastern United States.",
+    "ParentConceptId": "STATE_1",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_8",
+      "EVENTS_LOCATION_10",
+      "EVENTS_LOCATION_14"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_LOCATION_130",
     "Title": "UFC Events in Albany, New York, U.S.",
     "Description": "List of the UFC Events that took place in Albany, New York, U.S. includes a single event held on December 9, 2016, at the Times Union Center. The event, UFC Fight Night: Lewis vs. Abdurakhimov, featured a heavyweight bout between Derrick Lewis and Shamil Abdurakhimov as the main event. This marked the first and only UFC event held in Albany, New York.",
     "ParentConceptId": "LOCATION_130",
     "PullFromListsIds": [
       "EVENTS_VENUE_230"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_2",
+    "Title": "UFC Events in Alberta",
+    "Description": "List of the UFC Events that took place in the state of Alberta includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). Alberta has hosted a total of three UFC events, all held in the city of Calgary. The events took place at the Scotiabank Saddledome, a renowned indoor arena known for its capacity to accommodate large crowds and its state-of-the-art facilities.",
+    "ParentConceptId": "STATE_2",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_81",
+      "EVENTS_LOCATION_135"
     ],
     "DisableDirectMembers": false
   },
@@ -476,6 +499,17 @@
     "Description": "List of the UFC Events that took place in Arena Zagreb: Arena Zagreb, located in Zagreb, Croatia, has hosted two UFC events to date. The first event, UFC Fight Night: Rothwell vs. dos Santos, took place on April 10, 2016. The second event, UFC Fight Night: Lewis vs. Hunt, was held on June 10, 2017. These events showcased thrilling matchups and attracted a passionate crowd in the heart of Croatia\u0027s capital city.",
     "ParentConceptId": "VENUE_22",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_3",
+    "Title": "UFC Events in Arizona",
+    "Description": "List of the UFC Events that took place in the state of Arizona includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). Arizona has hosted a total of 5 UFC events as of 2021. These events were held at various venues, including the Gila River Arena in Glendale, the Talking Stick Resort Arena in Phoenix, and the Ak-Chin Pavilion in Phoenix. These events showcased top UFC fighters and provided thrilling entertainment for MMA enthusiasts in Arizona.",
+    "ParentConceptId": "STATE_3",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_108",
+      "EVENTS_LOCATION_143"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -987,6 +1021,23 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_4",
+    "Title": "UFC Events in California",
+    "Description": "List of the UFC Events that took place in the state of California includes a rich history of thrilling mixed martial arts competitions. Notable venues hosting these events include the Honda Center in Anaheim, the Staples Center in Los Angeles, and the SAP Center in San Jose. California has been a popular destination for UFC, with numerous events held in the state, showcasing top-tier fighters and captivating audiences with intense matchups.",
+    "ParentConceptId": "STATE_4",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_27",
+      "EVENTS_LOCATION_28",
+      "EVENTS_LOCATION_31",
+      "EVENTS_LOCATION_32",
+      "EVENTS_LOCATION_61",
+      "EVENTS_LOCATION_75",
+      "EVENTS_LOCATION_121",
+      "EVENTS_LOCATION_139"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_VENUE_49",
     "Title": "UFC Events in Canadian Tire Centre",
     "Description": "List of the UFC Events that took place in Canadian Tire Centre: Located in Ottawa, Ontario, Canadian Tire Centre has hosted several UFC events. It first welcomed the UFC in 2012 with UFC 152, followed by UFC Fight Night: MacDonald vs. Thompson in 2016. The venue also hosted UFC Fight Night: Cowboy vs. Gaethje in 2019, showcasing thrilling matchups and attracting passionate MMA fans from across Canada.",
@@ -1174,6 +1225,17 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_5",
+    "Title": "UFC Events in Colorado",
+    "Description": "List of the UFC Events that took place in the state of Colorado includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the Pepsi Center in Denver and the 1stBank Center in Broomfield. These events have showcased top-tier fighters and thrilling matchups, contributing to Colorado\u0027s vibrant MMA scene.",
+    "ParentConceptId": "STATE_5",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_1",
+      "EVENTS_LOCATION_40"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_LOCATION_33",
     "Title": "UFC Events in Columbus, Ohio, U.S.",
     "Description": "List of the UFC Events that took place in Columbus, Ohio, U.S. Columbus has hosted two UFC events at the Nationwide Arena. UFC 68: The Uprising was held on March 3, 2007, featuring a heavyweight title fight. UFC on ESPN: Ngannou vs. Velasquez took place on February 17, 2019, headlined by a heavyweight clash. These events showcased top-tier mixed martial arts action in the heart of Ohio.",
@@ -1189,6 +1251,17 @@
     "Description": "List of the UFC Events that took place in Concert Arena, Yas Island: Located in Yas Island, Abu Dhabi, Concert Arena has hosted several UFC events. Notable events include UFC 112 in 2010, featuring Anderson Silva vs. Demian Maia, and UFC 242 in 2019, headlined by Khabib Nurmagomedov vs. Dustin Poirier. The venue\u0027s state-of-the-art facilities and captivating atmosphere have made it a popular destination for UFC fans worldwide.",
     "ParentConceptId": "VENUE_62",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_6",
+    "Title": "UFC Events in Connecticut",
+    "Description": "List of the UFC Events that took place in the state of Connecticut includes a limited number of events. Connecticut has hosted only two UFC events to date. The first event, UFC Fight Night: Jacar\u00E9 vs. Mousasi, took place on September 5, 2015, at the Foxwoods Resort Casino in Ledyard. The second event, UFC Fight Night: Rodr\u00EDguez vs. Caceres, was held on August 6, 2016, at the same venue. Connecticut remains a relatively infrequent host for UFC events.",
+    "ParentConceptId": "STATE_6",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_23",
+      "EVENTS_LOCATION_103"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -1280,6 +1353,16 @@
     "ParentConceptId": "LOCATION_120",
     "PullFromListsIds": [
       "EVENTS_VENUE_18"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_7",
+    "Title": "UFC Events in D.C.",
+    "Description": "List of the UFC Events that took place in the state of D.C. includes a limited number of events due to the jurisdiction\u0027s late adoption of mixed martial arts. The first UFC event in D.C. occurred on October 4, 2019, at the Capital One Arena. This event marked the return of the UFC to the nation\u0027s capital after a long absence.",
+    "ParentConceptId": "STATE_7",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_74"
     ],
     "DisableDirectMembers": false
   },
@@ -1543,6 +1626,21 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_8",
+    "Title": "UFC Events in Florida",
+    "Description": "List of the UFC Events that took place in the state of Florida includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the American Airlines Arena in Miami, the Amway Center in Orlando, and the BB\u0026T Center in Sunrise. These events have showcased top UFC fighters and have attracted a passionate fan base in the state of Florida.",
+    "ParentConceptId": "STATE_8",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_26",
+      "EVENTS_LOCATION_30",
+      "EVENTS_LOCATION_49",
+      "EVENTS_LOCATION_79",
+      "EVENTS_LOCATION_96",
+      "EVENTS_LOCATION_164"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_VENUE_90",
     "Title": "UFC Events in Footprint Center",
     "Description": "List of the UFC Events that took place in Footprint Center: Footprint Center, located in Phoenix, Arizona, has hosted several UFC events. It first welcomed the UFC in 2002 and has since become a popular venue for thrilling fights. Notable events held here include UFC on Fox: Poirier vs. Gaethje in 2018 and UFC Fight Night: Overeem vs. Sakai in 2020. Footprint Center continues to be a favored destination for UFC fans in the Southwest.",
@@ -1639,6 +1737,19 @@
     "Description": "List of the UFC Events that took place in General Motors Place: General Motors Place, located in Vancouver, Canada, has hosted two UFC events. UFC 115 in 2010 featured a main event between Rich Franklin and Chuck Liddell, while UFC 131 in 2011 showcased a heavyweight clash between Junior dos Santos and Shane Carwin.",
     "ParentConceptId": "VENUE_95",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_9",
+    "Title": "UFC Events in Georgia",
+    "Description": "List of the UFC Events that took place in the state of Georgia includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). Georgia has hosted a total of three UFC events, all held in Atlanta. The first event, UFC 88, took place at the Philips Arena in 2008. The subsequent events, UFC 145 and UFC 201, were held at the same venue in 2012 and 2016, respectively. These events showcased top UFC fighters and attracted a significant audience.",
+    "ParentConceptId": "STATE_9",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_9",
+      "EVENTS_LOCATION_43",
+      "EVENTS_LOCATION_93",
+      "EVENTS_LOCATION_128"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -1896,11 +2007,42 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_10",
+    "Title": "UFC Events in Idaho",
+    "Description": "List of the UFC Events that took place in the state of Idaho includes a limited number of events due to the state\u0027s relatively recent involvement in the UFC. The only UFC event held in Idaho was UFC Fight Night: dos Santos vs. Ivanov on July 14, 2018, at the CenturyLink Arena in Boise. This event marked the first and, as of now, the only UFC event held in the state.",
+    "ParentConceptId": "STATE_10",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_147"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_11",
+    "Title": "UFC Events in Illinois",
+    "Description": "List of the UFC Events that took place in the state of Illinois includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the United Center in Chicago and the Allstate Arena in Rosemont. These events have showcased top-tier fighters and have attracted a passionate fan base in the state. Illinois has been a popular destination for UFC, contributing to the growth and popularity of the sport in the region.",
+    "ParentConceptId": "STATE_11",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_46",
+      "EVENTS_LOCATION_76"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_VENUE_114",
     "Title": "UFC Events in Independence Arena",
     "Description": "List of the UFC Events that took place in Independence Arena: Located in {Location Name}, Independence Arena has hosted several UFC events. Notable events include UFC 3 in 1994, UFC 5 in 1995, and UFC 8 in 1996. The venue has witnessed thrilling fights and showcased top fighters in various weight classes, contributing to the rich history of the UFC.",
     "ParentConceptId": "VENUE_114",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_12",
+    "Title": "UFC Events in Indiana",
+    "Description": "List of the UFC Events that took place in the state of Indiana includes a limited number of events. The state has hosted two UFC events to date. The first event, UFC 119, was held on September 25, 2010, at the Conseco Fieldhouse in Indianapolis. The second event, UFC Fight Night: Condit vs. Kampmann 2, took place on August 28, 2013, at the Bankers Life Fieldhouse, also in Indianapolis.",
+    "ParentConceptId": "STATE_12",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_64"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -1930,6 +2072,16 @@
     "Description": "List of the UFC Events that took place in Intrust Bank Arena: Located in Wichita, Kansas, Intrust Bank Arena has hosted two UFC events to date. The first event, UFC Fight Night: Lewis vs. dos Santos, took place on March 9, 2019, featuring a heavyweight clash between Derrick Lewis and Junior dos Santos. The second event, UFC Fight Night: Moicano vs. The Korean Zombie, occurred on June 22, 2019, headlined by a featherweight bout between Renato Moicano and Chan Sung Jung.",
     "ParentConceptId": "VENUE_115",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_13",
+    "Title": "UFC Events in Iowa",
+    "Description": "List of the UFC Events that took place in the state of Iowa includes a limited number of events. Iowa hosted only one UFC event, UFC Fight Night: Gaethje vs. Vick, on August 25, 2018, at the Pinnacle Bank Arena in Lincoln, Nebraska. Despite its limited history, the state of Iowa has shown potential as a potential host for future UFC events.",
+    "ParentConceptId": "STATE_13",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_16"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -1979,6 +2131,16 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_14",
+    "Title": "UFC Events in Kansas",
+    "Description": "List of the UFC Events that took place in the state of Kansas includes a limited number of events. The state hosted its first UFC event on March 9, 2019, at the Intrust Bank Arena in Wichita. The event featured a range of exciting fights, showcasing the talents of renowned UFC fighters. Kansas has since become a popular destination for UFC events, attracting fans from across the state and beyond.",
+    "ParentConceptId": "STATE_14",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_154"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_LOCATION_132",
     "Title": "UFC Events in Kansas City, Missouri, U.S.",
     "Description": "List of the UFC Events that took place in Kansas City, Missouri, U.S. includes UFC on Fox: Johnson vs. Reis held on April 15, 2017, at the Sprint Center. The event featured a flyweight championship bout between Demetrious Johnson and Wilson Reis. Additionally, UFC on Fox: Poirier vs. Gaethje took place on April 15, 2017, at the same venue, showcasing a lightweight clash between Dustin Poirier and Justin Gaethje.",
@@ -1995,6 +2157,17 @@
     "Description": "List of the UFC Events that took place in Kaseya Center: Located in {Location Name}, Kaseya Center has hosted several UFC events. Notable events include UFC Fight Night: Johnson vs. Reis in 2017 and UFC Fight Night: Jacar\u00E9 vs. Hermansson in 2019. The venue has provided a platform for thrilling fights and showcased top-tier MMA talent.",
     "ParentConceptId": "VENUE_118",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_15",
+    "Title": "UFC Events in Kentucky",
+    "Description": "List of the UFC Events that took place in the state of Kentucky includes a limited number of events. Kentucky hosted only one UFC event, UFC on Versus: Sanchez vs. Kampmann, on March 3, 2011, at the KFC Yum! Center in Louisville. This event featured a main event bout between Diego Sanchez and Martin Kampmann, attracting a crowd of approximately 8,319 spectators. Despite its limited history, Kentucky remains a notable destination for UFC fans in the region.",
+    "ParentConceptId": "STATE_15",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_68",
+      "EVENTS_LOCATION_89"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -2154,6 +2327,18 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_16",
+    "Title": "UFC Events in Louisiana",
+    "Description": "List of the UFC Events that took place in the state of Louisiana includes a limited number of events. Louisiana has hosted only two UFC events to date. The first event, UFC Fight Night: Boetsch vs. Henderson, was held on June 6, 2015, at the Smoothie King Center in New Orleans. The second event, UFC Fight Night: Rodriguez vs. Caceres, took place on July 13, 2016, at the CenturyLink Center in Bossier City. Despite the limited number of events, Louisiana has provided a platform for UFC fighters to showcase their skills in these venues.",
+    "ParentConceptId": "STATE_16",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_13",
+      "EVENTS_LOCATION_17",
+      "EVENTS_LOCATION_24"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_LOCATION_68",
     "Title": "UFC Events in Louisville, Kentucky, U.S.",
     "Description": "List of the UFC Events that took place in Louisville, Kentucky, U.S. includes a limited number of events. The most notable event was UFC Fight Night: Rodriguez vs. Stephens held on May 29, 2010, at the KFC Yum! Center. This event featured a main event bout between Yair Rodriguez and Jeremy Stephens. Additionally, Louisville hosted UFC Live: Vera vs. Jones on March 21, 2010, at the same venue.",
@@ -2179,6 +2364,16 @@
     "Description": "List of the UFC Events that took place in Madison Square Garden: Madison Square Garden, located in New York City, has hosted a total of 5 UFC events. The first event, UFC 205, took place on November 12, 2016, marking the promotion\u0027s debut in the state. Notable events include UFC 217, where Georges St-Pierre returned to win the middleweight title, and UFC 244, headlined by the BMF title fight between Jorge Masvidal and Nate Diaz.",
     "ParentConceptId": "VENUE_128",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_17",
+    "Title": "UFC Events in Maine",
+    "Description": "List of the UFC Events that took place in the state of Maine includes a limited number of events. The state hosted only one UFC event, UFC Fight Night: Bader vs. Saint Preux, on August 16, 2014, at the Cross Insurance Center in Bangor. Despite its brief history, Maine remains an important destination for MMA enthusiasts, showcasing the sport\u0027s popularity in the region.",
+    "ParentConceptId": "STATE_17",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_102"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -2234,6 +2429,16 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_18",
+    "Title": "UFC Events in Manitoba",
+    "Description": "List of the UFC Events that took place in the state of Manitoba includes a limited number of events. Manitoba has hosted only one UFC event to date. UFC 161 was held on June 15, 2013, at the MTS Centre in Winnipeg, Manitoba. This event featured a main event bout between Renan Bar\u00E3o and Eddie Wineland for the interim UFC Bantamweight Championship. Manitoba remains a relatively untapped market for UFC events.",
+    "ParentConceptId": "STATE_18",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_87"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_VENUE_134",
     "Title": "UFC Events in Marina Bay Sands",
     "Description": "List of the UFC Events that took place in Marina Bay Sands: Marina Bay Sands, located in Singapore, has hosted two UFC events to date. The first event, UFC Fight Night: Saffiedine vs. Lim, was held on January 4, 2014. The second event, UFC Fight Night: Cerrone vs. Edwards, took place on June 23, 2018. These events showcased thrilling fights and attracted a global audience to the iconic Marina Bay Sands venue.",
@@ -2268,12 +2473,32 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_19",
+    "Title": "UFC Events in Maryland",
+    "Description": "List of the UFC Events that took place in the state of Maryland includes a limited number of events. Maryland has hosted three UFC events to date. The first event, UFC 75, took place on September 8, 2007, at the Royal Farms Arena in Baltimore. The second event, UFC 172, was held on April 26, 2014, at the same venue. Lastly, UFC 249 occurred on May 9, 2020, at the VyStar Veterans Memorial Arena in Jacksonville, Florida, due to COVID-19 restrictions.",
+    "ParentConceptId": "STATE_19",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_97"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_LOCATION_103",
     "Title": "UFC Events in Mashantucket, Connecticut, U.S.",
     "Description": "List of the UFC Events that took place in Mashantucket, Connecticut, U.S. Mashantucket, Connecticut has hosted several UFC events at the Foxwoods Resort Casino. Notable events include UFC Fight Night: Jacar\u00E9 vs. Mousasi in 2014 and UFC Fight Night: Dillashaw vs. Cruz in 2016. These events took place at the Foxwoods Resort Casino\u0027s Grand Theater, providing a venue for thrilling mixed martial arts action in the region.",
     "ParentConceptId": "LOCATION_103",
     "PullFromListsIds": [
       "EVENTS_VENUE_93"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_20",
+    "Title": "UFC Events in Massachusetts",
+    "Description": "List of the UFC Events that took place in the state of Massachusetts includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the TD Garden in Boston and the DCU Center in Worcester. These events have showcased top-tier fighters and have attracted a passionate fan base in the state. Massachusetts has been a popular destination for UFC, contributing to the growth and popularity of the sport in the region.",
+    "ParentConceptId": "STATE_20",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_62"
     ],
     "DisableDirectMembers": false
   },
@@ -2353,6 +2578,17 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_21",
+    "Title": "UFC Events in Michigan",
+    "Description": "List of the UFC Events that took place in the state of Michigan includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the Little Caesars Arena in Detroit and the Van Andel Arena in Grand Rapids. These events have showcased top UFC fighters, thrilling audiences with intense bouts and memorable moments in the world of professional MMA.",
+    "ParentConceptId": "STATE_21",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_7",
+      "EVENTS_LOCATION_66"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_LOCATION_72",
     "Title": "UFC Events in Milwaukee, Wisconsin, U.S.",
     "Description": "List of the UFC Events that took place in Milwaukee, Wisconsin, U.S. includes several notable fights held in this location. The most prominent venue is the Fiserv Forum, which hosted UFC on Fox: Lee vs. Iaquinta 2 in 2018. Other events held in Milwaukee include UFC 164: Henderson vs. Pettis in 2013 at the BMO Harris Bradley Center and UFC Live: Hardy vs. Lytle in 2011 at the Bradley Center.",
@@ -2379,6 +2615,37 @@
     "ParentConceptId": "LOCATION_42",
     "PullFromListsIds": [
       "EVENTS_VENUE_213"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_22",
+    "Title": "UFC Events in Minnesota",
+    "Description": "List of the UFC Events that took place in the state of Minnesota includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the Target Center in Minneapolis and the Xcel Energy Center in St. Paul. These events have showcased top-tier fighters and have attracted a passionate fan base in the state.",
+    "ParentConceptId": "STATE_22",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_42"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_23",
+    "Title": "UFC Events in Mississippi",
+    "Description": "List of the UFC Events that took place in the state of Mississippi includes a limited number of events. The state has hosted only one UFC event to date, UFC Fight Night: Swanson vs. Lobov, held on April 22, 2017, at the Landers Center in Southaven. Despite its limited history, Mississippi remains an important destination for UFC fans in the southern United States.",
+    "ParentConceptId": "STATE_23",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_11"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_24",
+    "Title": "UFC Events in Missouri",
+    "Description": "List of the UFC Events that took place in the state of Missouri includes a limited number of events. The state has hosted two UFC events, both held in Kansas City. The first event, UFC on Fox: Johnson vs. Reis, took place on April 15, 2017, at the Sprint Center. The second event, UFC Fight Night: Stephens vs. Choi, was held on January 14, 2018, at the same venue. Missouri continues to be a sporadic host for UFC events.",
+    "ParentConceptId": "STATE_24",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_132",
+      "EVENTS_LOCATION_140"
     ],
     "DisableDirectMembers": false
   },
@@ -2537,6 +2804,61 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_25",
+    "Title": "UFC Events in Nebraska",
+    "Description": "List of the UFC Events that took place in the state of Nebraska includes a limited number of events. Nebraska hosted only one UFC event, UFC Fight Night: Gaethje vs. Vick, on August 25, 2018, at the Pinnacle Bank Arena in Lincoln. This event marked the first and, so far, the only UFC event held in Nebraska.",
+    "ParentConceptId": "STATE_25",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_44",
+      "EVENTS_LOCATION_148"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_26",
+    "Title": "UFC Events in Nevada",
+    "Description": "List of the UFC Events that took place in the state of Nevada includes a rich history of mixed martial arts competitions. Nevada has been a prominent host for UFC events, with Las Vegas serving as the primary venue. Notable venues include the T-Mobile Arena, MGM Grand Garden Arena, and the Mandalay Bay Events Center. These events have showcased top-tier fighters and have contributed to Nevada\u0027s reputation as a hub for UFC action.",
+    "ParentConceptId": "STATE_26",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_22",
+      "EVENTS_LOCATION_29"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_27",
+    "Title": "UFC Events in New Brunswick",
+    "Description": "List of the UFC Events that took place in the state of New Brunswick includes a limited number of events. The province has hosted only one UFC event to date, UFC Fight Night: MacDonald vs. Saffiedine, held on October 4, 2014, at the TD Place Arena in Moncton. Despite its limited history, New Brunswick remains an important destination for UFC fans in Eastern Canada.",
+    "ParentConceptId": "STATE_27",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_150"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_28",
+    "Title": "UFC Events in New Jersey",
+    "Description": "List of the UFC Events that took place in the state of New Jersey includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the Prudential Center in Newark and the Boardwalk Hall in Atlantic City. These events have showcased top-tier fighters and have attracted a passionate fan base in the state known for its love of combat sports.",
+    "ParentConceptId": "STATE_28",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_20",
+      "EVENTS_LOCATION_21",
+      "EVENTS_LOCATION_38"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_29",
+    "Title": "UFC Events in New Mexico",
+    "Description": "List of the UFC Events that took place in the state of New Mexico includes a limited number of events. The state hosted two UFC events, both held in Albuquerque. The first event, UFC Fight Night: Henderson vs. Khabilov, took place on June 7, 2014, at the Tingley Coliseum. The second event, UFC Fight Night: dos Santos vs. Lewis, was held on February 3, 2019, at the Santa Ana Star Center.",
+    "ParentConceptId": "STATE_29",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_99",
+      "EVENTS_LOCATION_163"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_LOCATION_13",
     "Title": "UFC Events in New Orleans, Louisiana, U.S.",
     "Description": "List of the UFC Events that took place in New Orleans, Louisiana, U.S. includes UFC Fight Night: Boetsch vs. Henderson held on June 6, 2015, at the Smoothie King Center. The event featured a main event bout between Tim Boetsch and Dan Henderson. Additionally, New Orleans hosted UFC 37.5: As Real As It Gets on June 22, 2002, at the UNO Lakefront Arena, showcasing a heavyweight championship fight between Randy Couture and Ricco Rodriguez.",
@@ -2546,6 +2868,23 @@
       "EVENTS_VENUE_124",
       "EVENTS_VENUE_81",
       "EVENTS_VENUE_201"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_30",
+    "Title": "UFC Events in New York",
+    "Description": "List of the UFC Events that took place in the state of New York includes a series of mixed martial arts competitions sanctioned by the Ultimate Fighting Championship (UFC). Since the legalization of professional MMA in 2016, New York has hosted several UFC events. Notable venues that have hosted these events include Madison Square Garden in New York City and the Barclays Center in Brooklyn. These events have showcased top UFC fighters and have attracted a significant fan base in the state.",
+    "ParentConceptId": "STATE_30",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_5",
+      "EVENTS_LOCATION_129",
+      "EVENTS_LOCATION_130",
+      "EVENTS_LOCATION_131",
+      "EVENTS_LOCATION_134",
+      "EVENTS_LOCATION_146",
+      "EVENTS_LOCATION_156",
+      "EVENTS_LOCATION_166"
     ],
     "DisableDirectMembers": false
   },
@@ -2591,12 +2930,44 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_31",
+    "Title": "UFC Events in North Carolina",
+    "Description": "List of the UFC Events that took place in the state of North Carolina includes a limited number of events. The state hosted two UFC events, both held in Raleigh. The first event, UFC on ESPN: Blaydes vs. dos Santos, took place on January 25, 2020, at the PNC Arena. The second event, UFC Fight Night: Sandhagen vs. Dillashaw, occurred on July 24, 2021, also at the PNC Arena.",
+    "ParentConceptId": "STATE_31",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_2",
+      "EVENTS_LOCATION_47",
+      "EVENTS_LOCATION_162"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_32",
+    "Title": "UFC Events in Northern Ireland",
+    "Description": "List of the UFC Events that took place in the state of Northern Ireland includes a limited number of events. The first and only UFC event held in Northern Ireland was UFC Fight Night: Mousasi vs. Hall 2, which took place on November 19, 2016, at The SSE Arena in Belfast. This event featured a main event rematch between Gegard Mousasi and Uriah Hall, along with other notable matchups in the UFC\u0027s middleweight division.",
+    "ParentConceptId": "STATE_32",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_36"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_LOCATION_82",
     "Title": "UFC Events in Nottingham, England, UK",
     "Description": "List of the UFC Events that took place in Nottingham, England, UK includes two notable events. The first event, UFC on Fuel TV: Struve vs. Miocic, was held on September 29, 2012, at the Capital FM Arena. The second event, UFC Fight Night: Machida vs. Munoz, took place on October 26, 2013, at the same venue. These events showcased thrilling mixed martial arts bouts in Nottingham, England.",
     "ParentConceptId": "LOCATION_82",
     "PullFromListsIds": [
       "EVENTS_VENUE_50"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_33",
+    "Title": "UFC Events in Nova Scotia",
+    "Description": "List of the UFC Events that took place in the state of Nova Scotia includes a limited number of events. The province hosted only one UFC event, UFC Fight Night: MacDonald vs. Thompson, on June 18, 2016, at the Scotiabank Centre in Halifax. This event marked the first and, so far, the only UFC event held in Nova Scotia.",
+    "ParentConceptId": "STATE_33",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_105"
     ],
     "DisableDirectMembers": false
   },
@@ -2633,6 +3004,29 @@
     "ParentConceptId": "LOCATION_65",
     "PullFromListsIds": [
       "EVENTS_VENUE_122"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_34",
+    "Title": "UFC Events in Ohio",
+    "Description": "List of the UFC Events that took place in the state of Ohio includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). Ohio has hosted a total of 7 UFC events to date. These events were held at various venues across the state, including the Nationwide Arena in Columbus, the Quicken Loans Arena in Cleveland, and the Value City Arena in Columbus.",
+    "ParentConceptId": "STATE_34",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_33",
+      "EVENTS_LOCATION_37",
+      "EVENTS_LOCATION_127"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_35",
+    "Title": "UFC Events in Oklahoma",
+    "Description": "List of the UFC Events that took place in the state of Oklahoma includes a rich history of mixed martial arts competitions. The Chesapeake Energy Arena in Oklahoma City has hosted multiple UFC events, such as UFC Fight Night: Diaz vs. Guillard in 2009 and UFC Fight Night: Chiesa vs. Lee in 2017. Additionally, the BOK Center in Tulsa has also been a venue for UFC events, including UFC Fight Night: Henderson vs. Dos Anjos in 2014. These events have showcased top-tier fighters and provided thrilling entertainment for Oklahoma\u0027s MMA enthusiasts.",
+    "ParentConceptId": "STATE_35",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_3",
+      "EVENTS_LOCATION_54"
     ],
     "DisableDirectMembers": false
   },
@@ -2682,11 +3076,32 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_36",
+    "Title": "UFC Events in Ontario",
+    "Description": "List of the UFC Events that took place in the state of Ontario includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the Canadian province of Ontario. Since the legalization of professional MMA in 2010, Ontario has hosted several UFC events, primarily in Toronto. Notable venues that have hosted these events include the Air Canada Centre (now Scotiabank Arena) and the Rogers Centre.",
+    "ParentConceptId": "STATE_36",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_70",
+      "EVENTS_LOCATION_122"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_VENUE_157",
     "Title": "UFC Events in Oracle Arena",
     "Description": "List of the UFC Events that took place in Oracle Arena: Located in Oakland, California, Oracle Arena has hosted two UFC events. The first event, UFC 117, took place on August 7, 2010, featuring a Middleweight Championship bout. The second event, UFC 164, occurred on December 14, 2013, showcasing a Featherweight Championship fight. Oracle Arena provided a notable venue for these UFC events, attracting fans from across the region.",
     "ParentConceptId": "VENUE_157",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_37",
+    "Title": "UFC Events in Oregon",
+    "Description": "List of the UFC Events that took place in the state of Oregon includes a limited number of events. The state has hosted three UFC events to date. The first event, UFC 102, was held at the Rose Garden Arena in Portland on August 29, 2009. The second event, UFC Fight Night: Condit vs. Kampmann 2, took place at the Moda Center in Portland on August 27, 2016. Lastly, UFC Fight Night: Poirier vs. Hooker was held at the UFC Apex facility in Las Vegas, Nevada, due to the COVID-19 pandemic, on June 27, 2020.",
+    "ParentConceptId": "STATE_37",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_53"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -2768,6 +3183,17 @@
     "Description": "List of the UFC Events that took place in Pechanga Arena: Located in San Diego, California, Pechanga Arena has hosted several UFC events. Notable events include UFC on Fox: Shogun vs. Vera in 2012 and UFC Fight Night: Swanson vs. Ortega in 2017. The venue has witnessed thrilling matchups and showcased top-tier fighters, contributing to its significance in the history of UFC events.",
     "ParentConceptId": "VENUE_163",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_38",
+    "Title": "UFC Events in Pennsylvania",
+    "Description": "List of the UFC Events that took place in the state of Pennsylvania includes a rich history of thrilling mixed martial arts competitions. Notable venues hosting these events include the Wells Fargo Center in Philadelphia and the PPG Paints Arena in Pittsburgh. Pennsylvania has witnessed numerous UFC events, showcasing top-tier fighters and attracting passionate fans from across the state. These events have contributed to the growth and popularity of the sport in Pennsylvania.",
+    "ParentConceptId": "STATE_38",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_52",
+      "EVENTS_LOCATION_71"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -2924,6 +3350,17 @@
     "Description": "List of the UFC Events that took place in Qudos Bank Arena: Qudos Bank Arena, located in Sydney, Australia, has hosted several UFC events. It first welcomed the UFC in 2010 with UFC 110, headlined by Antonio Rodrigo Nogueira vs. Cain Velasquez. Since then, notable events like UFC 127, UFC Fight Night: Rockhold vs. Bisping, and UFC 243 featuring Robert Whittaker vs. Israel Adesanya have taken place in this venue.",
     "ParentConceptId": "VENUE_173",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_39",
+    "Title": "UFC Events in Quebec",
+    "Description": "List of the UFC Events that took place in the state of Quebec includes a series of mixed martial arts competitions held in various venues across the province. Notable events include UFC 83 at the Bell Centre in Montreal, which marked the first UFC event held in Canada, and UFC 124 at the same venue, headlined by a welterweight championship bout. Other venues that hosted UFC events in Quebec include the Videotron Centre in Quebec City and the Centre Bell in Montreal.",
+    "ParentConceptId": "STATE_39",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_41",
+      "EVENTS_LOCATION_95"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -3233,6 +3670,16 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_40",
+    "Title": "UFC Events in Saskatchewan",
+    "Description": "List of the UFC Events that took place in the state of Saskatchewan includes a limited number of events due to the province\u0027s relatively recent involvement in the UFC. The only UFC event held in Saskatchewan was UFC Fight Night: Holloway vs. Oliveira, which took place on August 23, 2015, at the SaskTel Centre in Saskatoon. Despite the limited history, this event showcased top-tier fighters and marked a significant milestone for the province\u0027s MMA scene.",
+    "ParentConceptId": "STATE_40",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_114"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_LOCATION_114",
     "Title": "UFC Events in Saskatoon, Saskatchewan, Canada",
     "Description": "List of the UFC Events that took place in Saskatoon, Saskatchewan, Canada includes two notable events. The first event, UFC Fight Night: Holloway vs. Oliveira, was held on August 23, 2015, at the SaskTel Centre. The second event, UFC Fight Night: Saskatoon, took place on August 23, 2015, at the same venue. These events showcased thrilling mixed martial arts bouts and attracted a passionate audience in Saskatoon.",
@@ -3280,6 +3727,16 @@
     "Description": "List of the UFC Events that took place in Scotiabank Saddledome: Located in Calgary, Alberta, Canada, Scotiabank Saddledome has hosted two UFC events. The first event, UFC 149, was held on July 21, 2012, featuring a featherweight title fight. The second event, UFC on Fox: Alvarez vs. Poirier 2, took place on July 28, 2018, showcasing a lightweight main event. Both events attracted a passionate crowd and showcased thrilling MMA action.",
     "ParentConceptId": "VENUE_195",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_41",
+    "Title": "UFC Events in Scotland",
+    "Description": "List of the UFC Events that took place in the state of Scotland includes a limited number of events due to the sport\u0027s relatively recent popularity in the region. The only UFC event held in Scotland was UFC Fight Night: Bisping vs. Leites, which took place on July 18, 2015, at The SSE Hydro in Glasgow. Despite the limited history, the event showcased top-tier fighters and provided Scottish fans with an exciting night of mixed martial arts action.",
+    "ParentConceptId": "STATE_41",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_113"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -3386,6 +3843,26 @@
     "Description": "List of the UFC Events that took place in Sommet Center: Located in Nashville, Tennessee, Sommet Center has hosted two UFC events. The first event, UFC Fight Night: Condit vs. Kampmann 2, took place on August 28, 2013. The second event, UFC Fight Night: Teixeira vs. Saint Preux, was held on August 8, 2015. Both events featured thrilling matchups and showcased the talent of renowned UFC fighters.",
     "ParentConceptId": "VENUE_202",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_42",
+    "Title": "UFC Events in South Carolina",
+    "Description": "List of the UFC Events that took place in the state of South Carolina includes a limited number of events due to the state\u0027s recent addition to the UFC circuit. The first event, UFC Fight Night: Moicano vs. Korean Zombie, was held on June 22, 2019, at the Bon Secours Wellness Arena in Greenville. This marked the inaugural UFC event in South Carolina, showcasing the state\u0027s growing interest in mixed martial arts.",
+    "ParentConceptId": "STATE_42",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_157"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_43",
+    "Title": "UFC Events in South Dakota",
+    "Description": "List of the UFC Events that took place in the state of South Dakota includes a limited number of events. The state hosted only one UFC event to date, UFC Fight Night: McDonald vs. Lineker, on July 13, 2016, at the Denny Sanford Premier Center in Sioux Falls. Despite its limited history, South Dakota remains an important destination for UFC fans in the Midwest region.",
+    "ParentConceptId": "STATE_43",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_124"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -3572,6 +4049,32 @@
     "Description": "List of the UFC Events that took place in Tele2 Arena: Tele2 Arena, located in Stockholm, Sweden, has hosted two UFC events to date. The first event, UFC on Fuel TV: Gustafsson vs. Silva, took place on April 14, 2012. The second event, UFC Fight Night: Nelson vs. Story, was held on October 4, 2014. Both events showcased thrilling fights and attracted a passionate crowd in this state-of-the-art indoor arena.",
     "ParentConceptId": "VENUE_218",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_44",
+    "Title": "UFC Events in Tennessee",
+    "Description": "List of the UFC Events that took place in the state of Tennessee includes a limited number of events. The state hosted two UFC events, both held in Nashville. The first event, UFC Fight Night: Condit vs. Kampmann 2, took place on August 28, 2013, at the Bridgestone Arena. The second event, UFC Fight Night: Swanson vs. Lobov, was held on April 22, 2017, at the same venue. These events showcased top-tier mixed martial arts talent in the heart of Tennessee.",
+    "ParentConceptId": "STATE_44",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_50",
+      "EVENTS_LOCATION_56"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_45",
+    "Title": "UFC Events in Texas",
+    "Description": "List of the UFC Events that took place in the state of Texas includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the Toyota Center in Houston, American Airlines Center in Dallas, and Frank Erwin Center in Austin. Texas has been a popular destination for UFC, with numerous events showcasing top fighters and thrilling matchups in the Lone Star State.",
+    "ParentConceptId": "STATE_45",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_34",
+      "EVENTS_LOCATION_55",
+      "EVENTS_LOCATION_63",
+      "EVENTS_LOCATION_67",
+      "EVENTS_LOCATION_101",
+      "EVENTS_LOCATION_165"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -3815,6 +4318,16 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_46",
+    "Title": "UFC Events in Utah",
+    "Description": "List of the UFC Events that took place in the state of Utah includes a limited number of events due to the state\u0027s relatively recent involvement in the UFC. The Vivint Smart Home Arena in Salt Lake City has been the sole venue for these events, hosting two UFC Fight Night events in 2016 and 2019. These events showcased top-tier fighters and provided Utah\u0027s MMA fans with thrilling bouts in a world-class setting.",
+    "ParentConceptId": "STATE_46",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_125"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_LOCATION_146",
     "Title": "UFC Events in Utica, New York, U.S.",
     "Description": "List of the UFC Events that took place in Utica, New York, U.S. Utica, located in upstate New York, has hosted two UFC events to date. The first event, UFC Fight Night: Rivera vs. Moraes, took place on June 1, 2018, at the Adirondack Bank Center. The second event, UFC Fight Night: Rivera vs. Dodson, was held on June 1, 2018, at the same venue. These events showcased thrilling mixed martial arts action in Utica.",
@@ -3860,6 +4373,17 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_47",
+    "Title": "UFC Events in Virginia",
+    "Description": "List of the UFC Events that took place in the state of Virginia includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). Virginia has hosted several UFC events, with notable venues including the Capital One Arena in Washington, D.C., and the Ted Constant Convocation Center in Norfolk. These events have showcased top-tier fighters and provided thrilling matchups for fans in the state.",
+    "ParentConceptId": "STATE_47",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_57",
+      "EVENTS_LOCATION_137"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_VENUE_245",
     "Title": "UFC Events in Vivint Arena",
     "Description": "List of the UFC Events that took place in Vivint Arena: Vivint Arena, located in Salt Lake City, Utah, has hosted two UFC events to date. The first event, UFC Fight Night: Rodr\u00EDguez vs. Caceres, took place on August 6, 2016. The second event, UFC Fight Night: Swanson vs. Lobov, was held on April 22, 2017. Both events featured a lineup of exciting fights and showcased the arena\u0027s capacity to host high-profile UFC events.",
@@ -3889,6 +4413,16 @@
     "Description": "List of the UFC Events that took place in Wachovia Center: Located in Philadelphia, Pennsylvania, the Wachovia Center has hosted two UFC events. UFC 101 was held on August 8, 2009, featuring a lightweight title fight between BJ Penn and Kenny Florian. UFC 133 took place on August 6, 2011, headlined by a light heavyweight bout between Rashad Evans and Tito Ortiz.",
     "ParentConceptId": "VENUE_248",
     "PullFromListsIds": null,
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_48",
+    "Title": "UFC Events in Washington",
+    "Description": "List of the UFC Events that took place in the state of Washington includes a limited number of events. The state has hosted three UFC events, all held in Seattle. The first event, UFC Fight Night: Nogueira vs. Davis, took place at KeyArena in 2010. The following year, UFC Fight Night: Marquardt vs. Story was held at the same venue. Lastly, UFC on Fox: Johnson vs. Moraga occurred at KeyArena in 2013.",
+    "ParentConceptId": "STATE_48",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_69"
+    ],
     "DisableDirectMembers": false
   },
   {
@@ -3940,6 +4474,26 @@
     "DisableDirectMembers": false
   },
   {
+    "Id": "EVENTS_STATE_49",
+    "Title": "UFC Events in Wisconsin",
+    "Description": "List of the UFC Events that took place in the state of Wisconsin includes a limited number of events. The state hosted only one UFC event, UFC Live: Hardy vs. Lytle, on August 14, 2011, at the Bradley Center in Milwaukee. Despite the scarcity of events, Wisconsin remains an important location for mixed martial arts enthusiasts in the Midwest region.",
+    "ParentConceptId": "STATE_49",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_72"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "EVENTS_STATE_50",
+    "Title": "UFC Events in Wyoming",
+    "Description": "List of the UFC Events that took place in the state of Wyoming includes a limited number of events due to the state\u0027s late adoption of mixed martial arts regulations. The only UFC event held in Wyoming was UFC Fight Night: Rodriguez vs. Penn on January 15, 2017, at the Vivint Smart Home Arena in Laramie. Despite its sparse UFC history, Wyoming continues to showcase its potential as a host for future UFC events.",
+    "ParentConceptId": "STATE_50",
+    "PullFromListsIds": [
+      "EVENTS_LOCATION_4"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
     "Id": "EVENTS_VENUE_251",
     "Title": "UFC Events in Yokohama Arena",
     "Description": "List of the UFC Events that took place in Yokohama Arena: Located in Yokohama, Japan, Yokohama Arena has hosted two UFC events. The first event, UFC 15, took place on October 17, 1997, featuring a heavyweight championship bout. The second event, UFC 25, occurred on April 14, 2000, showcasing various weight classes. Both events attracted a large audience and contributed to the growth of MMA in Japan.",
@@ -3980,560 +4534,6 @@
     "ParentConceptId": "LOCATION_118",
     "PullFromListsIds": [
       "EVENTS_VENUE_22"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_1",
-    "Title": "UFC Events in Alabama",
-    "Description": "List of the UFC Events that took place in the state of Alabama includes a limited number of events. The state hosted only one UFC event, UFC Fight Night: dos Santos vs. Ivanov, on July 14, 2018, at the Legacy Arena in Birmingham. Despite its limited history, Alabama remains an important destination for UFC fans in the southeastern United States.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_8",
-      "EVENTS_LOCATION_10",
-      "EVENTS_LOCATION_14"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_2",
-    "Title": "UFC Events in Alberta",
-    "Description": "List of the UFC Events that took place in the state of Alberta includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). Alberta has hosted a total of three UFC events, all held in the city of Calgary. The events took place at the Scotiabank Saddledome, a renowned indoor arena known for its capacity to accommodate large crowds and its state-of-the-art facilities.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_81",
-      "EVENTS_LOCATION_135"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_3",
-    "Title": "UFC Events in Arizona",
-    "Description": "List of the UFC Events that took place in the state of Arizona includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). Arizona has hosted a total of 5 UFC events as of 2021. These events were held at various venues, including the Gila River Arena in Glendale, the Talking Stick Resort Arena in Phoenix, and the Ak-Chin Pavilion in Phoenix. These events showcased top UFC fighters and provided thrilling entertainment for MMA enthusiasts in Arizona.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_108",
-      "EVENTS_LOCATION_143"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_4",
-    "Title": "UFC Events in California",
-    "Description": "List of the UFC Events that took place in the state of California includes a rich history of thrilling mixed martial arts competitions. Notable venues hosting these events include the Honda Center in Anaheim, the Staples Center in Los Angeles, and the SAP Center in San Jose. California has been a popular destination for UFC, with numerous events held in the state, showcasing top-tier fighters and captivating audiences with intense matchups.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_27",
-      "EVENTS_LOCATION_28",
-      "EVENTS_LOCATION_31",
-      "EVENTS_LOCATION_32",
-      "EVENTS_LOCATION_61",
-      "EVENTS_LOCATION_75",
-      "EVENTS_LOCATION_121",
-      "EVENTS_LOCATION_139"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_5",
-    "Title": "UFC Events in Colorado",
-    "Description": "List of the UFC Events that took place in the state of Colorado includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the Pepsi Center in Denver and the 1stBank Center in Broomfield. These events have showcased top-tier fighters and thrilling matchups, contributing to Colorado\u0027s vibrant MMA scene.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_1",
-      "EVENTS_LOCATION_40"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_6",
-    "Title": "UFC Events in Connecticut",
-    "Description": "List of the UFC Events that took place in the state of Connecticut includes a limited number of events. Connecticut has hosted only two UFC events to date. The first event, UFC Fight Night: Jacar\u00E9 vs. Mousasi, took place on September 5, 2015, at the Foxwoods Resort Casino in Ledyard. The second event, UFC Fight Night: Rodr\u00EDguez vs. Caceres, was held on August 6, 2016, at the same venue. Connecticut remains a relatively infrequent host for UFC events.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_23",
-      "EVENTS_LOCATION_103"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_7",
-    "Title": "UFC Events in D.C.",
-    "Description": "List of the UFC Events that took place in the state of D.C. includes a limited number of events due to the jurisdiction\u0027s late adoption of mixed martial arts. The first UFC event in D.C. occurred on October 4, 2019, at the Capital One Arena. This event marked the return of the UFC to the nation\u0027s capital after a long absence.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_74"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_8",
-    "Title": "UFC Events in Florida",
-    "Description": "List of the UFC Events that took place in the state of Florida includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the American Airlines Arena in Miami, the Amway Center in Orlando, and the BB\u0026T Center in Sunrise. These events have showcased top UFC fighters and have attracted a passionate fan base in the state of Florida.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_26",
-      "EVENTS_LOCATION_30",
-      "EVENTS_LOCATION_49",
-      "EVENTS_LOCATION_79",
-      "EVENTS_LOCATION_96",
-      "EVENTS_LOCATION_164"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_9",
-    "Title": "UFC Events in Georgia",
-    "Description": "List of the UFC Events that took place in the state of Georgia includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). Georgia has hosted a total of three UFC events, all held in Atlanta. The first event, UFC 88, took place at the Philips Arena in 2008. The subsequent events, UFC 145 and UFC 201, were held at the same venue in 2012 and 2016, respectively. These events showcased top UFC fighters and attracted a significant audience.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_9",
-      "EVENTS_LOCATION_43",
-      "EVENTS_LOCATION_93",
-      "EVENTS_LOCATION_128"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_10",
-    "Title": "UFC Events in Idaho",
-    "Description": "List of the UFC Events that took place in the state of Idaho includes a limited number of events due to the state\u0027s relatively recent involvement in the UFC. The only UFC event held in Idaho was UFC Fight Night: dos Santos vs. Ivanov on July 14, 2018, at the CenturyLink Arena in Boise. This event marked the first and, as of now, the only UFC event held in the state.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_147"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_11",
-    "Title": "UFC Events in Illinois",
-    "Description": "List of the UFC Events that took place in the state of Illinois includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the United Center in Chicago and the Allstate Arena in Rosemont. These events have showcased top-tier fighters and have attracted a passionate fan base in the state. Illinois has been a popular destination for UFC, contributing to the growth and popularity of the sport in the region.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_46",
-      "EVENTS_LOCATION_76"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_12",
-    "Title": "UFC Events in Indiana",
-    "Description": "List of the UFC Events that took place in the state of Indiana includes a limited number of events. The state has hosted two UFC events to date. The first event, UFC 119, was held on September 25, 2010, at the Conseco Fieldhouse in Indianapolis. The second event, UFC Fight Night: Condit vs. Kampmann 2, took place on August 28, 2013, at the Bankers Life Fieldhouse, also in Indianapolis.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_64"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_13",
-    "Title": "UFC Events in Iowa",
-    "Description": "List of the UFC Events that took place in the state of Iowa includes a limited number of events. Iowa hosted only one UFC event, UFC Fight Night: Gaethje vs. Vick, on August 25, 2018, at the Pinnacle Bank Arena in Lincoln, Nebraska. Despite its limited history, the state of Iowa has shown potential as a potential host for future UFC events.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_16"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_14",
-    "Title": "UFC Events in Kansas",
-    "Description": "List of the UFC Events that took place in the state of Kansas includes a limited number of events. The state hosted its first UFC event on March 9, 2019, at the Intrust Bank Arena in Wichita. The event featured a range of exciting fights, showcasing the talents of renowned UFC fighters. Kansas has since become a popular destination for UFC events, attracting fans from across the state and beyond.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_154"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_15",
-    "Title": "UFC Events in Kentucky",
-    "Description": "List of the UFC Events that took place in the state of Kentucky includes a limited number of events. Kentucky hosted only one UFC event, UFC on Versus: Sanchez vs. Kampmann, on March 3, 2011, at the KFC Yum! Center in Louisville. This event featured a main event bout between Diego Sanchez and Martin Kampmann, attracting a crowd of approximately 8,319 spectators. Despite its limited history, Kentucky remains a notable destination for UFC fans in the region.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_68",
-      "EVENTS_LOCATION_89"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_16",
-    "Title": "UFC Events in Louisiana",
-    "Description": "List of the UFC Events that took place in the state of Louisiana includes a limited number of events. Louisiana has hosted only two UFC events to date. The first event, UFC Fight Night: Boetsch vs. Henderson, was held on June 6, 2015, at the Smoothie King Center in New Orleans. The second event, UFC Fight Night: Rodriguez vs. Caceres, took place on July 13, 2016, at the CenturyLink Center in Bossier City. Despite the limited number of events, Louisiana has provided a platform for UFC fighters to showcase their skills in these venues.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_13",
-      "EVENTS_LOCATION_17",
-      "EVENTS_LOCATION_24"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_17",
-    "Title": "UFC Events in Maine",
-    "Description": "List of the UFC Events that took place in the state of Maine includes a limited number of events. The state hosted only one UFC event, UFC Fight Night: Bader vs. Saint Preux, on August 16, 2014, at the Cross Insurance Center in Bangor. Despite its brief history, Maine remains an important destination for MMA enthusiasts, showcasing the sport\u0027s popularity in the region.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_102"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_18",
-    "Title": "UFC Events in Manitoba",
-    "Description": "List of the UFC Events that took place in the state of Manitoba includes a limited number of events. Manitoba has hosted only one UFC event to date. UFC 161 was held on June 15, 2013, at the MTS Centre in Winnipeg, Manitoba. This event featured a main event bout between Renan Bar\u00E3o and Eddie Wineland for the interim UFC Bantamweight Championship. Manitoba remains a relatively untapped market for UFC events.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_87"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_19",
-    "Title": "UFC Events in Maryland",
-    "Description": "List of the UFC Events that took place in the state of Maryland includes a limited number of events. Maryland has hosted three UFC events to date. The first event, UFC 75, took place on September 8, 2007, at the Royal Farms Arena in Baltimore. The second event, UFC 172, was held on April 26, 2014, at the same venue. Lastly, UFC 249 occurred on May 9, 2020, at the VyStar Veterans Memorial Arena in Jacksonville, Florida, due to COVID-19 restrictions.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_97"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_20",
-    "Title": "UFC Events in Massachusetts",
-    "Description": "List of the UFC Events that took place in the state of Massachusetts includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the TD Garden in Boston and the DCU Center in Worcester. These events have showcased top-tier fighters and have attracted a passionate fan base in the state. Massachusetts has been a popular destination for UFC, contributing to the growth and popularity of the sport in the region.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_62"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_21",
-    "Title": "UFC Events in Michigan",
-    "Description": "List of the UFC Events that took place in the state of Michigan includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the Little Caesars Arena in Detroit and the Van Andel Arena in Grand Rapids. These events have showcased top UFC fighters, thrilling audiences with intense bouts and memorable moments in the world of professional MMA.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_7",
-      "EVENTS_LOCATION_66"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_22",
-    "Title": "UFC Events in Minnesota",
-    "Description": "List of the UFC Events that took place in the state of Minnesota includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the Target Center in Minneapolis and the Xcel Energy Center in St. Paul. These events have showcased top-tier fighters and have attracted a passionate fan base in the state.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_42"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_23",
-    "Title": "UFC Events in Mississippi",
-    "Description": "List of the UFC Events that took place in the state of Mississippi includes a limited number of events. The state has hosted only one UFC event to date, UFC Fight Night: Swanson vs. Lobov, held on April 22, 2017, at the Landers Center in Southaven. Despite its limited history, Mississippi remains an important destination for UFC fans in the southern United States.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_11"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_24",
-    "Title": "UFC Events in Missouri",
-    "Description": "List of the UFC Events that took place in the state of Missouri includes a limited number of events. The state has hosted two UFC events, both held in Kansas City. The first event, UFC on Fox: Johnson vs. Reis, took place on April 15, 2017, at the Sprint Center. The second event, UFC Fight Night: Stephens vs. Choi, was held on January 14, 2018, at the same venue. Missouri continues to be a sporadic host for UFC events.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_132",
-      "EVENTS_LOCATION_140"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_25",
-    "Title": "UFC Events in Nebraska",
-    "Description": "List of the UFC Events that took place in the state of Nebraska includes a limited number of events. Nebraska hosted only one UFC event, UFC Fight Night: Gaethje vs. Vick, on August 25, 2018, at the Pinnacle Bank Arena in Lincoln. This event marked the first and, so far, the only UFC event held in Nebraska.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_44",
-      "EVENTS_LOCATION_148"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_26",
-    "Title": "UFC Events in Nevada",
-    "Description": "List of the UFC Events that took place in the state of Nevada includes a rich history of mixed martial arts competitions. Nevada has been a prominent host for UFC events, with Las Vegas serving as the primary venue. Notable venues include the T-Mobile Arena, MGM Grand Garden Arena, and the Mandalay Bay Events Center. These events have showcased top-tier fighters and have contributed to Nevada\u0027s reputation as a hub for UFC action.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_22",
-      "EVENTS_LOCATION_29"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_27",
-    "Title": "UFC Events in New Brunswick",
-    "Description": "List of the UFC Events that took place in the state of New Brunswick includes a limited number of events. The province has hosted only one UFC event to date, UFC Fight Night: MacDonald vs. Saffiedine, held on October 4, 2014, at the TD Place Arena in Moncton. Despite its limited history, New Brunswick remains an important destination for UFC fans in Eastern Canada.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_150"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_28",
-    "Title": "UFC Events in New Jersey",
-    "Description": "List of the UFC Events that took place in the state of New Jersey includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the Prudential Center in Newark and the Boardwalk Hall in Atlantic City. These events have showcased top-tier fighters and have attracted a passionate fan base in the state known for its love of combat sports.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_20",
-      "EVENTS_LOCATION_21",
-      "EVENTS_LOCATION_38"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_29",
-    "Title": "UFC Events in New Mexico",
-    "Description": "List of the UFC Events that took place in the state of New Mexico includes a limited number of events. The state hosted two UFC events, both held in Albuquerque. The first event, UFC Fight Night: Henderson vs. Khabilov, took place on June 7, 2014, at the Tingley Coliseum. The second event, UFC Fight Night: dos Santos vs. Lewis, was held on February 3, 2019, at the Santa Ana Star Center.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_99",
-      "EVENTS_LOCATION_163"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_30",
-    "Title": "UFC Events in New York",
-    "Description": "List of the UFC Events that took place in the state of New York includes a series of mixed martial arts competitions sanctioned by the Ultimate Fighting Championship (UFC). Since the legalization of professional MMA in 2016, New York has hosted several UFC events. Notable venues that have hosted these events include Madison Square Garden in New York City and the Barclays Center in Brooklyn. These events have showcased top UFC fighters and have attracted a significant fan base in the state.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_5",
-      "EVENTS_LOCATION_129",
-      "EVENTS_LOCATION_130",
-      "EVENTS_LOCATION_131",
-      "EVENTS_LOCATION_134",
-      "EVENTS_LOCATION_146",
-      "EVENTS_LOCATION_156",
-      "EVENTS_LOCATION_166"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_31",
-    "Title": "UFC Events in North Carolina",
-    "Description": "List of the UFC Events that took place in the state of North Carolina includes a limited number of events. The state hosted two UFC events, both held in Raleigh. The first event, UFC on ESPN: Blaydes vs. dos Santos, took place on January 25, 2020, at the PNC Arena. The second event, UFC Fight Night: Sandhagen vs. Dillashaw, occurred on July 24, 2021, also at the PNC Arena.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_2",
-      "EVENTS_LOCATION_47",
-      "EVENTS_LOCATION_162"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_32",
-    "Title": "UFC Events in Northern Ireland",
-    "Description": "List of the UFC Events that took place in the state of Northern Ireland includes a limited number of events. The first and only UFC event held in Northern Ireland was UFC Fight Night: Mousasi vs. Hall 2, which took place on November 19, 2016, at The SSE Arena in Belfast. This event featured a main event rematch between Gegard Mousasi and Uriah Hall, along with other notable matchups in the UFC\u0027s middleweight division.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_36"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_33",
-    "Title": "UFC Events in Nova Scotia",
-    "Description": "List of the UFC Events that took place in the state of Nova Scotia includes a limited number of events. The province hosted only one UFC event, UFC Fight Night: MacDonald vs. Thompson, on June 18, 2016, at the Scotiabank Centre in Halifax. This event marked the first and, so far, the only UFC event held in Nova Scotia.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_105"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_34",
-    "Title": "UFC Events in Ohio",
-    "Description": "List of the UFC Events that took place in the state of Ohio includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). Ohio has hosted a total of 7 UFC events to date. These events were held at various venues across the state, including the Nationwide Arena in Columbus, the Quicken Loans Arena in Cleveland, and the Value City Arena in Columbus.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_33",
-      "EVENTS_LOCATION_37",
-      "EVENTS_LOCATION_127"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_35",
-    "Title": "UFC Events in Oklahoma",
-    "Description": "List of the UFC Events that took place in the state of Oklahoma includes a rich history of mixed martial arts competitions. The Chesapeake Energy Arena in Oklahoma City has hosted multiple UFC events, such as UFC Fight Night: Diaz vs. Guillard in 2009 and UFC Fight Night: Chiesa vs. Lee in 2017. Additionally, the BOK Center in Tulsa has also been a venue for UFC events, including UFC Fight Night: Henderson vs. Dos Anjos in 2014. These events have showcased top-tier fighters and provided thrilling entertainment for Oklahoma\u0027s MMA enthusiasts.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_3",
-      "EVENTS_LOCATION_54"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_36",
-    "Title": "UFC Events in Ontario",
-    "Description": "List of the UFC Events that took place in the state of Ontario includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC) in the Canadian province of Ontario. Since the legalization of professional MMA in 2010, Ontario has hosted several UFC events, primarily in Toronto. Notable venues that have hosted these events include the Air Canada Centre (now Scotiabank Arena) and the Rogers Centre.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_70",
-      "EVENTS_LOCATION_122"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_37",
-    "Title": "UFC Events in Oregon",
-    "Description": "List of the UFC Events that took place in the state of Oregon includes a limited number of events. The state has hosted three UFC events to date. The first event, UFC 102, was held at the Rose Garden Arena in Portland on August 29, 2009. The second event, UFC Fight Night: Condit vs. Kampmann 2, took place at the Moda Center in Portland on August 27, 2016. Lastly, UFC Fight Night: Poirier vs. Hooker was held at the UFC Apex facility in Las Vegas, Nevada, due to the COVID-19 pandemic, on June 27, 2020.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_53"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_38",
-    "Title": "UFC Events in Pennsylvania",
-    "Description": "List of the UFC Events that took place in the state of Pennsylvania includes a rich history of thrilling mixed martial arts competitions. Notable venues hosting these events include the Wells Fargo Center in Philadelphia and the PPG Paints Arena in Pittsburgh. Pennsylvania has witnessed numerous UFC events, showcasing top-tier fighters and attracting passionate fans from across the state. These events have contributed to the growth and popularity of the sport in Pennsylvania.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_52",
-      "EVENTS_LOCATION_71"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_39",
-    "Title": "UFC Events in Quebec",
-    "Description": "List of the UFC Events that took place in the state of Quebec includes a series of mixed martial arts competitions held in various venues across the province. Notable events include UFC 83 at the Bell Centre in Montreal, which marked the first UFC event held in Canada, and UFC 124 at the same venue, headlined by a welterweight championship bout. Other venues that hosted UFC events in Quebec include the Videotron Centre in Quebec City and the Centre Bell in Montreal.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_41",
-      "EVENTS_LOCATION_95"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_40",
-    "Title": "UFC Events in Saskatchewan",
-    "Description": "List of the UFC Events that took place in the state of Saskatchewan includes a limited number of events due to the province\u0027s relatively recent involvement in the UFC. The only UFC event held in Saskatchewan was UFC Fight Night: Holloway vs. Oliveira, which took place on August 23, 2015, at the SaskTel Centre in Saskatoon. Despite the limited history, this event showcased top-tier fighters and marked a significant milestone for the province\u0027s MMA scene.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_114"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_41",
-    "Title": "UFC Events in Scotland",
-    "Description": "List of the UFC Events that took place in the state of Scotland includes a limited number of events due to the sport\u0027s relatively recent popularity in the region. The only UFC event held in Scotland was UFC Fight Night: Bisping vs. Leites, which took place on July 18, 2015, at The SSE Hydro in Glasgow. Despite the limited history, the event showcased top-tier fighters and provided Scottish fans with an exciting night of mixed martial arts action.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_113"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_42",
-    "Title": "UFC Events in South Carolina",
-    "Description": "List of the UFC Events that took place in the state of South Carolina includes a limited number of events due to the state\u0027s recent addition to the UFC circuit. The first event, UFC Fight Night: Moicano vs. Korean Zombie, was held on June 22, 2019, at the Bon Secours Wellness Arena in Greenville. This marked the inaugural UFC event in South Carolina, showcasing the state\u0027s growing interest in mixed martial arts.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_157"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_43",
-    "Title": "UFC Events in South Dakota",
-    "Description": "List of the UFC Events that took place in the state of South Dakota includes a limited number of events. The state hosted only one UFC event to date, UFC Fight Night: McDonald vs. Lineker, on July 13, 2016, at the Denny Sanford Premier Center in Sioux Falls. Despite its limited history, South Dakota remains an important destination for UFC fans in the Midwest region.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_124"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_44",
-    "Title": "UFC Events in Tennessee",
-    "Description": "List of the UFC Events that took place in the state of Tennessee includes a limited number of events. The state hosted two UFC events, both held in Nashville. The first event, UFC Fight Night: Condit vs. Kampmann 2, took place on August 28, 2013, at the Bridgestone Arena. The second event, UFC Fight Night: Swanson vs. Lobov, was held on April 22, 2017, at the same venue. These events showcased top-tier mixed martial arts talent in the heart of Tennessee.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_50",
-      "EVENTS_LOCATION_56"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_45",
-    "Title": "UFC Events in Texas",
-    "Description": "List of the UFC Events that took place in the state of Texas includes a rich history of mixed martial arts competitions. Notable venues hosting these events include the Toyota Center in Houston, American Airlines Center in Dallas, and Frank Erwin Center in Austin. Texas has been a popular destination for UFC, with numerous events showcasing top fighters and thrilling matchups in the Lone Star State.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_34",
-      "EVENTS_LOCATION_55",
-      "EVENTS_LOCATION_63",
-      "EVENTS_LOCATION_67",
-      "EVENTS_LOCATION_101",
-      "EVENTS_LOCATION_165"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_46",
-    "Title": "UFC Events in Utah",
-    "Description": "List of the UFC Events that took place in the state of Utah includes a limited number of events due to the state\u0027s relatively recent involvement in the UFC. The Vivint Smart Home Arena in Salt Lake City has been the sole venue for these events, hosting two UFC Fight Night events in 2016 and 2019. These events showcased top-tier fighters and provided Utah\u0027s MMA fans with thrilling bouts in a world-class setting.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_125"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_47",
-    "Title": "UFC Events in Virginia",
-    "Description": "List of the UFC Events that took place in the state of Virginia includes a series of mixed martial arts competitions organized by the Ultimate Fighting Championship (UFC). Virginia has hosted several UFC events, with notable venues including the Capital One Arena in Washington, D.C., and the Ted Constant Convocation Center in Norfolk. These events have showcased top-tier fighters and provided thrilling matchups for fans in the state.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_57",
-      "EVENTS_LOCATION_137"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_48",
-    "Title": "UFC Events in Washington",
-    "Description": "List of the UFC Events that took place in the state of Washington includes a limited number of events. The state has hosted three UFC events, all held in Seattle. The first event, UFC Fight Night: Nogueira vs. Davis, took place at KeyArena in 2010. The following year, UFC Fight Night: Marquardt vs. Story was held at the same venue. Lastly, UFC on Fox: Johnson vs. Moraga occurred at KeyArena in 2013.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_69"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_49",
-    "Title": "UFC Events in Wisconsin",
-    "Description": "List of the UFC Events that took place in the state of Wisconsin includes a limited number of events. The state hosted only one UFC event, UFC Live: Hardy vs. Lytle, on August 14, 2011, at the Bradley Center in Milwaukee. Despite the scarcity of events, Wisconsin remains an important location for mixed martial arts enthusiasts in the Midwest region.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_72"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "EVENTS_STATE_50",
-    "Title": "UFC Events in Wyoming",
-    "Description": "List of the UFC Events that took place in the state of Wyoming includes a limited number of events due to the state\u0027s late adoption of mixed martial arts regulations. The only UFC event held in Wyoming was UFC Fight Night: Rodriguez vs. Penn on January 15, 2017, at the Vivint Smart Home Arena in Laramie. Despite its sparse UFC history, Wyoming continues to showcase its potential as a host for future UFC events.",
-    "ParentConceptId": null,
-    "PullFromListsIds": [
-      "EVENTS_LOCATION_4"
     ],
     "DisableDirectMembers": false
   }
