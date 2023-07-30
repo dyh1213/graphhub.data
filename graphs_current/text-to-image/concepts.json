@@ -2510,8 +2510,11 @@
   {
     "Id": "1046",
     "Title": "Immersive",
-    "Description": null,
-    "Image": null
+    "Description": ".",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_1046_20230730165711.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_1046_20230730165711_preview.jpeg"
+    }
   },
   {
     "Id": "1591",
@@ -4494,7 +4497,10 @@
     "Id": "236",
     "Title": "Sergio Aragones",
     "Description": "Sergio Aragones is a Spanish-Mexican cartoonist known for his humorous and caricatured style. His sequential art, often found in \u0027Mad Magazine,\u0027 is characterized by a keen sense of wit and visual humor. His work is often compared to fellow cartoonists Dave Berg and Don Martin.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_236_20230730165039.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_236_20230730165039_preview.jpeg"
+    }
   },
   {
     "Id": "237",
