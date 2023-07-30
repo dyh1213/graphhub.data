@@ -1755,7 +1755,10 @@
     "Id": "63",
     "Title": "Enki Bilal",
     "Description": "Enki Bilal, a renowned comic artist, is known for his Graphic Novel style art. His work usually features full color, sequential composition seen in mediums like comics.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_63_20230730223545.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_63_20230730223545_preview.jpeg"
+    }
   },
   {
     "Id": "64",
