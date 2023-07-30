@@ -177,9 +177,9 @@
   {
     "Id": "1061",
     "Title": "Author",
-    "Description": null,
+    "Description": "aa",
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "ImageConceptId": null,
+    "ImageConceptId": "63",
     "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
