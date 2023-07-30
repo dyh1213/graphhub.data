@@ -1,7 +1,12 @@
 {
   "GraphId": "123",
-  "GraphDisplayName": "My Graph (Change Me!)",
+  "GraphDisplayName": "Aikido techniques ",
   "GraphUrlName": "yardend-graph",
   "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/yardend-graph",
-  "Description": "Welcome to GraphHub, as the graph admin you can change the name and description of the graph from the menu on the graph pane. You can also add new concecpts and lists to you home page to design it as you would like."
+  "RootConcept": null,
+  "Description": "This graph attempts to express Aikido martial art as a horizontal knowledge system. The graph focuses on Aikido techniques (settings \u0026 components)  and performance highlights as part of Aikido\u0027s modular perception. ",
+  "FeaturedLists": [],
+  "FeaturedConcepts": [],
+  "TopFeaturedLists": [],
+  "TopFeaturedConcepts": []
 }
