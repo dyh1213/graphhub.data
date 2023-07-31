@@ -918,7 +918,10 @@
     "Id": "12",
     "Title": "Jon Snow",
     "Description": "Jon Snow, born Aegon Targaryen, is a central character in Game of Thrones. He is the son of Lyanna Stark and Rhaegar Targaryen, making him the rightful heir to the Iron Throne. Jon is known for his leadership, honor, and his role as the Lord Commander of the Night\u0027s Watch.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_12_20230731140134.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_12_20230731140134_preview.jpeg"
+    }
   },
   {
     "Id": "34",
