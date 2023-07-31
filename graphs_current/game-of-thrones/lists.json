@@ -140,5 +140,14 @@
     "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-c2eb-4e51-bcf5-a4114e5b44ef",
+    "Title": "Individuals of House Baratheon",
+    "Description": "List of the individuals who are members of house Baratheon such as Stannis Baratheon, Renly Baratheon \u0026 Robert Baratheon.",
+    "ParentConceptId": null,
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
   }
 ]
