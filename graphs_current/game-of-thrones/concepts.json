@@ -927,7 +927,10 @@
     "Id": "23",
     "Title": "Joffrey Baratheon",
     "Description": "Joffrey Baratheon is a cruel and sadistic character in Game of Thrones. He is the eldest son of Cersei Lannister and Jaime Lannister, though officially claimed as the son of Robert Baratheon. Joffrey\u0027s reign as king is marked by his brutality and his disregard for the welfare of the realm.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_23_20230731143731.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_23_20230731143731_preview.jpeg"
+    }
   },
   {
     "Id": "62",
