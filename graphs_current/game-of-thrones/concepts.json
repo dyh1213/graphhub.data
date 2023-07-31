@@ -1470,7 +1470,10 @@
     "Id": "25",
     "Title": "Renly Baratheon",
     "Description": "Renly Baratheon is a charismatic and ambitious character in Game of Thrones. He is the youngest brother of Robert Baratheon and Stannis Baratheon. Renly declares himself king and seeks to rule the Seven Kingdoms. His alliance with House Tyrell and his pursuit of power lead to his untimely demise.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_25_20230731152028.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_25_20230731152028_preview.jpeg"
+    }
   },
   {
     "Id": "194",
