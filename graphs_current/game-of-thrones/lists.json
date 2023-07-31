@@ -79,6 +79,17 @@
     "Description": "List of all Game of Throne\u0027s individuals \u0026 characters such as Jon Snow, Daenerys Targaryen, Tyrion Lannister, and Arya Stark. Many of the characters belong to sublists, such as the houses with which they are affiliated. ",
     "ParentConceptId": "482",
     "ImageConceptId": "482",
+    "PullFromListsIds": [
+      "20000000-f14d-466f-8b9f-fda9d8bdd5d6"
+    ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-f14d-466f-8b9f-fda9d8bdd5d6",
+    "Title": "Individuals of House Stark",
+    "Description": "List of the individuals who are members of house Stark of Winterfell such as Brandon Stark, Arya Stark \u0026 Jon Snow.",
+    "ParentConceptId": null,
+    "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -116,15 +127,6 @@
     "Title": "Titles",
     "Description": "List of the titles and prestigious designations given to characters, such as Mother of Dragons, King in the North, and Lord Commander, representing their positions, accomplishments, and influence in the realm.",
     "ParentConceptId": "484",
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "20000000-f14d-466f-8b9f-fda9d8bdd5d6",
-    "Title": "Individuals of House Stark",
-    "Description": "List of the individuals who are members of house Stark of Winterfell such as Brandon Stark, Arya Stark \u0026 Jon Snow.",
-    "ParentConceptId": null,
     "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
