@@ -1248,7 +1248,10 @@
     "Id": "50",
     "Title": "Myrcella Baratheon",
     "Description": "Myrcella Baratheon is a kind-hearted and tragic character in Game of Thrones. She is the daughter of Cersei Lannister and Robert Baratheon. Myrcella\u0027s story revolves around her political marriages and the consequences of her family\u0027s actions.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_50_20230731152138.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_50_20230731152138_preview.jpeg"
+    }
   },
   {
     "Id": "21",
