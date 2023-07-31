@@ -270,7 +270,10 @@
     "Id": "18",
     "Title": "Bran Stark",
     "Description": "Bran Stark, also known as the Three-Eyed Raven, is a mystical and enigmatic character in Game of Thrones. He is the fourth child of Eddard Stark and Catelyn Stark. Bran\u0027s journey involves discovering his supernatural abilities and becoming a key player in the war against the Night King.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_18_20230731141716.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_18_20230731141716_preview.jpeg"
+    }
   },
   {
     "Id": "32",
