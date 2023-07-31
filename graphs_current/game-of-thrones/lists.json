@@ -81,8 +81,18 @@
     "ImageConceptId": "482",
     "PullFromListsIds": [
       "20000000-f14d-466f-8b9f-fda9d8bdd5d6",
-      "20000000-a6c8-431f-8c40-ce7efdc6978c"
+      "20000000-a6c8-431f-8c40-ce7efdc6978c",
+      "20000000-7151-4adc-9ced-785d3e662aec"
     ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-7151-4adc-9ced-785d3e662aec",
+    "Title": "Individuals of House Baratheon",
+    "Description": "List of individuals who are members of house Baratheon such as Robert Baratheon, Stannis Baratheon, and Joffrey Baratheon.",
+    "ParentConceptId": null,
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
   {
@@ -137,15 +147,6 @@
     "Title": "Titles",
     "Description": "List of the titles and prestigious designations given to characters, such as Mother of Dragons, King in the North, and Lord Commander, representing their positions, accomplishments, and influence in the realm.",
     "ParentConceptId": "484",
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "20000000-7151-4adc-9ced-785d3e662aec",
-    "Title": "Individuals of House Baratheon",
-    "Description": "List of individuals who are members of house Baratheon such as Robert Baratheon, Stannis Baratheon, and Joffrey Baratheon.",
-    "ParentConceptId": null,
     "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
