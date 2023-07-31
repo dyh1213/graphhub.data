@@ -330,7 +330,10 @@
     "Id": "15",
     "Title": "Cersei Lannister",
     "Description": "Cersei Lannister is a complex and ruthless character in Game of Thrones. She is the twin sister of Jaime Lannister and the elder sister of Tyrion Lannister. Cersei\u0027s thirst for power and her cunning manipulation of events shape the course of the series and have far-reaching consequences.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_15_20230731143548.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_15_20230731143548_preview.jpeg"
+    }
   },
   {
     "Id": "229",
