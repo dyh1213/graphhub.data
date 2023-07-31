@@ -969,7 +969,10 @@
     "Id": "66",
     "Title": "King\u0027s Landing",
     "Description": "The capital city of the Seven Kingdoms and the seat of the Iron Throne. King\u0027s Landing is a bustling metropolis with a complex political landscape and is home to the Red Keep, where the ruling monarch resides.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_66_20230731140203.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_66_20230731140203_preview.jpeg"
+    }
   },
   {
     "Id": "322",
