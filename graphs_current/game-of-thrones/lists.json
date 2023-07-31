@@ -99,7 +99,7 @@
     "Id": "20000000-a6c8-431f-8c40-ce7efdc6978c",
     "Title": "Individuals of House Lannister",
     "Description": "List of the individuals who are members of house Lannister such as Tyrion Lannister, Jaime Lannister \u0026 Cersei Lannister.",
-    "ParentConceptId": null,
+    "ParentConceptId": "3",
     "ImageConceptId": "3",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
