@@ -91,7 +91,7 @@
     "Title": "Individuals of House Baratheon",
     "Description": "List of individuals who are members of house Baratheon such as Robert Baratheon, Stannis Baratheon, and Joffrey Baratheon.",
     "ParentConceptId": "4",
-    "ImageConceptId": null,
+    "ImageConceptId": "4",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
