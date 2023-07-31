@@ -321,7 +321,10 @@
     "Id": "19",
     "Title": "Catelyn Stark",
     "Description": "Catelyn Stark, also known as Lady Stark, is a strong-willed and protective character in Game of Thrones. She is the wife of Eddard Stark and the mother of Robb, Sansa, Arya, Bran, and Rickon Stark. Catelyn\u0027s actions and decisions have significant repercussions for her family and the realm.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_19_20230731141759.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_19_20230731141759_preview.jpeg"
+    }
   },
   {
     "Id": "15",
