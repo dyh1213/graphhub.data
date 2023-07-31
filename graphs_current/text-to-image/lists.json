@@ -69,9 +69,9 @@
   {
     "Id": "1024",
     "Title": "Architect",
-    "Description": "aa",
+    "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "ImageConceptId": "271",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
@@ -107,7 +107,7 @@
     "Title": "Art Mediums",
     "Description": "List of artistic mediums used by creators across the world. It spans traditional classics like oil, acrylic, watercolor, and charcoal, alongside contemporary innovations such as digital art, mixed media, and installations. Embrace the diverse array of mediums employed by artists to express their creativity and vision, representing a rich tapestry of human ingenuity in the world of art.",
     "ParentConceptId": null,
-    "ImageConceptId": null,
+    "ImageConceptId": "271",
     "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
