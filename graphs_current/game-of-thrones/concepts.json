@@ -336,15 +336,6 @@
     "Image": null
   },
   {
-    "Id": "486",
-    "Title": "Game of Thrones City",
-    "Description": "A generic image of a Game of Thrones city. Should be used as the featured image of the cities list.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953_preview.jpeg"
-    }
-  },
-  {
     "Id": "58",
     "Title": "Daario Naharis",
     "Description": "Daario Naharis is a skilled warrior and a confident character in Game of Thrones. He becomes a loyal advisor and lover to Daenerys Targaryen. Daario\u0027s skills in combat and his unorthodox charm make him a memorable character in the series.",
@@ -583,6 +574,15 @@
     "Title": "Game of Thrones",
     "Description": "Game of Thrones is a captivating epic that transcends mediums as both a book series and a television phenomenon. Written by George R.R. Martin, the books intricately weave a tale of political intrigue, power struggles, and fantastical elements in a medieval-inspired world. The story follows noble families vying for control of the Seven Kingdoms, resulting in complex character arcs, unexpected plot twists, and intense battles. The TV adaptation brought this intricate narrative to life, enchanting audiences with its sprawling ensemble cast, breathtaking visuals, and unparalleled production value. Both the books and the series explore themes of loyalty, morality, and the consequences of wielding power, leaving a lasting impression on fans worldwide.",
     "Image": null
+  },
+  {
+    "Id": "486",
+    "Title": "City",
+    "Description": "A notable urban center in the Game of Thrones universe, situated in Westeros and Essos. Key cities in Westeros include King\u0027s Landing, Winterfell, and Dragonstone, while Yunkai, Volantis, and Meereen are prominent in Essos.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953_preview.jpeg"
+    }
   },
   {
     "Id": "45",
