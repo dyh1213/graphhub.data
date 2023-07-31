@@ -80,8 +80,18 @@
     "ParentConceptId": "482",
     "ImageConceptId": "482",
     "PullFromListsIds": [
-      "20000000-f14d-466f-8b9f-fda9d8bdd5d6"
+      "20000000-f14d-466f-8b9f-fda9d8bdd5d6",
+      "20000000-a6c8-431f-8c40-ce7efdc6978c"
     ],
+    "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-a6c8-431f-8c40-ce7efdc6978c",
+    "Title": "Individuals of House Lannister",
+    "Description": "List of the individuals who are members of house Lannister such as Tyrion Lannister, Jaime Lannister \u0026 Cersei Lannister.",
+    "ParentConceptId": null,
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
   {
@@ -127,15 +137,6 @@
     "Title": "Titles",
     "Description": "List of the titles and prestigious designations given to characters, such as Mother of Dragons, King in the North, and Lord Commander, representing their positions, accomplishments, and influence in the realm.",
     "ParentConceptId": "484",
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "20000000-a6c8-431f-8c40-ce7efdc6978c",
-    "Title": "Individuals of House Lannister",
-    "Description": "List of the individuals who are members of house Lannister such as Tyrion Lannister, Jaime Lannister \u0026 Cersei Lannister.",
-    "ParentConceptId": null,
     "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
