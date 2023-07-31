@@ -108,9 +108,7 @@
     "Description": "List of artistic mediums used by creators across the world. It spans traditional classics like oil, acrylic, watercolor, and charcoal, alongside contemporary innovations such as digital art, mixed media, and installations. Embrace the diverse array of mediums employed by artists to express their creativity and vision, representing a rich tapestry of human ingenuity in the world of art.",
     "ParentConceptId": null,
     "ImageConceptId": null,
-    "PullFromListsIds": [
-      "1048"
-    ],
+    "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
   {
@@ -665,12 +663,10 @@
   {
     "Id": "1045",
     "Title": "Studio",
-    "Description": null,
+    "Description": "a",
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
     "ImageConceptId": null,
-    "PullFromListsIds": [
-      "1046"
-    ],
+    "PullFromListsIds": [],
     "DisableDirectMembers": false
   },
   {
