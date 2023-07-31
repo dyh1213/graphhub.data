@@ -135,7 +135,10 @@
     "Id": "14",
     "Title": "Arya Stark",
     "Description": "Arya Stark is a fierce and determined character in Game of Thrones. She is the third child of Eddard Stark and Catelyn Stark. Arya is skilled in swordsmanship and assassination, and her journey throughout the series is marked by a desire for revenge and a quest for personal identity.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_14_20230731141642.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_14_20230731141642_preview.jpeg"
+    }
   },
   {
     "Id": "319",
