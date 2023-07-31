@@ -336,6 +336,15 @@
     "Image": null
   },
   {
+    "Id": "486",
+    "Title": "City",
+    "Description": "A notable urban center in the Game of Thrones universe, situated in Westeros and Essos. Key cities in Westeros include King\u0027s Landing, Winterfell, and Dragonstone, while Yunkai, Volantis, and Meereen are prominent in Essos.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953_preview.jpeg"
+    }
+  },
+  {
     "Id": "58",
     "Title": "Daario Naharis",
     "Description": "Daario Naharis is a skilled warrior and a confident character in Game of Thrones. He becomes a loyal advisor and lover to Daenerys Targaryen. Daario\u0027s skills in combat and his unorthodox charm make him a memorable character in the series.",
@@ -576,15 +585,6 @@
     "Image": null
   },
   {
-    "Id": "486",
-    "Title": "City",
-    "Description": "A notable urban center in the Game of Thrones universe, situated in Westeros and Essos. Key cities in Westeros include King\u0027s Landing, Winterfell, and Dragonstone, while Yunkai, Volantis, and Meereen are prominent in Essos.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953_preview.jpeg"
-    }
-  },
-  {
     "Id": "45",
     "Title": "Gendry",
     "Description": "Gendry is a skilled blacksmith and a legitimate son of Robert Baratheon in Game of Thrones. He becomes an ally to various characters and plays a key role in the conflict for the Iron Throne. Gendry\u0027s skills and noble bloodline make him a valuable asset in the series.",
@@ -726,7 +726,10 @@
     "Id": "483",
     "Title": "House",
     "Description": "A House in \u0022Game of Thrones\u0022 is a familial or clan-based entity with a unique sigil and motto, often representing a region in Westeros. They range from powerful Great Houses like Stark or Lannister, to smaller houses that pledge fealty to them. These Houses, defined by unique histories, traits, alliances, and rivalries, shape the series\u0027 intricate political landscape and narrative dynamics.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_483_20230731135941.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_483_20230731135941_preview.jpeg"
+    }
   },
   {
     "Id": "10",
