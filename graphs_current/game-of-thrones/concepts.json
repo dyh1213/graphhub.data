@@ -2679,7 +2679,10 @@
     "Id": "13",
     "Title": "Tyrion Lannister",
     "Description": "Tyrion Lannister is a witty and intelligent character in Game of Thrones. He is a member of House Lannister and is often underestimated due to his dwarfism. Tyrion\u0027s sharp mind and strategic abilities make him a valuable player in the political landscape of Westeros.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_13_20230731143523.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_13_20230731143523_preview.jpeg"
+    }
   },
   {
     "Id": "420",
