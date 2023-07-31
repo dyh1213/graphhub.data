@@ -765,7 +765,10 @@
     "Id": "2",
     "Title": "House Stark",
     "Description": "Noble house of Winterfell, ruling the North. Defined by their honor, loyalty, and connection to nature. Sigil is a direwolf, motto: \u0022Winter is Coming.\u0022",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_2_20230731140345.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_2_20230731140345_preview.jpeg"
+    }
   },
   {
     "Id": "5",
