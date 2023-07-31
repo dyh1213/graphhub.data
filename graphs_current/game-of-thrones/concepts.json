@@ -762,7 +762,10 @@
     "Id": "3",
     "Title": "House Lannister",
     "Description": "Rich and powerful, ruling from Casterly Rock. Known for their cunning, ambition, and golden hair. Sigil is a lion, motto: \u0022Hear Me Roar.\u0022",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_3_20230731143501.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_3_20230731143501_preview.jpeg"
+    }
   },
   {
     "Id": "7",
