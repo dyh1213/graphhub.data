@@ -2700,7 +2700,10 @@
     "Id": "22",
     "Title": "Tywin Lannister",
     "Description": "Tywin Lannister is a formidable and ruthless character in Game of Thrones. He is the head of House Lannister and the father of Cersei, Jaime, and Tyrion Lannister. Tywin\u0027s strategic brilliance and unwavering pursuit of power make him a formidable opponent in the game of thrones.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_22_20230731143633.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_22_20230731143633_preview.jpeg"
+    }
   },
   {
     "Id": "309",
