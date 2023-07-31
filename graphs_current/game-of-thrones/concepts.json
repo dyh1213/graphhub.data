@@ -2658,7 +2658,10 @@
     "Id": "49",
     "Title": "Tommen Baratheon",
     "Description": "Tommen Baratheon is a gentle and impressionable character in Game of Thrones. He is the youngest son of Cersei Lannister and Robert Baratheon. Tommen\u0027s reign as king is marked by his naivety and vulnerability to manipulation.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_49_20230731152056.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_49_20230731152056_preview.jpeg"
+    }
   },
   {
     "Id": "39",
