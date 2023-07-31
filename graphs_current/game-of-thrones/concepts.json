@@ -1632,7 +1632,10 @@
     "Id": "57",
     "Title": "Shireen Baratheon",
     "Description": "Shireen Baratheon is a kind-hearted and intelligent character in Game of Thrones. She is the daughter of Stannis Baratheon and is afflicted with greyscale. Shireen\u0027s story explores themes of love, sacrifice, and the consequences of ambition.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_57_20230731152202.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_57_20230731152202_preview.jpeg"
+    }
   },
   {
     "Id": "209",
