@@ -336,6 +336,15 @@
     "Image": null
   },
   {
+    "Id": "486",
+    "Title": "City",
+    "Description": "A notable urban center in the Game of Thrones universe, situated in Westeros and Essos. Key cities in Westeros include King\u0027s Landing, Winterfell, and Dragonstone, while Yunkai, Volantis, and Meereen are prominent in Essos.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953_preview.jpeg"
+    }
+  },
+  {
     "Id": "58",
     "Title": "Daario Naharis",
     "Description": "Daario Naharis is a skilled warrior and a confident character in Game of Thrones. He becomes a loyal advisor and lover to Daenerys Targaryen. Daario\u0027s skills in combat and his unorthodox charm make him a memorable character in the series.",
@@ -2910,12 +2919,6 @@
     "Id": "96",
     "Title": "Yunkai",
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery.",
-    "Image": null
-  },
-  {
-    "Id": "486",
-    "Title": "City",
-    "Description": "A notable urban center in the Game of Thrones universe, situated in Westeros and Essos. Key cities in Westeros include King\u0027s Landing, Winterfell, and Dragonstone, while Yunkai, Volantis, and Meereen are prominent in Essos.",
     "Image": null
   }
 ]
