@@ -108,7 +108,7 @@
     "Id": "20000000-f14d-466f-8b9f-fda9d8bdd5d6",
     "Title": "Individuals of House Stark",
     "Description": "List of the individuals who are members of house Stark of Winterfell such as Brandon Stark, Arya Stark \u0026 Jon Snow.",
-    "ParentConceptId": null,
+    "ParentConceptId": "2",
     "ImageConceptId": "2",
     "PullFromListsIds": null,
     "DisableDirectMembers": false
