@@ -140,5 +140,14 @@
     "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-7151-4adc-9ced-785d3e662aec",
+    "Title": "Individuals of House Baratheon",
+    "Description": "List of individuals who are members of house Baratheon such as Robert Baratheon, Stannis Baratheon, and Joffrey Baratheon.",
+    "ParentConceptId": null,
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
   }
 ]
