@@ -1488,7 +1488,10 @@
     "Id": "20",
     "Title": "Robb Stark",
     "Description": "Robb Stark is a charismatic and honorable character in Game of Thrones. He is the eldest son of Eddard Stark and Catelyn Stark. Robb becomes the King in the North and leads his army in a war against the Lannisters, aiming to avenge his father\u0027s death and secure independence for the North.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_20_20230731141911.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_20_20230731141911_preview.jpeg"
+    }
   },
   {
     "Id": "112",
