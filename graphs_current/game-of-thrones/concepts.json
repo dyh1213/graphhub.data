@@ -1548,7 +1548,10 @@
     "Id": "17",
     "Title": "Sansa Stark",
     "Description": "Sansa Stark is a resilient and strategic character in Game of Thrones. She is the eldest daughter of Eddard Stark and Catelyn Stark. Sansa\u0027s character arc involves navigating treacherous political waters and surviving in a world filled with manipulation and cruelty.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_17_20230731141700.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_17_20230731141700_preview.jpeg"
+    }
   },
   {
     "Id": "436",
