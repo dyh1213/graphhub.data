@@ -1644,7 +1644,10 @@
     "Id": "24",
     "Title": "Stannis Baratheon",
     "Description": "Stannis Baratheon, also known as the Mannis, is a determined and rigid character in Game of Thrones. He is the younger brother of Robert Baratheon and the older brother of Renly Baratheon. Stannis believes himself to be the rightful king of Westeros and wages a relentless campaign to claim the Iron Throne.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_24_20230731152007.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_24_20230731152007_preview.jpeg"
+    }
   },
   {
     "Id": "453",
