@@ -906,7 +906,10 @@
     "Id": "16",
     "Title": "Jaime Lannister",
     "Description": "Jaime Lannister, also known as the Kingslayer, is a conflicted character in Game of Thrones. He is a member of House Lannister and is known for his skill in combat. Jaime\u0027s journey is characterized by his moral transformation and his complex relationship with his siblings and honor.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_16_20230731143607.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_16_20230731143607_preview.jpeg"
+    }
   },
   {
     "Id": "43",
