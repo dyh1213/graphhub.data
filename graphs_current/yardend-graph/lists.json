@@ -3,7 +3,8 @@
     "Id": "3",
     "Title": "Attacks",
     "Description": "[Attacks](/yardend-graph/list/attacks?id=3)",
-    "ParentConceptId": "1",
+    "ParentConceptId": null,
+    "ImageConceptId": null,
     "PullFromListsIds": [
       "4"
     ],
@@ -13,7 +14,8 @@
     "Id": "4",
     "Title": "Graspings",
     "Description": "[Graspings](/yardend-graph/list/graspings?id=4)",
-    "ParentConceptId": "1",
+    "ParentConceptId": null,
+    "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -22,6 +24,7 @@
     "Title": "Nage-Waza (Throwing)",
     "Description": "Variety of throwing [techniques](/yardend-graph/concept/techniques?id=1) designed to off-balance an attacker and project them to the ground",
     "ParentConceptId": "1",
+    "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -30,6 +33,7 @@
     "Title": "Stances and Postures",
     "Description": "The practitioner\u0027s positions refer specifically to the practitioner and contrast with that of the practice partner. These play a crucial role in maintaining balance, stability, and readiness to respond to an attack.",
     "ParentConceptId": null,
+    "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   },
@@ -38,6 +42,7 @@
     "Title": "Stikes",
     "Description": "Stikes",
     "ParentConceptId": null,
+    "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
   }
