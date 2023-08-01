@@ -1200,7 +1200,10 @@
     "Id": "30",
     "Title": "Melisandre",
     "Description": "Melisandre, also known as the Red Woman, is a mysterious and influential character in Game of Thrones. She is a priestess of the Lord of Light and is known for her prophecies and magical abilities. Melisandre\u0027s role in the series involves wielding supernatural powers and influencing key events.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_30_20230801202304.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_30_20230801202304_preview.jpeg"
+    }
   },
   {
     "Id": "197",
