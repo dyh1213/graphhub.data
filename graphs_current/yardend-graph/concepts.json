@@ -21,7 +21,10 @@
     "Id": "1",
     "Title": "Techniques",
     "Description": "Wide range of movements and strategies that are used to neutralize and redirect an opponent\u0027s energy.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/yardend-graph/CON_1_20230801064030.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/yardend-graph/CON_1_20230801064030_preview.jpeg"
+    }
   },
   {
     "Id": "5",
