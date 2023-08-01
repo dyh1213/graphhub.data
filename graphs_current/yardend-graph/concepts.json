@@ -1,17 +1,26 @@
 [
   {
+    "Id": "3",
+    "Title": " Disrupting an attacker\u0027s stability - Kuzushi",
+    "Description": "Unbalancing or breaking an opponent\u0027s balance. It is a fundamental principle that is essential for executing effective techniques in Aikido.",
+    "Image": null
+  },
+  {
     "Id": "2",
     "Title": "Evading the offensive line - Tai Sabaki",
-    "Description": "Evading, redirecting, or blending with an opponent\u0027s attack through efficient body movement"
+    "Description": "Evading, redirecting, or blending with an opponent\u0027s attack through efficient body movement",
+    "Image": null
   },
   {
     "Id": "1",
     "Title": "Techniques",
-    "Description": "Wide range of movements and strategies that are used to neutralize and redirect an opponent\u0027s energy."
+    "Description": "Wide range of movements and strategies that are used to neutralize and redirect an opponent\u0027s energy.",
+    "Image": null
   },
   {
-    "Id": "3",
-    "Title": " Disrupting an attacker\u0027s stability - Kuzushi",
-    "Description": "Unbalancing or breaking an opponent\u0027s balance. It is a fundamental principle that is essential for executing effective techniques in Aikido."
+    "Id": "4",
+    "Title": "Shomen Uchi - Front Strike",
+    "Description": "Shomen Uchi is a common Aikido attack technique and refers to a frontal strike to the head or face. The word \u0022shomen\u0022 can be translated as \u0022front\u0022 or \u0022forehead,\u0022 and \u0022uchi\u0022 means \u0022strike\u0022 or \u0022attack.\u0022 In Shomen Uchi, the attacker uses a downward striking motion with an open hand or a bokken (wooden sword) aimed at the top of the defender\u0027s head or forehead.",
+    "Image": null
   }
 ]
