@@ -1377,7 +1377,10 @@
     "Id": "27",
     "Title": "Petyr Baelish",
     "Description": "Petyr Baelish, also known as Littlefinger, is a cunning and manipulative character in Game of Thrones. He is the master of coin on the Small Council and holds significant influence over the events in Westeros. Littlefinger\u0027s intricate schemes and political machinations make him a dangerous player in the game of thrones.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_27_20230801201932.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_27_20230801201932_preview.jpeg"
+    }
   },
   {
     "Id": "447",
