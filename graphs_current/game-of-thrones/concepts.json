@@ -1560,7 +1560,10 @@
     "Id": "31",
     "Title": "Samwell Tarly",
     "Description": "Samwell Tarly, often referred to as Sam, is a kind-hearted and intellectual character in Game of Thrones. He is a member of the Night\u0027s Watch and becomes a close friend and advisor to Jon Snow. Sam\u0027s knowledge and bravery contribute to the fight against the White Walkers.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_31_20230801202147.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_31_20230801202147_preview.jpeg"
+    }
   },
   {
     "Id": "433",
