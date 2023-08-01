@@ -366,7 +366,10 @@
     "Id": "11",
     "Title": "Daenerys Targaryen",
     "Description": "Daenerys Targaryen, also known as Daenerys Stormborn or the Mother of Dragons, is a major character in Game of Thrones. She is the last surviving member of the Targaryen dynasty and has ambitions to reclaim the Iron Throne. Daenerys possesses three dragons and an unwavering determination to rule the Seven Kingdoms.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_11_20230801070116.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_11_20230801070116_preview.jpeg"
+    }
   },
   {
     "Id": "367",
