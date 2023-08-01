@@ -45,5 +45,14 @@
     "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false
+  },
+  {
+    "Id": "20000000-28bc-484c-8310-4ae5b7aae3cf",
+    "Title": "Joint Lock Principles",
+    "Description": "Joint lock principles 1-5",
+    "ParentConceptId": null,
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false
   }
 ]
