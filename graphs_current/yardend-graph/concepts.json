@@ -12,15 +12,21 @@
     "Image": null
   },
   {
+    "Id": "4",
+    "Title": "Shomen Uchi - Front Strike",
+    "Description": "Shomen Uchi is a common Aikido attack technique and refers to a frontal strike to the head or face. The word \u0022shomen\u0022 can be translated as \u0022front\u0022 or \u0022forehead,\u0022 and \u0022uchi\u0022 means \u0022strike\u0022 or \u0022attack.\u0022 In Shomen Uchi, the attacker uses a downward striking motion with an open hand or a bokken (wooden sword) aimed at the top of the defender\u0027s head or forehead.",
+    "Image": null
+  },
+  {
     "Id": "1",
     "Title": "Techniques",
     "Description": "Wide range of movements and strategies that are used to neutralize and redirect an opponent\u0027s energy.",
     "Image": null
   },
   {
-    "Id": "4",
-    "Title": "Shomen Uchi - Front Strike",
-    "Description": "Shomen Uchi is a common Aikido attack technique and refers to a frontal strike to the head or face. The word \u0022shomen\u0022 can be translated as \u0022front\u0022 or \u0022forehead,\u0022 and \u0022uchi\u0022 means \u0022strike\u0022 or \u0022attack.\u0022 In Shomen Uchi, the attacker uses a downward striking motion with an open hand or a bokken (wooden sword) aimed at the top of the defender\u0027s head or forehead.",
+    "Id": "5",
+    "Title": "Yokomen Uchi - Side Strike ",
+    "Description": "Yokomen Uchi is another common Aikido attack technique and refers to a diagonal strike to the side of the head. The word \u0022yokomen\u0022 can be translated as \u0022side of the head,\u0022 and \u0022uchi\u0022 means \u0022strike\u0022 or \u0022attack.\u0022 In Yokomen Uchi, the attacker uses a diagonal motion to strike the defender\u0027s temple or the side of the head.",
     "Image": null
   }
 ]
