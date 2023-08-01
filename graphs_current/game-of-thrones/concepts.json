@@ -2622,7 +2622,10 @@
     "Id": "26",
     "Title": "Theon Greyjoy",
     "Description": "Theon Greyjoy, also known as Reek, is a complex and tortured character in Game of Thrones. He is the only surviving son of Balon Greyjoy, the Lord of the Iron Islands. Theon\u0027s journey involves a crisis of identity and loyalty, as he struggles to find his place in the world.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_26_20230801201837.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_26_20230801201837_preview.jpeg"
+    }
   },
   {
     "Id": "381",
