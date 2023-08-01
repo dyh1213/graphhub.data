@@ -2799,7 +2799,10 @@
     "Id": "28",
     "Title": "Varys",
     "Description": "Varys, also known as the Spider, is a mysterious and cunning character in Game of Thrones. He is a eunuch and serves as the Master of Whisperers on the Small Council. Varys is a skilled manipulator and intelligence gatherer, working behind the scenes to influence the balance of power.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_28_20230801202026.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_28_20230801202026_preview.jpeg"
+    }
   },
   {
     "Id": "196",
