@@ -79,7 +79,7 @@
     "ImageConceptId": "483",
     "PullFromListsIds": null,
     "DisableDirectMembers": false,
-    "Type": 1
+    "Type": 4
   },
   {
     "Id": "2",
@@ -93,7 +93,7 @@
       "20000000-7151-4adc-9ced-785d3e662aec"
     ],
     "DisableDirectMembers": false,
-    "Type": 1
+    "Type": 4
   },
   {
     "Id": "20000000-7151-4adc-9ced-785d3e662aec",
@@ -103,7 +103,7 @@
     "ImageConceptId": "4",
     "PullFromListsIds": null,
     "DisableDirectMembers": false,
-    "Type": 1
+    "Type": 4
   },
   {
     "Id": "20000000-a6c8-431f-8c40-ce7efdc6978c",
@@ -113,7 +113,7 @@
     "ImageConceptId": "3",
     "PullFromListsIds": null,
     "DisableDirectMembers": false,
-    "Type": 1
+    "Type": 4
   },
   {
     "Id": "20000000-f14d-466f-8b9f-fda9d8bdd5d6",
@@ -123,7 +123,7 @@
     "ImageConceptId": "2",
     "PullFromListsIds": null,
     "DisableDirectMembers": false,
-    "Type": 1
+    "Type": 4
   },
   {
     "Id": "12",
