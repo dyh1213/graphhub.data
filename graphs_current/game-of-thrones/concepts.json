@@ -210,7 +210,10 @@
     "Id": "42",
     "Title": "Beric Dondarrion",
     "Description": "Beric Dondarrion is a resilient and enigmatic character in Game of Thrones. He is the leader of the Brotherhood Without Banners and has been resurrected multiple times by the power of the Lord of Light. Beric\u0027s purpose revolves around serving the greater good and fighting against the forces of darkness.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_beric-dondarrion_42_20230802213324.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_beric-dondarrion_42_20230802213324_preview.jpeg"
+    }
   },
   {
     "Id": "352",
