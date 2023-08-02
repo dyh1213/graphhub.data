@@ -213,7 +213,10 @@
     "Id": "423",
     "Title": "Bayasabhad",
     "Description": "A large city in the east of Essos, located beyond the Bone Mountains, known for its tall, pale blue buildings.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_bayasabhad_423_20230802225822.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_bayasabhad_423_20230802225822_preview.jpeg"
+    }
   },
   {
     "Id": "42",
