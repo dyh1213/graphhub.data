@@ -204,7 +204,10 @@
     "Id": "462",
     "Title": "Barrowton",
     "Description": "The largest town in the Barrowlands, located in the North of Westeros. The seat of House Dustin.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_barrowton_462_20230802225800.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_barrowton_462_20230802225800_preview.jpeg"
+    }
   },
   {
     "Id": "423",
