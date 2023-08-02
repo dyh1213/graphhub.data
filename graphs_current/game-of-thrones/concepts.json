@@ -162,7 +162,10 @@
     "Id": "452",
     "Title": "Asshai",
     "Description": "A mysterious and ancient city located at the southeastern edge of the known world. Known for its dark magic and shadowbinders.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_asshai_452_20230802214825.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_asshai_452_20230802214825_preview.jpeg"
+    }
   },
   {
     "Id": "73",
