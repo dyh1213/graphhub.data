@@ -171,7 +171,10 @@
     "Id": "73",
     "Title": "Astapor",
     "Description": "A city located in Slaver\u0027s Bay, Astapor is known for its Unsullied warriors, highly disciplined eunuch slave soldiers. It plays a significant role in Daenerys Targaryen\u0027s liberation campaign.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_astapor_73_20230802225657.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_astapor_73_20230802225657_preview.jpeg"
+    }
   },
   {
     "Id": "278",
