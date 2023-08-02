@@ -288,7 +288,10 @@
     "Id": "47",
     "Title": "Bronn",
     "Description": "Bronn is a skilled sellsword and a witty character in Game of Thrones. He starts as a companion to Tyrion Lannister and later becomes a trusted ally to other key figures. Bronn\u0027s sharp wit and martial prowess make him a fan-favorite character.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_bronn_47_20230802212316.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_bronn_47_20230802212316_preview.jpeg"
+    }
   },
   {
     "Id": "375",
