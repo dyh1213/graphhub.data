@@ -510,7 +510,10 @@
     "Id": "429",
     "Title": "Elyria",
     "Description": "A small city on an island in Slaver\u0027s Bay, once part of the Valyrian Freehold.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_elyria_429_20230803062033.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_elyria_429_20230803062033_preview.jpeg"
+    }
   },
   {
     "Id": "481",
