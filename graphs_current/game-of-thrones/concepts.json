@@ -935,7 +935,10 @@
     "Id": "7",
     "Title": "House Martell",
     "Description": "Rulers of Dorne, known for their fiery passion, pride, and resilience. Sigil is a sun and spear, motto: \u0022Unbowed, Unbent, Unbroken.\u0022",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_house-martell_7_20230803094423.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_house-martell_7_20230803094423_preview.jpeg"
+    },
     "Weight": null
   },
   {
