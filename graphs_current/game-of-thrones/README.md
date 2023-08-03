@@ -6,22 +6,17 @@ The '[Game of Thrones](https://graphhub.net/game-of-thrones)' knowledge graph ca
 
 License: MIT
 ### Contents
-- **Concepts**: 481
-- **Lists**: 13
+- **Concepts**: 486
+- **Lists**: 16
 - **Memberships**: 496
 ### Lists
 1. [Books](https://graphhub.net/game-of-thrones/list/books?id=9) (list:9)
    - Description: List of all major [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) [books](https://graphhub.net/game-of-thrones/list/books?id=9) like '[A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213)', '[A Game of Thrones](https://graphhub.net/game-of-thrones/concept/a-game-of-thrones?id=214)' and '[A Clash of Kings](https://graphhub.net/game-of-thrones/concept/a-clash-of-kings?id=215)' as well as the less prominent or unpublished [titles](https://graphhub.net/game-of-thrones/list/titles?id=7) like '[A Dream of Spring](https://graphhub.net/game-of-thrones/concept/a-dream-of-spring?id=220)', '[The World of Ice & Fire](https://graphhub.net/game-of-thrones/concept/the-world-of-ice--fire?id=221)' and '[Fire & Blood](https://graphhub.net/game-of-thrones/concept/fire--blood?id=222)'.
    - Members: 10
-   - Parent Concept: [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
-1. [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2) (list:2)
-   - Description: List of all Game of Throne's [characters](https://graphhub.net/game-of-thrones/list/characters?id=2) such as [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12), [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11), [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13), and [Arya Stark.](https://graphhub.net/game-of-thrones/concept/arya-stark?id=14) Many of the [characters](https://graphhub.net/game-of-thrones/list/characters?id=2) belong to sublists, such as the [houses](https://graphhub.net/game-of-thrones/list/houses?id=1) with which they are affiliated. 
-   - Members: 55
-   - Parent Concept: [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
 1. [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3) (list:3)
-   - Description: A list of the notable urban centers in the [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) universe, situated in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481) Key [cities](https://graphhub.net/game-of-thrones/list/cities?id=3) in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) include [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66), [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67), and [Dragonstone](https://graphhub.net/game-of-thrones/concept/dragonstone?id=84), while [Yunkai](https://graphhub.net/game-of-thrones/concept/yunkai?id=79), [Volantis](https://graphhub.net/game-of-thrones/concept/volantis?id=72), and [Meereen](https://graphhub.net/game-of-thrones/concept/meereen?id=69) are prominent in [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481)
+   - Description: List of the notable urban centers in the [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) universe, situated in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481) Key [cities](https://graphhub.net/game-of-thrones/list/cities?id=3) in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) include [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66), [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67), and [Dragonstone](https://graphhub.net/game-of-thrones/concept/dragonstone?id=84), while [Yunkai](https://graphhub.net/game-of-thrones/concept/yunkai?id=79), [Volantis](https://graphhub.net/game-of-thrones/concept/volantis?id=72), and [Meereen](https://graphhub.net/game-of-thrones/concept/meereen?id=69) are prominent in [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481)
    - Members: 52
-   - Parent Concept: [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
+   - Parent Concept: [City](https://graphhub.net/game-of-thrones/concept/city?id=486)
    - Part of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Continents](https://graphhub.net/game-of-thrones/list/continents?id=13) (list:13)
    - Description: List of the [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) [continents](https://graphhub.net/game-of-thrones/list/continents?id=13) which includes [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481)
@@ -33,7 +28,7 @@ License: MIT
 1. [Events](https://graphhub.net/game-of-thrones/list/events?id=5) (list:5)
    - Description: List of the most significant [events](https://graphhub.net/game-of-thrones/list/events?id=5) in [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) like [the Red Wedding](https://graphhub.net/game-of-thrones/concept/the-red-wedding?id=113), Battle of the Bastards, and the Battle of Blackwater, which shape the course of the story, influencing alliances, allegiances, and character development.
    - Members: 52
-   - Parent Concept: [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
+   - Parent Concept: [Event](https://graphhub.net/game-of-thrones/concept/event?id=485)
    - Contains Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10) (list:10)
    - Description: List of famous quotes and sayings from [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1), including phrases such as '[A Lannister Always Pays His Debts](https://graphhub.net/game-of-thrones/concept/a-lannister-always-pays-his-debts?id=226)', '[The North Remembers](https://graphhub.net/game-of-thrones/concept/the-north-remembers?id=227)', and '[Winter is Coming](https://graphhub.net/game-of-thrones/concept/winter-is-coming?id=224)'.
@@ -44,11 +39,31 @@ License: MIT
    - Members: 47
    - Parent Concept: [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
 1. [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1) (list:1)
-   - Description: A list of the noble families in [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1), such as Stark, Lannister, and Targaryen, each with their distinct sigils and mottoes.
+   - Description: List of the noble families in [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1), such as Stark, Lannister, and Targaryen, each with their distinct sigils and mottoes.
    - Members: 9
-   - Parent Concept: [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
+   - Parent Concept: [House](https://graphhub.net/game-of-thrones/concept/house?id=483)
+1. [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2) (list:2)
+   - Description: List of all Game of Throne's [individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2) & characters such as [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12), [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11), [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13), and [Arya Stark.](https://graphhub.net/game-of-thrones/concept/arya-stark?id=14) Many of the characters belong to sublists, such as the [houses](https://graphhub.net/game-of-thrones/list/houses?id=1) with which they are affiliated.
+   - Members: 55
+   - Parent Concept: [Individual](https://graphhub.net/game-of-thrones/concept/individual?id=482)
+   - Contains Lists: [Individuals of House Stark](https://graphhub.net/game-of-thrones/list/individuals-of-house-stark?id=20000000-f14d-466f-8b9f-fda9d8bdd5d6), [Individuals of House Lannister](https://graphhub.net/game-of-thrones/list/individuals-of-house-lannister?id=20000000-a6c8-431f-8c40-ce7efdc6978c), [Individuals of House Baratheon](https://graphhub.net/game-of-thrones/list/individuals-of-house-baratheon?id=20000000-7151-4adc-9ced-785d3e662aec)
+1. [Individuals of House Baratheon](https://graphhub.net/game-of-thrones/list/individuals-of-house-baratheon?id=20000000-7151-4adc-9ced-785d3e662aec) (list:20000000-7151-4adc-9ced-785d3e662aec)
+   - Description: List of [individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2) who are members of [house](https://graphhub.net/game-of-thrones/concept/house?id=483) Baratheon such as Robert Baratheon, [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24), and [Joffrey Baratheon.](https://graphhub.net/game-of-thrones/concept/joffrey-baratheon?id=23)
+   - Members: 6
+   - Parent Concept: [House Baratheon](https://graphhub.net/game-of-thrones/concept/house-baratheon?id=4)
+   - Part of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
+1. [Individuals of House Lannister](https://graphhub.net/game-of-thrones/list/individuals-of-house-lannister?id=20000000-a6c8-431f-8c40-ce7efdc6978c) (list:20000000-a6c8-431f-8c40-ce7efdc6978c)
+   - Description: List of the [individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2) who are members of [house](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister such as [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13), [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16) & [Cersei Lannister.](https://graphhub.net/game-of-thrones/concept/cersei-lannister?id=15)
+   - Members: 4
+   - Parent Concept: [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3)
+   - Part of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
+1. [Individuals of House Stark](https://graphhub.net/game-of-thrones/list/individuals-of-house-stark?id=20000000-f14d-466f-8b9f-fda9d8bdd5d6) (list:20000000-f14d-466f-8b9f-fda9d8bdd5d6)
+   - Description: List of the [individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2) who are members of [house](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark of [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67) such as Brandon Stark, [Arya Stark](https://graphhub.net/game-of-thrones/concept/arya-stark?id=14) & [Jon Snow.](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12)
+   - Members: 8
+   - Parent Concept: [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2)
+   - Part of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12) (list:12)
-   - Description: A list of the notable [locations](https://graphhub.net/game-of-thrones/list/locations?id=12) in the [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) universe which includes [cities](https://graphhub.net/game-of-thrones/list/cities?id=3), castles, towns and more.
+   - Description: List of the notable [locations](https://graphhub.net/game-of-thrones/list/locations?id=12) in the [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) universe which includes [cities](https://graphhub.net/game-of-thrones/list/cities?id=3), castles, towns and more.
    - Members: 100
    - Contains Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11) (list:11)
@@ -56,34 +71,34 @@ License: MIT
    - Members: 39
    - Part of Lists: [Events](https://graphhub.net/game-of-thrones/list/events?id=5)
 1. [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4) (list:4)
-   - Description: List of the [religions](https://graphhub.net/game-of-thrones/list/religions?id=4) and belief systems in [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1), which profoundly influence the spiritual perspectives and customs of various [characters](https://graphhub.net/game-of-thrones/list/characters?id=2) and cultures. It includes items such as [the Faith of the Seven](https://graphhub.net/game-of-thrones/concept/the-faith-of-the-seven?id=99), the Old Gods, and the Lord of Light.
+   - Description: List of the [religions](https://graphhub.net/game-of-thrones/list/religions?id=4) and belief systems in [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1), which profoundly influence the spiritual perspectives and customs of various characters and cultures. It includes items such as [the Faith of the Seven](https://graphhub.net/game-of-thrones/concept/the-faith-of-the-seven?id=99), the Old Gods, and the Lord of Light.
    - Members: 24
    - Parent Concept: [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
 1. [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7) (list:7)
-   - Description: List of the [titles](https://graphhub.net/game-of-thrones/list/titles?id=7) and prestigious designations given to [characters](https://graphhub.net/game-of-thrones/list/characters?id=2), such as [Mother of Dragons](https://graphhub.net/game-of-thrones/concept/mother-of-dragons?id=164), [King in the North](https://graphhub.net/game-of-thrones/concept/king-in-the-north?id=165), and [Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166), representing their positions, accomplishments, and influence in the realm.
+   - Description: List of the [titles](https://graphhub.net/game-of-thrones/list/titles?id=7) and prestigious designations given to characters, such as [Mother of Dragons](https://graphhub.net/game-of-thrones/concept/mother-of-dragons?id=164), [King in the North](https://graphhub.net/game-of-thrones/concept/king-in-the-north?id=165), and [Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166), representing their positions, accomplishments, and influence in the realm.
    - Members: 30
-   - Parent Concept: [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
+   - Parent Concept: [Title](https://graphhub.net/game-of-thrones/concept/title?id=484)
 ### Concepts
 1. [A Clash of Kings](https://graphhub.net/game-of-thrones/concept/a-clash-of-kings?id=215) (concept:215)
-   - Description: [A Clash of Kings](https://graphhub.net/game-of-thrones/concept/a-clash-of-kings?id=215) is the second novel in the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. It continues the storylines of the various noble [houses](https://graphhub.net/game-of-thrones/list/houses?id=1) of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and their struggles for power. The book depicts the War of the Five Kings and expands the world of the series with new [locations](https://graphhub.net/game-of-thrones/list/locations?id=12) and [characters.](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Description: [A Clash of Kings](https://graphhub.net/game-of-thrones/concept/a-clash-of-kings?id=215) is the second novel in the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. It continues the storylines of the various noble [houses](https://graphhub.net/game-of-thrones/list/houses?id=1) of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and their struggles for power. The book depicts the War of the Five Kings and expands the world of the series with new [locations](https://graphhub.net/game-of-thrones/list/locations?id=12) and characters.
    - Member of Lists: [Books](https://graphhub.net/game-of-thrones/list/books?id=9)
 1. [A Crown for a King](https://graphhub.net/game-of-thrones/concept/a-crown-for-a-king?id=236) (concept:236)
    - Description: [A Crown for a King](https://graphhub.net/game-of-thrones/concept/a-crown-for-a-king?id=236) is a phrase associated with [Khal](https://graphhub.net/game-of-thrones/concept/khal?id=191) Drogo, uttered when he melts a golden belt to create a crown for Viserys Targaryen.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [A Dance with Dragons](https://graphhub.net/game-of-thrones/concept/a-dance-with-dragons?id=218) (concept:218)
-   - Description: [A Dance with Dragons](https://graphhub.net/game-of-thrones/concept/a-dance-with-dragons?id=218) is the fifth novel in the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. It takes place simultaneously with the [events](https://graphhub.net/game-of-thrones/list/events?id=5) of [A Feast for Crows](https://graphhub.net/game-of-thrones/concept/a-feast-for-crows?id=217) and continues the storylines of various [characters.](https://graphhub.net/game-of-thrones/list/characters?id=2) The book expands on the political intrigue and power struggles in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), as well as the growing threat of [Daenerys Targaryen.](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)
+   - Description: [A Dance with Dragons](https://graphhub.net/game-of-thrones/concept/a-dance-with-dragons?id=218) is the fifth novel in the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. It takes place simultaneously with the [events](https://graphhub.net/game-of-thrones/list/events?id=5) of [A Feast for Crows](https://graphhub.net/game-of-thrones/concept/a-feast-for-crows?id=217) and continues the storylines of various characters. The book expands on the political intrigue and power struggles in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), as well as the growing threat of [Daenerys Targaryen.](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)
    - Member of Lists: [Books](https://graphhub.net/game-of-thrones/list/books?id=9)
 1. [A dragon is not a slave](https://graphhub.net/game-of-thrones/concept/a-dragon-is-not-a-slave?id=364) (concept:364)
    - Description: A phrase spoken by [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) in reference to her [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8), it signifies their strength and independence.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [A Dream of Spring](https://graphhub.net/game-of-thrones/concept/a-dream-of-spring?id=220) (concept:220)
-   - Description: [A Dream of Spring](https://graphhub.net/game-of-thrones/concept/a-dream-of-spring?id=220) is the planned seventh and final novel in the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. Its release date is currently unknown. The book is expected to conclude the storylines of the remaining [characters](https://graphhub.net/game-of-thrones/list/characters?id=2) and resolve the conflicts in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and beyond.
+   - Description: [A Dream of Spring](https://graphhub.net/game-of-thrones/concept/a-dream-of-spring?id=220) is the planned seventh and final novel in the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. Its release date is currently unknown. The book is expected to conclude the storylines of the remaining characters and resolve the conflicts in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and beyond.
    - Member of Lists: [Books](https://graphhub.net/game-of-thrones/list/books?id=9)
 1. [A Feast for Crows](https://graphhub.net/game-of-thrones/concept/a-feast-for-crows?id=217) (concept:217)
    - Description: [A Feast for Crows](https://graphhub.net/game-of-thrones/concept/a-feast-for-crows?id=217) is the fourth novel in the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. It focuses on the aftermath of the War of the Five Kings and the impact it has on the various noble [houses.](https://graphhub.net/game-of-thrones/list/houses?id=1) The book introduces new viewpoints and explores the political landscape of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) in greater depth.
    - Member of Lists: [Books](https://graphhub.net/game-of-thrones/list/books?id=9)
 1. [A Game of Thrones](https://graphhub.net/game-of-thrones/concept/a-game-of-thrones?id=214) (concept:214)
-   - Description: [A Game of Thrones](https://graphhub.net/game-of-thrones/concept/a-game-of-thrones?id=214) is the first novel in the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. It introduces readers to the complex web of [characters](https://graphhub.net/game-of-thrones/list/characters?id=2) and political intrigue in the Seven Kingdoms of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) The book follows the noble [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2), as well as other noble families, as they vie for control of [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93)
+   - Description: [A Game of Thrones](https://graphhub.net/game-of-thrones/concept/a-game-of-thrones?id=214) is the first novel in the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. It introduces readers to the complex web of characters and political intrigue in the Seven Kingdoms of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) The book follows the noble [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark, as well as other noble families, as they vie for control of [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93)
    - Member of Lists: [Books](https://graphhub.net/game-of-thrones/list/books?id=9)
 1. [A girl has no name](https://graphhub.net/game-of-thrones/concept/a-girl-has-no-name?id=232) (concept:232)
    - Description: [A girl has no name](https://graphhub.net/game-of-thrones/concept/a-girl-has-no-name?id=232) is a saying associated with [Arya Stark](https://graphhub.net/game-of-thrones/concept/arya-stark?id=14) during her training with [the Faceless Men](https://graphhub.net/game-of-thrones/concept/the-faceless-men?id=144), representing her journey towards becoming a skilled assassin.
@@ -92,10 +107,10 @@ License: MIT
    - Description: A phrase related to Viserys Targaryen's demand for a crown from [Khal](https://graphhub.net/game-of-thrones/concept/khal?id=191) Drogo, resulting in his death by molten gold.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [A Lannister Always Pays His Debts](https://graphhub.net/game-of-thrones/concept/a-lannister-always-pays-his-debts?id=226) (concept:226)
-   - Description: [A Lannister Always Pays His Debts](https://graphhub.net/game-of-thrones/concept/a-lannister-always-pays-his-debts?id=226) is the motto of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3), emphasizing their reputation for ensuring their debts are repaid, both financially and otherwise.
+   - Description: [A Lannister Always Pays His Debts](https://graphhub.net/game-of-thrones/concept/a-lannister-always-pays-his-debts?id=226) is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister, emphasizing their reputation for ensuring their debts are repaid, both financially and otherwise.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [A lion does not concern himself with the opinion of sheep](https://graphhub.net/game-of-thrones/concept/a-lion-does-not-concern-himself-with-the-opinion-of-sheep?id=362) (concept:362)
-   - Description: A quote by [Tywin Lannister](https://graphhub.net/game-of-thrones/concept/tywin-lannister?id=22) signifying the dominance and disregard of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) towards their less powerful subjects.
+   - Description: A quote by [Tywin Lannister](https://graphhub.net/game-of-thrones/concept/tywin-lannister?id=22) signifying the dominance and disregard of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister towards their less powerful subjects.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [A mind needs books as a sword needs a whetstone](https://graphhub.net/game-of-thrones/concept/a-mind-needs-books-as-a-sword-needs-a-whetstone?id=239) (concept:239)
    - Description: [A mind needs books as a sword needs a whetstone](https://graphhub.net/game-of-thrones/concept/a-mind-needs-books-as-a-sword-needs-a-whetstone?id=239) is a quote by [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13), emphasizing the importance of knowledge and learning.
@@ -107,7 +122,7 @@ License: MIT
    - Description: A quote by [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13), advising Daenerys on the importance of mercy and respect as a ruler.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) (concept:213)
-   - Description: [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) is the overarching title of the series of epic fantasy novels written by George R.R. Martin. It is set in the fictional [continents](https://graphhub.net/game-of-thrones/list/continents?id=13) of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) and follows the power struggles and conflicts among noble families, as well as the supernatural threat of the Others beyond the Wall.
+   - Description: [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) is the overarching [title](https://graphhub.net/game-of-thrones/concept/title?id=484) of the series of epic fantasy novels written by George R.R. Martin. It is set in the fictional [continents](https://graphhub.net/game-of-thrones/list/continents?id=13) of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) and follows the power struggles and conflicts among noble families, as well as the supernatural threat of the Others beyond the Wall.
    - Member of Lists: [Books](https://graphhub.net/game-of-thrones/list/books?id=9)
 1. [A Storm of Swords](https://graphhub.net/game-of-thrones/concept/a-storm-of-swords?id=216) (concept:216)
    - Description: [A Storm of Swords](https://graphhub.net/game-of-thrones/concept/a-storm-of-swords?id=216) is the third novel in the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. It is known for its numerous shocking and pivotal [events](https://graphhub.net/game-of-thrones/list/events?id=5), including [the Red Wedding.](https://graphhub.net/game-of-thrones/concept/the-red-wedding?id=113) The book further delves into the conflicts and power shifts in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), as well as the growing threat from beyond the Wall.
@@ -119,7 +134,7 @@ License: MIT
    - Description: A quote by [Varys](https://graphhub.net/game-of-thrones/concept/varys?id=28) to Tyrion, highlighting the significance of influence over physical size or strength.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Above the rest](https://graphhub.net/game-of-thrones/concept/above-the-rest?id=325) (concept:325)
-   - Description: This is the motto of House Mallister, a noble house from the Riverlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Mallister, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Riverlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Aegon's Conquest](https://graphhub.net/game-of-thrones/concept/aegons-conquest?id=109) (concept:109)
    - Description: Aegon Targaryen's conquest of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), where he united the Seven Kingdoms under his rule and established the Targaryen dynasty.
@@ -132,21 +147,21 @@ License: MIT
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Arya Stark](https://graphhub.net/game-of-thrones/concept/arya-stark?id=14) (concept:14)
    - Description: [Arya Stark](https://graphhub.net/game-of-thrones/concept/arya-stark?id=14) is a fierce and determined character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the third child of Eddard Stark and [Catelyn Stark.](https://graphhub.net/game-of-thrones/concept/catelyn-stark?id=19) Arya is skilled in swordsmanship and assassination, and her journey throughout the series is marked by a desire for revenge and a quest for personal identity.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Stark](https://graphhub.net/game-of-thrones/list/individuals-of-house-stark?id=20000000-f14d-466f-8b9f-fda9d8bdd5d6)
 1. [As High as Honor](https://graphhub.net/game-of-thrones/concept/as-high-as-honor?id=319) (concept:319)
-   - Description: This is the motto of [House Arryn](https://graphhub.net/game-of-thrones/concept/house-arryn?id=10), one of the Great [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1) of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Arryn, one of the Great [House](https://graphhub.net/game-of-thrones/concept/house?id=483)s of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [As High As Honor](https://graphhub.net/game-of-thrones/concept/as-high-as-honor?id=387) (concept:387)
-   - Description: The motto of [House Arryn](https://graphhub.net/game-of-thrones/concept/house-arryn?id=10), signifying their noble and virtuous nature.
+   - Description: The motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Arryn, signifying their noble and virtuous nature.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Ashford](https://graphhub.net/game-of-thrones/concept/ashford?id=448) (concept:448)
-   - Description: A town in the Reach, ruled by House [Ashford.](https://graphhub.net/game-of-thrones/concept/ashford?id=448) Known for the [Ashford](https://graphhub.net/game-of-thrones/concept/ashford?id=448) Tourney in the history.
+   - Description: A town in the Reach, ruled by [House](https://graphhub.net/game-of-thrones/concept/house?id=483) [Ashford.](https://graphhub.net/game-of-thrones/concept/ashford?id=448) Known for the [Ashford](https://graphhub.net/game-of-thrones/concept/ashford?id=448) Tourney in the history.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Asshai](https://graphhub.net/game-of-thrones/concept/asshai?id=452) (concept:452)
-   - Description: A mysterious and ancient city located at the southeastern edge of the known world. Known for its dark magic and shadowbinders.
+   - Description: A mysterious and ancient [city](https://graphhub.net/game-of-thrones/concept/city?id=486) located at the southeastern edge of the known world. Known for its dark magic and shadowbinders.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Astapor](https://graphhub.net/game-of-thrones/concept/astapor?id=73) (concept:73)
-   - Description: A city located in Slaver's Bay, [Astapor](https://graphhub.net/game-of-thrones/concept/astapor?id=73) is known for its Unsullied warriors, highly disciplined eunuch slave soldiers. It plays a significant role in [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s liberation campaign.
+   - Description: A [city](https://graphhub.net/game-of-thrones/concept/city?id=486) located in Slaver's Bay, [Astapor](https://graphhub.net/game-of-thrones/concept/astapor?id=73) is known for its Unsullied warriors, highly disciplined eunuch slave soldiers. It plays a significant role in [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s liberation campaign.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Bakkalon, the Pale Child](https://graphhub.net/game-of-thrones/concept/bakkalon-the-pale-child?id=278) (concept:278)
    - Description: A deity favored by soldiers.
@@ -158,118 +173,121 @@ License: MIT
    - Description: [Balerion](https://graphhub.net/game-of-thrones/concept/balerion?id=195), also known as [Balerion](https://graphhub.net/game-of-thrones/concept/balerion?id=195) the Black Dread, was the largest and most powerful dragon in Westerosi history. He was the dragon of Aegon the Conqueror and played a crucial role in the Targaryen conquest of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Bandallon](https://graphhub.net/game-of-thrones/concept/bandallon?id=468) (concept:468)
-   - Description: A castle in the Reach, the seat of House Blackbar. It's located on the southern coast of the Whispering Sound.
+   - Description: A castle in the Reach, the seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Blackbar. It's located on the southern coast of the Whispering Sound.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Barrowton](https://graphhub.net/game-of-thrones/concept/barrowton?id=462) (concept:462)
-   - Description: The largest town in the Barrowlands, located in the North of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) The seat of House Dustin.
+   - Description: The largest town in the Barrowlands, located in the North of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) The seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Dustin.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Bayasabhad](https://graphhub.net/game-of-thrones/concept/bayasabhad?id=423) (concept:423)
-   - Description: A large city in the east of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), located beyond the Bone Mountains, known for its tall, pale blue buildings.
+   - Description: A large [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in the east of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), located beyond the Bone Mountains, known for its tall, pale blue buildings.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Beric Dondarrion](https://graphhub.net/game-of-thrones/concept/beric-dondarrion?id=42) (concept:42)
    - Description: [Beric Dondarrion](https://graphhub.net/game-of-thrones/concept/beric-dondarrion?id=42) is a resilient and enigmatic character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the leader of [the Brotherhood Without Banners](https://graphhub.net/game-of-thrones/concept/the-brotherhood-without-banners?id=148) and has been resurrected multiple times by the power of the Lord of Light. Beric's purpose revolves around serving the greater good and fighting against the forces of darkness.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Better than the Best](https://graphhub.net/game-of-thrones/concept/better-than-the-best?id=352) (concept:352)
-   - Description: This is the motto of House Umber, a noble house from the North.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Umber, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the North.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Beware Our Sting](https://graphhub.net/game-of-thrones/concept/beware-our-sting?id=354) (concept:354)
-   - Description: This is the motto of House Beesbury, a noble house from the Reach.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Beesbury, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Reach.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Beware the Fury of a Patient Man](https://graphhub.net/game-of-thrones/concept/beware-the-fury-of-a-patient-man?id=338) (concept:338)
-   - Description: This is the motto of House Corbray, a noble house from the Vale.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Corbray, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Vale.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Bitterbridge](https://graphhub.net/game-of-thrones/concept/bitterbridge?id=446) (concept:446)
    - Description: A town in the Reach, located at a strategic crossing of the river Mander, known for its large stone bridge.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Blackcrown](https://graphhub.net/game-of-thrones/concept/blackcrown?id=469) (concept:469)
-   - Description: A castle in the Reach, the seat of House Bulwer. It's located on the Blackwater Bay.
+   - Description: A castle in the Reach, the seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Bulwer. It's located on the Blackwater Bay.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Blackhaven](https://graphhub.net/game-of-thrones/concept/blackhaven?id=449) (concept:449)
-   - Description: A Dornish castle in the Red Mountains, ruled by House Dondarrion. Functions as a settlement as well.
+   - Description: A Dornish castle in the Red Mountains, ruled by [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Dondarrion. Functions as a settlement as well.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Bound by Blood](https://graphhub.net/game-of-thrones/concept/bound-by-blood?id=353) (concept:353)
-   - Description: This is the motto of House Blackwood, a noble house from the Riverlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Blackwood, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Riverlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Braavos](https://graphhub.net/game-of-thrones/concept/braavos?id=68) (concept:68)
-   - Description: A powerful city-state located across the Narrow Sea. [Braavos](https://graphhub.net/game-of-thrones/concept/braavos?id=68) is known for its strong navy, its complex system of canals, and the enigmatic and deadly assassins known as [the Faceless Men.](https://graphhub.net/game-of-thrones/concept/the-faceless-men?id=144)
+   - Description: A powerful [city](https://graphhub.net/game-of-thrones/concept/city?id=486)-state located across the Narrow Sea. [Braavos](https://graphhub.net/game-of-thrones/concept/braavos?id=68) is known for its strong navy, its complex system of canals, and the enigmatic and deadly assassins known as [the Faceless Men.](https://graphhub.net/game-of-thrones/concept/the-faceless-men?id=144)
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Braavos](https://graphhub.net/game-of-thrones/concept/braavos?id=89) (concept:89)
-   - Description: A powerful city-state located across the Narrow Sea. [Braavos](https://graphhub.net/game-of-thrones/concept/braavos?id=68) is known for its strong navy, its complex system of canals, and the enigmatic and deadly assassins known as [the Faceless Men.](https://graphhub.net/game-of-thrones/concept/the-faceless-men?id=144)
+   - Description: A powerful [city](https://graphhub.net/game-of-thrones/concept/city?id=486)-state located across the Narrow Sea. [Braavos](https://graphhub.net/game-of-thrones/concept/braavos?id=68) is known for its strong navy, its complex system of canals, and the enigmatic and deadly assassins known as [the Faceless Men.](https://graphhub.net/game-of-thrones/concept/the-faceless-men?id=144)
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Bran Stark](https://graphhub.net/game-of-thrones/concept/bran-stark?id=18) (concept:18)
    - Description: [Bran Stark](https://graphhub.net/game-of-thrones/concept/bran-stark?id=18), also known as [the Three-Eyed Raven](https://graphhub.net/game-of-thrones/concept/the-three-eyed-raven?id=168), is a mystical and enigmatic character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the fourth child of Eddard Stark and [Catelyn Stark.](https://graphhub.net/game-of-thrones/concept/catelyn-stark?id=19) Bran's journey involves discovering his supernatural abilities and becoming a key player in the war against the Night King.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Stark](https://graphhub.net/game-of-thrones/list/individuals-of-house-stark?id=20000000-f14d-466f-8b9f-fda9d8bdd5d6)
 1. [Brienne of Tarth](https://graphhub.net/game-of-thrones/concept/brienne-of-tarth?id=32) (concept:32)
    - Description: [Brienne of Tarth](https://graphhub.net/game-of-thrones/concept/brienne-of-tarth?id=32) is a skilled and honorable character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is a formidable warrior and a loyal servant. Brienne's journey involves challenges to traditional gender roles and a quest to fulfill her oath of loyalty to those she serves.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Bronn](https://graphhub.net/game-of-thrones/concept/bronn?id=47) (concept:47)
    - Description: [Bronn](https://graphhub.net/game-of-thrones/concept/bronn?id=47) is a skilled sellsword and a witty character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He starts as a companion to [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13) and later becomes a trusted ally to other key figures. [Bronn](https://graphhub.net/game-of-thrones/concept/bronn?id=47)'s sharp wit and martial prowess make him a fan-favorite character.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Burn them all](https://graphhub.net/game-of-thrones/concept/burn-them-all?id=375) (concept:375)
    - Description: The last words of King Aerys II Targaryen, revealing his madness and obsession with fire.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [By Day or Night](https://graphhub.net/game-of-thrones/concept/by-day-or-night?id=339) (concept:339)
-   - Description: This is the motto of House Dayne, a noble house from [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Dayne, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Caraxes](https://graphhub.net/game-of-thrones/concept/caraxes?id=201) (concept:201)
    - Description: [Caraxes](https://graphhub.net/game-of-thrones/concept/caraxes?id=201), also known as [Caraxes](https://graphhub.net/game-of-thrones/concept/caraxes?id=201) the Blood Wyrm, was a dragon ridden by Prince Daemon Targaryen during [the Dance of the Dragons.](https://graphhub.net/game-of-thrones/concept/the-dance-of-the-dragons?id=296) [Caraxes](https://graphhub.net/game-of-thrones/concept/caraxes?id=201) was known for his dark red scales and fiery nature.
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Casterly Rock](https://graphhub.net/game-of-thrones/concept/casterly-rock?id=82) (concept:82)
-   - Description: The ancestral stronghold of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3), [Casterly Rock](https://graphhub.net/game-of-thrones/concept/casterly-rock?id=82) is a massive fortress located on the western coast of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It is known for its vast gold mines and its strategic importance.
+   - Description: The ancestral stronghold of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister, [Casterly Rock](https://graphhub.net/game-of-thrones/concept/casterly-rock?id=82) is a massive fortress located on the western coast of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It is known for its vast gold mines and its strategic importance.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Casterly Rock](https://graphhub.net/game-of-thrones/concept/casterly-rock?id=437) (concept:437)
-   - Description: Home of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3), built into a massive rock beside the Sunset Sea. While not a city, it's significant and populous like one.
+   - Description: Home of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister, built into a massive rock beside the Sunset Sea. While not a [city](https://graphhub.net/game-of-thrones/concept/city?id=486), it's significant and populous like one.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Catelyn Stark](https://graphhub.net/game-of-thrones/concept/catelyn-stark?id=19) (concept:19)
    - Description: [Catelyn Stark](https://graphhub.net/game-of-thrones/concept/catelyn-stark?id=19), also known as Lady Stark, is a strong-willed and protective character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the wife of Eddard Stark and the mother of Robb, Sansa, Arya, Bran, and Rickon Stark. Catelyn's actions and decisions have significant repercussions for her family and the realm.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2), [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
+   - Member of Lists: [Individuals of House Stark](https://graphhub.net/game-of-thrones/list/individuals-of-house-stark?id=20000000-f14d-466f-8b9f-fda9d8bdd5d6), [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Cersei Lannister](https://graphhub.net/game-of-thrones/concept/cersei-lannister?id=15) (concept:15)
    - Description: [Cersei Lannister](https://graphhub.net/game-of-thrones/concept/cersei-lannister?id=15) is a complex and ruthless character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the twin sister of [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16) and the elder sister of [Tyrion Lannister.](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13) Cersei's thirst for power and her cunning manipulation of [events](https://graphhub.net/game-of-thrones/list/events?id=5) shape the course of the series and have far-reaching consequences.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Lannister](https://graphhub.net/game-of-thrones/list/individuals-of-house-lannister?id=20000000-a6c8-431f-8c40-ce7efdc6978c)
 1. [Chaos isn't a Pit, It's a Ladder](https://graphhub.net/game-of-thrones/concept/chaos-isnt-a-pit-its-a-ladder?id=229) (concept:229)
    - Description: [Chaos isn't a Pit, It's a Ladder](https://graphhub.net/game-of-thrones/concept/chaos-isnt-a-pit-its-a-ladder?id=229) is a line spoken by [Petyr Baelish](https://graphhub.net/game-of-thrones/concept/petyr-baelish?id=27), highlighting his belief that chaos creates opportunities for advancement and power.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Church of Starry Wisdom](https://graphhub.net/game-of-thrones/concept/church-of-starry-wisdom?id=272) (concept:272)
    - Description: A religion that exists in several port [cities](https://graphhub.net/game-of-thrones/list/cities?id=3) throughout the known world. It worships a deity known as the Lion of Night.
    - Member of Lists: [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4)
+1. [City](https://graphhub.net/game-of-thrones/concept/city?id=486) (concept:486)
+   - Description: A notable urban center in the [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) universe, situated in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481) Key [cities](https://graphhub.net/game-of-thrones/list/cities?id=3) in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) include [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66), [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67), and [Dragonstone](https://graphhub.net/game-of-thrones/concept/dragonstone?id=84), while [Yunkai](https://graphhub.net/game-of-thrones/concept/yunkai?id=79), [Volantis](https://graphhub.net/game-of-thrones/concept/volantis?id=72), and [Meereen](https://graphhub.net/game-of-thrones/concept/meereen?id=69) are prominent in [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481)
+   - Owner of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Daario Naharis](https://graphhub.net/game-of-thrones/concept/daario-naharis?id=58) (concept:58)
    - Description: [Daario Naharis](https://graphhub.net/game-of-thrones/concept/daario-naharis?id=58) is a skilled warrior and a confident character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He becomes a loyal advisor and lover to [Daenerys Targaryen.](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) Daario's skills in combat and his unorthodox charm make him a memorable character in the series.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) (concept:11)
    - Description: [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11), also known as Daenerys Stormborn or the [Mother of Dragons](https://graphhub.net/game-of-thrones/concept/mother-of-dragons?id=164), is a major character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the last surviving member of the Targaryen dynasty and has ambitions to reclaim [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93) Daenerys possesses three [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) and an unwavering determination to rule the Seven Kingdoms.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Dark wings, dark words](https://graphhub.net/game-of-thrones/concept/dark-wings-dark-words?id=367) (concept:367)
    - Description: A common saying in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) referring to the fact that messages brought by ravens often carry bad news.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Davina Sand](https://graphhub.net/game-of-thrones/concept/davina-sand?id=40) (concept:40)
    - Description: [Davina Sand](https://graphhub.net/game-of-thrones/concept/davina-sand?id=40) is a cunning and deceptive character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is a skilled manipulator and spy, often working behind the scenes to gather information and influence [events.](https://graphhub.net/game-of-thrones/list/events?id=5) Davina's loyalty lies with her own interests, and she is willing to do whatever it takes to achieve her goals.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Davos Seaworth](https://graphhub.net/game-of-thrones/concept/davos-seaworth?id=29) (concept:29)
    - Description: [Davos Seaworth](https://graphhub.net/game-of-thrones/concept/davos-seaworth?id=29), also known as the Onion Knight, is a loyal and honorable character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a former smuggler who becomes a trusted advisor to [Stannis Baratheon.](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24) Davos' unwavering loyalty and moral compass make him a valuable asset in the conflicts that arise.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Death Before Disgrace](https://graphhub.net/game-of-thrones/concept/death-before-disgrace?id=330) (concept:330)
-   - Description: This is the motto of House Toyne, a noble house from the Stormlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Toyne, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Stormlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Deepwood Motte](https://graphhub.net/game-of-thrones/concept/deepwood-motte?id=472) (concept:472)
-   - Description: A castle and its surrounding settlement in the North of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), the seat of House Glover.
+   - Description: A castle and its surrounding settlement in the North of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), the seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Glover.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Defender of the Dispossessed](https://graphhub.net/game-of-thrones/concept/defender-of-the-dispossessed?id=348) (concept:348)
-   - Description: This is the motto of House Blackfyre, a noble house from the Crownlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Blackfyre, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Crownlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Different roads sometimes lead to the same castle](https://graphhub.net/game-of-thrones/concept/different-roads-sometimes-lead-to-the-same-castle?id=392) (concept:392)
    - Description: A quote from [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) emphasizing that there are often different paths to the same goal.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81) (concept:81)
-   - Description: A region in the southernmost part of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81) is known for its unique culture and its resistance to outside influence. The capital city of [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81) is [Sunspear](https://graphhub.net/game-of-thrones/concept/sunspear?id=417), home to [House Martell.](https://graphhub.net/game-of-thrones/concept/house-martell?id=7)
+   - Description: A region in the southernmost part of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81) is known for its unique culture and its resistance to outside influence. The capital [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81) is [Sunspear](https://graphhub.net/game-of-thrones/concept/sunspear?id=417), home to [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Martell.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Dracarys](https://graphhub.net/game-of-thrones/concept/dracarys?id=223) (concept:223)
    - Description: [Dracarys](https://graphhub.net/game-of-thrones/concept/dracarys?id=223) is a High Valyrian word meaning 'dragonfire.' It is often used as a command for [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) to breathe fire and unleash destruction.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Dragonstone](https://graphhub.net/game-of-thrones/concept/dragonstone?id=84) (concept:84)
-   - Description: An island fortress located off the eastern coast of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), [Dragonstone](https://graphhub.net/game-of-thrones/concept/dragonstone?id=84) is the ancestral seat of [House Targaryen.](https://graphhub.net/game-of-thrones/concept/house-targaryen?id=5) It is known for its unique architecture and its deposits of dragonglass.
+   - Description: An island fortress located off the eastern coast of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), [Dragonstone](https://graphhub.net/game-of-thrones/concept/dragonstone?id=84) is the ancestral seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Targaryen. It is known for its unique architecture and its deposits of dragonglass.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Dreadfort](https://graphhub.net/game-of-thrones/concept/dreadfort?id=94) (concept:94)
-   - Description: The seat of House Bolton, the [Dreadfort](https://graphhub.net/game-of-thrones/concept/dreadfort?id=94) is a castle located in the North of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It is known for its dark history and the cruelty of the Bolton family.
+   - Description: The seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Bolton, the [Dreadfort](https://graphhub.net/game-of-thrones/concept/dreadfort?id=94) is a castle located in the North of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It is known for its dark history and the cruelty of the Bolton family.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Dreamfyre](https://graphhub.net/game-of-thrones/concept/dreamfyre?id=210) (concept:210)
    - Description: [Dreamfyre](https://graphhub.net/game-of-thrones/concept/dreamfyre?id=210) was a dragon ridden by Queen Helaena Targaryen during the Targaryen civil war known as [the Dance of the Dragons.](https://graphhub.net/game-of-thrones/concept/the-dance-of-the-dragons?id=296) [Dreamfyre](https://graphhub.net/game-of-thrones/concept/dreamfyre?id=210) was known for her multicolored scales and was often seen as a symbol of madness.
@@ -284,40 +302,43 @@ License: MIT
    - Description: [Drogon](https://graphhub.net/game-of-thrones/concept/drogon?id=192) was one of the three [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) born to Aegon III Targaryen during the Targaryen civil war known as [the Dance of the Dragons.](https://graphhub.net/game-of-thrones/concept/the-dance-of-the-dragons?id=296) He was named after Daenerys' dragon and played a significant role in the war.
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Duskendale](https://graphhub.net/game-of-thrones/concept/duskendale?id=444) (concept:444)
-   - Description: A port city in the Crownlands, known for its defiance against the Targaryen rule in its history.
+   - Description: A port [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in the Crownlands, known for its defiance against the Targaryen rule in its history.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Eddison Tollett](https://graphhub.net/game-of-thrones/concept/eddison-tollett?id=51) (concept:51)
    - Description: [Eddison Tollett](https://graphhub.net/game-of-thrones/concept/eddison-tollett?id=51), often called Dolorous Edd, is a loyal and sarcastic character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a member of [the Night's Watch](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143) and becomes [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12)'s close friend. Eddison's dry humor and pessimistic outlook provide moments of levity in the series.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Ellaria Sand](https://graphhub.net/game-of-thrones/concept/ellaria-sand?id=52) (concept:52)
-   - Description: [Ellaria Sand](https://graphhub.net/game-of-thrones/concept/ellaria-sand?id=52) is a passionate and vengeful character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the paramour of [Oberyn Martell](https://graphhub.net/game-of-thrones/concept/oberyn-martell?id=35) and becomes involved in the conflict between [House Martell](https://graphhub.net/game-of-thrones/concept/house-martell?id=7) and [House Lannister.](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) Ellaria's desire for revenge and her fierce loyalty to her family drive her actions.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Description: [Ellaria Sand](https://graphhub.net/game-of-thrones/concept/ellaria-sand?id=52) is a passionate and vengeful character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the paramour of [Oberyn Martell](https://graphhub.net/game-of-thrones/concept/oberyn-martell?id=35) and becomes involved in the conflict between [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Martell and [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister. Ellaria's desire for revenge and her fierce loyalty to her family drive her actions.
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Elyria](https://graphhub.net/game-of-thrones/concept/elyria?id=429) (concept:429)
-   - Description: A small city on an island in Slaver's Bay, once part of the Valyrian Freehold.
+   - Description: A small [city](https://graphhub.net/game-of-thrones/concept/city?id=486) on an island in Slaver's Bay, once part of the Valyrian Freehold.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) (concept:481)
-   - Description: [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) is a vast, eastern continent in the "[Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)" fictional universe. Bounded by the Narrow Sea to the west, separating it from [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) hosts a rich diversity of cultures, peoples, and landscapes. Notable narratives within the series, including those of [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) and the city-states of the Free [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3), primarily transpire in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481).
+   - Description: [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) is a vast, eastern continent in the "[Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)" fictional universe. Bounded by the Narrow Sea to the west, separating it from [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) hosts a rich diversity of cultures, peoples, and landscapes. Notable narratives within the series, including those of [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) and the [city](https://graphhub.net/game-of-thrones/concept/city?id=486)-states of the Free [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3), primarily transpire in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481).
    - Member of Lists: [Continents](https://graphhub.net/game-of-thrones/list/continents?id=13)
 1. [Euron Greyjoy](https://graphhub.net/game-of-thrones/concept/euron-greyjoy?id=41) (concept:41)
    - Description: [Euron Greyjoy](https://graphhub.net/game-of-thrones/concept/euron-greyjoy?id=41) is a sadistic and unpredictable character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the uncle of [Theon Greyjoy](https://graphhub.net/game-of-thrones/concept/theon-greyjoy?id=26) and seeks to claim the Iron Islands for himself. Euron's brutal nature and his mastery of naval warfare make him a dangerous adversary.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
+1. [Event](https://graphhub.net/game-of-thrones/concept/event?id=485) (concept:485)
+   - Description: In the context of [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1), an [event](https://graphhub.net/game-of-thrones/concept/event?id=485) referred to a significant occurrence that has shaped the narrative of the series. This could be a major battle like the Battle of Blackwater and [the Battle of Winterfell](https://graphhub.net/game-of-thrones/concept/the-battle-of-winterfell?id=118), a pivotal siege such as the Siege of [Meereen](https://graphhub.net/game-of-thrones/concept/meereen?id=69) and the Siege of [Riverrun](https://graphhub.net/game-of-thrones/concept/riverrun?id=87), and political intrigue like [the Red Wedding](https://graphhub.net/game-of-thrones/concept/the-red-wedding?id=113) and the Trial by Combat. Other categories involve the emergence of [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8), the death of key characters like [Ned Stark](https://graphhub.net/game-of-thrones/concept/ned-stark?id=21), and important historical periods like [Robert's Rebellion](https://graphhub.net/game-of-thrones/concept/roberts-rebellion?id=112) and [Aegon's Conquest.](https://graphhub.net/game-of-thrones/concept/aegons-conquest?id=109) These [event](https://graphhub.net/game-of-thrones/concept/event?id=485)s are pivotal moments that influence the power struggles, alliances, and conflicts in the world of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
+   - Owner of Lists: [Events](https://graphhub.net/game-of-thrones/list/events?id=5)
 1. [Every flight begins with a fall](https://graphhub.net/game-of-thrones/concept/every-flight-begins-with-a-fall?id=379) (concept:379)
    - Description: A quote from [the Three-eyed Raven](https://graphhub.net/game-of-thrones/concept/the-three-eyed-raven?id=168) to [Bran Stark](https://graphhub.net/game-of-thrones/concept/bran-stark?id=18), explaining the path to learning and growth.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Every Man a King](https://graphhub.net/game-of-thrones/concept/every-man-a-king?id=337) (concept:337)
-   - Description: This is the motto of House Broom, a noble house from the Westerlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Broom, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Westerlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Fair Isle](https://graphhub.net/game-of-thrones/concept/fair-isle?id=439) (concept:439)
-   - Description: An island in the Sunset Sea off the western coast of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) The seat of House Farman, known for its shipyards.
+   - Description: An island in the Sunset Sea off the western coast of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) The seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Farman, known for its shipyards.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Fairmarket](https://graphhub.net/game-of-thrones/concept/fairmarket?id=440) (concept:440)
    - Description: A large town located along the Blue Fork of the Trident in the Riverlands. It's a strategic and bustling market town.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Family, Duty, Honor](https://graphhub.net/game-of-thrones/concept/family-duty-honor?id=318) (concept:318)
-   - Description: This is the motto of [House Tully](https://graphhub.net/game-of-thrones/concept/house-tully?id=9), one of the Great [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1) of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tully, one of the Great [House](https://graphhub.net/game-of-thrones/concept/house?id=483)s of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Family, Duty, Honor](https://graphhub.net/game-of-thrones/concept/family-duty-honor?id=397) (concept:397)
-   - Description: The motto of [House Tully](https://graphhub.net/game-of-thrones/concept/house-tully?id=9), outlining their priorities and values.
+   - Description: The motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tully, outlining their priorities and values.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Fear cuts deeper than swords](https://graphhub.net/game-of-thrones/concept/fear-cuts-deeper-than-swords?id=363) (concept:363)
    - Description: A quote from Syrio Forel to [Arya Stark](https://graphhub.net/game-of-thrones/concept/arya-stark?id=14) during their training sessions, teaching her to conquer her fears.
@@ -326,32 +347,32 @@ License: MIT
    - Description: [Fire & Blood](https://graphhub.net/game-of-thrones/concept/fire--blood?id=222) is a companion book to the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. It is a fictional history book that covers the Targaryen dynasty, starting with [Aegon's Conquest](https://graphhub.net/game-of-thrones/concept/aegons-conquest?id=109) and spanning several centuries. The book provides insights into the history of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and the Targaryen rulers.
    - Member of Lists: [Books](https://graphhub.net/game-of-thrones/list/books?id=9)
 1. [Fire and Blood](https://graphhub.net/game-of-thrones/concept/fire-and-blood?id=238) (concept:238)
-   - Description: [Fire and Blood](https://graphhub.net/game-of-thrones/concept/fire-and-blood?id=238) is the motto of [House Targaryen](https://graphhub.net/game-of-thrones/concept/house-targaryen?id=5), representing their history of dragonlords and their determination to reclaim [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93)
+   - Description: [Fire and Blood](https://graphhub.net/game-of-thrones/concept/fire-and-blood?id=238) is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Targaryen, representing their history of dragonlords and their determination to reclaim [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [First in Battle](https://graphhub.net/game-of-thrones/concept/first-in-battle?id=329) (concept:329)
-   - Description: This is the motto of House Tarly, a noble house from the Reach.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tarly, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Reach.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [First lesson, stick them with the pointy end](https://graphhub.net/game-of-thrones/concept/first-lesson-stick-them-with-the-pointy-end?id=410) (concept:410)
    - Description: A quote by [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) to [Arya Stark](https://graphhub.net/game-of-thrones/concept/arya-stark?id=14), giving her basic advice on how to use a sword.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [First of His Name](https://graphhub.net/game-of-thrones/concept/first-of-his-name?id=321) (concept:321)
-   - Description: A title given to the first king of a new dynasty in the Seven Kingdoms.
+   - Description: A [title](https://graphhub.net/game-of-thrones/concept/title?id=484) given to the first king of a new dynasty in the Seven Kingdoms.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Fly High, Fly Far](https://graphhub.net/game-of-thrones/concept/fly-high-fly-far?id=334) (concept:334)
-   - Description: This is the motto of House Swyft, a noble house from the Westerlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Swyft, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Westerlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [For the night is dark and full of terrors](https://graphhub.net/game-of-thrones/concept/for-the-night-is-dark-and-full-of-terrors?id=313) (concept:313)
    - Description: This is a prayer to the Lord of Light, often quoted by [Melisandre.](https://graphhub.net/game-of-thrones/concept/melisandre?id=30)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [From Sea to Sea](https://graphhub.net/game-of-thrones/concept/from-sea-to-sea?id=335) (concept:335)
-   - Description: This is the motto of House Seaworth, a noble house from the Stormlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Seaworth, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Stormlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) (concept:1)
    - Description: [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) is a captivating epic that transcends mediums as both a book series and a television phenomenon. Written by George R.R. Martin, the [books](https://graphhub.net/game-of-thrones/list/books?id=9) intricately weave a tale of political intrigue, power struggles, and fantastical elements in a medieval-inspired world. The story follows noble families vying for control of the Seven Kingdoms, resulting in complex character arcs, unexpected plot twists, and intense battles. The TV adaptation brought this intricate narrative to life, enchanting audiences with its sprawling ensemble cast, breathtaking visuals, and unparalleled production value. Both the [books](https://graphhub.net/game-of-thrones/list/books?id=9) and the series explore themes of loyalty, morality, and the consequences of wielding power, leaving a lasting impression on fans worldwide.
-   - Owner of Lists: [Books](https://graphhub.net/game-of-thrones/list/books?id=9), [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2), [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3), [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8), [Events](https://graphhub.net/game-of-thrones/list/events?id=5), +5 more
+   - Owner of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8), [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10), [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6), [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4)
 1. [Gendry](https://graphhub.net/game-of-thrones/concept/gendry?id=45) (concept:45)
-   - Description: [Gendry](https://graphhub.net/game-of-thrones/concept/gendry?id=45) is a skilled blacksmith and a legitimate son of Robert Baratheon in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He becomes an ally to various [characters](https://graphhub.net/game-of-thrones/list/characters?id=2) and plays a key role in the conflict for [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93) [Gendry](https://graphhub.net/game-of-thrones/concept/gendry?id=45)'s skills and noble bloodline make him a valuable asset in the series.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Description: [Gendry](https://graphhub.net/game-of-thrones/concept/gendry?id=45) is a skilled blacksmith and a legitimate son of Robert Baratheon in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He becomes an ally to various characters and plays a key role in the conflict for [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93) [Gendry](https://graphhub.net/game-of-thrones/concept/gendry?id=45)'s skills and noble bloodline make him a valuable asset in the series.
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Ghis](https://graphhub.net/game-of-thrones/concept/ghis?id=463) (concept:463)
    - Description: The ancient capital of the Ghiscari Empire in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), now ruined and overgrown, known for its colossal architecture.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
@@ -360,24 +381,24 @@ License: MIT
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Grey Worm](https://graphhub.net/game-of-thrones/concept/grey-worm?id=53) (concept:53)
    - Description: [Grey Worm](https://graphhub.net/game-of-thrones/concept/grey-worm?id=53) is a skilled and disciplined character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the commander of [the Unsullied](https://graphhub.net/game-of-thrones/concept/the-unsullied?id=147), an army of eunuch slave soldiers. [Grey Worm](https://graphhub.net/game-of-thrones/concept/grey-worm?id=53)'s journey involves finding his identity and forging deep connections in a world defined by war and political intrigue.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Greywater Watch](https://graphhub.net/game-of-thrones/concept/greywater-watch?id=455) (concept:455)
-   - Description: The seat of House Reed in the North, located in the swamplands of the Neck. Known to be impossible to find by outsiders.
+   - Description: The seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Reed in the North, located in the swamplands of the Neck. Known to be impossible to find by outsiders.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Griffin's Roost](https://graphhub.net/game-of-thrones/concept/griffins-roost?id=479) (concept:479)
-   - Description: A castle in the Stormlands, the seat of House Connington. Known for its white stone and blue roofs.
+   - Description: A castle in the Stormlands, the seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Connington. Known for its white stone and blue roofs.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Growing strong](https://graphhub.net/game-of-thrones/concept/growing-strong?id=314) (concept:314)
-   - Description: This is the motto of [House Tyrell](https://graphhub.net/game-of-thrones/concept/house-tyrell?id=6), one of the Great [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1) of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tyrell, one of the Great [House](https://graphhub.net/game-of-thrones/concept/house?id=483)s of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Growing Strong](https://graphhub.net/game-of-thrones/concept/growing-strong?id=390) (concept:390)
-   - Description: The motto of [House Tyrell](https://graphhub.net/game-of-thrones/concept/house-tyrell?id=6), representing their resilience and growth in power.
+   - Description: The motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tyrell, representing their resilience and growth in power.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Gulltown](https://graphhub.net/game-of-thrones/concept/gulltown?id=415) (concept:415)
-   - Description: A thriving port city in the Vale of Arryn, known for its economic prowess and its commanding view of the Narrow Sea.
+   - Description: A thriving port [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in the Vale of Arryn, known for its economic prowess and its commanding view of the Narrow Sea.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Hand of the King](https://graphhub.net/game-of-thrones/concept/hand-of-the-king?id=167) (concept:167)
-   - Description: The [Hand of the King](https://graphhub.net/game-of-thrones/concept/hand-of-the-king?id=167) is the principal advisor to the reigning monarch and acts as the second-in-command in the Seven Kingdoms. This title carries significant political power and influence.
+   - Description: The [Hand of the King](https://graphhub.net/game-of-thrones/concept/hand-of-the-king?id=167) is the principal advisor to the reigning monarch and acts as the second-in-command in the Seven Kingdoms. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) carries significant political power and influence.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Harrenhal](https://graphhub.net/game-of-thrones/concept/harrenhal?id=85) (concept:85)
    - Description: A massive castle located in the Riverlands, [Harrenhal](https://graphhub.net/game-of-thrones/concept/harrenhal?id=85) is the largest and most haunted castle in [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It is associated with tragedy and misfortune and has changed hands multiple times throughout history.
@@ -386,55 +407,61 @@ License: MIT
    - Description: A quote by [Rhaegar Targaryen](https://graphhub.net/game-of-thrones/concept/rhaegar-targaryen?id=60) in reference to his son, hinting at the prophecy of the prince who was promised.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Hear Me Roar!](https://graphhub.net/game-of-thrones/concept/hear-me-roar?id=332) (concept:332)
-   - Description: This is the official motto of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3), one of the Great [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1) of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
+   - Description: This is the official motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister, one of the Great [House](https://graphhub.net/game-of-thrones/concept/house?id=483)s of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Hear the roar](https://graphhub.net/game-of-thrones/concept/hear-the-roar?id=356) (concept:356)
-   - Description: A common phrase associated with [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3), it signifies their strength and power.
+   - Description: A common phrase associated with [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister, it signifies their strength and power.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Hellholt](https://graphhub.net/game-of-thrones/concept/hellholt?id=450) (concept:450)
-   - Description: A castle in [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), ruled by House Uller. Known for its harsh desert surroundings.
+   - Description: A castle in [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), ruled by [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Uller. Known for its harsh desert surroundings.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Here We Stand](https://graphhub.net/game-of-thrones/concept/here-we-stand?id=320) (concept:320)
-   - Description: This is the motto of House Mormont, a noble house from the North.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Mormont, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the North.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [High Sparrow](https://graphhub.net/game-of-thrones/concept/high-sparrow?id=48) (concept:48)
    - Description: The [High Sparrow](https://graphhub.net/game-of-thrones/concept/high-sparrow?id=48) is a pious and zealous character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the leader of the religious movement known as [the Sparrows](https://graphhub.net/game-of-thrones/concept/the-sparrows?id=146) and gains significant influence in [King's Landing.](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) The [High Sparrow](https://graphhub.net/game-of-thrones/concept/high-sparrow?id=48)'s strict adherence to his beliefs and his role in shaping [the Faith of the Seven](https://graphhub.net/game-of-thrones/concept/the-faith-of-the-seven?id=99) have far-reaching consequences.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Highgarden](https://graphhub.net/game-of-thrones/concept/highgarden?id=80) (concept:80)
-   - Description: The seat of [House Tyrell](https://graphhub.net/game-of-thrones/concept/house-tyrell?id=6), [Highgarden](https://graphhub.net/game-of-thrones/concept/highgarden?id=80) is a castle and city located in the Reach of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It is known for its lush gardens, agricultural wealth, and its alliance with [House Lannister.](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3)
+   - Description: The seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tyrell, [Highgarden](https://graphhub.net/game-of-thrones/concept/highgarden?id=80) is a castle and [city](https://graphhub.net/game-of-thrones/concept/city?id=486) located in the Reach of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It is known for its lush gardens, agricultural wealth, and its alliance with [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Hodor](https://graphhub.net/game-of-thrones/concept/hodor?id=65) (concept:65)
    - Description: [Hodor](https://graphhub.net/game-of-thrones/concept/hodor?id=65), originally named Wylis, is a gentle and loyal character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He serves as a stable boy and becomes [Bran Stark](https://graphhub.net/game-of-thrones/concept/bran-stark?id=18)'s loyal companion. [Hodor](https://graphhub.net/game-of-thrones/concept/hodor?id=65)'s tragic fate and his simple yet profound impact on the story make him a fan-favorite character.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Stark](https://graphhub.net/game-of-thrones/list/individuals-of-house-stark?id=20000000-f14d-466f-8b9f-fda9d8bdd5d6)
 1. [Hold the door](https://graphhub.net/game-of-thrones/concept/hold-the-door?id=233) (concept:233)
    - Description: [Hold the door](https://graphhub.net/game-of-thrones/concept/hold-the-door?id=233) is a phrase with significant emotional impact, revealing the origin of [Hodor](https://graphhub.net/game-of-thrones/concept/hodor?id=65)'s name and the sacrifice he made to protect [Bran Stark.](https://graphhub.net/game-of-thrones/concept/bran-stark?id=18)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Honour, not Honours](https://graphhub.net/game-of-thrones/concept/honour-not-honours?id=343) (concept:343)
-   - Description: This is the motto of House Smallwood, a noble house from the Riverlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Smallwood, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Riverlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Horn Hill](https://graphhub.net/game-of-thrones/concept/horn-hill?id=97) (concept:97)
-   - Description: The ancestral seat of House Tarly, [Horn Hill](https://graphhub.net/game-of-thrones/concept/horn-hill?id=97) is a castle located in the Reach of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It is known for its martial tradition and the formidable warriors produced by House Tarly.
+   - Description: The ancestral seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tarly, [Horn Hill](https://graphhub.net/game-of-thrones/concept/horn-hill?id=97) is a castle located in the Reach of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It is known for its martial tradition and the formidable warriors produced by [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tarly.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Horn Hill](https://graphhub.net/game-of-thrones/concept/horn-hill?id=473) (concept:473)
-   - Description: A castle in the Reach, the ancestral seat of House Tarly. It's surrounded by a large town.
+   - Description: A castle in the Reach, the ancestral seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tarly. It's surrounded by a large town.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
+1. [House](https://graphhub.net/game-of-thrones/concept/house?id=483) (concept:483)
+   - Description: A [House](https://graphhub.net/game-of-thrones/concept/house?id=483) in "[Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)" is a familial or clan-based entity with a unique sigil and motto, often representing a region in [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) They range from powerful Great [House](https://graphhub.net/game-of-thrones/concept/house?id=483)s like Stark or Lannister, to smaller [houses](https://graphhub.net/game-of-thrones/list/houses?id=1) that pledge fealty to them. These [House](https://graphhub.net/game-of-thrones/concept/house?id=483)s, defined by unique histories, traits, alliances, and rivalries, shape the series' intricate political landscape and narrative dynamics.
+   - Owner of Lists: [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1)
 1. [House Arryn](https://graphhub.net/game-of-thrones/concept/house-arryn?id=10) (concept:10)
    - Description: Rulers of the Vale, known for their strong defensive position, nobility, and honor. Sigil is a falcon and moon, motto: "[As High As Honor.](https://graphhub.net/game-of-thrones/concept/as-high-as-honor?id=319)"
    - Member of Lists: [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1)
 1. [House Baratheon](https://graphhub.net/game-of-thrones/concept/house-baratheon?id=4) (concept:4)
    - Description: Rulers of [Storm's End](https://graphhub.net/game-of-thrones/concept/storms-end?id=91), known for their physical strength, stubbornness, and black hair. Sigil is a stag, motto: "[Ours is the Fury.](https://graphhub.net/game-of-thrones/concept/ours-is-the-fury?id=395)"
+   - Owner of Lists: [Individuals of House Baratheon](https://graphhub.net/game-of-thrones/list/individuals-of-house-baratheon?id=20000000-7151-4adc-9ced-785d3e662aec)
    - Member of Lists: [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1)
 1. [House Greyjoy](https://graphhub.net/game-of-thrones/concept/house-greyjoy?id=8) (concept:8)
    - Description: Rulers of the Iron Islands, known for their seafaring prowess, hardiness, and rebellious nature. Sigil is a kraken, motto: "[We Do Not Sow.](https://graphhub.net/game-of-thrones/concept/we-do-not-sow?id=393)"
    - Member of Lists: [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1)
 1. [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) (concept:3)
    - Description: Rich and powerful, ruling from [Casterly Rock.](https://graphhub.net/game-of-thrones/concept/casterly-rock?id=82) Known for their cunning, ambition, and golden hair. Sigil is a lion, motto: "Hear Me Roar."
+   - Owner of Lists: [Individuals of House Lannister](https://graphhub.net/game-of-thrones/list/individuals-of-house-lannister?id=20000000-a6c8-431f-8c40-ce7efdc6978c)
    - Member of Lists: [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1)
 1. [House Martell](https://graphhub.net/game-of-thrones/concept/house-martell?id=7) (concept:7)
    - Description: Rulers of [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), known for their fiery passion, pride, and resilience. Sigil is a sun and spear, motto: "[Unbowed, Unbent, Unbroken.](https://graphhub.net/game-of-thrones/concept/unbowed-unbent-unbroken?id=309)"
    - Member of Lists: [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1)
 1. [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2) (concept:2)
-   - Description: Noble house of [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67), ruling the North. Defined by their honor, loyalty, and connection to nature. Sigil is a direwolf, motto: "[Winter is Coming.](https://graphhub.net/game-of-thrones/concept/winter-is-coming?id=224)"
+   - Description: Noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) of [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67), ruling the North. Defined by their honor, loyalty, and connection to nature. Sigil is a direwolf, motto: "[Winter is Coming.](https://graphhub.net/game-of-thrones/concept/winter-is-coming?id=224)"
+   - Owner of Lists: [Individuals of House Stark](https://graphhub.net/game-of-thrones/list/individuals-of-house-stark?id=20000000-f14d-466f-8b9f-fda9d8bdd5d6)
    - Member of Lists: [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1)
 1. [House Targaryen](https://graphhub.net/game-of-thrones/concept/house-targaryen?id=5) (concept:5)
    - Description: Former rulers of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), with Valyrian roots. Known for their silver hair, purple eyes, and [dragons.](https://graphhub.net/game-of-thrones/list/dragons?id=8) Sigil is a dragon, motto: "[Fire and Blood.](https://graphhub.net/game-of-thrones/concept/fire-and-blood?id=238)"
@@ -455,7 +482,7 @@ License: MIT
    - Description: [I am the sword in the darkness](https://graphhub.net/game-of-thrones/concept/i-am-the-sword-in-the-darkness?id=235) is a part of [the Night's Watch](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143) oath, symbolizing their duty to protect the realms of men from the threats beyond the Wall.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [I demand a trial by combat](https://graphhub.net/game-of-thrones/concept/i-demand-a-trial-by-combat?id=237) (concept:237)
-   - Description: [I demand a trial by combat](https://graphhub.net/game-of-thrones/concept/i-demand-a-trial-by-combat?id=237) is a request made by [characters](https://graphhub.net/game-of-thrones/list/characters?id=2) to settle legal disputes through personal combat, allowing the gods to decide their fate.
+   - Description: [I demand a trial by combat](https://graphhub.net/game-of-thrones/concept/i-demand-a-trial-by-combat?id=237) is a request made by characters to settle legal disputes through personal combat, allowing the gods to decide their fate.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [I Drink and I Know Things](https://graphhub.net/game-of-thrones/concept/i-drink-and-i-know-things?id=228) (concept:228)
    - Description: [I Drink and I Know Things](https://graphhub.net/game-of-thrones/concept/i-drink-and-i-know-things?id=228) is a memorable quote from [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13), reflecting his wit, intelligence, and love for wine.
@@ -464,7 +491,7 @@ License: MIT
    - Description: A quote by [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13), revealing his empathy for the marginalized and mistreated.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [I Have No Rival](https://graphhub.net/game-of-thrones/concept/i-have-no-rival?id=350) (concept:350)
-   - Description: This is the motto of House Qorgyle, a noble house from [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Qorgyle, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [I have nothing to say to you](https://graphhub.net/game-of-thrones/concept/i-have-nothing-to-say-to-you?id=407) (concept:407)
    - Description: A quote by [Sansa Stark](https://graphhub.net/game-of-thrones/concept/sansa-stark?id=17) to Littlefinger, rejecting his manipulations and ending his influence over her.
@@ -487,50 +514,53 @@ License: MIT
 1. [In the game of thrones, even the humblest pieces can have wills of their own](https://graphhub.net/game-of-thrones/concept/in-the-game-of-thrones-even-the-humblest-pieces-can-have-wills-of-their-own?id=389) (concept:389)
    - Description: A quote from [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13) highlighting the unpredictability and complexity of political power struggles.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
+1. [Individual](https://graphhub.net/game-of-thrones/concept/individual?id=482) (concept:482)
+   - Description: In the context of "[Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)," an [individual](https://graphhub.net/game-of-thrones/concept/individual?id=482) refers to a distinct character with a unique role in the series' multifaceted narrative. This can range from main protagonists such as [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) or [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11), to supporting characters like [Bronn](https://graphhub.net/game-of-thrones/concept/bronn?id=47) or [Samwell Tarly](https://graphhub.net/game-of-thrones/concept/samwell-tarly?id=31), and even to less prominent figures such as the servants, soldiers, and minor nobility who populate the world of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and beyond. Each character, regardless of the breadth of their role or the depth of their development, contributes to the overarching story and the dynamics of power, politics, and personal struggle in the show. Their backgrounds, personalities, and actions help to shape the series' complex and intertwined plotlines.
+   - Owner of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Ironoaks](https://graphhub.net/game-of-thrones/concept/ironoaks?id=461) (concept:461)
-   - Description: A castle and town in the Vale, overlooking [Ironoaks](https://graphhub.net/game-of-thrones/concept/ironoaks?id=461) Lake. The ancestral seat of House Waynwood.
+   - Description: A castle and town in the Vale, overlooking [Ironoaks](https://graphhub.net/game-of-thrones/concept/ironoaks?id=461) Lake. The ancestral seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Waynwood.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16) (concept:16)
-   - Description: [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16), also known as the Kingslayer, is a conflicted character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a member of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) and is known for his skill in combat. Jaime's journey is characterized by his moral transformation and his complex relationship with his siblings and honor.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Description: [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16), also known as the Kingslayer, is a conflicted character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a member of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister and is known for his skill in combat. Jaime's journey is characterized by his moral transformation and his complex relationship with his siblings and honor.
+   - Member of Lists: [Individuals of House Lannister](https://graphhub.net/game-of-thrones/list/individuals-of-house-lannister?id=20000000-a6c8-431f-8c40-ce7efdc6978c)
 1. [Jaqen H'ghar](https://graphhub.net/game-of-thrones/concept/jaqen-hghar?id=43) (concept:43)
    - Description: [Jaqen H'ghar](https://graphhub.net/game-of-thrones/concept/jaqen-hghar?id=43) is a mysterious and skilled assassin in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a Faceless Man and a member of the guild of assassins in [Braavos.](https://graphhub.net/game-of-thrones/concept/braavos?id=68) Jaqen's ability to change identities and his involvement in [Arya Stark](https://graphhub.net/game-of-thrones/concept/arya-stark?id=14)'s training make him an intriguing and compelling character.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Jeor Mormont](https://graphhub.net/game-of-thrones/concept/jeor-mormont?id=46) (concept:46)
    - Description: [Jeor Mormont](https://graphhub.net/game-of-thrones/concept/jeor-mormont?id=46), also known as the Old Bear, is the [Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166) of [the Night's Watch](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143) in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a respected and wise leader who guides [the Night's Watch](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143) through challenging times. Jeor's dedication to defending the realm from the threats beyond the Wall is unwavering.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Joffrey Baratheon](https://graphhub.net/game-of-thrones/concept/joffrey-baratheon?id=23) (concept:23)
    - Description: [Joffrey Baratheon](https://graphhub.net/game-of-thrones/concept/joffrey-baratheon?id=23) is a cruel and sadistic character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the eldest son of [Cersei Lannister](https://graphhub.net/game-of-thrones/concept/cersei-lannister?id=15) and [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16), though officially claimed as the son of Robert Baratheon. Joffrey's reign as king is marked by his brutality and his disregard for the welfare of the realm.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Baratheon](https://graphhub.net/game-of-thrones/list/individuals-of-house-baratheon?id=20000000-7151-4adc-9ced-785d3e662aec)
 1. [Jojen Reed](https://graphhub.net/game-of-thrones/concept/jojen-reed?id=62) (concept:62)
    - Description: [Jojen Reed](https://graphhub.net/game-of-thrones/concept/jojen-reed?id=62) is a wise and prescient character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the son of Lord Howland Reed and becomes a guide and mentor to [Bran Stark.](https://graphhub.net/game-of-thrones/concept/bran-stark?id=18) Jojen's unique abilities and his insights into the mystical aspects of the world make him an important character.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) (concept:12)
    - Description: [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12), born Aegon Targaryen, is a central character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the son of Lyanna Stark and [Rhaegar Targaryen](https://graphhub.net/game-of-thrones/concept/rhaegar-targaryen?id=60), making him the rightful heir to [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93) Jon is known for his leadership, honor, and his role as the [Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166) of [the Night's Watch.](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143)
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Stark](https://graphhub.net/game-of-thrones/list/individuals-of-house-stark?id=20000000-f14d-466f-8b9f-fda9d8bdd5d6)
 1. [Jorah Mormont](https://graphhub.net/game-of-thrones/concept/jorah-mormont?id=34) (concept:34)
    - Description: [Jorah Mormont](https://graphhub.net/game-of-thrones/concept/jorah-mormont?id=34) is a loyal and conflicted character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is an exiled knight and serves as an advisor to [Daenerys Targaryen.](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) Jorah's journey involves his unrequited love for Daenerys and his struggle to redeem himself and regain his honor.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Karhold](https://graphhub.net/game-of-thrones/concept/karhold?id=470) (concept:470)
-   - Description: The seat of House Karstark, a vassal to [House Stark.](https://graphhub.net/game-of-thrones/concept/house-stark?id=2) It's located in the North of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
+   - Description: The seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Karstark, a vassal to [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark. It's located in the North of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Kayakayanaya](https://graphhub.net/game-of-thrones/concept/kayakayanaya?id=425) (concept:425)
-   - Description: A city in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) located at the eastern end of the Bone Mountains, known for its warrior women.
+   - Description: A [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) located at the eastern end of the Bone Mountains, known for its warrior women.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Khal](https://graphhub.net/game-of-thrones/concept/khal?id=191) (concept:191)
-   - Description: The title '[Khal](https://graphhub.net/game-of-thrones/concept/khal?id=191)' is given to the leader of a Dothraki horde. [Khal](https://graphhub.net/game-of-thrones/concept/khal?id=191)s are fierce warriors and conquerors who command vast armies of horse-mounted warriors known as screamers.
+   - Description: The [title](https://graphhub.net/game-of-thrones/concept/title?id=484) '[Khal](https://graphhub.net/game-of-thrones/concept/khal?id=191)' is given to the leader of a Dothraki horde. [Khal](https://graphhub.net/game-of-thrones/concept/khal?id=191)s are fierce warriors and conquerors who command vast armies of horse-mounted warriors known as screamers.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Kill the boy, Jon Snow](https://graphhub.net/game-of-thrones/concept/kill-the-boy-jon-snow?id=365) (concept:365)
    - Description: Advice given by Maester Aemon to [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12), encouraging him to let go of his past and become a leader.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [King Beyond the Wall](https://graphhub.net/game-of-thrones/concept/king-beyond-the-wall?id=190) (concept:190)
-   - Description: The title '[King Beyond the Wall](https://graphhub.net/game-of-thrones/concept/king-beyond-the-wall?id=190)' is given to a wildling leader who successfully unites the various clans and tribes beyond the Wall. It signifies their authority and status as a sovereign ruler.
+   - Description: The [title](https://graphhub.net/game-of-thrones/concept/title?id=484) '[King Beyond the Wall](https://graphhub.net/game-of-thrones/concept/king-beyond-the-wall?id=190)' is given to a wildling leader who successfully unites the various clans and tribes beyond the Wall. It signifies their authority and status as a sovereign ruler.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [King in the North](https://graphhub.net/game-of-thrones/concept/king-in-the-north?id=165) (concept:165)
-   - Description: The title '[King in the North](https://graphhub.net/game-of-thrones/concept/king-in-the-north?id=165)' refers to the ruler of the independent North, a position held by several [characters](https://graphhub.net/game-of-thrones/list/characters?id=2) throughout the series. It symbolizes the region's autonomy and the loyalty of its people.
+   - Description: The [title](https://graphhub.net/game-of-thrones/concept/title?id=484) '[King in the North](https://graphhub.net/game-of-thrones/concept/king-in-the-north?id=165)' refers to the ruler of the independent North, a position held by several characters throughout the series. It symbolizes the region's autonomy and the loyalty of its people.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) (concept:66)
-   - Description: The capital city of the Seven Kingdoms and the seat of [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93) [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) is a bustling metropolis with a complex political landscape and is home to [the Red Keep](https://graphhub.net/game-of-thrones/concept/the-red-keep?id=92), where the ruling monarch resides.
+   - Description: The capital [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of the Seven Kingdoms and the seat of [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93) [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) is a bustling metropolis with a complex political landscape and is home to [the Red Keep](https://graphhub.net/game-of-thrones/concept/the-red-keep?id=92), where the ruling monarch resides.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Kissed by Fire](https://graphhub.net/game-of-thrones/concept/kissed-by-fire?id=322) (concept:322)
    - Description: A phrase used to describe someone with red hair, often seen as a sign of luck.
@@ -539,61 +569,61 @@ License: MIT
    - Description: Old gods of the Three Sisters Islands in the Bite, who were said to be married.
    - Member of Lists: [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4)
 1. [Lannisport](https://graphhub.net/game-of-thrones/concept/lannisport?id=90) (concept:90)
-   - Description: The largest city on the western coast of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), [Lannisport](https://graphhub.net/game-of-thrones/concept/lannisport?id=90) is the seat of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3)'s power. It is known for its bustling port, its wealthy residents, and its connection to [Casterly Rock.](https://graphhub.net/game-of-thrones/concept/casterly-rock?id=82)
+   - Description: The largest [city](https://graphhub.net/game-of-thrones/concept/city?id=486) on the western coast of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), [Lannisport](https://graphhub.net/game-of-thrones/concept/lannisport?id=90) is the seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister's power. It is known for its bustling port, its wealthy residents, and its connection to [Casterly Rock.](https://graphhub.net/game-of-thrones/concept/casterly-rock?id=82)
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Last Hearth](https://graphhub.net/game-of-thrones/concept/last-hearth?id=471) (concept:471)
-   - Description: The seat of House Umber, located in the North of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It's the northernmost castle of the Seven Kingdoms.
+   - Description: The seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Umber, located in the North of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It's the northernmost castle of the Seven Kingdoms.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Leaf](https://graphhub.net/game-of-thrones/concept/leaf?id=64) (concept:64)
    - Description: [Leaf](https://graphhub.net/game-of-thrones/concept/leaf?id=64) is a mysterious and ancient character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is one of [the Children of the Forest](https://graphhub.net/game-of-thrones/concept/the-children-of-the-forest?id=155), a magical and reclusive species. [Leaf](https://graphhub.net/game-of-thrones/concept/leaf?id=64)'s role in the series involves protecting their sacred lands and confronting the threats beyond the Wall.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Let Me Soar](https://graphhub.net/game-of-thrones/concept/let-me-soar?id=331) (concept:331)
-   - Description: This is the motto of House Fowler, a noble house from [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Fowler, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Lorath](https://graphhub.net/game-of-thrones/concept/lorath?id=98) (concept:98)
-   - Description: One of the Free [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3), [Lorath](https://graphhub.net/game-of-thrones/concept/lorath?id=98) is a small and isolated city known for its seafaring tradition and its unusual customs. It is the least populated and least influential of the Free [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3).
+   - Description: One of the Free [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3), [Lorath](https://graphhub.net/game-of-thrones/concept/lorath?id=98) is a small and isolated [city](https://graphhub.net/game-of-thrones/concept/city?id=486) known for its seafaring tradition and its unusual customs. It is the least populated and least influential of the Free [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3).
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Lorath](https://graphhub.net/game-of-thrones/concept/lorath?id=421) (concept:421)
    - Description: The smallest of the Free [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3) in [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481) Known for its maze-makers, but otherwise poor and unimpressive.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166) (concept:166)
-   - Description: The title '[Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166)' is bestowed upon the leader of [the Night's Watch.](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143) The [Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166) is responsible for maintaining the order and discipline within the organization and making crucial decisions regarding the defense of the realm.
+   - Description: The [title](https://graphhub.net/game-of-thrones/concept/title?id=484) '[Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166)' is bestowed upon the leader of [the Night's Watch.](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143) The [Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166) is responsible for maintaining the order and discipline within the organization and making crucial decisions regarding the defense of the realm.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord Commander of the Kingsguard](https://graphhub.net/game-of-thrones/concept/lord-commander-of-the-kingsguard?id=186) (concept:186)
-   - Description: The [Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166) of [the Kingsguard](https://graphhub.net/game-of-thrones/concept/the-kingsguard?id=243) is the leader of the elite royal bodyguard sworn to protect the king or queen. This title carries great honor and requires exceptional skill in combat and unwavering loyalty.
+   - Description: The [Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166) of [the Kingsguard](https://graphhub.net/game-of-thrones/concept/the-kingsguard?id=243) is the leader of the elite royal bodyguard sworn to protect the king or queen. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) carries great honor and requires exceptional skill in combat and unwavering loyalty.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord of Casterly Rock](https://graphhub.net/game-of-thrones/concept/lord-of-casterly-rock?id=169) (concept:169)
-   - Description: The Lord of [Casterly Rock](https://graphhub.net/game-of-thrones/concept/casterly-rock?id=82) is the ruler of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) and controls the wealthy region of the Westerlands. This title grants immense wealth, power, and influence within the realm.
+   - Description: The Lord of [Casterly Rock](https://graphhub.net/game-of-thrones/concept/casterly-rock?id=82) is the ruler of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister and controls the wealthy region of the Westerlands. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) grants immense wealth, power, and influence within the realm.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord of the Iron Islands](https://graphhub.net/game-of-thrones/concept/lord-of-the-iron-islands?id=171) (concept:171)
-   - Description: The [Lord of the Iron Islands](https://graphhub.net/game-of-thrones/concept/lord-of-the-iron-islands?id=171) is the ruler of [House Greyjoy](https://graphhub.net/game-of-thrones/concept/house-greyjoy?id=8) and controls the ironborn people who inhabit the islands. This title holds authority over a seafaring culture known for raiding and reaving.
+   - Description: The [Lord of the Iron Islands](https://graphhub.net/game-of-thrones/concept/lord-of-the-iron-islands?id=171) is the ruler of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Greyjoy and controls the ironborn people who inhabit the islands. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) holds authority over a seafaring culture known for raiding and reaving.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord of Winterfell](https://graphhub.net/game-of-thrones/concept/lord-of-winterfell?id=170) (concept:170)
-   - Description: The [Lord of Winterfell](https://graphhub.net/game-of-thrones/concept/lord-of-winterfell?id=170) is the ruler of [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2) and holds dominion over the North. This title carries the responsibility of governing the vast northern lands and protecting the Stark family's ancestral seat.
+   - Description: The [Lord of Winterfell](https://graphhub.net/game-of-thrones/concept/lord-of-winterfell?id=170) is the ruler of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark and holds dominion over the North. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) carries the responsibility of governing the vast northern lands and protecting the Stark family's ancestral seat.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord Paramount of Dorne](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-dorne?id=181) (concept:181)
-   - Description: The Lord Paramount of [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81) is the ruler of [House Martell](https://graphhub.net/game-of-thrones/concept/house-martell?id=7) and governs the arid and fiercely independent region of [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81). This title holds authority over a unique culture and strategic position in the realm.
+   - Description: The Lord Paramount of [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81) is the ruler of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Martell and governs the arid and fiercely independent region of [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81). This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) holds authority over a unique culture and strategic position in the realm.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord Paramount of the Crownlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-crownlands?id=188) (concept:188)
-   - Description: The [Lord Paramount of the Crownlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-crownlands?id=188) is the ruler of [House Baratheon](https://graphhub.net/game-of-thrones/concept/house-baratheon?id=4) and commands the region surrounding [King's Landing.](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) This title carries significant political influence and control over the capital city.
+   - Description: The [Lord Paramount of the Crownlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-crownlands?id=188) is the ruler of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Baratheon and commands the region surrounding [King's Landing.](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) carries significant political influence and control over the capital [city.](https://graphhub.net/game-of-thrones/concept/city?id=486)
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord Paramount of the Iron Islands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-iron-islands?id=180) (concept:180)
-   - Description: The [Lord Paramount of the Iron Islands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-iron-islands?id=180) is the ruler of [House Greyjoy](https://graphhub.net/game-of-thrones/concept/house-greyjoy?id=8) and commands the ironborn people who inhabit the islands. This title holds authority over a seafaring culture known for raiding and reaving.
+   - Description: The [Lord Paramount of the Iron Islands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-iron-islands?id=180) is the ruler of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Greyjoy and commands the ironborn people who inhabit the islands. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) holds authority over a seafaring culture known for raiding and reaving.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord Paramount of the Reach](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-reach?id=175) (concept:175)
-   - Description: The [Lord Paramount of the Reach](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-reach?id=175) is the ruler of [House Tyrell](https://graphhub.net/game-of-thrones/concept/house-tyrell?id=6) and holds authority over the fertile region of the Reach. This title carries influence and control over the bountiful lands and resources.
+   - Description: The [Lord Paramount of the Reach](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-reach?id=175) is the ruler of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tyrell and holds authority over the fertile region of the Reach. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) carries influence and control over the bountiful lands and resources.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord Paramount of the Riverlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-riverlands?id=179) (concept:179)
-   - Description: The [Lord Paramount of the Riverlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-riverlands?id=179) is the ruler of [House Tully](https://graphhub.net/game-of-thrones/concept/house-tully?id=9) and holds authority over the fertile lands surrounding the rivers. This title carries influence and control over a strategically important region.
+   - Description: The [Lord Paramount of the Riverlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-riverlands?id=179) is the ruler of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tully and holds authority over the fertile lands surrounding the rivers. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) carries influence and control over a strategically important region.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord Paramount of the Stormlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-stormlands?id=176) (concept:176)
-   - Description: The [Lord Paramount of the Stormlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-stormlands?id=176) is the ruler of [House Baratheon](https://graphhub.net/game-of-thrones/concept/house-baratheon?id=4) and commands the region of the Stormlands. This title holds significance due to the region's strategic location and military strength.
+   - Description: The [Lord Paramount of the Stormlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-stormlands?id=176) is the ruler of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Baratheon and commands the region of the Stormlands. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) holds significance due to the region's strategic location and military strength.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord Paramount of the Vale](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-vale?id=177) (concept:177)
-   - Description: The [Lord Paramount of the Vale](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-vale?id=177) is the ruler of [House Arryn](https://graphhub.net/game-of-thrones/concept/house-arryn?id=10) and governs the mountainous region of the Vale. This title grants control over a highly defensible territory and the loyalty of the mountain clans.
+   - Description: The [Lord Paramount of the Vale](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-vale?id=177) is the ruler of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Arryn and governs the mountainous region of the Vale. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) grants control over a highly defensible territory and the loyalty of the mountain clans.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Lord Paramount of the Westerlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-westerlands?id=178) (concept:178)
-   - Description: The [Lord Paramount of the Westerlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-westerlands?id=178) is the ruler of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) and controls the rich and resourceful region of the Westerlands. This title comes with great wealth and political influence.
+   - Description: The [Lord Paramount of the Westerlands](https://graphhub.net/game-of-thrones/concept/lord-paramount-of-the-westerlands?id=178) is the ruler of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister and controls the rich and resourceful region of the Westerlands. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) comes with great wealth and political influence.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Love is the death of duty](https://graphhub.net/game-of-thrones/concept/love-is-the-death-of-duty?id=394) (concept:394)
    - Description: A quote from Maester Aemon revealing the conflict between personal desires and responsibilities.
@@ -602,26 +632,26 @@ License: MIT
    - Description: One of the Free [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3), [Lys](https://graphhub.net/game-of-thrones/concept/lys?id=76) is known for its pleasure [houses](https://graphhub.net/game-of-thrones/list/houses?id=1) and the training of highly skilled courtesans and bed slaves. It is a center of the slave trade and a hotbed of intrigue and debauchery.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Lysa Arryn's Eyrie](https://graphhub.net/game-of-thrones/concept/lysa-arryns-eyrie?id=78) (concept:78)
-   - Description: The Eyrie is the seat of [House Arryn](https://graphhub.net/game-of-thrones/concept/house-arryn?id=10) and is situated in the Vale of Arryn, high in the mountains. It is known for its impregnable defenses and its breathtaking views.
+   - Description: The Eyrie is the seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Arryn and is situated in the Vale of Arryn, high in the mountains. It is known for its impregnable defenses and its breathtaking views.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Maidenpool](https://graphhub.net/game-of-thrones/concept/maidenpool?id=441) (concept:441)
    - Description: A town in the Riverlands, known for its hot pools and its delicate pink marble keep.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Mantarys](https://graphhub.net/game-of-thrones/concept/mantarys?id=427) (concept:427)
-   - Description: A city located in the region of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) known as the Demon Road, feared for its monstrous and malformed inhabitants.
+   - Description: A [city](https://graphhub.net/game-of-thrones/concept/city?id=486) located in the region of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) known as the Demon Road, feared for its monstrous and malformed inhabitants.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Margaery Tyrell](https://graphhub.net/game-of-thrones/concept/margaery-tyrell?id=36) (concept:36)
-   - Description: [Margaery Tyrell](https://graphhub.net/game-of-thrones/concept/margaery-tyrell?id=36) is a cunning and ambitious character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is a member of [House Tyrell](https://graphhub.net/game-of-thrones/concept/house-tyrell?id=6) and becomes a queen consort to multiple kings. Margaery's political acumen and manipulation of those around her make her a formidable player in the [game of thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Description: [Margaery Tyrell](https://graphhub.net/game-of-thrones/concept/margaery-tyrell?id=36) is a cunning and ambitious character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is a member of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tyrell and becomes a queen consort to multiple kings. Margaery's political acumen and manipulation of those around her make her a formidable player in the [game of thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Master of Coin](https://graphhub.net/game-of-thrones/concept/master-of-coin?id=173) (concept:173)
    - Description: The [Master of Coin](https://graphhub.net/game-of-thrones/concept/master-of-coin?id=173) is responsible for managing the finances of the Seven Kingdoms. They oversee the treasury, taxation, and economic policies, ensuring the realm's financial stability.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Master of Whisperers](https://graphhub.net/game-of-thrones/concept/master-of-whisperers?id=172) (concept:172)
-   - Description: The [Master of Whisperers](https://graphhub.net/game-of-thrones/concept/master-of-whisperers?id=172) is a title given to the spymaster and intelligence chief of the Seven Kingdoms. They are responsible for gathering and disseminating information, playing a crucial role in political intrigues.
+   - Description: The [Master of Whisperers](https://graphhub.net/game-of-thrones/concept/master-of-whisperers?id=172) is a [title](https://graphhub.net/game-of-thrones/concept/title?id=484) given to the spymaster and intelligence chief of the Seven Kingdoms. They are responsible for gathering and disseminating information, playing a crucial role in political intrigues.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Meera Reed](https://graphhub.net/game-of-thrones/concept/meera-reed?id=63) (concept:63)
    - Description: [Meera Reed](https://graphhub.net/game-of-thrones/concept/meera-reed?id=63) is a skilled and loyal character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the daughter of Lord Howland Reed and accompanies her brother, Jojen, in guiding [Bran Stark.](https://graphhub.net/game-of-thrones/concept/bran-stark?id=18) Meera's archery skills and her dedication to protecting Bran make her an important ally.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Meereen](https://graphhub.net/game-of-thrones/concept/meereen?id=69) (concept:69)
    - Description: One of the major [cities](https://graphhub.net/game-of-thrones/list/cities?id=3) in Slaver's Bay, [Meereen](https://graphhub.net/game-of-thrones/concept/meereen?id=69) becomes a central location in [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s quest to free the enslaved people of the region. It is known for its Great Pyramid and the fighting pits.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
@@ -630,13 +660,13 @@ License: MIT
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Melisandre](https://graphhub.net/game-of-thrones/concept/melisandre?id=30) (concept:30)
    - Description: [Melisandre](https://graphhub.net/game-of-thrones/concept/melisandre?id=30), also known as [the Red Woman](https://graphhub.net/game-of-thrones/concept/the-red-woman?id=174), is a mysterious and influential character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is a priestess of the Lord of Light and is known for her prophecies and magical abilities. [Melisandre](https://graphhub.net/game-of-thrones/concept/melisandre?id=30)'s role in the series involves wielding supernatural powers and influencing key [events.](https://graphhub.net/game-of-thrones/list/events?id=5)
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Meraxes](https://graphhub.net/game-of-thrones/concept/meraxes?id=197) (concept:197)
    - Description: [Meraxes](https://graphhub.net/game-of-thrones/concept/meraxes?id=197) was one of the three [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) ridden by Aegon the Conqueror. She was named after Aegon's sister-wife, Rhaenys Targaryen. [Meraxes](https://graphhub.net/game-of-thrones/concept/meraxes?id=197) was instrumental in the conquest of [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Missandei](https://graphhub.net/game-of-thrones/concept/missandei?id=54) (concept:54)
    - Description: [Missandei](https://graphhub.net/game-of-thrones/concept/missandei?id=54) is a intelligent and loyal character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is a former slave who becomes an advisor and translator for [Daenerys Targaryen.](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) [Missandei](https://graphhub.net/game-of-thrones/concept/missandei?id=54)'s journey involves discovering her own power and agency in a world that often seeks to oppress her.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Moat Cailin](https://graphhub.net/game-of-thrones/concept/moat-cailin?id=86) (concept:86)
    - Description: A heavily fortified castle located in the Neck, [Moat Cailin](https://graphhub.net/game-of-thrones/concept/moat-cailin?id=86) guards the northern approaches to the rest of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It is a key strategic location in conflicts between the North and the South.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
@@ -644,7 +674,7 @@ License: MIT
    - Description: This is an affectionate term used by [Khal](https://graphhub.net/game-of-thrones/concept/khal?id=191) Drogo to address [Daenerys Targaryen.](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Mother of Dragons](https://graphhub.net/game-of-thrones/concept/mother-of-dragons?id=164) (concept:164)
-   - Description: The title '[Mother of Dragons](https://graphhub.net/game-of-thrones/concept/mother-of-dragons?id=164)' is given to [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11), who hatched three dragon eggs and became the mother and rider of [dragons.](https://graphhub.net/game-of-thrones/list/dragons?id=8) She commands the loyalty of the powerful creatures and uses them to further her ambitions.
+   - Description: The [title](https://graphhub.net/game-of-thrones/concept/title?id=484) '[Mother of Dragons](https://graphhub.net/game-of-thrones/concept/mother-of-dragons?id=164)' is given to [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11), who hatched three dragon eggs and became the mother and rider of [dragons.](https://graphhub.net/game-of-thrones/list/dragons?id=8) She commands the loyalty of the powerful creatures and uses them to further her ambitions.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Mother Rhoyne](https://graphhub.net/game-of-thrones/concept/mother-rhoyne?id=284) (concept:284)
    - Description: A religion worshiped by a minority group in eastern [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), associated with the Rhoynar people and their river-based culture.
@@ -657,27 +687,27 @@ License: MIT
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Myrcella Baratheon](https://graphhub.net/game-of-thrones/concept/myrcella-baratheon?id=50) (concept:50)
    - Description: [Myrcella Baratheon](https://graphhub.net/game-of-thrones/concept/myrcella-baratheon?id=50) is a kind-hearted and tragic character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the daughter of [Cersei Lannister](https://graphhub.net/game-of-thrones/concept/cersei-lannister?id=15) and Robert Baratheon. Myrcella's story revolves around her political marriages and the consequences of her family's actions.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Baratheon](https://graphhub.net/game-of-thrones/list/individuals-of-house-baratheon?id=20000000-7151-4adc-9ced-785d3e662aec)
 1. [Ned Stark](https://graphhub.net/game-of-thrones/concept/ned-stark?id=21) (concept:21)
-   - Description: Eddard Stark, commonly known as [Ned Stark](https://graphhub.net/game-of-thrones/concept/ned-stark?id=21), is a pivotal character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the head of [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2) and the [Lord of Winterfell.](https://graphhub.net/game-of-thrones/concept/lord-of-winterfell?id=170) Ned's honor, integrity, and loyalty set the tone for the series, and his death serves as a catalyst for the power struggles that follow.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Description: Eddard Stark, commonly known as [Ned Stark](https://graphhub.net/game-of-thrones/concept/ned-stark?id=21), is a pivotal character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the head of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark and the [Lord of Winterfell.](https://graphhub.net/game-of-thrones/concept/lord-of-winterfell?id=170) Ned's honor, integrity, and loyalty set the tone for the series, and his death serves as a catalyst for the power struggles that follow.
+   - Member of Lists: [Individuals of House Stark](https://graphhub.net/game-of-thrones/list/individuals-of-house-stark?id=20000000-f14d-466f-8b9f-fda9d8bdd5d6)
 1. [Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you](https://graphhub.net/game-of-thrones/concept/never-forget-what-you-are-the-rest-of-the-world-will-not-wear-it-like-armor-and-it-can-never-be-used-to-hurt-you?id=412) (concept:412)
    - Description: A quote by [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13) to [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12), advising him to embrace his identity as a bastard.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Never Resting](https://graphhub.net/game-of-thrones/concept/never-resting?id=333) (concept:333)
-   - Description: This is the motto of House Redwyne, a noble house from the Reach.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Redwyne, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Reach.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [New Ghis](https://graphhub.net/game-of-thrones/concept/new-ghis?id=430) (concept:430)
-   - Description: An island city in Slaver's Bay, home to the Ghiscari Empire, known for its lockstep legions.
+   - Description: An island [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in Slaver's Bay, home to the Ghiscari Empire, known for its lockstep legions.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [No one can withstand us](https://graphhub.net/game-of-thrones/concept/no-one-can-withstand-us?id=326) (concept:326)
-   - Description: This is the motto of House Codd, a noble house from the Iron Islands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Codd, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Iron Islands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [None so Wise](https://graphhub.net/game-of-thrones/concept/none-so-wise?id=346) (concept:346)
-   - Description: This is the motto of House Waynwood, a noble house from the Vale.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Waynwood, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Vale.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Norvos](https://graphhub.net/game-of-thrones/concept/norvos?id=419) (concept:419)
-   - Description: A Free City in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), divided into a High City on the hills and a Low City on the banks of the river Noyne.
+   - Description: A Free [City](https://graphhub.net/game-of-thrones/concept/city?id=486) in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), divided into a High [City](https://graphhub.net/game-of-thrones/concept/city?id=486) on the hills and a Low [City](https://graphhub.net/game-of-thrones/concept/city?id=486) on the banks of the river Noyne.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Not today](https://graphhub.net/game-of-thrones/concept/not-today?id=316) (concept:316)
    - Description: Syrio Forel's famous saying to [Arya Stark](https://graphhub.net/game-of-thrones/concept/arya-stark?id=14) during their sword-fighting lessons.
@@ -687,45 +717,45 @@ License: MIT
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Oberyn Martell](https://graphhub.net/game-of-thrones/concept/oberyn-martell?id=35) (concept:35)
    - Description: [Oberyn Martell](https://graphhub.net/game-of-thrones/concept/oberyn-martell?id=35), also known as the Red Viper, is a passionate and vengeful character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the Prince of [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81) and seeks justice for the murder of his sister Elia. Oberyn's skill in combat and his quest for revenge have a profound impact on the series.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Old Valyria](https://graphhub.net/game-of-thrones/concept/old-valyria?id=95) (concept:95)
-   - Description: An ancient city located in the eastern continent of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), [Old Valyria](https://graphhub.net/game-of-thrones/concept/old-valyria?id=95) was the ancestral home of [House Targaryen.](https://graphhub.net/game-of-thrones/concept/house-targaryen?id=5) It was once a powerful and advanced civilization but was destroyed in a cataclysmic event.
+   - Description: An ancient [city](https://graphhub.net/game-of-thrones/concept/city?id=486) located in the eastern continent of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), [Old Valyria](https://graphhub.net/game-of-thrones/concept/old-valyria?id=95) was the ancestral home of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Targaryen. It was once a powerful and advanced civilization but was destroyed in a cataclysmic [event.](https://graphhub.net/game-of-thrones/concept/event?id=485)
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Oldtown](https://graphhub.net/game-of-thrones/concept/oldtown?id=77) (concept:77)
-   - Description: Located in the Reach of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), [Oldtown](https://graphhub.net/game-of-thrones/concept/oldtown?id=77) is the second-largest city in the Seven Kingdoms and is home to [the Citadel](https://graphhub.net/game-of-thrones/concept/the-citadel?id=159), where maesters are trained. It is known for its ancient architecture and rich history.
+   - Description: Located in the Reach of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), [Oldtown](https://graphhub.net/game-of-thrones/concept/oldtown?id=77) is the second-largest [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in the Seven Kingdoms and is home to [the Citadel](https://graphhub.net/game-of-thrones/concept/the-citadel?id=159), where maesters are trained. It is known for its ancient architecture and rich history.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Olenna Tyrell](https://graphhub.net/game-of-thrones/concept/olenna-tyrell?id=37) (concept:37)
-   - Description: [Olenna Tyrell](https://graphhub.net/game-of-thrones/concept/olenna-tyrell?id=37), also known as the Queen of Thorns, is a shrewd and witty character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the matriarch of [House Tyrell](https://graphhub.net/game-of-thrones/concept/house-tyrell?id=6) and a skilled player in the political landscape. Olenna's sharp tongue and strategic maneuvers make her a fan-favorite character.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Description: [Olenna Tyrell](https://graphhub.net/game-of-thrones/concept/olenna-tyrell?id=37), also known as the Queen of Thorns, is a shrewd and witty character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the matriarch of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tyrell and a skilled player in the political landscape. Olenna's sharp tongue and strategic maneuvers make her a fan-favorite character.
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Our Blades are Sharp](https://graphhub.net/game-of-thrones/concept/our-blades-are-sharp?id=323) (concept:323)
-   - Description: This is the motto of House Bolton, a noble house from the North.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Bolton, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the North.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Our is the fury](https://graphhub.net/game-of-thrones/concept/our-is-the-fury?id=366) (concept:366)
-   - Description: The official motto of [House Baratheon](https://graphhub.net/game-of-thrones/concept/house-baratheon?id=4), it signifies their fierce temperament and power.
+   - Description: The official motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Baratheon, it signifies their fierce temperament and power.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Ours is the fury](https://graphhub.net/game-of-thrones/concept/ours-is-the-fury?id=395) (concept:395)
-   - Description: The motto of [House Baratheon](https://graphhub.net/game-of-thrones/concept/house-baratheon?id=4), symbolizing their fierce temper and swift retribution.
+   - Description: The motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Baratheon, symbolizing their fierce temper and swift retribution.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Ours is the Fury](https://graphhub.net/game-of-thrones/concept/ours-is-the-fury?id=317) (concept:317)
-   - Description: This is the motto of [House Baratheon](https://graphhub.net/game-of-thrones/concept/house-baratheon?id=4), one of the Great [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1) of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Baratheon, one of the Great [House](https://graphhub.net/game-of-thrones/concept/house?id=483)s of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Pentos](https://graphhub.net/game-of-thrones/concept/pentos?id=75) (concept:75)
-   - Description: One of the Free [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3), [Pentos](https://graphhub.net/game-of-thrones/concept/pentos?id=75) is a wealthy city known for its trade and commerce. It is where [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) and her brother Viserys begin their journey at the start of the series.
+   - Description: One of the Free [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3), [Pentos](https://graphhub.net/game-of-thrones/concept/pentos?id=75) is a wealthy [city](https://graphhub.net/game-of-thrones/concept/city?id=486) known for its trade and commerce. It is where [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) and her brother Viserys begin their journey at the start of the series.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Pentos](https://graphhub.net/game-of-thrones/concept/pentos?id=435) (concept:435)
-   - Description: A Free City of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), located on the western coastline of the continent, known for its cheese, wines, and elephants.
+   - Description: A Free [City](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), located on the western coastline of the continent, known for its cheese, wines, and elephants.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Petyr Baelish](https://graphhub.net/game-of-thrones/concept/petyr-baelish?id=27) (concept:27)
    - Description: [Petyr Baelish](https://graphhub.net/game-of-thrones/concept/petyr-baelish?id=27), also known as Littlefinger, is a cunning and manipulative character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the [master of coin](https://graphhub.net/game-of-thrones/concept/master-of-coin?id=173) on [the Small Council](https://graphhub.net/game-of-thrones/concept/the-small-council?id=245) and holds significant influence over the [events](https://graphhub.net/game-of-thrones/list/events?id=5) in [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) Littlefinger's intricate schemes and political machinations make him a dangerous player in the [game of thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Planky Town](https://graphhub.net/game-of-thrones/concept/planky-town?id=447) (concept:447)
    - Description: The port at the mouth of the Greenblood River in [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), built largely on rafts and barges.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Podrick Payne](https://graphhub.net/game-of-thrones/concept/podrick-payne?id=55) (concept:55)
    - Description: [Podrick Payne](https://graphhub.net/game-of-thrones/concept/podrick-payne?id=55) is a loyal and humble character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He serves as a squire to various knights and becomes a trusted companion. Podrick's unwavering loyalty and kindness make him a beloved character in the series.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Port Yhos](https://graphhub.net/game-of-thrones/concept/port-yhos?id=424) (concept:424)
-   - Description: An eastern city of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), located to the southeast of [the Dothraki](https://graphhub.net/game-of-thrones/concept/the-dothraki?id=246) sea, on the coast of the Summer Sea.
+   - Description: An eastern [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), located to the southeast of [the Dothraki](https://graphhub.net/game-of-thrones/concept/the-dothraki?id=246) sea, on the coast of the Summer Sea.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Power resides where men believe it resides](https://graphhub.net/game-of-thrones/concept/power-resides-where-men-believe-it-resides?id=315) (concept:315)
    - Description: A quote from [Varys](https://graphhub.net/game-of-thrones/concept/varys?id=28), illustrating his view on the concept of power.
@@ -734,25 +764,25 @@ License: MIT
    - Description: A quote from Lord [Varys](https://graphhub.net/game-of-thrones/concept/varys?id=28) discussing the nature of power and perception.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Prince of Dragonstone](https://graphhub.net/game-of-thrones/concept/prince-of-dragonstone?id=189) (concept:189)
-   - Description: The title 'Prince of [Dragonstone](https://graphhub.net/game-of-thrones/concept/dragonstone?id=84)' is traditionally held by the heir to [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93) It represents the direct lineage of [House Targaryen](https://graphhub.net/game-of-thrones/concept/house-targaryen?id=5) and their connection to the [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) and Valyrian heritage.
+   - Description: The [title](https://graphhub.net/game-of-thrones/concept/title?id=484) 'Prince of [Dragonstone](https://graphhub.net/game-of-thrones/concept/dragonstone?id=84)' is traditionally held by the heir to [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93) It represents the direct lineage of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Targaryen and their connection to the [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) and Valyrian heritage.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Proud and Free](https://graphhub.net/game-of-thrones/concept/proud-and-free?id=340) (concept:340)
-   - Description: This is the motto of House Reed, a noble house from the North.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Reed, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the North.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Pyke](https://graphhub.net/game-of-thrones/concept/pyke?id=88) (concept:88)
-   - Description: The seat of [House Greyjoy](https://graphhub.net/game-of-thrones/concept/house-greyjoy?id=8), [Pyke](https://graphhub.net/game-of-thrones/concept/pyke?id=88) is a castle built on the Iron Islands. It is known for its rugged and windswept landscape, as well as its naval strength.
+   - Description: The seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Greyjoy, [Pyke](https://graphhub.net/game-of-thrones/concept/pyke?id=88) is a castle built on the Iron Islands. It is known for its rugged and windswept landscape, as well as its naval strength.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=71) (concept:71)
-   - Description: A wealthy and powerful city located in the eastern continent of [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481) [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=71) is known for its opulent architecture, its rich merchant princes, and its history as a center of trade and culture.
+   - Description: A wealthy and powerful [city](https://graphhub.net/game-of-thrones/concept/city?id=486) located in the eastern continent of [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481) [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=71) is known for its opulent architecture, its rich merchant princes, and its history as a center of trade and culture.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=426) (concept:426)
-   - Description: A wealthy port city in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), known as the 'Queen of [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)', located near the Jade Gates connecting the Summer Sea to the Jade Sea.
+   - Description: A wealthy port [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), known as the 'Queen of [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)', located near the Jade Gates connecting the Summer Sea to the Jade Sea.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Qohor](https://graphhub.net/game-of-thrones/concept/qohor?id=74) (concept:74)
-   - Description: A city located in the region of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), [Qohor](https://graphhub.net/game-of-thrones/concept/qohor?id=74) is famous for its skilled blacksmiths who are renowned for their ability to reforge Valyrian steel. It is known for its distinctive black walls.
+   - Description: A [city](https://graphhub.net/game-of-thrones/concept/city?id=486) located in the region of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), [Qohor](https://graphhub.net/game-of-thrones/concept/qohor?id=74) is famous for its skilled blacksmiths who are renowned for their ability to reforge Valyrian steel. It is known for its distinctive black walls.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Queen Regent](https://graphhub.net/game-of-thrones/concept/queen-regent?id=187) (concept:187)
-   - Description: The title '[Queen Regent](https://graphhub.net/game-of-thrones/concept/queen-regent?id=187)' is given to a queen who rules in the absence, minority, or incapacity of the reigning monarch. As the regent, they exercise royal authority on behalf of the rightful ruler.
+   - Description: The [title](https://graphhub.net/game-of-thrones/concept/title?id=484) '[Queen Regent](https://graphhub.net/game-of-thrones/concept/queen-regent?id=187)' is given to a queen who rules in the absence, minority, or incapacity of the reigning monarch. As the regent, they exercise royal authority on behalf of the rightful ruler.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Quicksilver](https://graphhub.net/game-of-thrones/concept/quicksilver?id=206) (concept:206)
    - Description: [Quicksilver](https://graphhub.net/game-of-thrones/concept/quicksilver?id=206) was a dragon ridden by Queen Rhaenyra Targaryen during the Targaryen civil war known as [the Dance of the Dragons.](https://graphhub.net/game-of-thrones/concept/the-dance-of-the-dragons?id=296) [Quicksilver](https://graphhub.net/game-of-thrones/concept/quicksilver?id=206) was named for his incredible speed.
@@ -761,29 +791,29 @@ License: MIT
    - Description: R'hllor, also known as the Lord of Light, is a religion prominent in [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481) It believes in the struggle between light and darkness, with the Red Priests and Priestesses acting as intermediaries.
    - Member of Lists: [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4)
 1. [Ramsay Bolton](https://graphhub.net/game-of-thrones/concept/ramsay-bolton?id=44) (concept:44)
-   - Description: [Ramsay Bolton](https://graphhub.net/game-of-thrones/concept/ramsay-bolton?id=44) is a sadistic and ruthless character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the legitimized son of [Roose Bolton](https://graphhub.net/game-of-thrones/concept/roose-bolton?id=59) and becomes the [Lord of Winterfell.](https://graphhub.net/game-of-thrones/concept/lord-of-winterfell?id=170) Ramsay's penchant for torture and cruelty make him one of the most despised [characters](https://graphhub.net/game-of-thrones/list/characters?id=2) in the series.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Description: [Ramsay Bolton](https://graphhub.net/game-of-thrones/concept/ramsay-bolton?id=44) is a sadistic and ruthless character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the legitimized son of [Roose Bolton](https://graphhub.net/game-of-thrones/concept/roose-bolton?id=59) and becomes the [Lord of Winterfell.](https://graphhub.net/game-of-thrones/concept/lord-of-winterfell?id=170) Ramsay's penchant for torture and cruelty make him one of the most despised characters in the series.
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Red Lake](https://graphhub.net/game-of-thrones/concept/red-lake?id=466) (concept:466)
-   - Description: A castle in the Reach, the ancestral seat of House Crane. It's named after the lake nearby, said to be colored by the blood of a dragon.
+   - Description: A castle in the Reach, the ancestral seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Crane. It's named after the lake nearby, said to be colored by the blood of a dragon.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Renly Baratheon](https://graphhub.net/game-of-thrones/concept/renly-baratheon?id=25) (concept:25)
-   - Description: [Renly Baratheon](https://graphhub.net/game-of-thrones/concept/renly-baratheon?id=25) is a charismatic and ambitious character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the youngest brother of Robert Baratheon and [Stannis Baratheon.](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24) Renly declares himself king and seeks to rule the Seven Kingdoms. His alliance with [House Tyrell](https://graphhub.net/game-of-thrones/concept/house-tyrell?id=6) and his pursuit of power lead to his untimely demise.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Description: [Renly Baratheon](https://graphhub.net/game-of-thrones/concept/renly-baratheon?id=25) is a charismatic and ambitious character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the youngest brother of Robert Baratheon and [Stannis Baratheon.](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24) Renly declares himself king and seeks to rule the Seven Kingdoms. His alliance with [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tyrell and his pursuit of power lead to his untimely demise.
+   - Member of Lists: [Individuals of House Baratheon](https://graphhub.net/game-of-thrones/list/individuals-of-house-baratheon?id=20000000-7151-4adc-9ced-785d3e662aec)
 1. [Rhaegal](https://graphhub.net/game-of-thrones/concept/rhaegal?id=194) (concept:194)
    - Description: [Rhaegal](https://graphhub.net/game-of-thrones/concept/rhaegal?id=194) is one of the three [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) born to [Daenerys Targaryen.](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) He is named after Daenerys' deceased brother Rhaegar. [Rhaegal](https://graphhub.net/game-of-thrones/concept/rhaegal?id=194) is initially under Daenerys' control and accompanies her on her conquests.
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Rhaegar Targaryen](https://graphhub.net/game-of-thrones/concept/rhaegar-targaryen?id=60) (concept:60)
    - Description: [Rhaegar Targaryen](https://graphhub.net/game-of-thrones/concept/rhaegar-targaryen?id=60) is a legendary and enigmatic character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the eldest son of the Mad King Aerys II Targaryen and is known for his beauty, charisma, and skill in combat. Rhaegar's actions and choices have profound implications for the [events](https://graphhub.net/game-of-thrones/list/events?id=5) of the series.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Right Conquers Might](https://graphhub.net/game-of-thrones/concept/right-conquers-might?id=327) (concept:327)
-   - Description: This is the motto of House Rykker, a noble house from the Crownlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Rykker, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Crownlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Riverrun](https://graphhub.net/game-of-thrones/concept/riverrun?id=87) (concept:87)
-   - Description: The ancestral seat of [House Tully](https://graphhub.net/game-of-thrones/concept/house-tully?id=9), [Riverrun](https://graphhub.net/game-of-thrones/concept/riverrun?id=87) is a castle located in the Riverlands. It is strategically positioned at the convergence of several major rivers and has a long history of military significance.
+   - Description: The ancestral seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tully, [Riverrun](https://graphhub.net/game-of-thrones/concept/riverrun?id=87) is a castle located in the Riverlands. It is strategically positioned at the convergence of several major rivers and has a long history of military significance.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20) (concept:20)
    - Description: [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20) is a charismatic and honorable character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the eldest son of Eddard Stark and [Catelyn Stark.](https://graphhub.net/game-of-thrones/concept/catelyn-stark?id=19) Robb becomes the [King in the North](https://graphhub.net/game-of-thrones/concept/king-in-the-north?id=165) and leads his army in a war against the Lannisters, aiming to avenge his father's death and secure independence for the North.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Stark](https://graphhub.net/game-of-thrones/list/individuals-of-house-stark?id=20000000-f14d-466f-8b9f-fda9d8bdd5d6)
 1. [Robert's Rebellion](https://graphhub.net/game-of-thrones/concept/roberts-rebellion?id=112) (concept:112)
    - Description: The civil war that overthrew the Targaryen dynasty, led by Robert Baratheon, Eddard Stark, and Jon Arryn, among others, resulting in the ascension of Robert Baratheon as king.
    - Member of Lists: [Events](https://graphhub.net/game-of-thrones/list/events?id=5), [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
@@ -791,39 +821,39 @@ License: MIT
    - Description: Also known as the War of the Usurper, this war led to the end of the Targaryen dynasty and the start of Robert Baratheon's reign.
 1. [Roose Bolton](https://graphhub.net/game-of-thrones/concept/roose-bolton?id=59) (concept:59)
    - Description: [Roose Bolton](https://graphhub.net/game-of-thrones/concept/roose-bolton?id=59) is a cunning and ruthless character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the Lord of the [Dreadfort](https://graphhub.net/game-of-thrones/concept/dreadfort?id=94) and becomes a key player in the War of the Five Kings. Roose's actions and alliances have far-reaching consequences for the North and the realm.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Rouse Me Not](https://graphhub.net/game-of-thrones/concept/rouse-me-not?id=336) (concept:336)
-   - Description: This is the motto of House Grandison, a noble house from the Stormlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Grandison, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Stormlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Saath](https://graphhub.net/game-of-thrones/concept/saath?id=431) (concept:431)
-   - Description: A city in the Kingdom of Sarnor, located in northern [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), known for its tall, slender towers.
+   - Description: A [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in the Kingdom of Sarnor, located in northern [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), known for its tall, slender towers.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Saltpans](https://graphhub.net/game-of-thrones/concept/saltpans?id=443) (concept:443)
    - Description: A town in the Riverlands, named for its chief industry of boiling seawater to produce salt.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Samwell Tarly](https://graphhub.net/game-of-thrones/concept/samwell-tarly?id=31) (concept:31)
    - Description: [Samwell Tarly](https://graphhub.net/game-of-thrones/concept/samwell-tarly?id=31), often referred to as Sam, is a kind-hearted and intellectual character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a member of [the Night's Watch](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143) and becomes a close friend and advisor to [Jon Snow.](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) Sam's knowledge and bravery contribute to the fight against the White Walkers.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Samyriana](https://graphhub.net/game-of-thrones/concept/samyriana?id=433) (concept:433)
-   - Description: An ancient city in the Kingdom of Sarnor, famous for its high towers and soaring arches.
+   - Description: An ancient [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in the Kingdom of Sarnor, famous for its high towers and soaring arches.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Sandor Clegane](https://graphhub.net/game-of-thrones/concept/sandor-clegane?id=33) (concept:33)
    - Description: [Sandor Clegane](https://graphhub.net/game-of-thrones/concept/sandor-clegane?id=33), also known as the Hound, is a complex and tormented character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a skilled warrior with a fierce reputation. Sandor's journey involves confronting his traumatic past and finding a sense of purpose and redemption.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Sandstone](https://graphhub.net/game-of-thrones/concept/sandstone?id=477) (concept:477)
-   - Description: A castle in [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), the seat of House Qorgyle. It's located in the deep desert region.
+   - Description: A castle in [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), the seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Qorgyle. It's located in the deep desert region.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Sansa Stark](https://graphhub.net/game-of-thrones/concept/sansa-stark?id=17) (concept:17)
    - Description: [Sansa Stark](https://graphhub.net/game-of-thrones/concept/sansa-stark?id=17) is a resilient and strategic character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the eldest daughter of Eddard Stark and [Catelyn Stark.](https://graphhub.net/game-of-thrones/concept/catelyn-stark?id=19) Sansa's character arc involves navigating treacherous political waters and surviving in a world filled with manipulation and cruelty.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Stark](https://graphhub.net/game-of-thrones/list/individuals-of-house-stark?id=20000000-f14d-466f-8b9f-fda9d8bdd5d6)
 1. [Sarnath](https://graphhub.net/game-of-thrones/concept/sarnath?id=436) (concept:436)
-   - Description: A city in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), once the capital of the Kingdom of Sarnor. Known as the 'City of a Thousand Nights'.
+   - Description: A [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), once the capital of the Kingdom of Sarnor. Known as the '[City](https://graphhub.net/game-of-thrones/concept/city?id=486) of a Thousand Nights'.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Sarys](https://graphhub.net/game-of-thrones/concept/sarys?id=434) (concept:434)
-   - Description: The last city of the Sarnori people, located on the eastern banks of the Sarne, the great mother river of Sarnor.
+   - Description: The last [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of the Sarnori people, located on the eastern banks of the Sarne, the great mother river of Sarnor.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Sathar](https://graphhub.net/game-of-thrones/concept/sathar?id=432) (concept:432)
-   - Description: Another city in the Kingdom of Sarnor, home to the Sarnori people before their civilization was destroyed by [the Dothraki.](https://graphhub.net/game-of-thrones/concept/the-dothraki?id=246)
+   - Description: Another [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in the Kingdom of Sarnor, home to the Sarnori people before their civilization was destroyed by [the Dothraki.](https://graphhub.net/game-of-thrones/concept/the-dothraki?id=246)
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Sea Dragon Point](https://graphhub.net/game-of-thrones/concept/sea-dragon-point?id=460) (concept:460)
    - Description: A peninsula in the North of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It's a wild and scarcely populated region, named after legends of sea [dragons.](https://graphhub.net/game-of-thrones/list/dragons?id=8)
@@ -832,31 +862,31 @@ License: MIT
    - Description: [Seasmoke](https://graphhub.net/game-of-thrones/concept/seasmoke?id=208) was a dragon ridden by Prince Jacaerys Velaryon during the Targaryen civil war known as [the Dance of the Dragons.](https://graphhub.net/game-of-thrones/concept/the-dance-of-the-dragons?id=296) He was known for his shimmering blue-green scales.
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Set Down Our Deeds](https://graphhub.net/game-of-thrones/concept/set-down-our-deeds?id=342) (concept:342)
-   - Description: This is the motto of House [Ashford](https://graphhub.net/game-of-thrones/concept/ashford?id=448), a noble house from the Reach.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) [Ashford](https://graphhub.net/game-of-thrones/concept/ashford?id=448), a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Reach.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Sharp Point](https://graphhub.net/game-of-thrones/concept/sharp-point?id=465) (concept:465)
-   - Description: A peninsula in the Crownlands, ruled by House Bar Emmon. The castle overlooks the Blackwater Bay.
+   - Description: A peninsula in the Crownlands, ruled by [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Bar Emmon. The castle overlooks the Blackwater Bay.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Sheepstealer](https://graphhub.net/game-of-thrones/concept/sheepstealer?id=204) (concept:204)
    - Description: [Sheepstealer](https://graphhub.net/game-of-thrones/concept/sheepstealer?id=204) was a wild dragon that lived in the Mountains of the Moon. He was eventually claimed by Nettles, a dragonseed, and they formed a strong bond.
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Shireen Baratheon](https://graphhub.net/game-of-thrones/concept/shireen-baratheon?id=57) (concept:57)
    - Description: [Shireen Baratheon](https://graphhub.net/game-of-thrones/concept/shireen-baratheon?id=57) is a kind-hearted and intelligent character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the daughter of [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24) and is afflicted with greyscale. Shireen's story explores themes of love, sacrifice, and the consequences of ambition.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Baratheon](https://graphhub.net/game-of-thrones/list/individuals-of-house-baratheon?id=20000000-7151-4adc-9ced-785d3e662aec)
 1. [Silverwing](https://graphhub.net/game-of-thrones/concept/silverwing?id=209) (concept:209)
    - Description: [Silverwing](https://graphhub.net/game-of-thrones/concept/silverwing?id=209) was a dragon ridden by Queen Alysanne Targaryen, wife of King Jaehaerys I, during their reign. She was known for her silver scales and gentle nature.
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Skyreach](https://graphhub.net/game-of-thrones/concept/skyreach?id=478) (concept:478)
-   - Description: A castle in [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), the seat of House Fowler. It's located in the Prince's Pass.
+   - Description: A castle in [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), the seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Fowler. It's located in the Prince's Pass.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24) (concept:24)
    - Description: [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24), also known as the Mannis, is a determined and rigid character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the younger brother of Robert Baratheon and the older brother of [Renly Baratheon.](https://graphhub.net/game-of-thrones/concept/renly-baratheon?id=25) Stannis believes himself to be the rightful king of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and wages a relentless campaign to claim [the Iron Throne.](https://graphhub.net/game-of-thrones/concept/the-iron-throne?id=93)
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Baratheon](https://graphhub.net/game-of-thrones/list/individuals-of-house-baratheon?id=20000000-7151-4adc-9ced-785d3e662aec)
 1. [Starfall](https://graphhub.net/game-of-thrones/concept/starfall?id=453) (concept:453)
-   - Description: The ancestral seat of House Dayne, located on an island at the mouth of the Torrentine river in [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
+   - Description: The ancestral seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Dayne, located on an island at the mouth of the Torrentine river in [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Storm's End](https://graphhub.net/game-of-thrones/concept/storms-end?id=91) (concept:91)
-   - Description: The ancestral seat of [House Baratheon](https://graphhub.net/game-of-thrones/concept/house-baratheon?id=4), [Storm's End](https://graphhub.net/game-of-thrones/concept/storms-end?id=91) is a formidable castle located in the Stormlands. It is known for its strong defenses and its association with the Baratheon dynasty.
+   - Description: The ancestral seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Baratheon, [Storm's End](https://graphhub.net/game-of-thrones/concept/storms-end?id=91) is a formidable castle located in the Stormlands. It is known for its strong defenses and its association with the Baratheon dynasty.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Stormcloud](https://graphhub.net/game-of-thrones/concept/stormcloud?id=207) (concept:207)
    - Description: [Stormcloud](https://graphhub.net/game-of-thrones/concept/stormcloud?id=207) was a dragon ridden by Queen Rhaenyra Targaryen during the Targaryen civil war known as [the Dance of the Dragons.](https://graphhub.net/game-of-thrones/concept/the-dance-of-the-dragons?id=296) He was known for his dark gray scales and fierce temperament.
@@ -868,34 +898,34 @@ License: MIT
    - Description: [Sunfyre](https://graphhub.net/game-of-thrones/concept/sunfyre?id=199) was a dragon ridden by King Aegon II Targaryen during [the Dance of the Dragons.](https://graphhub.net/game-of-thrones/concept/the-dance-of-the-dragons?id=296) He was known for his golden scales and was one of the most beautiful [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) of his time.
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Sunspear](https://graphhub.net/game-of-thrones/concept/sunspear?id=417) (concept:417)
-   - Description: The capital of [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), [Sunspear](https://graphhub.net/game-of-thrones/concept/sunspear?id=417) is a city of sand, sea, and sun, ruled by [House Martell.](https://graphhub.net/game-of-thrones/concept/house-martell?id=7)
+   - Description: The capital of [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), [Sunspear](https://graphhub.net/game-of-thrones/concept/sunspear?id=417) is a [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of sand, sea, and sun, ruled by [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Martell.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Syrax](https://graphhub.net/game-of-thrones/concept/syrax?id=211) (concept:211)
    - Description: [Syrax](https://graphhub.net/game-of-thrones/concept/syrax?id=211) was a dragon ridden by Princess Rhaenyra Targaryen during the Targaryen civil war known as [the Dance of the Dragons.](https://graphhub.net/game-of-thrones/concept/the-dance-of-the-dragons?id=296) [Syrax](https://graphhub.net/game-of-thrones/concept/syrax?id=211) was known for her cream and gold scales.
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [Talisa Stark](https://graphhub.net/game-of-thrones/concept/talisa-stark?id=56) (concept:56)
    - Description: [Talisa Stark](https://graphhub.net/game-of-thrones/concept/talisa-stark?id=56), originally from [Volantis](https://graphhub.net/game-of-thrones/concept/volantis?id=72), is a compassionate and independent character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She becomes the wife of [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20) and plays a significant role in his campaign. Talisa's tragic fate and her dedication to helping others define her character.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Ten Towers](https://graphhub.net/game-of-thrones/concept/ten-towers?id=454) (concept:454)
-   - Description: The seat of House Harlaw in the Iron Islands, a castle consisting of numerous keeps and towers.
+   - Description: The seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Harlaw in the Iron Islands, a castle consisting of numerous keeps and towers.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Tessarion](https://graphhub.net/game-of-thrones/concept/tessarion?id=212) (concept:212)
    - Description: [Tessarion](https://graphhub.net/game-of-thrones/concept/tessarion?id=212) was a dragon ridden by Prince Daemon Targaryen during the Targaryen civil war known as [the Dance of the Dragons.](https://graphhub.net/game-of-thrones/concept/the-dance-of-the-dragons?id=296) [Tessarion](https://graphhub.net/game-of-thrones/concept/tessarion?id=212) was known for her silver and gold scales and her loyalty to Prince Daemon.
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
 1. [The Arbor](https://graphhub.net/game-of-thrones/concept/the-arbor?id=442) (concept:442)
-   - Description: An island off the southwest coast of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), famous for its vineyards and wines. The seat of House Redwyne.
+   - Description: An island off the southwest coast of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), famous for its vineyards and wines. The seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Redwyne.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [The Assassination at the Red Wedding](https://graphhub.net/game-of-thrones/concept/the-assassination-at-the-red-wedding?id=295) (concept:295)
-   - Description: This event wasn't a traditional battle but marked a significant turning point in the War of the Five Kings, with [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2)'s power significantly weakened.
+   - Description: This [event](https://graphhub.net/game-of-thrones/concept/event?id=485) wasn't a traditional battle but marked a significant turning point in the War of the Five Kings, with [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark's power significantly weakened.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle Above the Gods Eye](https://graphhub.net/game-of-thrones/concept/the-battle-above-the-gods-eye?id=303) (concept:303)
    - Description: A climactic battle in [the Dance of the Dragons](https://graphhub.net/game-of-thrones/concept/the-dance-of-the-dragons?id=296) where two dragonriders fought each other in a duel that ended with both their deaths.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of Ashford](https://graphhub.net/game-of-thrones/concept/the-battle-of-ashford?id=304) (concept:304)
-   - Description: In [Robert's Rebellion](https://graphhub.net/game-of-thrones/concept/roberts-rebellion?id=112), the forces of Robert Baratheon suffered their only defeat by the army of [House Tyrell.](https://graphhub.net/game-of-thrones/concept/house-tyrell?id=6)
+   - Description: In [Robert's Rebellion](https://graphhub.net/game-of-thrones/concept/roberts-rebellion?id=112), the forces of Robert Baratheon suffered their only defeat by the army of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tyrell.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of Blackwater Bay](https://graphhub.net/game-of-thrones/concept/the-battle-of-blackwater-bay?id=117) (concept:117)
-   - Description: The naval battle between [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24)'s fleet and the forces defending [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) during the War of the Five Kings, resulting in Stannis' defeat and the survival of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3)'s rule.
+   - Description: The naval battle between [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24)'s fleet and the forces defending [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) during the War of the Five Kings, resulting in Stannis' defeat and the survival of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister's rule.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of Casterly Rock](https://graphhub.net/game-of-thrones/concept/the-battle-of-casterly-rock?id=128) (concept:128)
    - Description: The battle between [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s Unsullied army and the Lannister forces at [Casterly Rock](https://graphhub.net/game-of-thrones/concept/casterly-rock?id=82), resulting in the capture of the castle but ultimately proving to be a strategic setback.
@@ -907,10 +937,10 @@ License: MIT
    - Description: The battle between [the Night's Watch](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143) and the wildlings at Castle Black, led by Mance Rayder, resulting in the defeat of the wildlings and the death of Mance Rayder.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of Deepwood Motte](https://graphhub.net/game-of-thrones/concept/the-battle-of-deepwood-motte?id=289) (concept:289)
-   - Description: This battle saw House Glover retake their home from the Ironborn, with help from [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24)'s forces.
+   - Description: This battle saw [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Glover retake their home from the Ironborn, with help from [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24)'s forces.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of Green Fork](https://graphhub.net/game-of-thrones/concept/the-battle-of-green-fork?id=292) (concept:292)
-   - Description: Fought between [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2) and [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3), this battle was a tactical victory for the Lannisters, though it allowed [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20) to gain a strategic advantage.
+   - Description: Fought between [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark and [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister, this battle was a tactical victory for the Lannisters, though it allowed [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20) to gain a strategic advantage.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of Hardhome](https://graphhub.net/game-of-thrones/concept/the-battle-of-hardhome?id=126) (concept:126)
    - Description: The battle between [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) and the Night King's army of wights and White Walkers, resulting in the rescue of some wildlings but also highlighting the threat of the Night King's forces.
@@ -922,25 +952,25 @@ License: MIT
    - Description: The deciding battle of the Blackfyre Rebellion. The loyalist forces, led by Baelor Breakspear, defeated the Blackfyre rebels.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of the Bastards](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-bastards?id=116) (concept:116)
-   - Description: The battle between [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) and [Ramsay Bolton](https://graphhub.net/game-of-thrones/concept/ramsay-bolton?id=44) for control of [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67), resulting in the defeat of Ramsay and the restoration of [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2)'s rule in the North.
+   - Description: The battle between [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) and [Ramsay Bolton](https://graphhub.net/game-of-thrones/concept/ramsay-bolton?id=44) for control of [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67), resulting in the defeat of Ramsay and the restoration of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark's rule in the North.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of the Bastards](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-bastards?id=139) (concept:139)
-   - Description: The battle between [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) and [Ramsay Bolton](https://graphhub.net/game-of-thrones/concept/ramsay-bolton?id=44) for control of [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67), resulting in the defeat of Ramsay and the restoration of [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2)'s rule in the North.
+   - Description: The battle between [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) and [Ramsay Bolton](https://graphhub.net/game-of-thrones/concept/ramsay-bolton?id=44) for control of [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67), resulting in the defeat of Ramsay and the restoration of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark's rule in the North.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of the Bells](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-bells?id=299) (concept:299)
    - Description: A major battle in [Robert's Rebellion](https://graphhub.net/game-of-thrones/concept/roberts-rebellion?id=112), where Robert Baratheon's forces clashed with those of the Mad King in the town of Stoney Sept.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of the Blackfish](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-blackfish?id=133) (concept:133)
-   - Description: The conflict between Brynden Tully, also known as the Blackfish, and the forces of House Frey and [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3), resulting in the Blackfish's death and the recapture of [Riverrun](https://graphhub.net/game-of-thrones/concept/riverrun?id=87) by [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3).
+   - Description: The conflict between Brynden Tully, also known as the Blackfish, and the forces of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Frey and [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister, resulting in the Blackfish's death and the recapture of [Riverrun](https://graphhub.net/game-of-thrones/concept/riverrun?id=87) by [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of the Blackwater](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-blackwater?id=114) (concept:114)
-   - Description: The decisive battle during the War of the Five Kings, where [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24)'s attempt to capture [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) was thwarted by the combined forces of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) and [House Tyrell.](https://graphhub.net/game-of-thrones/concept/house-tyrell?id=6)
+   - Description: The decisive battle during the War of the Five Kings, where [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24)'s attempt to capture [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) was thwarted by the combined forces of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister and [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tyrell.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of the Blackwater](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-blackwater?id=140) (concept:140)
-   - Description: The decisive battle during the War of the Five Kings, where [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24)'s attempt to capture [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) was thwarted by the combined forces of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) and [House Tyrell.](https://graphhub.net/game-of-thrones/concept/house-tyrell?id=6)
+   - Description: The decisive battle during the War of the Five Kings, where [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24)'s attempt to capture [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66) was thwarted by the combined forces of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister and [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tyrell.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of the Camps](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-camps?id=288) (concept:288)
-   - Description: [The Battle of the Camps](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-camps?id=288) was a surprise attack led by [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20)'s forces against the Lannister army, which resulted in a strategic victory for [House Stark.](https://graphhub.net/game-of-thrones/concept/house-stark?id=2)
+   - Description: [The Battle of the Camps](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-camps?id=288) was a surprise attack led by [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20)'s forces against the Lannister army, which resulted in a strategic victory for [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of the Fist of the First Men](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-fist-of-the-first-men?id=136) (concept:136)
    - Description: The battle between [the Night's Watch](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143) and the White Walkers' army of wights at the Fist of the First Men, resulting in heavy casualties for [the Night's Watch](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143).
@@ -964,16 +994,16 @@ License: MIT
    - Description: The battle between the forces of Robert Baratheon and [Rhaegar Targaryen](https://graphhub.net/game-of-thrones/concept/rhaegar-targaryen?id=60) during [Robert's Rebellion](https://graphhub.net/game-of-thrones/concept/roberts-rebellion?id=112), where Rhaegar was killed, leading to the eventual downfall of the Targaryen dynasty.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of the Whispering Wood](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-whispering-wood?id=123) (concept:123)
-   - Description: The battle between [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20)'s forces and [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16)'s forces during the War of the Five Kings, resulting in Robb's capture of Jaime and a major victory for [House Stark.](https://graphhub.net/game-of-thrones/concept/house-stark?id=2)
+   - Description: The battle between [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20)'s forces and [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16)'s forces during the War of the Five Kings, resulting in Robb's capture of Jaime and a major victory for [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of the Whispering Wood](https://graphhub.net/game-of-thrones/concept/the-battle-of-the-whispering-wood?id=138) (concept:138)
-   - Description: The battle between [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20)'s forces and [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16)'s forces during the War of the Five Kings, resulting in Robb's capture of Jaime and a major victory for [House Stark.](https://graphhub.net/game-of-thrones/concept/house-stark?id=2)
+   - Description: The battle between [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20)'s forces and [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16)'s forces during the War of the Five Kings, resulting in Robb's capture of Jaime and a major victory for [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Battle of Winterfell](https://graphhub.net/game-of-thrones/concept/the-battle-of-winterfell?id=118) (concept:118)
    - Description: The battle between the living and the Night King's army of the dead at [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67), marking the climax of the Great War and resulting in the defeat of the Night King and the White Walkers.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Bearded Priests of Norvos](https://graphhub.net/game-of-thrones/concept/the-bearded-priests-of-norvos?id=273) (concept:273)
-   - Description: A sect in [Norvos](https://graphhub.net/game-of-thrones/concept/norvos?id=419) that has very strict laws and customs, with each follower's life being regulated by the ringing of their city's bells.
+   - Description: A sect in [Norvos](https://graphhub.net/game-of-thrones/concept/norvos?id=419) that has very strict laws and customs, with each follower's life being regulated by the ringing of their [city](https://graphhub.net/game-of-thrones/concept/city?id=486)'s bells.
    - Member of Lists: [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4)
 1. [The Birth of Dragons](https://graphhub.net/game-of-thrones/concept/the-birth-of-dragons?id=120) (concept:120)
    - Description: [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s hatching of three dragon eggs in the funeral pyre of [Khal](https://graphhub.net/game-of-thrones/concept/khal?id=191) Drogo, resulting in the birth of her [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) and the resurgence of [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) in the world.
@@ -982,13 +1012,13 @@ License: MIT
    - Description: A hill tribe from the Vale of Arryn, known for cutting off the ears of their enemies.
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Black Goat of Qohor](https://graphhub.net/game-of-thrones/concept/the-black-goat-of-qohor?id=105) (concept:105)
-   - Description: The Black Goat of [Qohor](https://graphhub.net/game-of-thrones/concept/qohor?id=74) is the central deity of the city of [Qohor](https://graphhub.net/game-of-thrones/concept/qohor?id=74) in [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481) It is associated with blood sacrifices and is worshipped by the city's inhabitants.
+   - Description: The Black Goat of [Qohor](https://graphhub.net/game-of-thrones/concept/qohor?id=74) is the central deity of the [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Qohor](https://graphhub.net/game-of-thrones/concept/qohor?id=74) in [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481) It is associated with blood sacrifices and is worshipped by the [city](https://graphhub.net/game-of-thrones/concept/city?id=486)'s inhabitants.
    - Member of Lists: [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4)
 1. [The Brave Companions](https://graphhub.net/game-of-thrones/concept/the-brave-companions?id=251) (concept:251)
    - Description: Also known as the 'Bloody Mummers', they are a sellsword company of brutal and diverse fighters.
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Brotherhood of Winged Knights](https://graphhub.net/game-of-thrones/concept/the-brotherhood-of-winged-knights?id=267) (concept:267)
-   - Description: An elite group of knights serving [House Arryn](https://graphhub.net/game-of-thrones/concept/house-arryn?id=10) in the Vale.
+   - Description: An elite group of knights serving [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Arryn in the Vale.
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Brotherhood Without Banners](https://graphhub.net/game-of-thrones/concept/the-brotherhood-without-banners?id=148) (concept:148)
    - Description: [The Brotherhood Without Banners](https://graphhub.net/game-of-thrones/concept/the-brotherhood-without-banners?id=148) is an outlaw group that operates in the Riverlands. They are led by [Beric Dondarrion](https://graphhub.net/game-of-thrones/concept/beric-dondarrion?id=42) and fight against injustice and tyranny. They are known for their Robin Hood-like activities and their allegiance to the Lord of Light.
@@ -1003,7 +1033,7 @@ License: MIT
    - Description: [The Children of the Forest](https://graphhub.net/game-of-thrones/concept/the-children-of-the-forest?id=155) are a mystical race that inhabited [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) long before the arrival of humans. They are skilled in magic and have a deep connection with nature. They play a crucial role in the history and mythology of the series.
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Choice is Yours](https://graphhub.net/game-of-thrones/concept/the-choice-is-yours?id=344) (concept:344)
-   - Description: This is the motto of House [Yronwood](https://graphhub.net/game-of-thrones/concept/yronwood?id=476), a noble house from [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) [Yronwood](https://graphhub.net/game-of-thrones/concept/yronwood?id=476), a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [The Citadel](https://graphhub.net/game-of-thrones/concept/the-citadel?id=159) (concept:159)
    - Description: [The Citadel](https://graphhub.net/game-of-thrones/concept/the-citadel?id=159) is the center of learning and knowledge in [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480) It is located in [Oldtown](https://graphhub.net/game-of-thrones/concept/oldtown?id=77) and [houses](https://graphhub.net/game-of-thrones/list/houses?id=1) [the Maesters.](https://graphhub.net/game-of-thrones/concept/the-maesters?id=150) It is a place where scholars study and train to become Maesters, and it holds a vast library with a wide range of knowledge.
@@ -1020,7 +1050,7 @@ License: MIT
    - Description: A nomadic horse-riding culture from the continent of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), known for their exceptional skills in battle.
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Dreadfort](https://graphhub.net/game-of-thrones/concept/the-dreadfort?id=438) (concept:438)
-   - Description: Stronghold of House Bolton, located along the Weeping Water. It is a grim and austere fortification, similar to a small city.
+   - Description: Stronghold of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Bolton, located along the Weeping Water. It is a grim and austere fortification, similar to a small [city.](https://graphhub.net/game-of-thrones/concept/city?id=486)
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [The Drowned God](https://graphhub.net/game-of-thrones/concept/the-drowned-god?id=101) (concept:101)
    - Description: [The Drowned God](https://graphhub.net/game-of-thrones/concept/the-drowned-god?id=101) is the deity worshipped by the ironborn, the seafaring people of the Iron Islands. It is associated with the sea, drowning, and the rebirth of the drowned.
@@ -1035,7 +1065,7 @@ License: MIT
    - Description: [The execution of Viserys Targaryen](https://graphhub.net/game-of-thrones/concept/the-execution-of-viserys-targaryen?id=137), brother of [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11), by having molten gold poured over his head by [Khal](https://graphhub.net/game-of-thrones/concept/khal?id=191) Drogo, solidifying Daenerys' position as the last Targaryen heir.
    - Member of Lists: [Events](https://graphhub.net/game-of-thrones/list/events?id=5)
 1. [The Faceless Men](https://graphhub.net/game-of-thrones/concept/the-faceless-men?id=144) (concept:144)
-   - Description: [The Faceless Men](https://graphhub.net/game-of-thrones/concept/the-faceless-men?id=144) are a secretive organization of assassins from the city of [Braavos.](https://graphhub.net/game-of-thrones/concept/braavos?id=68) They worship [the Many-Faced God](https://graphhub.net/game-of-thrones/concept/the-many-faced-god?id=103) and have the ability to change their appearance at will. They offer their services to those who can afford their high price.
+   - Description: [The Faceless Men](https://graphhub.net/game-of-thrones/concept/the-faceless-men?id=144) are a secretive organization of assassins from the [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Braavos.](https://graphhub.net/game-of-thrones/concept/braavos?id=68) They worship [the Many-Faced God](https://graphhub.net/game-of-thrones/concept/the-many-faced-god?id=103) and have the ability to change their appearance at will. They offer their services to those who can afford their high price.
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Faith Militant](https://graphhub.net/game-of-thrones/concept/the-faith-militant?id=242) (concept:242)
    - Description: A military order serving [the Faith of the Seven](https://graphhub.net/game-of-thrones/concept/the-faith-of-the-seven?id=99), who carry out the will of the High Septon.
@@ -1044,10 +1074,10 @@ License: MIT
    - Description: [The Faith of the Seven](https://graphhub.net/game-of-thrones/concept/the-faith-of-the-seven?id=99) is the predominant religion in the Seven Kingdoms. It worships a single deity represented by seven aspects, each corresponding to a different facet of life.
    - Member of Lists: [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4)
 1. [The Fall of House Tyrell](https://graphhub.net/game-of-thrones/concept/the-fall-of-house-tyrell?id=132) (concept:132)
-   - Description: The event where [House Tyrell](https://graphhub.net/game-of-thrones/concept/house-tyrell?id=6), one of the most powerful [houses](https://graphhub.net/game-of-thrones/list/houses?id=1) in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), fell from power due to the actions of [Cersei Lannister](https://graphhub.net/game-of-thrones/concept/cersei-lannister?id=15) and the destruction of the Great Sept of Baelor.
+   - Description: The [event](https://graphhub.net/game-of-thrones/concept/event?id=485) where [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tyrell, one of the most powerful [houses](https://graphhub.net/game-of-thrones/list/houses?id=1) in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), fell from power due to the actions of [Cersei Lannister](https://graphhub.net/game-of-thrones/concept/cersei-lannister?id=15) and the destruction of the Great Sept of Baelor.
    - Member of Lists: [Events](https://graphhub.net/game-of-thrones/list/events?id=5)
 1. [The Fall of Moat Cailin](https://graphhub.net/game-of-thrones/concept/the-fall-of-moat-cailin?id=294) (concept:294)
-   - Description: The Fall of [Moat Cailin](https://graphhub.net/game-of-thrones/concept/moat-cailin?id=86) was a critical moment in the War of the Five Kings, where [Ramsay Bolton](https://graphhub.net/game-of-thrones/concept/ramsay-bolton?id=44) captured [Moat Cailin](https://graphhub.net/game-of-thrones/concept/moat-cailin?id=86), securing the North for House Bolton.
+   - Description: The Fall of [Moat Cailin](https://graphhub.net/game-of-thrones/concept/moat-cailin?id=86) was a critical moment in the War of the Five Kings, where [Ramsay Bolton](https://graphhub.net/game-of-thrones/concept/ramsay-bolton?id=44) captured [Moat Cailin](https://graphhub.net/game-of-thrones/concept/moat-cailin?id=86), securing the North for [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Bolton.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Field of Fire](https://graphhub.net/game-of-thrones/concept/the-field-of-fire?id=300) (concept:300)
    - Description: This was the only battle in the War of Conquest where all three of Aegon the Conqueror's [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) were deployed. It led to the surrender of King Loren Lannister.
@@ -1071,7 +1101,7 @@ License: MIT
    - Description: An order of priestesses in [the Ghiscari religion](https://graphhub.net/game-of-thrones/concept/the-ghiscari-religion?id=276), dedicated to various aspects of life and society.
    - Member of Lists: [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4)
 1. [The Great Masters](https://graphhub.net/game-of-thrones/concept/the-great-masters?id=269) (concept:269)
-   - Description: The ruling class of the city of [Meereen](https://graphhub.net/game-of-thrones/concept/meereen?id=69), they are wealthy slavers.
+   - Description: The ruling class of the [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Meereen](https://graphhub.net/game-of-thrones/concept/meereen?id=69), they are wealthy slavers.
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Great Stallion](https://graphhub.net/game-of-thrones/concept/the-great-stallion?id=104) (concept:104)
    - Description: [The Great Stallion](https://graphhub.net/game-of-thrones/concept/the-great-stallion?id=104) is the primary deity worshipped by [the Dothraki](https://graphhub.net/game-of-thrones/concept/the-dothraki?id=246), a nomadic horse-riding culture. They believe that a warrior who dies in battle joins [the Great Stallion](https://graphhub.net/game-of-thrones/concept/the-great-stallion?id=104) in the afterlife.
@@ -1107,13 +1137,13 @@ License: MIT
    - Description: The proclamation of [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) as the [King in the North](https://graphhub.net/game-of-thrones/concept/king-in-the-north?id=165) by the Northern lords, solidifying his position as a key player in the power struggles of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
    - Member of Lists: [Events](https://graphhub.net/game-of-thrones/list/events?id=5)
 1. [The king in the north!](https://graphhub.net/game-of-thrones/concept/the-king-in-the-north?id=306) (concept:306)
-   - Description: This is a rallying cry of [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2), often used to acknowledge the leader of the North.
+   - Description: This is a rallying cry of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark, often used to acknowledge the leader of the North.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [The Kingsguard](https://graphhub.net/game-of-thrones/concept/the-kingsguard?id=243) (concept:243)
    - Description: An elite group of seven knights sworn to serve and protect the King of the Seven Kingdoms.
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Kingslayer's Betrayal](https://graphhub.net/game-of-thrones/concept/the-kingslayers-betrayal?id=129) (concept:129)
-   - Description: The event where [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16) betrayed and killed King Aerys II Targaryen, earning him the nickname 'Kingslayer' and forever altering his reputation and role in the series.
+   - Description: The [event](https://graphhub.net/game-of-thrones/concept/event?id=485) where [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16) betrayed and killed King Aerys II Targaryen, earning him the nickname 'Kingslayer' and forever altering his reputation and role in the series.
    - Member of Lists: [Events](https://graphhub.net/game-of-thrones/list/events?id=5)
 1. [The Lion of Night and Maiden-Made-of-Light](https://graphhub.net/game-of-thrones/concept/the-lion-of-night-and-maiden-made-of-light?id=277) (concept:277)
    - Description: Chief deities in the religion of Yi Ti, in the far east of [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481)
@@ -1158,7 +1188,7 @@ License: MIT
    - Description: A deity favored by sailors.
    - Member of Lists: [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4)
 1. [The Moonsingers](https://graphhub.net/game-of-thrones/concept/the-moonsingers?id=271) (concept:271)
-   - Description: The primary religion of the people of [Braavos](https://graphhub.net/game-of-thrones/concept/braavos?id=68), [the Moonsingers](https://graphhub.net/game-of-thrones/concept/the-moonsingers?id=271) led the original slaves to their new city.
+   - Description: The primary religion of the people of [Braavos](https://graphhub.net/game-of-thrones/concept/braavos?id=68), [the Moonsingers](https://graphhub.net/game-of-thrones/concept/the-moonsingers?id=271) led the original slaves to their new [city.](https://graphhub.net/game-of-thrones/concept/city?id=486)
    - Member of Lists: [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4)
 1. [The Mutiny at Craster's Keep](https://graphhub.net/game-of-thrones/concept/the-mutiny-at-crasters-keep?id=287) (concept:287)
    - Description: The mutiny was a severe internal conflict within [the Night's Watch](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143), at the homestead of Craster north of the Wall.
@@ -1179,7 +1209,7 @@ License: MIT
    - Description: The oldest and largest castle on the Wall, now abandoned and filled with legends and ghost stories.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [The North Remembers](https://graphhub.net/game-of-thrones/concept/the-north-remembers?id=227) (concept:227)
-   - Description: [The North Remembers](https://graphhub.net/game-of-thrones/concept/the-north-remembers?id=227) is a phrase associated with the people of the North, particularly [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2), and signifies their enduring loyalty and determination.
+   - Description: [The North Remembers](https://graphhub.net/game-of-thrones/concept/the-north-remembers?id=227) is a phrase associated with the people of the North, particularly [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark, and signifies their enduring loyalty and determination.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [The old gods and the new](https://graphhub.net/game-of-thrones/concept/the-old-gods-and-the-new?id=324) (concept:324)
    - Description: A common phrase referring to the faiths in [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), both the new faith of the Seven and the old faith of [the Children of the Forest.](https://graphhub.net/game-of-thrones/concept/the-children-of-the-forest?id=155)
@@ -1194,7 +1224,7 @@ License: MIT
    - Description: A clan of [the Free Folk](https://graphhub.net/game-of-thrones/concept/the-free-folk?id=145) beyond the Wall, recognized by their body paintings.
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Pureborn](https://graphhub.net/game-of-thrones/concept/the-pureborn?id=255) (concept:255)
-   - Description: Descendants of the ancient kings and queens of [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=71), they hold a significant amount of power in the city.
+   - Description: Descendants of the ancient kings and queens of [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=71), they hold a significant amount of power in the [city.](https://graphhub.net/game-of-thrones/concept/city?id=486)
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Purple Wedding](https://graphhub.net/game-of-thrones/concept/the-purple-wedding?id=115) (concept:115)
    - Description: The wedding of King [Joffrey Baratheon](https://graphhub.net/game-of-thrones/concept/joffrey-baratheon?id=23) and [Margaery Tyrell](https://graphhub.net/game-of-thrones/concept/margaery-tyrell?id=36), which ended in Joffrey's death, likely due to poisoning, leading to further political turmoil in [King's Landing.](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66)
@@ -1209,27 +1239,27 @@ License: MIT
    - Description: A protective detail established for the reigning [Queen Regent](https://graphhub.net/game-of-thrones/concept/queen-regent?id=187) in [Meereen.](https://graphhub.net/game-of-thrones/concept/meereen?id=69)
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Rains of Castamere](https://graphhub.net/game-of-thrones/concept/the-rains-of-castamere?id=302) (concept:302)
-   - Description: Not a battle but a massacre. House Reyne rebelled against their liege lord, [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3), and were utterly destroyed.
+   - Description: Not a battle but a massacre. [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Reyne rebelled against their liege lord, [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister, and were utterly destroyed.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Red Keep](https://graphhub.net/game-of-thrones/concept/the-red-keep?id=92) (concept:92)
    - Description: The royal palace located within [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66), [the Red Keep](https://graphhub.net/game-of-thrones/concept/the-red-keep?id=92) is the residence of the ruling monarch of the Seven Kingdoms. It is a massive fortress with iconic red walls and towers.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [The Red Priests/Priestesses](https://graphhub.net/game-of-thrones/concept/the-red-priestspriestesses?id=153) (concept:153)
-   - Description: The Red Priests and Priestesses are followers of the Lord of Light, a deity who represents fire, light, and life. They possess magical abilities and often act as religious leaders, advisors, and agents of change. They are prominent in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), particularly in the city of [Volantis.](https://graphhub.net/game-of-thrones/concept/volantis?id=72)
+   - Description: The Red Priests and Priestesses are followers of the Lord of Light, a deity who represents fire, light, and life. They possess magical abilities and often act as religious leaders, advisors, and agents of change. They are prominent in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), particularly in the [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Volantis.](https://graphhub.net/game-of-thrones/concept/volantis?id=72)
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Red Wedding](https://graphhub.net/game-of-thrones/concept/the-red-wedding?id=113) (concept:113)
-   - Description: The massacre of [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2) and its allies at [the Twins](https://graphhub.net/game-of-thrones/concept/the-twins?id=83) during the War of the Five Kings, orchestrated by House Frey and House Bolton, resulting in the deaths of [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20), [Catelyn Stark](https://graphhub.net/game-of-thrones/concept/catelyn-stark?id=19), and many others..
+   - Description: The massacre of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark and its allies at [the Twins](https://graphhub.net/game-of-thrones/concept/the-twins?id=83) during the War of the Five Kings, orchestrated by [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Frey and [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Bolton, resulting in the deaths of [Robb Stark](https://graphhub.net/game-of-thrones/concept/robb-stark?id=20), [Catelyn Stark](https://graphhub.net/game-of-thrones/concept/catelyn-stark?id=19), and many others..
    - Member of Lists: [Events](https://graphhub.net/game-of-thrones/list/events?id=5)
 1. [The Red Woman](https://graphhub.net/game-of-thrones/concept/the-red-woman?id=174) (concept:174)
-   - Description: [The Red Woman](https://graphhub.net/game-of-thrones/concept/the-red-woman?id=174) is a title given to [Melisandre](https://graphhub.net/game-of-thrones/concept/melisandre?id=30), a priestess of the Lord of Light. She possesses powerful magical abilities and is known for her prophecies and role in the War of the Five Kings.
+   - Description: [The Red Woman](https://graphhub.net/game-of-thrones/concept/the-red-woman?id=174) is a [title](https://graphhub.net/game-of-thrones/concept/title?id=484) given to [Melisandre](https://graphhub.net/game-of-thrones/concept/melisandre?id=30), a priestess of the Lord of Light. She possesses powerful magical abilities and is known for her prophecies and role in the War of the Five Kings.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [The Sack of King's Landing](https://graphhub.net/game-of-thrones/concept/the-sack-of-kings-landing?id=122) (concept:122)
-   - Description: The event during [Robert's Rebellion](https://graphhub.net/game-of-thrones/concept/roberts-rebellion?id=112) when the Lannister forces, led by [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16), attacked [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66), resulting in the deaths of King Aerys II Targaryen and his family.
+   - Description: The [event](https://graphhub.net/game-of-thrones/concept/event?id=485) during [Robert's Rebellion](https://graphhub.net/game-of-thrones/concept/roberts-rebellion?id=112) when the Lannister forces, led by [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16), attacked [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66), resulting in the deaths of King Aerys II Targaryen and his family.
    - Member of Lists: [Events](https://graphhub.net/game-of-thrones/list/events?id=5), [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Sack of King's Landing](https://graphhub.net/game-of-thrones/concept/the-sack-of-kings-landing?id=305) (concept:305)
-   - Description: During [Robert's Rebellion](https://graphhub.net/game-of-thrones/concept/roberts-rebellion?id=112), [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) sacked [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66), ending the Targaryen rule.
+   - Description: During [Robert's Rebellion](https://graphhub.net/game-of-thrones/concept/roberts-rebellion?id=112), [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister sacked [King's Landing](https://graphhub.net/game-of-thrones/concept/kings-landing?id=66), ending the Targaryen rule.
 1. [The Second Siege of Riverrun](https://graphhub.net/game-of-thrones/concept/the-second-siege-of-riverrun?id=291) (concept:291)
-   - Description: This siege saw the return of House Frey control after a successful negotiation between [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16) and Edmure Tully.
+   - Description: This siege saw the return of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Frey control after a successful negotiation between [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16) and Edmure Tully.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Second Sons](https://graphhub.net/game-of-thrones/concept/the-second-sons?id=247) (concept:247)
    - Description: A sellsword company operating in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), named for the societal norm of second sons having fewer inheritance rights.
@@ -1241,10 +1271,10 @@ License: MIT
    - Description: Mysterious and feared practitioners of magic, most commonly found in [Asshai.](https://graphhub.net/game-of-thrones/concept/asshai?id=452)
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Siege of Meereen](https://graphhub.net/game-of-thrones/concept/the-siege-of-meereen?id=131) (concept:131)
-   - Description: The siege of the city of [Meereen](https://graphhub.net/game-of-thrones/concept/meereen?id=69) by the forces of [the Wise Masters](https://graphhub.net/game-of-thrones/concept/the-wise-masters?id=268) and [the Sons of the Harpy](https://graphhub.net/game-of-thrones/concept/the-sons-of-the-harpy?id=256), which was ultimately repelled by [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) and her allies.
+   - Description: The siege of the [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Meereen](https://graphhub.net/game-of-thrones/concept/meereen?id=69) by the forces of [the Wise Masters](https://graphhub.net/game-of-thrones/concept/the-wise-masters?id=268) and [the Sons of the Harpy](https://graphhub.net/game-of-thrones/concept/the-sons-of-the-harpy?id=256), which was ultimately repelled by [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) and her allies.
    - Member of Lists: [Events](https://graphhub.net/game-of-thrones/list/events?id=5), [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Siege of Riverrun](https://graphhub.net/game-of-thrones/concept/the-siege-of-riverrun?id=285) (concept:285)
-   - Description: The Siege of [Riverrun](https://graphhub.net/game-of-thrones/concept/riverrun?id=87) was a prolonged conflict where House Frey and [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) besieged the ancestral home of [House Tully.](https://graphhub.net/game-of-thrones/concept/house-tully?id=9)
+   - Description: The Siege of [Riverrun](https://graphhub.net/game-of-thrones/concept/riverrun?id=87) was a prolonged conflict where [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Frey and [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister besieged the ancestral home of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tully.
    - Member of Lists: [Major Battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11)
 1. [The Silent Sisters](https://graphhub.net/game-of-thrones/concept/the-silent-sisters?id=158) (concept:158)
    - Description: [The Silent Sisters](https://graphhub.net/game-of-thrones/concept/the-silent-sisters?id=158) are a religious order of women who are responsible for preparing the dead for burial. They dress in grey robes and take vows of silence. They play a role in funerals and mourning customs throughout the Seven Kingdoms.
@@ -1283,19 +1313,19 @@ License: MIT
    - Description: This phrase is said by [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16) in reference to his dedication to his sister, Cersei.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [The things we do for love](https://graphhub.net/game-of-thrones/concept/the-things-we-do-for-love?id=240) (concept:240)
-   - Description: [The things we do for love](https://graphhub.net/game-of-thrones/concept/the-things-we-do-for-love?id=240) is a variation of [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16)'s quote, illustrating the motivations behind [characters](https://graphhub.net/game-of-thrones/list/characters?id=2)' actions in the name of love.
+   - Description: [The things we do for love](https://graphhub.net/game-of-thrones/concept/the-things-we-do-for-love?id=240) is a variation of [Jaime Lannister](https://graphhub.net/game-of-thrones/concept/jaime-lannister?id=16)'s quote, illustrating the motivations behind characters' actions in the name of love.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [The things we love destroy us every time, lad](https://graphhub.net/game-of-thrones/concept/the-things-we-love-destroy-us-every-time-lad?id=384) (concept:384)
    - Description: A quote from [Jeor Mormont](https://graphhub.net/game-of-thrones/concept/jeor-mormont?id=46) to [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12), warning about the dangers of love and attachment.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [The Thirteen](https://graphhub.net/game-of-thrones/concept/the-thirteen?id=250) (concept:250)
-   - Description: The rulers of [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=71), consisting of thirteen individuals who govern the city.
+   - Description: The rulers of [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=71), consisting of thirteen [individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2) who govern the [city.](https://graphhub.net/game-of-thrones/concept/city?id=486)
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Three-Eyed Raven](https://graphhub.net/game-of-thrones/concept/the-three-eyed-raven?id=168) (concept:168)
-   - Description: [The Three-Eyed Raven](https://graphhub.net/game-of-thrones/concept/the-three-eyed-raven?id=168) is an ancient mystical entity who possesses the knowledge of the past, present, and future. The title is passed down to individuals who become the vessel for this powerful being.
+   - Description: [The Three-Eyed Raven](https://graphhub.net/game-of-thrones/concept/the-three-eyed-raven?id=168) is an ancient mystical entity who possesses the knowledge of the past, present, and future. The [title](https://graphhub.net/game-of-thrones/concept/title?id=484) is passed down to [individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2) who become the vessel for this powerful being.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [The Tor](https://graphhub.net/game-of-thrones/concept/the-tor?id=464) (concept:464)
-   - Description: A Dornish castle near the mouth of the river Scourge, ruled by House Jordayne. It has a town around it.
+   - Description: A Dornish castle near the mouth of the river Scourge, ruled by [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Jordayne. It has a town around it.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [The Trial by Combat - Tyrion's Trial](https://graphhub.net/game-of-thrones/concept/the-trial-by-combat---tyrions-trial?id=119) (concept:119)
    - Description: The trial by combat held to determine [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13)'s guilt or innocence in the murder of King Joffrey, with Tyrion's champion, [Oberyn Martell](https://graphhub.net/game-of-thrones/concept/oberyn-martell?id=35), ultimately losing to Ser Gregor Clegane.
@@ -1304,7 +1334,7 @@ License: MIT
    - Description: A phrase often used in reference to those with legitimate claims to the throne, such as [Stannis Baratheon](https://graphhub.net/game-of-thrones/concept/stannis-baratheon?id=24) and [Daenerys Targaryen.](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [The Twins](https://graphhub.net/game-of-thrones/concept/the-twins?id=83) (concept:83)
-   - Description: A pair of castles located at the crossing of the Green Fork and the Trident rivers. [The Twins](https://graphhub.net/game-of-thrones/concept/the-twins?id=83) are held by House Frey and are infamous for their role in [the Red Wedding.](https://graphhub.net/game-of-thrones/concept/the-red-wedding?id=113)
+   - Description: A pair of castles located at the crossing of the Green Fork and the Trident rivers. [The Twins](https://graphhub.net/game-of-thrones/concept/the-twins?id=83) are held by [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Frey and are infamous for their role in [the Red Wedding.](https://graphhub.net/game-of-thrones/concept/the-red-wedding?id=113)
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [The Unsullied](https://graphhub.net/game-of-thrones/concept/the-unsullied?id=147) (concept:147)
    - Description: [The Unsullied](https://graphhub.net/game-of-thrones/concept/the-unsullied?id=147) are a highly trained army of slave soldiers who were originally taken from their families at a young age and subjected to brutal training. They serve as an elite military force for [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) and play a crucial role in her quest for power.
@@ -1313,91 +1343,94 @@ License: MIT
    - Description: A common saying in reference to the enormous wall of ice protecting the realm from the threats of the far north.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [The Warlocks of Qarth](https://graphhub.net/game-of-thrones/concept/the-warlocks-of-qarth?id=151) (concept:151)
-   - Description: The Warlocks of [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=71) are a group of sorcerers who possess powerful magical abilities. They reside in the city of [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=71) and are known for their enigmatic nature. They play a significant role in [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s storyline in [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481)
+   - Description: The Warlocks of [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=71) are a group of sorcerers who possess powerful magical abilities. They reside in the [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Qarth](https://graphhub.net/game-of-thrones/concept/qarth?id=71) and are known for their enigmatic nature. They play a significant role in [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s storyline in [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481)
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The Weeping Lady](https://graphhub.net/game-of-thrones/concept/the-weeping-lady?id=279) (concept:279)
-   - Description: A deity worshiped by a cult in the Free City of [Lys.](https://graphhub.net/game-of-thrones/concept/lys?id=76)
+   - Description: A deity worshiped by a cult in the Free [City](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Lys.](https://graphhub.net/game-of-thrones/concept/lys?id=76)
    - Member of Lists: [Religions](https://graphhub.net/game-of-thrones/list/religions?id=4)
 1. [The Winds of Winter](https://graphhub.net/game-of-thrones/concept/the-winds-of-winter?id=219) (concept:219)
    - Description: [The Winds of Winter](https://graphhub.net/game-of-thrones/concept/the-winds-of-winter?id=219) is the forthcoming sixth novel in the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. As of the knowledge cutoff in September 2021, the book has not been released. It is highly anticipated by fans and will continue the complex narrative of the series.
    - Member of Lists: [Books](https://graphhub.net/game-of-thrones/list/books?id=9)
 1. [The Wise Masters](https://graphhub.net/game-of-thrones/concept/the-wise-masters?id=268) (concept:268)
-   - Description: The ruling class of the city of [Yunkai](https://graphhub.net/game-of-thrones/concept/yunkai?id=79), known for their involvement in the slave trade.
+   - Description: The ruling class of the [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Yunkai](https://graphhub.net/game-of-thrones/concept/yunkai?id=79), known for their involvement in the slave trade.
    - Member of Lists: [Groups](https://graphhub.net/game-of-thrones/list/groups?id=6)
 1. [The World of Ice & Fire](https://graphhub.net/game-of-thrones/concept/the-world-of-ice--fire?id=221) (concept:221)
    - Description: [The World of Ice & Fire](https://graphhub.net/game-of-thrones/concept/the-world-of-ice--fire?id=221) is a companion book to the [A Song of Ice and Fire](https://graphhub.net/game-of-thrones/concept/a-song-of-ice-and-fire?id=213) series. It provides additional background information and history about the world of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480), including details about the major [houses](https://graphhub.net/game-of-thrones/list/houses?id=1), [events](https://graphhub.net/game-of-thrones/list/events?id=5), and [locations.](https://graphhub.net/game-of-thrones/list/locations?id=12) The book is written from an in-universe perspective.
    - Member of Lists: [Books](https://graphhub.net/game-of-thrones/list/books?id=9)
 1. [Theon Greyjoy](https://graphhub.net/game-of-thrones/concept/theon-greyjoy?id=26) (concept:26)
    - Description: [Theon Greyjoy](https://graphhub.net/game-of-thrones/concept/theon-greyjoy?id=26), also known as Reek, is a complex and tortured character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the only surviving son of Balon Greyjoy, the [Lord of the Iron Islands.](https://graphhub.net/game-of-thrones/concept/lord-of-the-iron-islands?id=171) Theon's journey involves a crisis of identity and loyalty, as he struggles to find his place in the world.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [There's no cure for being a c*nt](https://graphhub.net/game-of-thrones/concept/theres-no-cure-for-being-a-cnt?id=381) (concept:381)
    - Description: A quote from [Bronn](https://graphhub.net/game-of-thrones/concept/bronn?id=47), used to describe people with malicious intentions or actions.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Thorough](https://graphhub.net/game-of-thrones/concept/thorough?id=351) (concept:351)
-   - Description: This is the motto of House Sarsfield, a noble house from the Westerlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Sarsfield, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Westerlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Three Towers](https://graphhub.net/game-of-thrones/concept/three-towers?id=467) (concept:467)
-   - Description: A castle in the Reach, the seat of House Costayne. It overlooks the Sunset Sea.
+   - Description: A castle in the Reach, the seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Costayne. It overlooks the Sunset Sea.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
+1. [Title](https://graphhub.net/game-of-thrones/concept/title?id=484) (concept:484)
+   - Description: In [Game of Thrones](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) [titles](https://graphhub.net/game-of-thrones/list/titles?id=7) and prestigious designations are given to characters, such as [Mother of Dragons](https://graphhub.net/game-of-thrones/concept/mother-of-dragons?id=164), [King in the North](https://graphhub.net/game-of-thrones/concept/king-in-the-north?id=165), and [Lord Commander](https://graphhub.net/game-of-thrones/concept/lord-commander?id=166), representing their positions, accomplishments, and influence in the realm.
+   - Owner of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [To Tread on Us is to Tread on Stone](https://graphhub.net/game-of-thrones/concept/to-tread-on-us-is-to-tread-on-stone?id=347) (concept:347)
-   - Description: This is the motto of House Royce, a noble house from the Vale.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Royce, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Vale.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Toad Stone](https://graphhub.net/game-of-thrones/concept/toad-stone?id=422) (concept:422)
-   - Description: An island city on the Basilisk Isles off the coast of Sothoryos, inhabited by pirates and slavers.
+   - Description: An island [city](https://graphhub.net/game-of-thrones/concept/city?id=486) on the Basilisk Isles off the coast of Sothoryos, inhabited by pirates and slavers.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Tolos](https://graphhub.net/game-of-thrones/concept/tolos?id=428) (concept:428)
-   - Description: A city of Slaver's Bay in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), famous for its lockstep legions of trained slave soldiers.
+   - Description: A [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of Slaver's Bay in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), famous for its lockstep legions of trained slave soldiers.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Tommen Baratheon](https://graphhub.net/game-of-thrones/concept/tommen-baratheon?id=49) (concept:49)
    - Description: [Tommen Baratheon](https://graphhub.net/game-of-thrones/concept/tommen-baratheon?id=49) is a gentle and impressionable character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the youngest son of [Cersei Lannister](https://graphhub.net/game-of-thrones/concept/cersei-lannister?id=15) and Robert Baratheon. Tommen's reign as king is marked by his naivety and vulnerability to manipulation.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals of House Baratheon](https://graphhub.net/game-of-thrones/list/individuals-of-house-baratheon?id=20000000-7151-4adc-9ced-785d3e662aec)
 1. [Tormund Giantsbane](https://graphhub.net/game-of-thrones/concept/tormund-giantsbane?id=39) (concept:39)
    - Description: [Tormund Giantsbane](https://graphhub.net/game-of-thrones/concept/tormund-giantsbane?id=39) is a fearless and loyal character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a renowned warrior and leader of [the Free Folk.](https://graphhub.net/game-of-thrones/concept/the-free-folk?id=145) Tormund's larger-than-life personality and his role in the fight against the Night King make him a beloved character.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Touch Me Not](https://graphhub.net/game-of-thrones/concept/touch-me-not?id=328) (concept:328)
-   - Description: This is the motto of House Allyrion, a noble house from [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Allyrion, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from [Dorne.](https://graphhub.net/game-of-thrones/concept/dorne?id=81)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Tread Lightly Here](https://graphhub.net/game-of-thrones/concept/tread-lightly-here?id=341) (concept:341)
-   - Description: This is the motto of House Lefford, a noble house from the Westerlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lefford, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Westerlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [True to the Mark](https://graphhub.net/game-of-thrones/concept/true-to-the-mark?id=349) (concept:349)
-   - Description: This is the motto of House Tarth, a noble house from the Stormlands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Tarth, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Stormlands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Tumbleton](https://graphhub.net/game-of-thrones/concept/tumbleton?id=445) (concept:445)
    - Description: A town in the Reach, known for being the site of two [major battles](https://graphhub.net/game-of-thrones/list/major-battles?id=11) during [the Dance of the Dragons.](https://graphhub.net/game-of-thrones/concept/the-dance-of-the-dragons?id=296)
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13) (concept:13)
-   - Description: [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13) is a witty and intelligent character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a member of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) and is often underestimated due to his dwarfism. Tyrion's sharp mind and strategic abilities make him a valuable player in the political landscape of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Description: [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13) is a witty and intelligent character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a member of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister and is often underestimated due to his dwarfism. Tyrion's sharp mind and strategic abilities make him a valuable player in the political landscape of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
+   - Member of Lists: [Individuals of House Lannister](https://graphhub.net/game-of-thrones/list/individuals-of-house-lannister?id=20000000-a6c8-431f-8c40-ce7efdc6978c)
 1. [Tyrosh](https://graphhub.net/game-of-thrones/concept/tyrosh?id=420) (concept:420)
-   - Description: A bustling Free City of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), famed for its dye works and flamboyant fashions.
+   - Description: A bustling Free [City](https://graphhub.net/game-of-thrones/concept/city?id=486) of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), famed for its dye works and flamboyant fashions.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Tywin Lannister](https://graphhub.net/game-of-thrones/concept/tywin-lannister?id=22) (concept:22)
-   - Description: [Tywin Lannister](https://graphhub.net/game-of-thrones/concept/tywin-lannister?id=22) is a formidable and ruthless character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the head of [House Lannister](https://graphhub.net/game-of-thrones/concept/house-lannister?id=3) and the father of Cersei, Jaime, and [Tyrion Lannister.](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13) Tywin's strategic brilliance and unwavering pursuit of power make him a formidable opponent in the [game of thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Description: [Tywin Lannister](https://graphhub.net/game-of-thrones/concept/tywin-lannister?id=22) is a formidable and ruthless character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is the head of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Lannister and the father of Cersei, Jaime, and [Tyrion Lannister.](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13) Tywin's strategic brilliance and unwavering pursuit of power make him a formidable opponent in the [game of thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
+   - Member of Lists: [Individuals of House Lannister](https://graphhub.net/game-of-thrones/list/individuals-of-house-lannister?id=20000000-a6c8-431f-8c40-ce7efdc6978c)
 1. [Unbowed, Unbent, Unbroken](https://graphhub.net/game-of-thrones/concept/unbowed-unbent-unbroken?id=309) (concept:309)
-   - Description: This is the motto of [House Martell](https://graphhub.net/game-of-thrones/concept/house-martell?id=7), one of the Great [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1) of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Martell, one of the Great [House](https://graphhub.net/game-of-thrones/concept/house?id=483)s of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Unbowed, Unbent, Unbroken](https://graphhub.net/game-of-thrones/concept/unbowed-unbent-unbroken?id=385) (concept:385)
-   - Description: The motto of [House Martell](https://graphhub.net/game-of-thrones/concept/house-martell?id=7), symbolizing their indomitable spirit.
+   - Description: The motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Martell, symbolizing their indomitable spirit.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Vaes Dothrak](https://graphhub.net/game-of-thrones/concept/vaes-dothrak?id=70) (concept:70)
-   - Description: A sacred city of [the Dothraki](https://graphhub.net/game-of-thrones/concept/the-dothraki?id=246) people, located in the vast central plains of [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481) [Vaes Dothrak](https://graphhub.net/game-of-thrones/concept/vaes-dothrak?id=70) is the only permanent settlement of the nomadic horse-riding Dothraki and serves as their cultural and religious center.
+   - Description: A sacred [city](https://graphhub.net/game-of-thrones/concept/city?id=486) of [the Dothraki](https://graphhub.net/game-of-thrones/concept/the-dothraki?id=246) people, located in the vast central plains of [Essos.](https://graphhub.net/game-of-thrones/concept/essos?id=481) [Vaes Dothrak](https://graphhub.net/game-of-thrones/concept/vaes-dothrak?id=70) is the only permanent settlement of the nomadic horse-riding Dothraki and serves as their cultural and religious center.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Vaes Jini](https://graphhub.net/game-of-thrones/concept/vaes-jini?id=456) (concept:456)
-   - Description: An abandoned city in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), known as the 'City of the Winged Men' in Dothraki.
+   - Description: An abandoned [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), known as the '[City](https://graphhub.net/game-of-thrones/concept/city?id=486) of the Winged Men' in Dothraki.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Vaes Khadokh](https://graphhub.net/game-of-thrones/concept/vaes-khadokh?id=451) (concept:451)
-   - Description: City in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) deserted by [the Dothraki](https://graphhub.net/game-of-thrones/concept/the-dothraki?id=246), known as the 'City of Corpses'.
+   - Description: [City](https://graphhub.net/game-of-thrones/concept/city?id=486) in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481) deserted by [the Dothraki](https://graphhub.net/game-of-thrones/concept/the-dothraki?id=246), known as the '[City](https://graphhub.net/game-of-thrones/concept/city?id=486) of Corpses'.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Vaes Leqse](https://graphhub.net/game-of-thrones/concept/vaes-leqse?id=457) (concept:457)
-   - Description: Another abandoned city in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), known as the 'City of the Shattered Idols' in Dothraki.
+   - Description: Another abandoned [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), known as the '[City](https://graphhub.net/game-of-thrones/concept/city?id=486) of the Shattered Idols' in Dothraki.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Vaes Qosar](https://graphhub.net/game-of-thrones/concept/vaes-qosar?id=458) (concept:458)
-   - Description: City in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), abandoned and destroyed by [the Dothraki](https://graphhub.net/game-of-thrones/concept/the-dothraki?id=246), known as the 'City of Spiders'.
+   - Description: [City](https://graphhub.net/game-of-thrones/concept/city?id=486) in [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), abandoned and destroyed by [the Dothraki](https://graphhub.net/game-of-thrones/concept/the-dothraki?id=246), known as the '[City](https://graphhub.net/game-of-thrones/concept/city?id=486) of Spiders'.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Vaes Tolorro](https://graphhub.net/game-of-thrones/concept/vaes-tolorro?id=459) (concept:459)
-   - Description: An abandoned city in the Red Waste of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), discovered by [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) during her journey through the desert.
+   - Description: An abandoned [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in the Red Waste of [Essos](https://graphhub.net/game-of-thrones/concept/essos?id=481), discovered by [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11) during her journey through the desert.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Valar Dohaeris](https://graphhub.net/game-of-thrones/concept/valar-dohaeris?id=311) (concept:311)
    - Description: This phrase is a traditional response to '[Valar Morghulis](https://graphhub.net/game-of-thrones/concept/valar-morghulis?id=225)', it translates to 'All men must serve' in High Valyrian.
@@ -1407,7 +1440,7 @@ License: MIT
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Varys](https://graphhub.net/game-of-thrones/concept/varys?id=28) (concept:28)
    - Description: [Varys](https://graphhub.net/game-of-thrones/concept/varys?id=28), also known as the Spider, is a mysterious and cunning character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) He is a eunuch and serves as the [Master of Whisperers](https://graphhub.net/game-of-thrones/concept/master-of-whisperers?id=172) on [the Small Council.](https://graphhub.net/game-of-thrones/concept/the-small-council?id=245) [Varys](https://graphhub.net/game-of-thrones/concept/varys?id=28) is a skilled manipulator and intelligence gatherer, working behind the scenes to influence the balance of power.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Vhagar](https://graphhub.net/game-of-thrones/concept/vhagar?id=196) (concept:196)
    - Description: [Vhagar](https://graphhub.net/game-of-thrones/concept/vhagar?id=196) was one of the three [dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8) ridden by Aegon the Conqueror. She was named after Aegon's sister-wife, Visenya Targaryen. [Vhagar](https://graphhub.net/game-of-thrones/concept/vhagar?id=196) participated in numerous battles during Aegon's reign.
    - Member of Lists: [Dragons](https://graphhub.net/game-of-thrones/list/dragons?id=8)
@@ -1418,16 +1451,16 @@ License: MIT
    - Description: One of the Free [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3), [Volantis](https://graphhub.net/game-of-thrones/concept/volantis?id=72) is a major trading hub and a stronghold of the slave trade. It is characterized by its huge bronze gates, towering monuments, and the presence of the Triarch's Palace.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Warden of the East](https://graphhub.net/game-of-thrones/concept/warden-of-the-east?id=184) (concept:184)
-   - Description: The [Warden of the East](https://graphhub.net/game-of-thrones/concept/warden-of-the-east?id=184) is a title given to the noble who assumes the responsibility of defending the eastern lands and upholding law and order within the region. This title signifies military authority and loyalty to the ruling house of the Vale.
+   - Description: The [Warden of the East](https://graphhub.net/game-of-thrones/concept/warden-of-the-east?id=184) is a [title](https://graphhub.net/game-of-thrones/concept/title?id=484) given to the noble who assumes the responsibility of defending the eastern lands and upholding law and order within the region. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) signifies military authority and loyalty to the ruling [house](https://graphhub.net/game-of-thrones/concept/house?id=483) of the Vale.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Warden of the North](https://graphhub.net/game-of-thrones/concept/warden-of-the-north?id=182) (concept:182)
-   - Description: The [Warden of the North](https://graphhub.net/game-of-thrones/concept/warden-of-the-north?id=182) is a title bestowed upon the noble who holds the responsibility of defending the northern lands against external threats. This title signifies military authority and loyalty to the ruling house of the North.
+   - Description: The [Warden of the North](https://graphhub.net/game-of-thrones/concept/warden-of-the-north?id=182) is a [title](https://graphhub.net/game-of-thrones/concept/title?id=484) bestowed upon the noble who holds the responsibility of defending the northern lands against external threats. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) signifies military authority and loyalty to the ruling [house](https://graphhub.net/game-of-thrones/concept/house?id=483) of the North.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Warden of the South](https://graphhub.net/game-of-thrones/concept/warden-of-the-south?id=185) (concept:185)
-   - Description: The [Warden of the South](https://graphhub.net/game-of-thrones/concept/warden-of-the-south?id=185) is a title bestowed upon the noble who is charged with protecting the southern lands and preserving stability within the region. This title represents military authority and allegiance to the ruling house of the Reach.
+   - Description: The [Warden of the South](https://graphhub.net/game-of-thrones/concept/warden-of-the-south?id=185) is a [title](https://graphhub.net/game-of-thrones/concept/title?id=484) bestowed upon the noble who is charged with protecting the southern lands and preserving stability within the region. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) represents military authority and allegiance to the ruling [house](https://graphhub.net/game-of-thrones/concept/house?id=483) of the Reach.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [Warden of the West](https://graphhub.net/game-of-thrones/concept/warden-of-the-west?id=183) (concept:183)
-   - Description: The [Warden of the West](https://graphhub.net/game-of-thrones/concept/warden-of-the-west?id=183) is a title granted to the noble who is tasked with protecting the western lands and maintaining order within the region. This title symbolizes military authority and allegiance to the ruling house of the Westerlands.
+   - Description: The [Warden of the West](https://graphhub.net/game-of-thrones/concept/warden-of-the-west?id=183) is a [title](https://graphhub.net/game-of-thrones/concept/title?id=484) granted to the noble who is tasked with protecting the western lands and maintaining order within the region. This [title](https://graphhub.net/game-of-thrones/concept/title?id=484) symbolizes military authority and allegiance to the ruling [house](https://graphhub.net/game-of-thrones/concept/house?id=483) of the Westerlands.
    - Member of Lists: [Titles](https://graphhub.net/game-of-thrones/list/titles?id=7)
 1. [We are ironborn. We're not subjects, we're not slaves. We do not plow the field or toil in the mine. We take what is ours](https://graphhub.net/game-of-thrones/concept/we-are-ironborn-were-not-subjects-were-not-slaves-we-do-not-plow-the-field-or-toil-in-the-mine-we-take-what-is-ours?id=406) (concept:406)
    - Description: A quote by [Yara Greyjoy](https://graphhub.net/game-of-thrones/concept/yara-greyjoy?id=61), capturing the fierce independence and warlike culture of the Iron Islands.
@@ -1436,13 +1469,13 @@ License: MIT
    - Description: A part of the oath taken by [the Night's Watch](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143), the protectors of the realm against the threats beyond the Wall.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [We do not sow](https://graphhub.net/game-of-thrones/concept/we-do-not-sow?id=393) (concept:393)
-   - Description: The motto of [House Greyjoy](https://graphhub.net/game-of-thrones/concept/house-greyjoy?id=8), indicating their reputation for reaving and pillaging.
+   - Description: The motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Greyjoy, indicating their reputation for reaving and pillaging.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [We Do Not Sow](https://graphhub.net/game-of-thrones/concept/we-do-not-sow?id=310) (concept:310)
-   - Description: This is the motto of [House Greyjoy](https://graphhub.net/game-of-thrones/concept/house-greyjoy?id=8), one of the Great [Houses](https://graphhub.net/game-of-thrones/list/houses?id=1) of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Greyjoy, one of the Great [House](https://graphhub.net/game-of-thrones/concept/house?id=483)s of [Westeros.](https://graphhub.net/game-of-thrones/concept/westeros?id=480)
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [We light the way](https://graphhub.net/game-of-thrones/concept/we-light-the-way?id=357) (concept:357)
-   - Description: This is the motto of House Hightower, a noble house from the Reach.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Hightower, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Reach.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [We never stop playing, make-believe](https://graphhub.net/game-of-thrones/concept/we-never-stop-playing-make-believe?id=414) (concept:414)
    - Description: A quote by [Petyr Baelish](https://graphhub.net/game-of-thrones/concept/petyr-baelish?id=27) to [Sansa Stark](https://graphhub.net/game-of-thrones/concept/sansa-stark?id=17), suggesting that everyone is pretending to be something they're not in the [game of thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1)
@@ -1467,23 +1500,23 @@ License: MIT
    - Description: A quote by [Tyrion Lannister](https://graphhub.net/game-of-thrones/concept/tyrion-lannister?id=13), condemning censorship and suppression of truth.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [White Harbor](https://graphhub.net/game-of-thrones/concept/white-harbor?id=416) (concept:416)
-   - Description: The largest city in the North, located on the eastern coast. Governed by House Manderly, it's renowned for its busy seaport.
+   - Description: The largest [city](https://graphhub.net/game-of-thrones/concept/city?id=486) in the North, located on the eastern coast. Governed by [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Manderly, it's renowned for its busy seaport.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Winter is Coming](https://graphhub.net/game-of-thrones/concept/winter-is-coming?id=224) (concept:224)
-   - Description: [Winter is Coming](https://graphhub.net/game-of-thrones/concept/winter-is-coming?id=224) is the motto of [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2), one of the noble families in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) It serves as a warning and reminder that harsh times are approaching.
+   - Description: [Winter is Coming](https://graphhub.net/game-of-thrones/concept/winter-is-coming?id=224) is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark, one of the noble families in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) It serves as a warning and reminder that harsh times are approaching.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67) (concept:67)
-   - Description: The ancestral home of [House Stark](https://graphhub.net/game-of-thrones/concept/house-stark?id=2) and the seat of the [Warden of the North.](https://graphhub.net/game-of-thrones/concept/warden-of-the-north?id=182) [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67) is located in the North of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and is known for its strong fortifications and its association with the Stark family.
+   - Description: The ancestral home of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Stark and the seat of the [Warden of the North.](https://graphhub.net/game-of-thrones/concept/warden-of-the-north?id=182) [Winterfell](https://graphhub.net/game-of-thrones/concept/winterfell?id=67) is located in the North of [Westeros](https://graphhub.net/game-of-thrones/concept/westeros?id=480) and is known for its strong fortifications and its association with the Stark family.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Wisdom and Strength](https://graphhub.net/game-of-thrones/concept/wisdom-and-strength?id=345) (concept:345)
-   - Description: This is the motto of House Harlaw, a noble house from the Iron Islands.
+   - Description: This is the motto of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) Harlaw, a noble [house](https://graphhub.net/game-of-thrones/concept/house?id=483) from the Iron Islands.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Yara Greyjoy](https://graphhub.net/game-of-thrones/concept/yara-greyjoy?id=61) (concept:61)
    - Description: [Yara Greyjoy](https://graphhub.net/game-of-thrones/concept/yara-greyjoy?id=61), also known as Asha Greyjoy in the [books](https://graphhub.net/game-of-thrones/list/books?id=9), is a bold and determined character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is the daughter of Balon Greyjoy and an influential leader of the Ironborn. Yara's role in the series involves her efforts to assert her power and independence in a male-dominated society.
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [Ygritte](https://graphhub.net/game-of-thrones/concept/ygritte?id=38) (concept:38)
    - Description: [Ygritte](https://graphhub.net/game-of-thrones/concept/ygritte?id=38) is a fierce and wild character in [Game of Thrones.](https://graphhub.net/game-of-thrones/concept/game-of-thrones?id=1) She is a skilled archer and a member of [the Free Folk.](https://graphhub.net/game-of-thrones/concept/the-free-folk?id=145) [Ygritte](https://graphhub.net/game-of-thrones/concept/ygritte?id=38)'s relationship with [Jon Snow](https://graphhub.net/game-of-thrones/concept/jon-snow?id=12) is marked by love and conflict as they navigate the divide between [the Night's Watch](https://graphhub.net/game-of-thrones/concept/the-nights-watch?id=143) and [the Free Folk.](https://graphhub.net/game-of-thrones/concept/the-free-folk?id=145)
-   - Member of Lists: [Characters](https://graphhub.net/game-of-thrones/list/characters?id=2)
+   - Member of Lists: [Individuals](https://graphhub.net/game-of-thrones/list/individuals?id=2)
 1. [You are the blood of the dragon](https://graphhub.net/game-of-thrones/concept/you-are-the-blood-of-the-dragon?id=403) (concept:403)
    - Description: A quote by Viserys Targaryen to his sister Daenerys, reminding her of their royal Targaryen lineage.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
@@ -1497,11 +1530,11 @@ License: MIT
    - Description: A quote by [Brienne of Tarth](https://graphhub.net/game-of-thrones/concept/brienne-of-tarth?id=32) expressing the gender restrictions and norms in the Seven Kingdoms.
    - Member of Lists: [Famous Sayings & Quotes](https://graphhub.net/game-of-thrones/list/famous-sayings--quotes?id=10)
 1. [Yronwood](https://graphhub.net/game-of-thrones/concept/yronwood?id=476) (concept:476)
-   - Description: A castle in [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), the seat of House [Yronwood.](https://graphhub.net/game-of-thrones/concept/yronwood?id=476) Known as the 'Wayward Daughter of [Starfall](https://graphhub.net/game-of-thrones/concept/starfall?id=453)'.
+   - Description: A castle in [Dorne](https://graphhub.net/game-of-thrones/concept/dorne?id=81), the seat of [House](https://graphhub.net/game-of-thrones/concept/house?id=483) [Yronwood.](https://graphhub.net/game-of-thrones/concept/yronwood?id=476) Known as the 'Wayward Daughter of [Starfall](https://graphhub.net/game-of-thrones/concept/starfall?id=453)'.
    - Member of Lists: [Locations](https://graphhub.net/game-of-thrones/list/locations?id=12)
 1. [Yunkai](https://graphhub.net/game-of-thrones/concept/yunkai?id=79) (concept:79)
-   - Description: A city located in Slaver's Bay, [Yunkai](https://graphhub.net/game-of-thrones/concept/yunkai?id=79) is another major hub of the slave trade. It becomes a target of [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s forces in her campaign to abolish slavery.
+   - Description: A [city](https://graphhub.net/game-of-thrones/concept/city?id=486) located in Slaver's Bay, [Yunkai](https://graphhub.net/game-of-thrones/concept/yunkai?id=79) is another major hub of the slave trade. It becomes a target of [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s forces in her campaign to abolish slavery.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
 1. [Yunkai](https://graphhub.net/game-of-thrones/concept/yunkai?id=96) (concept:96)
-   - Description: A city located in Slaver's Bay, [Yunkai](https://graphhub.net/game-of-thrones/concept/yunkai?id=79) is another major hub of the slave trade. It becomes a target of [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s forces in her campaign to abolish slavery.
+   - Description: A [city](https://graphhub.net/game-of-thrones/concept/city?id=486) located in Slaver's Bay, [Yunkai](https://graphhub.net/game-of-thrones/concept/yunkai?id=79) is another major hub of the slave trade. It becomes a target of [Daenerys Targaryen](https://graphhub.net/game-of-thrones/concept/daenerys-targaryen?id=11)'s forces in her campaign to abolish slavery.
    - Member of Lists: [Cities](https://graphhub.net/game-of-thrones/list/cities?id=3)
