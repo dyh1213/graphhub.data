@@ -1071,6 +1071,15 @@
     "Image": null
   },
   {
+    "Id": "89",
+    "Title": "Location",
+    "Description": "A location in the Game of Thrones which could be a city, castle, town etc.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_location_89_20230803062616.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_location_89_20230803062616_preview.jpeg"
+    }
+  },
+  {
     "Id": "98",
     "Title": "Lorath",
     "Description": "One of the Free Cities, Lorath is a small and isolated city known for its seafaring tradition and its unusual customs. It is the least populated and least influential of the Free Cities.",
@@ -3030,12 +3039,6 @@
     "Id": "96",
     "Title": "Yunkai",
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery.",
-    "Image": null
-  },
-  {
-    "Id": "89",
-    "Title": "Location",
-    "Description": "A location in the Game of Thrones which could be a city, castle, town etc.",
     "Image": null
   }
 ]
