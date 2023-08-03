@@ -438,7 +438,10 @@
     "Id": "81",
     "Title": "Dorne",
     "Description": "A region in the southernmost part of Westeros, Dorne is known for its unique culture and its resistance to outside influence. The capital city of Dorne is Sunspear, home to House Martell.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_dorne_81_20230803061533.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_dorne_81_20230803061533_preview.jpeg"
+    }
   },
   {
     "Id": "223",
