@@ -292,10 +292,6 @@
     "ListId": "3"
   },
   {
-    "ConceptId": "85",
-    "ListId": "3"
-  },
-  {
     "ConceptId": "86",
     "ListId": "3"
   },
@@ -334,10 +330,6 @@
   {
     "ConceptId": "95",
     "ListId": "12"
-  },
-  {
-    "ConceptId": "96",
-    "ListId": "3"
   },
   {
     "ConceptId": "97",
@@ -1796,10 +1788,6 @@
     "ListId": "3"
   },
   {
-    "ConceptId": "437",
-    "ListId": "12"
-  },
-  {
     "ConceptId": "438",
     "ListId": "12"
   },
@@ -1940,15 +1928,7 @@
     "ListId": "12"
   },
   {
-    "ConceptId": "473",
-    "ListId": "12"
-  },
-  {
     "ConceptId": "474",
-    "ListId": "12"
-  },
-  {
-    "ConceptId": "475",
     "ListId": "12"
   },
   {
@@ -1978,5 +1958,9 @@
   {
     "ConceptId": "23",
     "ListId": "20000000-7151-4adc-9ced-785d3e662aec"
+  },
+  {
+    "ConceptId": "85",
+    "ListId": "12"
   }
 ]
