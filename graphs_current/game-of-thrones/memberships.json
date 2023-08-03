@@ -296,10 +296,6 @@
     "ListId": "3"
   },
   {
-    "ConceptId": "87",
-    "ListId": "3"
-  },
-  {
     "ConceptId": "88",
     "ListId": "3"
   },
@@ -1961,6 +1957,10 @@
   },
   {
     "ConceptId": "85",
+    "ListId": "12"
+  },
+  {
+    "ConceptId": "87",
     "ListId": "12"
   }
 ]
