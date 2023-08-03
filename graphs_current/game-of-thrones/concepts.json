@@ -743,7 +743,10 @@
     "Id": "53",
     "Title": "Grey Worm",
     "Description": "Grey Worm is a skilled and disciplined character in Game of Thrones. He is the commander of the Unsullied, an army of eunuch slave soldiers. Grey Worm\u0027s journey involves finding his identity and forging deep connections in a world defined by war and political intrigue.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_grey-worm_53_20230803102021.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_grey-worm_53_20230803102021_preview.jpeg"
+    },
     "Weight": 10
   },
   {
