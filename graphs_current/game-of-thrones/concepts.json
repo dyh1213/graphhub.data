@@ -962,7 +962,10 @@
     "Id": "9",
     "Title": "House Tully",
     "Description": "Rulers of Riverrun, known for their devotion to duty and family. Sigil is a trout, motto: \u0022Family, Duty, Honor.\u0022",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_house-tully_9_20230803094357.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_house-tully_9_20230803094357_preview.jpeg"
+    },
     "Weight": 10
   },
   {
