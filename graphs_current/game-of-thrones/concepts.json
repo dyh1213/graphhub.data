@@ -161,7 +161,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_14_20230731141642.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_14_20230731141642_preview.jpeg"
     },
-    "Weight": 10
+    "Weight": 12
   },
   {
     "Id": "319",
@@ -747,7 +747,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_grey-worm_53_20230803102021.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_grey-worm_53_20230803102021_preview.jpeg"
     },
-    "Weight": 10
+    "Weight": null
   },
   {
     "Id": "455",
@@ -1436,7 +1436,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_30_20230801202304.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_30_20230801202304_preview.jpeg"
     },
-    "Weight": 10
+    "Weight": 9
   },
   {
     "Id": "197",
@@ -1871,7 +1871,7 @@
     "Title": "Sandor Clegane",
     "Description": "Sandor Clegane, also known as the Hound, is a complex and tormented character in Game of Thrones. He is a skilled warrior with a fierce reputation. Sandor\u0027s journey involves confronting his traumatic past and finding a sense of purpose and redemption.",
     "Image": null,
-    "Weight": null
+    "Weight": 10
   },
   {
     "Id": "477",
@@ -3205,7 +3205,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_13_20230731143523.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_13_20230731143523_preview.jpeg"
     },
-    "Weight": 10
+    "Weight": 11
   },
   {
     "Id": "420",
