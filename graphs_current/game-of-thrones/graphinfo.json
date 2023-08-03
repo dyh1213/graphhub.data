@@ -26,29 +26,29 @@
   "TopFeaturedLists": [
     {
       "Id": "2",
-      "Base64Image": "game-of-thrones-characters.png"
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_individual_482_20230802213033_preview.jpeg"
     },
     {
       "Id": "3",
-      "Base64Image": "game-of-thrones-cities.png"
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953_preview.jpeg"
     },
     {
       "Id": "1",
-      "Base64Image": "game-of-thrones-house_sigils.png"
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_483_20230731135941_preview.jpeg"
     }
   ],
   "TopFeaturedConcepts": [
     {
       "Id": "12",
-      "Base64Image": "game-of-thrones-jon_snow.png"
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_12_20230731140134_preview.jpeg"
     },
     {
       "Id": "66",
-      "Base64Image": "game-of-thrones-kings_landing.png"
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_66_20230731140203_preview.jpeg"
     },
     {
       "Id": "2",
-      "Base64Image": "game-of-thrones-house_stark_sigil.png"
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_2_20230731140345_preview.jpeg"
     }
   ]
 }
