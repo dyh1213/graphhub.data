@@ -844,7 +844,10 @@
     "Id": "80",
     "Title": "Highgarden",
     "Description": "The seat of House Tyrell, Highgarden is a castle and city located in the Reach of Westeros. It is known for its lush gardens, agricultural wealth, and its alliance with House Lannister.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_highgarden_80_20230803113807.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_highgarden_80_20230803113807_preview.jpeg"
+    },
     "Weight": 10
   },
   {
@@ -855,7 +858,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_hodor_65_20230803101552.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_hodor_65_20230803101552_preview.jpeg"
     },
-    "Weight": 8
+    "Weight": 10
   },
   {
     "Id": "233",
@@ -1427,7 +1430,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_30_20230801202304.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_30_20230801202304_preview.jpeg"
     },
-    "Weight": 8
+    "Weight": 10
   },
   {
     "Id": "197",
