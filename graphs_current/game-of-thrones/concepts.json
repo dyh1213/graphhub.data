@@ -453,7 +453,10 @@
     "Id": "84",
     "Title": "Dragonstone",
     "Description": "An island fortress located off the eastern coast of Westeros, Dragonstone is the ancestral seat of House Targaryen. It is known for its unique architecture and its deposits of dragonglass.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_dragonstone_84_20230803061550.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_dragonstone_84_20230803061550_preview.jpeg"
+    }
   },
   {
     "Id": "94",
