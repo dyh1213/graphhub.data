@@ -3456,7 +3456,7 @@
     "Title": "Winterfell",
     "Description": "The ancestral home of House Stark and the seat of the Warden of the North. Winterfell is located in the North of Westeros and is known for its strong fortifications and its association with the Stark family.",
     "Image": null,
-    "Weight": null
+    "Weight": 10
   },
   {
     "Id": "345",
