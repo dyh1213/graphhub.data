@@ -915,7 +915,10 @@
     "Id": "8",
     "Title": "House Greyjoy",
     "Description": "Rulers of the Iron Islands, known for their seafaring prowess, hardiness, and rebellious nature. Sigil is a kraken, motto: \u0022We Do Not Sow.\u0022",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_house-greyjoy_8_20230803093917.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_house-greyjoy_8_20230803093917_preview.jpeg"
+    },
     "Weight": 10
   },
   {
