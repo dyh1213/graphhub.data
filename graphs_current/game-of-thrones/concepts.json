@@ -1571,7 +1571,10 @@
     "Id": "35",
     "Title": "Oberyn Martell",
     "Description": "Oberyn Martell, also known as the Red Viper, is a passionate and vengeful character in Game of Thrones. He is the Prince of Dorne and seeks justice for the murder of his sister Elia. Oberyn\u0027s skill in combat and his quest for revenge have a profound impact on the series.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_oberyn-martell_35_20230803090254.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_oberyn-martell_35_20230803090254_preview.jpeg"
+    },
     "Weight": 10
   },
   {
