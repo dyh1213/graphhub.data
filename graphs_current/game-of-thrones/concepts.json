@@ -1415,7 +1415,10 @@
     "Id": "69",
     "Title": "Meereen",
     "Description": "One of the major cities in Slaver\u0027s Bay, Meereen becomes a central location in Daenerys Targaryen\u0027s quest to free the enslaved people of the region. It is known for its Great Pyramid and the fighting pits.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_meereen_69_20230803114249.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_meereen_69_20230803114249_preview.jpeg"
+    },
     "Weight": 10
   },
   {
