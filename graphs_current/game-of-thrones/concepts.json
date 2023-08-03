@@ -3,133 +3,155 @@
     "Id": "215",
     "Title": "A Clash of Kings",
     "Description": "A Clash of Kings is the second novel in the A Song of Ice and Fire series. It continues the storylines of the various noble houses of Westeros and their struggles for power. The book depicts the War of the Five Kings and expands the world of the series with new locations and characters.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "236",
     "Title": "A Crown for a King",
     "Description": "A Crown for a King is a phrase associated with Khal Drogo, uttered when he melts a golden belt to create a crown for Viserys Targaryen.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "218",
     "Title": "A Dance with Dragons",
     "Description": "A Dance with Dragons is the fifth novel in the A Song of Ice and Fire series. It takes place simultaneously with the events of A Feast for Crows and continues the storylines of various characters. The book expands on the political intrigue and power struggles in Westeros, as well as the growing threat of Daenerys Targaryen.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "364",
     "Title": "A dragon is not a slave",
     "Description": "A phrase spoken by Daenerys Targaryen in reference to her dragons, it signifies their strength and independence.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "220",
     "Title": "A Dream of Spring",
     "Description": "A Dream of Spring is the planned seventh and final novel in the A Song of Ice and Fire series. Its release date is currently unknown. The book is expected to conclude the storylines of the remaining characters and resolve the conflicts in Westeros and beyond.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "217",
     "Title": "A Feast for Crows",
     "Description": "A Feast for Crows is the fourth novel in the A Song of Ice and Fire series. It focuses on the aftermath of the War of the Five Kings and the impact it has on the various noble houses. The book introduces new viewpoints and explores the political landscape of Westeros in greater depth.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "214",
     "Title": "A Game of Thrones",
     "Description": "A Game of Thrones is the first novel in the A Song of Ice and Fire series. It introduces readers to the complex web of characters and political intrigue in the Seven Kingdoms of Westeros. The book follows the noble House Stark, as well as other noble families, as they vie for control of the Iron Throne.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "232",
     "Title": "A girl has no name",
     "Description": "A girl has no name is a saying associated with Arya Stark during her training with the Faceless Men, representing her journey towards becoming a skilled assassin.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "358",
     "Title": "A Golden Crown",
     "Description": "A phrase related to Viserys Targaryen\u0027s demand for a crown from Khal Drogo, resulting in his death by molten gold.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "226",
     "Title": "A Lannister Always Pays His Debts",
     "Description": "A Lannister Always Pays His Debts is the motto of House Lannister, emphasizing their reputation for ensuring their debts are repaid, both financially and otherwise.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "362",
     "Title": "A lion does not concern himself with the opinion of sheep",
     "Description": "A quote by Tywin Lannister signifying the dominance and disregard of House Lannister towards their less powerful subjects.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "239",
     "Title": "A mind needs books as a sword needs a whetstone",
     "Description": "A mind needs books as a sword needs a whetstone is a quote by Tyrion Lannister, emphasizing the importance of knowledge and learning.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "377",
     "Title": "A queen must rule",
     "Description": "A quote from Daenerys Targaryen asserting her authority and power.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "405",
     "Title": "A ruler who kills those devoted to her is not a ruler who inspires devotion",
     "Description": "A quote by Tyrion Lannister, advising Daenerys on the importance of mercy and respect as a ruler.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "213",
     "Title": "A Song of Ice and Fire",
     "Description": "A Song of Ice and Fire is the overarching title of the series of epic fantasy novels written by George R.R. Martin. It is set in the fictional continents of Westeros and Essos and follows the power struggles and conflicts among noble families, as well as the supernatural threat of the Others beyond the Wall.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "216",
     "Title": "A Storm of Swords",
     "Description": "A Storm of Swords is the third novel in the A Song of Ice and Fire series. It is known for its numerous shocking and pivotal events, including the Red Wedding. The book further delves into the conflicts and power shifts in Westeros, as well as the growing threat from beyond the Wall.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "376",
     "Title": "A Targaryen alone in the world is a terrible thing",
     "Description": "A quote from Maester Aemon revealing his sympathy and concern for Daenerys Targaryen.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "400",
     "Title": "A very small man can cast a very large shadow",
     "Description": "A quote by Varys to Tyrion, highlighting the significance of influence over physical size or strength.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "325",
     "Title": "Above the rest",
     "Description": "This is the motto of House Mallister, a noble house from the Riverlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "109",
     "Title": "Aegon\u0027s Conquest",
     "Description": "Aegon Targaryen\u0027s conquest of Westeros, where he united the Seven Kingdoms under his rule and established the Targaryen dynasty.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "368",
     "Title": "All men must die",
     "Description": "The English translation of \u0027Valar Morghulis\u0027, a common saying in Essos.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "388",
     "Title": "Any man who must say, \u0027I am the king\u0027, is no true king",
     "Description": "A quote from Tywin Lannister teaching his grandson Joffrey about the nature of true authority.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "14",
@@ -138,25 +160,29 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_14_20230731141642.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_14_20230731141642_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "319",
     "Title": "As High as Honor",
     "Description": "This is the motto of House Arryn, one of the Great Houses of Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "387",
     "Title": "As High As Honor",
     "Description": "The motto of House Arryn, signifying their noble and virtuous nature.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "448",
     "Title": "Ashford",
     "Description": "A town in the Reach, ruled by House Ashford. Known for the Ashford Tourney in the history.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "452",
@@ -165,7 +191,8 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_asshai_452_20230802214825.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_asshai_452_20230802214825_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "73",
@@ -174,31 +201,36 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_astapor_73_20230802225657.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_astapor_73_20230802225657_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "278",
     "Title": "Bakkalon, the Pale Child",
     "Description": "A deity favored by soldiers.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "195",
     "Title": "Balerion",
     "Description": "Balerion, also known as Balerion the Black Dread, is one of the most famous dragons in Westerosi history. He was the dragon of Aegon the Conqueror and played a crucial role in the Targaryen conquest of Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "203",
     "Title": "Balerion (Historical)",
     "Description": "Balerion, also known as Balerion the Black Dread, was the largest and most powerful dragon in Westerosi history. He was the dragon of Aegon the Conqueror and played a crucial role in the Targaryen conquest of Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "468",
     "Title": "Bandallon",
     "Description": "A castle in the Reach, the seat of House Blackbar. It\u0027s located on the southern coast of the Whispering Sound.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "462",
@@ -207,7 +239,8 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_barrowton_462_20230802225800.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_barrowton_462_20230802225800_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "423",
@@ -216,7 +249,8 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_bayasabhad_423_20230802225822.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_bayasabhad_423_20230802225822_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "42",
@@ -225,49 +259,57 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_beric-dondarrion_42_20230802213324.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_beric-dondarrion_42_20230802213324_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "352",
     "Title": "Better than the Best",
     "Description": "This is the motto of House Umber, a noble house from the North.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "354",
     "Title": "Beware Our Sting",
     "Description": "This is the motto of House Beesbury, a noble house from the Reach.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "338",
     "Title": "Beware the Fury of a Patient Man",
     "Description": "This is the motto of House Corbray, a noble house from the Vale.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "446",
     "Title": "Bitterbridge",
     "Description": "A town in the Reach, located at a strategic crossing of the river Mander, known for its large stone bridge.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "469",
     "Title": "Blackcrown",
     "Description": "A castle in the Reach, the seat of House Bulwer. It\u0027s located on the Blackwater Bay.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "449",
     "Title": "Blackhaven",
     "Description": "A Dornish castle in the Red Mountains, ruled by House Dondarrion. Functions as a settlement as well.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "353",
     "Title": "Bound by Blood",
     "Description": "This is the motto of House Blackwood, a noble house from the Riverlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "68",
@@ -276,7 +318,8 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_braavos_68_20230803060743.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_braavos_68_20230803060743_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "18",
@@ -285,7 +328,8 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_18_20230731141716.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_18_20230731141716_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "32",
@@ -294,7 +338,8 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_brienne-of-tarth_32_20230802212239.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_brienne-of-tarth_32_20230802212239_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "47",
@@ -303,37 +348,36 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_bronn_47_20230802212316.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_bronn_47_20230802212316_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "375",
     "Title": "Burn them all",
     "Description": "The last words of King Aerys II Targaryen, revealing his madness and obsession with fire.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "339",
     "Title": "By Day or Night",
     "Description": "This is the motto of House Dayne, a noble house from Dorne.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "201",
     "Title": "Caraxes",
     "Description": "Caraxes, also known as Caraxes the Blood Wyrm, was a dragon ridden by Prince Daemon Targaryen during the Dance of the Dragons. Caraxes was known for his dark red scales and fiery nature.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "82",
     "Title": "Casterly Rock",
     "Description": "The ancestral stronghold of House Lannister, Casterly Rock is a massive fortress located on the western coast of Westeros. It is known for its vast gold mines and its strategic importance.",
-    "Image": null
-  },
-  {
-    "Id": "437",
-    "Title": "Casterly Rock",
-    "Description": "Home of House Lannister, built into a massive rock beside the Sunset Sea. While not a city, it\u0027s significant and populous like one.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "19",
@@ -342,7 +386,8 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_19_20230731141759.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_19_20230731141759_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "15",
@@ -351,19 +396,22 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_15_20230731143548.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_15_20230731143548_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "229",
     "Title": "Chaos isn\u0027t a Pit, It\u0027s a Ladder",
     "Description": "Chaos isn\u0027t a Pit, It\u0027s a Ladder is a line spoken by Petyr Baelish, highlighting his belief that chaos creates opportunities for advancement and power.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "272",
     "Title": "Church of Starry Wisdom",
     "Description": "A religion that exists in several port cities throughout the known world. It worships a deity known as the Lion of Night.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "486",
@@ -372,7 +420,8 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_486_20230731134953_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "58",
@@ -381,7 +430,8 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_daario-naharis_58_20230802212448.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_daario-naharis_58_20230802212448_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "11",
@@ -390,49 +440,57 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_11_20230801070116.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_11_20230801070116_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "367",
     "Title": "Dark wings, dark words",
     "Description": "A common saying in Westeros referring to the fact that messages brought by ravens often carry bad news.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "40",
     "Title": "Davina Sand",
     "Description": "Davina Sand is a cunning and deceptive character in Game of Thrones. She is a skilled manipulator and spy, often working behind the scenes to gather information and influence events. Davina\u0027s loyalty lies with her own interests, and she is willing to do whatever it takes to achieve her goals.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "29",
     "Title": "Davos Seaworth",
     "Description": "Davos Seaworth, also known as the Onion Knight, is a loyal and honorable character in Game of Thrones. He is a former smuggler who becomes a trusted advisor to Stannis Baratheon. Davos\u0027 unwavering loyalty and moral compass make him a valuable asset in the conflicts that arise.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "330",
     "Title": "Death Before Disgrace",
     "Description": "This is the motto of House Toyne, a noble house from the Stormlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "472",
     "Title": "Deepwood Motte",
     "Description": "A castle and its surrounding settlement in the North of Westeros, the seat of House Glover.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "348",
     "Title": "Defender of the Dispossessed",
     "Description": "This is the motto of House Blackfyre, a noble house from the Crownlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "392",
     "Title": "Different roads sometimes lead to the same castle",
     "Description": "A quote from Jon Snow emphasizing that there are often different paths to the same goal.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "81",
@@ -441,13 +499,15 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_dorne_81_20230803061533.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_dorne_81_20230803061533_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "223",
     "Title": "Dracarys",
     "Description": "Dracarys is a High Valyrian word meaning \u0027dragonfire.\u0027 It is often used as a command for Daenerys Targaryen\u0027s dragons to breathe fire and unleash destruction.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "84",
@@ -456,55 +516,64 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_dragonstone_84_20230803061550.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_dragonstone_84_20230803061550_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "94",
     "Title": "Dreadfort",
     "Description": "The seat of House Bolton, the Dreadfort is a castle located in the North of Westeros. It is known for its dark history and the cruelty of the Bolton family.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "210",
     "Title": "Dreamfyre",
     "Description": "Dreamfyre was a dragon ridden by Queen Helaena Targaryen during the Targaryen civil war known as the Dance of the Dragons. Dreamfyre was known for her multicolored scales and was often seen as a symbol of madness.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "192",
     "Title": "Drogon",
     "Description": "Drogon is one of the three dragons born to Daenerys Targaryen and the largest and most aggressive of them. He becomes Daenerys\u0027 primary dragon and is named after her late husband Khal Drogo. Drogon plays a significant role in battles and is often ridden by Daenerys.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "198",
     "Title": "Drogon (Historical)",
     "Description": "Drogon was one of the three dragons born to Rhaenyra Targaryen during the Targaryen civil war known as the Dance of the Dragons. He was named after Daenerys\u0027 dragon and played a significant role in the war.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "200",
     "Title": "Drogon (Historical)",
     "Description": "Drogon was one of the three dragons born to Aegon III Targaryen during the Targaryen civil war known as the Dance of the Dragons. He was named after Daenerys\u0027 dragon and played a significant role in the war.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "444",
     "Title": "Duskendale",
     "Description": "A port city in the Crownlands, known for its defiance against the Targaryen rule in its history.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "51",
     "Title": "Eddison Tollett",
     "Description": "Eddison Tollett, often called Dolorous Edd, is a loyal and sarcastic character in Game of Thrones. He is a member of the Night\u0027s Watch and becomes Jon Snow\u0027s close friend. Eddison\u0027s dry humor and pessimistic outlook provide moments of levity in the series.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "52",
     "Title": "Ellaria Sand",
     "Description": "Ellaria Sand is a passionate and vengeful character in Game of Thrones. She is the paramour of Oberyn Martell and becomes involved in the conflict between House Martell and House Lannister. Ellaria\u0027s desire for revenge and her fierce loyalty to her family drive her actions.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "429",
@@ -513,259 +582,298 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_elyria_429_20230803062033.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_elyria_429_20230803062033_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "481",
     "Title": "Essos",
     "Description": "Essos is a vast, eastern continent in the \u0022Game of Thrones\u0022 fictional universe. Bounded by the Narrow Sea to the west, separating it from Westeros, Essos hosts a rich diversity of cultures, peoples, and landscapes. Notable narratives within the series, including those of Daenerys Targaryen and the city-states of the Free Cities, primarily transpire in Essos.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "41",
     "Title": "Euron Greyjoy",
     "Description": "Euron Greyjoy is a sadistic and unpredictable character in Game of Thrones. He is the uncle of Theon Greyjoy and seeks to claim the Iron Islands for himself. Euron\u0027s brutal nature and his mastery of naval warfare make him a dangerous adversary.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "485",
     "Title": "Event",
     "Description": "In the context of Game of Thrones, an event referred to a significant occurrence that has shaped the narrative of the series. This could be a major battle like the Battle of Blackwater and the Battle of Winterfell, a pivotal siege such as the Siege of Meereen and the Siege of Riverrun, and political intrigue like the Red Wedding and the Trial by Combat. Other categories involve the emergence of dragons, the death of key characters like Ned Stark, and important historical periods like Robert\u0027s Rebellion and Aegon\u0027s Conquest. These events are pivotal moments that influence the power struggles, alliances, and conflicts in the world of Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "379",
     "Title": "Every flight begins with a fall",
     "Description": "A quote from the Three-eyed Raven to Bran Stark, explaining the path to learning and growth.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "337",
     "Title": "Every Man a King",
     "Description": "This is the motto of House Broom, a noble house from the Westerlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "439",
     "Title": "Fair Isle",
     "Description": "An island in the Sunset Sea off the western coast of Westeros. The seat of House Farman, known for its shipyards.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "440",
     "Title": "Fairmarket",
     "Description": "A large town located along the Blue Fork of the Trident in the Riverlands. It\u0027s a strategic and bustling market town.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "318",
     "Title": "Family, Duty, Honor",
     "Description": "This is the motto of House Tully, one of the Great Houses of Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "397",
     "Title": "Family, Duty, Honor",
     "Description": "The motto of House Tully, outlining their priorities and values.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "363",
     "Title": "Fear cuts deeper than swords",
     "Description": "A quote from Syrio Forel to Arya Stark during their training sessions, teaching her to conquer her fears.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "222",
     "Title": "Fire \u0026 Blood",
     "Description": "Fire \u0026 Blood is a companion book to the A Song of Ice and Fire series. It is a fictional history book that covers the Targaryen dynasty, starting with Aegon\u0027s Conquest and spanning several centuries. The book provides insights into the history of Westeros and the Targaryen rulers.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "238",
     "Title": "Fire and Blood",
     "Description": "Fire and Blood is the motto of House Targaryen, representing their history of dragonlords and their determination to reclaim the Iron Throne.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "329",
     "Title": "First in Battle",
     "Description": "This is the motto of House Tarly, a noble house from the Reach.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "410",
     "Title": "First lesson, stick them with the pointy end",
     "Description": "A quote by Jon Snow to Arya Stark, giving her basic advice on how to use a sword.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "321",
     "Title": "First of His Name",
     "Description": "A title given to the first king of a new dynasty in the Seven Kingdoms.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "334",
     "Title": "Fly High, Fly Far",
     "Description": "This is the motto of House Swyft, a noble house from the Westerlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "313",
     "Title": "For the night is dark and full of terrors",
     "Description": "This is a prayer to the Lord of Light, often quoted by Melisandre.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "335",
     "Title": "From Sea to Sea",
     "Description": "This is the motto of House Seaworth, a noble house from the Stormlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "1",
     "Title": "Game of Thrones",
     "Description": "Game of Thrones is a captivating epic that transcends mediums as both a book series and a television phenomenon. Written by George R.R. Martin, the books intricately weave a tale of political intrigue, power struggles, and fantastical elements in a medieval-inspired world. The story follows noble families vying for control of the Seven Kingdoms, resulting in complex character arcs, unexpected plot twists, and intense battles. The TV adaptation brought this intricate narrative to life, enchanting audiences with its sprawling ensemble cast, breathtaking visuals, and unparalleled production value. Both the books and the series explore themes of loyalty, morality, and the consequences of wielding power, leaving a lasting impression on fans worldwide.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "45",
     "Title": "Gendry",
     "Description": "Gendry is a skilled blacksmith and a legitimate son of Robert Baratheon in Game of Thrones. He becomes an ally to various characters and plays a key role in the conflict for the Iron Throne. Gendry\u0027s skills and noble bloodline make him a valuable asset in the series.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "463",
     "Title": "Ghis",
     "Description": "The ancient capital of the Ghiscari Empire in Essos, now ruined and overgrown, known for its colossal architecture.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "205",
     "Title": "Grey Ghost",
     "Description": "Grey Ghost was a dragon ridden by Queen Alysanne Targaryen, wife of King Jaehaerys I, during their reign. He was known for his silver-white scales and silent flight.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "53",
     "Title": "Grey Worm",
     "Description": "Grey Worm is a skilled and disciplined character in Game of Thrones. He is the commander of the Unsullied, an army of eunuch slave soldiers. Grey Worm\u0027s journey involves finding his identity and forging deep connections in a world defined by war and political intrigue.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "455",
     "Title": "Greywater Watch",
     "Description": "The seat of House Reed in the North, located in the swamplands of the Neck. Known to be impossible to find by outsiders.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "479",
     "Title": "Griffin\u0027s Roost",
     "Description": "A castle in the Stormlands, the seat of House Connington. Known for its white stone and blue roofs.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "314",
     "Title": "Growing strong",
     "Description": "This is the motto of House Tyrell, one of the Great Houses of Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "390",
     "Title": "Growing Strong",
     "Description": "The motto of House Tyrell, representing their resilience and growth in power.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "415",
     "Title": "Gulltown",
     "Description": "A thriving port city in the Vale of Arryn, known for its economic prowess and its commanding view of the Narrow Sea.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "167",
     "Title": "Hand of the King",
     "Description": "The Hand of the King is the principal advisor to the reigning monarch and acts as the second-in-command in the Seven Kingdoms. This title carries significant political power and influence.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "85",
     "Title": "Harrenhal",
     "Description": "A massive castle located in the Riverlands, Harrenhal is the largest and most haunted castle in Westeros. It is associated with tragedy and misfortune and has changed hands multiple times throughout history.",
-    "Image": null
-  },
-  {
-    "Id": "332",
-    "Title": "Hear Me Roar!",
-    "Description": "This is the official motto of House Lannister, one of the Great Houses of Westeros.",
-    "Image": null
-  },
-  {
-    "Id": "356",
-    "Title": "Hear the roar",
-    "Description": "A common phrase associated with House Lannister, it signifies their strength and power.",
-    "Image": null
-  },
-  {
-    "Id": "450",
-    "Title": "Hellholt",
-    "Description": "A castle in Dorne, ruled by House Uller. Known for its harsh desert surroundings.",
-    "Image": null
-  },
-  {
-    "Id": "320",
-    "Title": "Here We Stand",
-    "Description": "This is the motto of House Mormont, a noble house from the North.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "408",
     "Title": "He\u0027s the prince that was promised, and his is the song of ice and fire",
     "Description": "A quote by Rhaegar Targaryen in reference to his son, hinting at the prophecy of the prince who was promised.",
-    "Image": null
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "332",
+    "Title": "Hear Me Roar!",
+    "Description": "This is the official motto of House Lannister, one of the Great Houses of Westeros.",
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "356",
+    "Title": "Hear the roar",
+    "Description": "A common phrase associated with House Lannister, it signifies their strength and power.",
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "450",
+    "Title": "Hellholt",
+    "Description": "A castle in Dorne, ruled by House Uller. Known for its harsh desert surroundings.",
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "320",
+    "Title": "Here We Stand",
+    "Description": "This is the motto of House Mormont, a noble house from the North.",
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "48",
     "Title": "High Sparrow",
     "Description": "The High Sparrow is a pious and zealous character in Game of Thrones. He is the leader of the religious movement known as the Sparrows and gains significant influence in King\u0027s Landing. The High Sparrow\u0027s strict adherence to his beliefs and his role in shaping the Faith of the Seven have far-reaching consequences.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "80",
     "Title": "Highgarden",
     "Description": "The seat of House Tyrell, Highgarden is a castle and city located in the Reach of Westeros. It is known for its lush gardens, agricultural wealth, and its alliance with House Lannister.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "65",
     "Title": "Hodor",
     "Description": "Hodor, originally named Wylis, is a gentle and loyal character in Game of Thrones. He serves as a stable boy and becomes Bran Stark\u0027s loyal companion. Hodor\u0027s tragic fate and his simple yet profound impact on the story make him a fan-favorite character.",
-    "Image": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_hodor_65_20230803101452.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_hodor_65_20230803101452_preview.jpeg"
+    },
+    "Weight": 10
   },
   {
     "Id": "233",
     "Title": "Hold the door",
     "Description": "Hold the door is a phrase with significant emotional impact, revealing the origin of Hodor\u0027s name and the sacrifice he made to protect Bran Stark.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "343",
     "Title": "Honour, not Honours",
     "Description": "This is the motto of House Smallwood, a noble house from the Riverlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "97",
     "Title": "Horn Hill",
     "Description": "The ancestral seat of House Tarly, Horn Hill is a castle located in the Reach of Westeros. It is known for its martial tradition and the formidable warriors produced by House Tarly.",
-    "Image": null
-  },
-  {
-    "Id": "473",
-    "Title": "Horn Hill",
-    "Description": "A castle in the Reach, the ancestral seat of House Tarly. It\u0027s surrounded by a large town.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "483",
@@ -774,13 +882,15 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_483_20230731135941.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_483_20230731135941_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "10",
     "Title": "House Arryn",
     "Description": "Rulers of the Vale, known for their strong defensive position, nobility, and honor. Sigil is a falcon and moon, motto: \u0022As High As Honor.\u0022",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "4",
@@ -789,13 +899,15 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_4_20230731152340.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_4_20230731152340_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "8",
     "Title": "House Greyjoy",
     "Description": "Rulers of the Iron Islands, known for their seafaring prowess, hardiness, and rebellious nature. Sigil is a kraken, motto: \u0022We Do Not Sow.\u0022",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "3",
@@ -804,13 +916,15 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_3_20230801061018.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_3_20230801061018_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "7",
     "Title": "House Martell",
     "Description": "Rulers of Dorne, known for their fiery passion, pride, and resilience. Sigil is a sun and spear, motto: \u0022Unbowed, Unbent, Unbroken.\u0022",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "2",
@@ -819,109 +933,127 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_2_20230731140345.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_2_20230731140345_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "5",
     "Title": "House Targaryen",
     "Description": "Former rulers of Westeros, with Valyrian roots. Known for their silver hair, purple eyes, and dragons. Sigil is a dragon, motto: \u0022Fire and Blood.\u0022",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "9",
     "Title": "House Tully",
     "Description": "Rulers of Riverrun, known for their devotion to duty and family. Sigil is a trout, motto: \u0022Family, Duty, Honor.\u0022",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "6",
     "Title": "House Tyrell",
     "Description": "Rulers of Highgarden in the Reach. Renowned for their diplomacy, wealth from agriculture, and chivalry. Sigil is a rose, motto: \u0022Growing Strong.\u0022",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "378",
     "Title": "I am the king!",
     "Description": "A quote from King Joffrey, often said in moments of anger or when his authority is questioned.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "360",
     "Title": "I am the storm, brother",
     "Description": "A quote from Euron Greyjoy to his brother Balon, signifying his ambitions and ruthlessness.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "235",
     "Title": "I am the sword in the darkness",
     "Description": "I am the sword in the darkness is a part of the Night\u0027s Watch oath, symbolizing their duty to protect the realms of men from the threats beyond the Wall.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "237",
     "Title": "I demand a trial by combat",
     "Description": "I demand a trial by combat is a request made by characters to settle legal disputes through personal combat, allowing the gods to decide their fate.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "228",
     "Title": "I Drink and I Know Things",
     "Description": "I Drink and I Know Things is a memorable quote from Tyrion Lannister, reflecting his wit, intelligence, and love for wine.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "398",
     "Title": "I have a tender spot in my heart for cripples, bastards and broken things",
     "Description": "A quote by Tyrion Lannister, revealing his empathy for the marginalized and mistreated.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "350",
     "Title": "I Have No Rival",
     "Description": "This is the motto of House Qorgyle, a noble house from Dorne.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "407",
     "Title": "I have nothing to say to you",
     "Description": "A quote by Sansa Stark to Littlefinger, rejecting his manipulations and ending his influence over her.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "396",
     "Title": "I swear it by the old gods and the new",
     "Description": "A common oath in the Seven Kingdoms, encompassing all religious beliefs.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "399",
     "Title": "I was born to rule the Seven Kingdoms",
     "Description": "A quote by Daenerys Targaryen, expressing her conviction in her birthright and destiny.",
-    "Image": null
-  },
-  {
-    "Id": "413",
-    "Title": "If I fall, don\u0027t bring me back",
-    "Description": "A quote by Jon Snow to Melisandre, asking not to be resurrected should he die in battle.",
-    "Image": null
-  },
-  {
-    "Id": "391",
-    "Title": "If you think this has a happy ending, you haven\u0027t been paying attention",
-    "Description": "A quote from Ramsay Bolton highlighting the often tragic and unexpected outcomes in the game of thrones.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "370",
     "Title": "I\u0027m not a Ser, I\u0027m a Lord",
     "Description": "A quote from Bronn, expressing his desire for higher status and recognition.",
-    "Image": null
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "413",
+    "Title": "If I fall, don\u0027t bring me back",
+    "Description": "A quote by Jon Snow to Melisandre, asking not to be resurrected should he die in battle.",
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "391",
+    "Title": "If you think this has a happy ending, you haven\u0027t been paying attention",
+    "Description": "A quote from Ramsay Bolton highlighting the often tragic and unexpected outcomes in the game of thrones.",
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "389",
     "Title": "In the game of thrones, even the humblest pieces can have wills of their own",
     "Description": "A quote from Tyrion Lannister highlighting the unpredictability and complexity of political power struggles.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "482",
@@ -930,13 +1062,15 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_individual_482_20230802213033.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_individual_482_20230802213033_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "461",
     "Title": "Ironoaks",
     "Description": "A castle and town in the Vale, overlooking Ironoaks Lake. The ancestral seat of House Waynwood.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "16",
@@ -945,19 +1079,22 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_16_20230731143607.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_16_20230731143607_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "43",
     "Title": "Jaqen H\u0027ghar",
     "Description": "Jaqen H\u0027ghar is a mysterious and skilled assassin in Game of Thrones. He is a Faceless Man and a member of the guild of assassins in Braavos. Jaqen\u0027s ability to change identities and his involvement in Arya Stark\u0027s training make him an intriguing and compelling character.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "46",
     "Title": "Jeor Mormont",
     "Description": "Jeor Mormont, also known as the Old Bear, is the Lord Commander of the Night\u0027s Watch in Game of Thrones. He is a respected and wise leader who guides the Night\u0027s Watch through challenging times. Jeor\u0027s dedication to defending the realm from the threats beyond the Wall is unwavering.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "23",
@@ -966,13 +1103,15 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_23_20230731143731.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_23_20230731143731_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "62",
     "Title": "Jojen Reed",
     "Description": "Jojen Reed is a wise and prescient character in Game of Thrones. He is the son of Lord Howland Reed and becomes a guide and mentor to Bran Stark. Jojen\u0027s unique abilities and his insights into the mystical aspects of the world make him an important character.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "12",
@@ -981,49 +1120,57 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_12_20230731140134.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_12_20230731140134_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "34",
     "Title": "Jorah Mormont",
     "Description": "Jorah Mormont is a loyal and conflicted character in Game of Thrones. He is an exiled knight and serves as an advisor to Daenerys Targaryen. Jorah\u0027s journey involves his unrequited love for Daenerys and his struggle to redeem himself and regain his honor.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "470",
     "Title": "Karhold",
     "Description": "The seat of House Karstark, a vassal to House Stark. It\u0027s located in the North of Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "425",
     "Title": "Kayakayanaya",
     "Description": "A city in Essos located at the eastern end of the Bone Mountains, known for its warrior women.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "191",
     "Title": "Khal",
     "Description": "The title \u0027Khal\u0027 is given to the leader of a Dothraki horde. Khals are fierce warriors and conquerors who command vast armies of horse-mounted warriors known as screamers.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "365",
     "Title": "Kill the boy, Jon Snow",
     "Description": "Advice given by Maester Aemon to Jon Snow, encouraging him to let go of his past and become a leader.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "190",
     "Title": "King Beyond the Wall",
     "Description": "The title \u0027King Beyond the Wall\u0027 is given to a wildling leader who successfully unites the various clans and tribes beyond the Wall. It signifies their authority and status as a sovereign ruler.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "165",
     "Title": "King in the North",
     "Description": "The title \u0027King in the North\u0027 refers to the ruler of the independent North, a position held by several characters throughout the series. It symbolizes the region\u0027s autonomy and the loyalty of its people.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "66",
@@ -1032,43 +1179,50 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_66_20230731140203.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_66_20230731140203_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "322",
     "Title": "Kissed by Fire",
     "Description": "A phrase used to describe someone with red hair, often seen as a sign of luck.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "275",
     "Title": "Lady of the Waves and the Lord of the Skies",
     "Description": "Old gods of the Three Sisters Islands in the Bite, who were said to be married.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "90",
     "Title": "Lannisport",
     "Description": "The largest city on the western coast of Westeros, Lannisport is the seat of House Lannister\u0027s power. It is known for its bustling port, its wealthy residents, and its connection to Casterly Rock.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "471",
     "Title": "Last Hearth",
     "Description": "The seat of House Umber, located in the North of Westeros. It\u0027s the northernmost castle of the Seven Kingdoms.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "64",
     "Title": "Leaf",
     "Description": "Leaf is a mysterious and ancient character in Game of Thrones. She is one of the Children of the Forest, a magical and reclusive species. Leaf\u0027s role in the series involves protecting their sacred lands and confronting the threats beyond the Wall.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "331",
     "Title": "Let Me Soar",
     "Description": "This is the motto of House Fowler, a noble house from Dorne.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "89",
@@ -1077,163 +1231,190 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_location_89_20230803062616.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_location_89_20230803062616_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "98",
     "Title": "Lorath",
     "Description": "One of the Free Cities, Lorath is a small and isolated city known for its seafaring tradition and its unusual customs. It is the least populated and least influential of the Free Cities.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "421",
     "Title": "Lorath",
     "Description": "The smallest of the Free Cities in Essos. Known for its maze-makers, but otherwise poor and unimpressive.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "166",
     "Title": "Lord Commander",
     "Description": "The title \u0027Lord Commander\u0027 is bestowed upon the leader of the Night\u0027s Watch. The Lord Commander is responsible for maintaining the order and discipline within the organization and making crucial decisions regarding the defense of the realm.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "186",
     "Title": "Lord Commander of the Kingsguard",
     "Description": "The Lord Commander of the Kingsguard is the leader of the elite royal bodyguard sworn to protect the king or queen. This title carries great honor and requires exceptional skill in combat and unwavering loyalty.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "169",
     "Title": "Lord of Casterly Rock",
     "Description": "The Lord of Casterly Rock is the ruler of House Lannister and controls the wealthy region of the Westerlands. This title grants immense wealth, power, and influence within the realm.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "171",
     "Title": "Lord of the Iron Islands",
     "Description": "The Lord of the Iron Islands is the ruler of House Greyjoy and controls the ironborn people who inhabit the islands. This title holds authority over a seafaring culture known for raiding and reaving.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "170",
     "Title": "Lord of Winterfell",
     "Description": "The Lord of Winterfell is the ruler of House Stark and holds dominion over the North. This title carries the responsibility of governing the vast northern lands and protecting the Stark family\u0027s ancestral seat.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "181",
     "Title": "Lord Paramount of Dorne",
     "Description": "The Lord Paramount of Dorne is the ruler of House Martell and governs the arid and fiercely independent region of Dorne. This title holds authority over a unique culture and strategic position in the realm.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "188",
     "Title": "Lord Paramount of the Crownlands",
     "Description": "The Lord Paramount of the Crownlands is the ruler of House Baratheon and commands the region surrounding King\u0027s Landing. This title carries significant political influence and control over the capital city.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "180",
     "Title": "Lord Paramount of the Iron Islands",
     "Description": "The Lord Paramount of the Iron Islands is the ruler of House Greyjoy and commands the ironborn people who inhabit the islands. This title holds authority over a seafaring culture known for raiding and reaving.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "175",
     "Title": "Lord Paramount of the Reach",
     "Description": "The Lord Paramount of the Reach is the ruler of House Tyrell and holds authority over the fertile region of the Reach. This title carries influence and control over the bountiful lands and resources.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "179",
     "Title": "Lord Paramount of the Riverlands",
     "Description": "The Lord Paramount of the Riverlands is the ruler of House Tully and holds authority over the fertile lands surrounding the rivers. This title carries influence and control over a strategically important region.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "176",
     "Title": "Lord Paramount of the Stormlands",
     "Description": "The Lord Paramount of the Stormlands is the ruler of House Baratheon and commands the region of the Stormlands. This title holds significance due to the region\u0027s strategic location and military strength.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "177",
     "Title": "Lord Paramount of the Vale",
     "Description": "The Lord Paramount of the Vale is the ruler of House Arryn and governs the mountainous region of the Vale. This title grants control over a highly defensible territory and the loyalty of the mountain clans.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "178",
     "Title": "Lord Paramount of the Westerlands",
     "Description": "The Lord Paramount of the Westerlands is the ruler of House Lannister and controls the rich and resourceful region of the Westerlands. This title comes with great wealth and political influence.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "394",
     "Title": "Love is the death of duty",
     "Description": "A quote from Maester Aemon revealing the conflict between personal desires and responsibilities.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "76",
     "Title": "Lys",
     "Description": "One of the Free Cities, Lys is known for its pleasure houses and the training of highly skilled courtesans and bed slaves. It is a center of the slave trade and a hotbed of intrigue and debauchery.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "78",
     "Title": "Lysa Arryn\u0027s Eyrie",
     "Description": "The Eyrie is the seat of House Arryn and is situated in the Vale of Arryn, high in the mountains. It is known for its impregnable defenses and its breathtaking views.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "441",
     "Title": "Maidenpool",
     "Description": "A town in the Riverlands, known for its hot pools and its delicate pink marble keep.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "427",
     "Title": "Mantarys",
     "Description": "A city located in the region of Essos known as the Demon Road, feared for its monstrous and malformed inhabitants.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "36",
     "Title": "Margaery Tyrell",
     "Description": "Margaery Tyrell is a cunning and ambitious character in Game of Thrones. She is a member of House Tyrell and becomes a queen consort to multiple kings. Margaery\u0027s political acumen and manipulation of those around her make her a formidable player in the game of thrones.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "173",
     "Title": "Master of Coin",
     "Description": "The Master of Coin is responsible for managing the finances of the Seven Kingdoms. They oversee the treasury, taxation, and economic policies, ensuring the realm\u0027s financial stability.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "172",
     "Title": "Master of Whisperers",
     "Description": "The Master of Whisperers is a title given to the spymaster and intelligence chief of the Seven Kingdoms. They are responsible for gathering and disseminating information, playing a crucial role in political intrigues.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "63",
     "Title": "Meera Reed",
     "Description": "Meera Reed is a skilled and loyal character in Game of Thrones. She is the daughter of Lord Howland Reed and accompanies her brother, Jojen, in guiding Bran Stark. Meera\u0027s archery skills and her dedication to protecting Bran make her an important ally.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "69",
     "Title": "Meereen",
     "Description": "One of the major cities in Slaver\u0027s Bay, Meereen becomes a central location in Daenerys Targaryen\u0027s quest to free the enslaved people of the region. It is known for its Great Pyramid and the fighting pits.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "202",
     "Title": "Meleys",
     "Description": "Meleys, also known as Meleys the Red Queen, was a dragon ridden by Princess Rhaenys Targaryen during the Dance of the Dragons. Meleys had crimson scales and was known for her fierce temperament.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "30",
@@ -1242,55 +1423,64 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_30_20230801202304.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_30_20230801202304_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "197",
     "Title": "Meraxes",
     "Description": "Meraxes was one of the three dragons ridden by Aegon the Conqueror. She was named after Aegon\u0027s sister-wife, Rhaenys Targaryen. Meraxes was instrumental in the conquest of Dorne.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "54",
     "Title": "Missandei",
     "Description": "Missandei is a intelligent and loyal character in Game of Thrones. She is a former slave who becomes an advisor and translator for Daenerys Targaryen. Missandei\u0027s journey involves discovering her own power and agency in a world that often seeks to oppress her.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "86",
     "Title": "Moat Cailin",
     "Description": "A heavily fortified castle located in the Neck, Moat Cailin guards the northern approaches to the rest of Westeros. It is a key strategic location in conflicts between the North and the South.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "307",
     "Title": "Moon of my life",
     "Description": "This is an affectionate term used by Khal Drogo to address Daenerys Targaryen.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "164",
     "Title": "Mother of Dragons",
     "Description": "The title \u0027Mother of Dragons\u0027 is given to Daenerys Targaryen, who hatched three dragon eggs and became the mother and rider of dragons. She commands the loyalty of the powerful creatures and uses them to further her ambitions.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "284",
     "Title": "Mother Rhoyne",
     "Description": "A religion worshiped by a minority group in eastern Dorne, associated with the Rhoynar people and their river-based culture.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "308",
     "Title": "My sun and stars",
     "Description": "This is an affectionate term used by Daenerys Targaryen to address Khal Drogo.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "418",
     "Title": "Myr",
     "Description": "One of the Free Cities on the continent of Essos. Myr is known for its artisans, especially lensmakers and armorers.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "50",
@@ -1299,121 +1489,141 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_50_20230731152138.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_50_20230731152138_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "21",
     "Title": "Ned Stark",
     "Description": "Eddard Stark, commonly known as Ned Stark, is a pivotal character in Game of Thrones. He is the head of House Stark and the Lord of Winterfell. Ned\u0027s honor, integrity, and loyalty set the tone for the series, and his death serves as a catalyst for the power struggles that follow.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "412",
     "Title": "Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you",
     "Description": "A quote by Tyrion Lannister to Jon Snow, advising him to embrace his identity as a bastard.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "333",
     "Title": "Never Resting",
     "Description": "This is the motto of House Redwyne, a noble house from the Reach.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "430",
     "Title": "New Ghis",
     "Description": "An island city in Slaver\u0027s Bay, home to the Ghiscari Empire, known for its lockstep legions.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "326",
     "Title": "No one can withstand us",
     "Description": "This is the motto of House Codd, a noble house from the Iron Islands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "346",
     "Title": "None so Wise",
     "Description": "This is the motto of House Waynwood, a noble house from the Vale.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "419",
     "Title": "Norvos",
     "Description": "A Free City in Essos, divided into a High City on the hills and a Low City on the banks of the river Noyne.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "316",
     "Title": "Not today",
     "Description": "Syrio Forel\u0027s famous saying to Arya Stark during their sword-fighting lessons.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "373",
     "Title": "Nothing burns like the cold",
     "Description": "A phrase highlighting the harsh and unforgiving nature of the winters in Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "35",
     "Title": "Oberyn Martell",
     "Description": "Oberyn Martell, also known as the Red Viper, is a passionate and vengeful character in Game of Thrones. He is the Prince of Dorne and seeks justice for the murder of his sister Elia. Oberyn\u0027s skill in combat and his quest for revenge have a profound impact on the series.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "95",
     "Title": "Old Valyria",
     "Description": "An ancient city located in the eastern continent of Essos, Old Valyria was the ancestral home of House Targaryen. It was once a powerful and advanced civilization but was destroyed in a cataclysmic event.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "77",
     "Title": "Oldtown",
     "Description": "Located in the Reach of Westeros, Oldtown is the second-largest city in the Seven Kingdoms and is home to the Citadel, where maesters are trained. It is known for its ancient architecture and rich history.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "37",
     "Title": "Olenna Tyrell",
     "Description": "Olenna Tyrell, also known as the Queen of Thorns, is a shrewd and witty character in Game of Thrones. She is the matriarch of House Tyrell and a skilled player in the political landscape. Olenna\u0027s sharp tongue and strategic maneuvers make her a fan-favorite character.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "323",
     "Title": "Our Blades are Sharp",
     "Description": "This is the motto of House Bolton, a noble house from the North.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "366",
     "Title": "Our is the fury",
     "Description": "The official motto of House Baratheon, it signifies their fierce temperament and power.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "395",
     "Title": "Ours is the fury",
     "Description": "The motto of House Baratheon, symbolizing their fierce temper and swift retribution.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "317",
     "Title": "Ours is the Fury",
     "Description": "This is the motto of House Baratheon, one of the Great Houses of Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "75",
     "Title": "Pentos",
     "Description": "One of the Free Cities, Pentos is a wealthy city known for its trade and commerce. It is where Daenerys Targaryen and her brother Viserys begin their journey at the start of the series.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "435",
     "Title": "Pentos",
     "Description": "A Free City of Essos, located on the western coastline of the continent, known for its cheese, wines, and elephants.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "27",
@@ -1422,97 +1632,120 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_27_20230801201932.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_27_20230801201932_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "447",
     "Title": "Planky Town",
     "Description": "The port at the mouth of the Greenblood River in Dorne, built largely on rafts and barges.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "55",
     "Title": "Podrick Payne",
     "Description": "Podrick Payne is a loyal and humble character in Game of Thrones. He serves as a squire to various knights and becomes a trusted companion. Podrick\u0027s unwavering loyalty and kindness make him a beloved character in the series.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "424",
     "Title": "Port Yhos",
     "Description": "An eastern city of Essos, located to the southeast of the Dothraki sea, on the coast of the Summer Sea.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "315",
     "Title": "Power resides where men believe it resides",
     "Description": "A quote from Varys, illustrating his view on the concept of power.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "382",
     "Title": "Power resides where men believe it resides",
     "Description": "A quote from Lord Varys discussing the nature of power and perception.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "189",
     "Title": "Prince of Dragonstone",
     "Description": "The title \u0027Prince of Dragonstone\u0027 is traditionally held by the heir to the Iron Throne. It represents the direct lineage of House Targaryen and their connection to the dragons and Valyrian heritage.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "340",
     "Title": "Proud and Free",
     "Description": "This is the motto of House Reed, a noble house from the North.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "88",
     "Title": "Pyke",
     "Description": "The seat of House Greyjoy, Pyke is a castle built on the Iron Islands. It is known for its rugged and windswept landscape, as well as its naval strength.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "71",
     "Title": "Qarth",
     "Description": "A wealthy and powerful city located in the eastern continent of Essos. Qarth is known for its opulent architecture, its rich merchant princes, and its history as a center of trade and culture.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "426",
     "Title": "Qarth",
     "Description": "A wealthy port city in Essos, known as the \u0027Queen of Cities\u0027, located near the Jade Gates connecting the Summer Sea to the Jade Sea.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "74",
     "Title": "Qohor",
     "Description": "A city located in the region of Essos, Qohor is famous for its skilled blacksmiths who are renowned for their ability to reforge Valyrian steel. It is known for its distinctive black walls.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "187",
     "Title": "Queen Regent",
     "Description": "The title \u0027Queen Regent\u0027 is given to a queen who rules in the absence, minority, or incapacity of the reigning monarch. As the regent, they exercise royal authority on behalf of the rightful ruler.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "206",
     "Title": "Quicksilver",
     "Description": "Quicksilver was a dragon ridden by Queen Rhaenyra Targaryen during the Targaryen civil war known as the Dance of the Dragons. Quicksilver was named for his incredible speed.",
-    "Image": null
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "102",
+    "Title": "R\u0027hllor, the Lord of Light",
+    "Description": "R\u0027hllor, also known as the Lord of Light, is a religion prominent in Essos. It believes in the struggle between light and darkness, with the Red Priests and Priestesses acting as intermediaries.",
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "44",
     "Title": "Ramsay Bolton",
     "Description": "Ramsay Bolton is a sadistic and ruthless character in Game of Thrones. He is the legitimized son of Roose Bolton and becomes the Lord of Winterfell. Ramsay\u0027s penchant for torture and cruelty make him one of the most despised characters in the series.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "466",
     "Title": "Red Lake",
     "Description": "A castle in the Reach, the ancestral seat of House Crane. It\u0027s named after the lake nearby, said to be colored by the blood of a dragon.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "25",
@@ -1521,37 +1754,36 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_25_20230731152028.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_25_20230731152028_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "194",
     "Title": "Rhaegal",
     "Description": "Rhaegal is one of the three dragons born to Daenerys Targaryen. He is named after Daenerys\u0027 deceased brother Rhaegar. Rhaegal is initially under Daenerys\u0027 control and accompanies her on her conquests.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "60",
     "Title": "Rhaegar Targaryen",
     "Description": "Rhaegar Targaryen is a legendary and enigmatic character in Game of Thrones. He is the eldest son of the Mad King Aerys II Targaryen and is known for his beauty, charisma, and skill in combat. Rhaegar\u0027s actions and choices have profound implications for the events of the series.",
-    "Image": null
-  },
-  {
-    "Id": "102",
-    "Title": "R\u0027hllor, the Lord of Light",
-    "Description": "R\u0027hllor, also known as the Lord of Light, is a religion prominent in Essos. It believes in the struggle between light and darkness, with the Red Priests and Priestesses acting as intermediaries.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "327",
     "Title": "Right Conquers Might",
     "Description": "This is the motto of House Rykker, a noble house from the Crownlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "87",
     "Title": "Riverrun",
     "Description": "The ancestral seat of House Tully, Riverrun is a castle located in the Riverlands. It is strategically positioned at the convergence of several major rivers and has a long history of military significance.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "20",
@@ -1560,43 +1792,50 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_20_20230731141911.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_20_20230731141911_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "112",
     "Title": "Robert\u0027s Rebellion",
     "Description": "The civil war that overthrew the Targaryen dynasty, led by Robert Baratheon, Eddard Stark, and Jon Arryn, among others, resulting in the ascension of Robert Baratheon as king.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "297",
     "Title": "Robert\u0027s Rebellion",
     "Description": "Also known as the War of the Usurper, this war led to the end of the Targaryen dynasty and the start of Robert Baratheon\u0027s reign.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "59",
     "Title": "Roose Bolton",
     "Description": "Roose Bolton is a cunning and ruthless character in Game of Thrones. He is the Lord of the Dreadfort and becomes a key player in the War of the Five Kings. Roose\u0027s actions and alliances have far-reaching consequences for the North and the realm.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "336",
     "Title": "Rouse Me Not",
     "Description": "This is the motto of House Grandison, a noble house from the Stormlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "431",
     "Title": "Saath",
     "Description": "A city in the Kingdom of Sarnor, located in northern Essos, known for its tall, slender towers.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "443",
     "Title": "Saltpans",
     "Description": "A town in the Riverlands, named for its chief industry of boiling seawater to produce salt.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "31",
@@ -1605,25 +1844,29 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_31_20230801202147.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_31_20230801202147_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "433",
     "Title": "Samyriana",
     "Description": "An ancient city in the Kingdom of Sarnor, famous for its high towers and soaring arches.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "33",
     "Title": "Sandor Clegane",
     "Description": "Sandor Clegane, also known as the Hound, is a complex and tormented character in Game of Thrones. He is a skilled warrior with a fierce reputation. Sandor\u0027s journey involves confronting his traumatic past and finding a sense of purpose and redemption.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "477",
     "Title": "Sandstone",
     "Description": "A castle in Dorne, the seat of House Qorgyle. It\u0027s located in the deep desert region.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "17",
@@ -1632,55 +1875,64 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_17_20230731141700.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_17_20230731141700_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "436",
     "Title": "Sarnath",
     "Description": "A city in Essos, once the capital of the Kingdom of Sarnor. Known as the \u0027City of a Thousand Nights\u0027.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "434",
     "Title": "Sarys",
     "Description": "The last city of the Sarnori people, located on the eastern banks of the Sarne, the great mother river of Sarnor.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "432",
     "Title": "Sathar",
     "Description": "Another city in the Kingdom of Sarnor, home to the Sarnori people before their civilization was destroyed by the Dothraki.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "460",
     "Title": "Sea Dragon Point",
     "Description": "A peninsula in the North of Westeros. It\u0027s a wild and scarcely populated region, named after legends of sea dragons.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "208",
     "Title": "Seasmoke",
     "Description": "Seasmoke was a dragon ridden by Prince Jacaerys Velaryon during the Targaryen civil war known as the Dance of the Dragons. He was known for his shimmering blue-green scales.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "342",
     "Title": "Set Down Our Deeds",
     "Description": "This is the motto of House Ashford, a noble house from the Reach.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "465",
     "Title": "Sharp Point",
     "Description": "A peninsula in the Crownlands, ruled by House Bar Emmon. The castle overlooks the Blackwater Bay.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "204",
     "Title": "Sheepstealer",
     "Description": "Sheepstealer was a wild dragon that lived in the Mountains of the Moon. He was eventually claimed by Nettles, a dragonseed, and they formed a strong bond.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "57",
@@ -1689,19 +1941,22 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_57_20230731152202.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_57_20230731152202_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "209",
     "Title": "Silverwing",
     "Description": "Silverwing was a dragon ridden by Queen Alysanne Targaryen, wife of King Jaehaerys I, during their reign. She was known for her silver scales and gentle nature.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "478",
     "Title": "Skyreach",
     "Description": "A castle in Dorne, the seat of House Fowler. It\u0027s located in the Prince\u0027s Pass.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "24",
@@ -1710,961 +1965,1121 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_24_20230731152007.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_24_20230731152007_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "453",
     "Title": "Starfall",
     "Description": "The ancestral seat of House Dayne, located on an island at the mouth of the Torrentine river in Dorne.",
-    "Image": null
-  },
-  {
-    "Id": "207",
-    "Title": "Stormcloud",
-    "Description": "Stormcloud was a dragon ridden by Queen Rhaenyra Targaryen during the Targaryen civil war known as the Dance of the Dragons. He was known for his dark gray scales and fierce temperament.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "91",
     "Title": "Storm\u0027s End",
     "Description": "The ancestral seat of House Baratheon, Storm\u0027s End is a formidable castle located in the Stormlands. It is known for its strong defenses and its association with the Baratheon dynasty.",
-    "Image": null
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "207",
+    "Title": "Stormcloud",
+    "Description": "Stormcloud was a dragon ridden by Queen Rhaenyra Targaryen during the Targaryen civil war known as the Dance of the Dragons. He was known for his dark gray scales and fierce temperament.",
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "283",
     "Title": "Summer Islands religion",
     "Description": "Summer Islanders consider sex to be a holy and life-affirming act that honors their gods.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "199",
     "Title": "Sunfyre",
     "Description": "Sunfyre was a dragon ridden by King Aegon II Targaryen during the Dance of the Dragons. He was known for his golden scales and was one of the most beautiful dragons of his time.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "417",
     "Title": "Sunspear",
     "Description": "The capital of Dorne, Sunspear is a city of sand, sea, and sun, ruled by House Martell.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "211",
     "Title": "Syrax",
     "Description": "Syrax was a dragon ridden by Princess Rhaenyra Targaryen during the Targaryen civil war known as the Dance of the Dragons. Syrax was known for her cream and gold scales.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "56",
     "Title": "Talisa Stark",
     "Description": "Talisa Stark, originally from Volantis, is a compassionate and independent character in Game of Thrones. She becomes the wife of Robb Stark and plays a significant role in his campaign. Talisa\u0027s tragic fate and her dedication to helping others define her character.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "454",
     "Title": "Ten Towers",
     "Description": "The seat of House Harlaw in the Iron Islands, a castle consisting of numerous keeps and towers.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "212",
     "Title": "Tessarion",
     "Description": "Tessarion was a dragon ridden by Prince Daemon Targaryen during the Targaryen civil war known as the Dance of the Dragons. Tessarion was known for her silver and gold scales and her loyalty to Prince Daemon.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "442",
     "Title": "The Arbor",
     "Description": "An island off the southwest coast of Westeros, famous for its vineyards and wines. The seat of House Redwyne.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "295",
     "Title": "The Assassination at the Red Wedding",
     "Description": "This event wasn\u0027t a traditional battle but marked a significant turning point in the War of the Five Kings, with House Stark\u0027s power significantly weakened.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "303",
     "Title": "The Battle Above the Gods Eye",
     "Description": "A climactic battle in the Dance of the Dragons where two dragonriders fought each other in a duel that ended with both their deaths.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "304",
     "Title": "The Battle of Ashford",
     "Description": "In Robert\u0027s Rebellion, the forces of Robert Baratheon suffered their only defeat by the army of House Tyrell.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "117",
     "Title": "The Battle of Blackwater Bay",
     "Description": "The naval battle between Stannis Baratheon\u0027s fleet and the forces defending King\u0027s Landing during the War of the Five Kings, resulting in Stannis\u0027 defeat and the survival of House Lannister\u0027s rule.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "128",
     "Title": "The Battle of Casterly Rock",
     "Description": "The battle between Daenerys Targaryen\u0027s Unsullied army and the Lannister forces at Casterly Rock, resulting in the capture of the castle but ultimately proving to be a strategic setback.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "121",
     "Title": "The Battle of Castle Black",
     "Description": "The battle between the Night\u0027s Watch and the wildlings at Castle Black, led by Mance Rayder, resulting in the defeat of the wildlings and the death of Mance Rayder.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "141",
     "Title": "The Battle of Castle Black",
     "Description": "The battle between the Night\u0027s Watch and the wildlings at Castle Black, led by Mance Rayder, resulting in the defeat of the wildlings and the death of Mance Rayder.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "289",
     "Title": "The Battle of Deepwood Motte",
     "Description": "This battle saw House Glover retake their home from the Ironborn, with help from Stannis Baratheon\u0027s forces.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "292",
     "Title": "The Battle of Green Fork",
     "Description": "Fought between House Stark and House Lannister, this battle was a tactical victory for the Lannisters, though it allowed Robb Stark to gain a strategic advantage.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "126",
     "Title": "The Battle of Hardhome",
     "Description": "The battle between Jon Snow and the Night King\u0027s army of wights and White Walkers, resulting in the rescue of some wildlings but also highlighting the threat of the Night King\u0027s forces.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "286",
     "Title": "The Battle of Oxcross",
     "Description": "The Battle of Oxcross was a major engagement in the War of the Five Kings, where Robb Stark scored a surprise victory against the Lannister forces.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "298",
     "Title": "The Battle of Redgrass Field",
     "Description": "The deciding battle of the Blackfyre Rebellion. The loyalist forces, led by Baelor Breakspear, defeated the Blackfyre rebels.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "116",
     "Title": "The Battle of the Bastards",
     "Description": "The battle between Jon Snow and Ramsay Bolton for control of Winterfell, resulting in the defeat of Ramsay and the restoration of House Stark\u0027s rule in the North.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "139",
     "Title": "The Battle of the Bastards",
     "Description": "The battle between Jon Snow and Ramsay Bolton for control of Winterfell, resulting in the defeat of Ramsay and the restoration of House Stark\u0027s rule in the North.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "299",
     "Title": "The Battle of the Bells",
     "Description": "A major battle in Robert\u0027s Rebellion, where Robert Baratheon\u0027s forces clashed with those of the Mad King in the town of Stoney Sept.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "133",
     "Title": "The Battle of the Blackfish",
     "Description": "The conflict between Brynden Tully, also known as the Blackfish, and the forces of House Frey and House Lannister, resulting in the Blackfish\u0027s death and the recapture of Riverrun by House Lannister.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "114",
     "Title": "The Battle of the Blackwater",
     "Description": "The decisive battle during the War of the Five Kings, where Stannis Baratheon\u0027s attempt to capture King\u0027s Landing was thwarted by the combined forces of House Lannister and House Tyrell.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "140",
     "Title": "The Battle of the Blackwater",
     "Description": "The decisive battle during the War of the Five Kings, where Stannis Baratheon\u0027s attempt to capture King\u0027s Landing was thwarted by the combined forces of House Lannister and House Tyrell.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "288",
     "Title": "The Battle of the Camps",
     "Description": "The Battle of the Camps was a surprise attack led by Robb Stark\u0027s forces against the Lannister army, which resulted in a strategic victory for House Stark.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "136",
     "Title": "The Battle of the Fist of the First Men",
     "Description": "The battle between the Night\u0027s Watch and the White Walkers\u0027 army of wights at the Fist of the First Men, resulting in heavy casualties for the Night\u0027s Watch.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "130",
     "Title": "The Battle of the Goldroad",
     "Description": "The battle between Daenerys Targaryen\u0027s Dothraki horde and the Lannister forces during the Loot Train Attack, resulting in a devastating defeat for the Lannisters and the loss of their gold and supplies.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "134",
     "Title": "The Battle of the Green Fork",
     "Description": "The battle between Robb Stark\u0027s forces and Tywin Lannister\u0027s forces during the War of the Five Kings, where Robb executed a diversionary tactic to draw Tywin\u0027s attention away from Riverrun.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "301",
     "Title": "The Battle of the Gullet",
     "Description": "A major naval battle during the Dance of the Dragons, the Targaryen civil war, resulted in heavy losses on both sides.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "135",
     "Title": "The Battle of the Ruby Ford",
     "Description": "The battle between Robert Baratheon and Rhaegar Targaryen during Robert\u0027s Rebellion, where Robert emerged victorious and killed Rhaegar, further weakening the Targaryen dynasty.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "293",
     "Title": "The Battle of the Shield Islands",
     "Description": "In the battle, the Iron Fleet under Euron Greyjoy captured the Shield Islands, paving the way for his larger plans of conquest.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "124",
     "Title": "The Battle of the Trident",
     "Description": "The battle between the forces of Robert Baratheon and Rhaegar Targaryen during Robert\u0027s Rebellion, where Rhaegar was killed, leading to the eventual downfall of the Targaryen dynasty.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "123",
     "Title": "The Battle of the Whispering Wood",
     "Description": "The battle between Robb Stark\u0027s forces and Jaime Lannister\u0027s forces during the War of the Five Kings, resulting in Robb\u0027s capture of Jaime and a major victory for House Stark.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "138",
     "Title": "The Battle of the Whispering Wood",
     "Description": "The battle between Robb Stark\u0027s forces and Jaime Lannister\u0027s forces during the War of the Five Kings, resulting in Robb\u0027s capture of Jaime and a major victory for House Stark.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "118",
     "Title": "The Battle of Winterfell",
     "Description": "The battle between the living and the Night King\u0027s army of the dead at Winterfell, marking the climax of the Great War and resulting in the defeat of the Night King and the White Walkers.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "273",
     "Title": "The Bearded Priests of Norvos",
     "Description": "A sect in Norvos that has very strict laws and customs, with each follower\u0027s life being regulated by the ringing of their city\u0027s bells.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "120",
     "Title": "The Birth of Dragons",
     "Description": "Daenerys Targaryen\u0027s hatching of three dragon eggs in the funeral pyre of Khal Drogo, resulting in the birth of her dragons and the resurgence of dragons in the world.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "266",
     "Title": "The Black Ears",
     "Description": "A hill tribe from the Vale of Arryn, known for cutting off the ears of their enemies.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "105",
     "Title": "The Black Goat of Qohor",
     "Description": "The Black Goat of Qohor is the central deity of the city of Qohor in Essos. It is associated with blood sacrifices and is worshipped by the city\u0027s inhabitants.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "251",
     "Title": "The Brave Companions",
     "Description": "Also known as the \u0027Bloody Mummers\u0027, they are a sellsword company of brutal and diverse fighters.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "267",
     "Title": "The Brotherhood of Winged Knights",
     "Description": "An elite group of knights serving House Arryn in the Vale.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "148",
     "Title": "The Brotherhood Without Banners",
     "Description": "The Brotherhood Without Banners is an outlaw group that operates in the Riverlands. They are led by Beric Dondarrion and fight against injustice and tyranny. They are known for their Robin Hood-like activities and their allegiance to the Lord of Light.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "253",
     "Title": "The Burned Men",
     "Description": "One of the mountain clans of the Vale, known for the self-mutilation ritual of burning body parts.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "155",
     "Title": "The Children of the Forest",
     "Description": "The Children of the Forest are a mystical race that inhabited Westeros long before the arrival of humans. They are skilled in magic and have a deep connection with nature. They play a crucial role in the history and mythology of the series.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "161",
     "Title": "The Children of the Forest",
     "Description": "The Children of the Forest are a mystical race that inhabited Westeros long before the arrival of humans. They are skilled in magic and have a deep connection with nature. They play a crucial role in the history and mythology of the series.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "344",
     "Title": "The Choice is Yours",
     "Description": "This is the motto of House Yronwood, a noble house from Dorne.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "159",
     "Title": "The Citadel",
     "Description": "The Citadel is the center of learning and knowledge in Westeros. It is located in Oldtown and houses the Maesters. It is a place where scholars study and train to become Maesters, and it holds a vast library with a wide range of knowledge.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "252",
     "Title": "The City Watch",
     "Description": "Also known as the \u0027Gold Cloaks\u0027, they are responsible for maintaining order within King\u0027s Landing.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "296",
     "Title": "The Dance of the Dragons",
     "Description": "This was a civil war during Targaryen rule, primarily fought between the forces of Rhaenyra Targaryen and her half-brother Aegon II for control over the Iron Throne.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "125",
     "Title": "The Death of Ned Stark",
     "Description": "The execution of Eddard Stark, Lord of Winterfell, by order of King Joffrey Baratheon, marking a major turning point in the series and the beginning of the War of the Five Kings.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "246",
     "Title": "The Dothraki",
     "Description": "A nomadic horse-riding culture from the continent of Essos, known for their exceptional skills in battle.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "438",
     "Title": "The Dreadfort",
     "Description": "Stronghold of House Bolton, located along the Weeping Water. It is a grim and austere fortification, similar to a small city.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "101",
     "Title": "The Drowned God",
     "Description": "The Drowned God is the deity worshipped by the ironborn, the seafaring people of the Iron Islands. It is associated with the sea, drowning, and the rebirth of the drowned.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "154",
     "Title": "The Drowned Men",
     "Description": "The Drowned Men are the religious order of the Iron Islands, devoted to the Drowned God. They believe that drowning and subsequent revival symbolize rebirth and transformation. They play a role in the Ironborn culture and funeral rites.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "160",
     "Title": "The Drowned Men",
     "Description": "The Drowned Men are the religious order of the Iron Islands, devoted to the Drowned God. They believe that drowning and subsequent revival symbolize rebirth and transformation. They play a role in the Ironborn culture and funeral rites.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "137",
     "Title": "The Execution of Viserys Targaryen",
     "Description": "The execution of Viserys Targaryen, brother of Daenerys Targaryen, by having molten gold poured over his head by Khal Drogo, solidifying Daenerys\u0027 position as the last Targaryen heir.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "144",
     "Title": "The Faceless Men",
     "Description": "The Faceless Men are a secretive organization of assassins from the city of Braavos. They worship the Many-Faced God and have the ability to change their appearance at will. They offer their services to those who can afford their high price.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "242",
     "Title": "The Faith Militant",
     "Description": "A military order serving the Faith of the Seven, who carry out the will of the High Septon.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "99",
     "Title": "The Faith of the Seven",
     "Description": "The Faith of the Seven is the predominant religion in the Seven Kingdoms. It worships a single deity represented by seven aspects, each corresponding to a different facet of life.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "132",
     "Title": "The Fall of House Tyrell",
     "Description": "The event where House Tyrell, one of the most powerful houses in Westeros, fell from power due to the actions of Cersei Lannister and the destruction of the Great Sept of Baelor.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "294",
     "Title": "The Fall of Moat Cailin",
     "Description": "The Fall of Moat Cailin was a critical moment in the War of the Five Kings, where Ramsay Bolton captured Moat Cailin, securing the North for House Bolton.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "300",
     "Title": "The Field of Fire",
     "Description": "This was the only battle in the War of Conquest where all three of Aegon the Conqueror\u0027s dragons were deployed. It led to the surrender of King Loren Lannister.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "145",
     "Title": "The Free Folk",
     "Description": "The Free Folk, also known as the wildlings, are a group of people who live beyond the Wall. They reject the authority of the Seven Kingdoms and have their own customs and traditions. They are seen as a threat by the Night\u0027s Watch and the people of the North.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "404",
     "Title": "The freedom to make my own mistakes was all I ever wanted",
     "Description": "A quote by Mance Rayder, expressing his desire for freedom and autonomy above all else.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "276",
     "Title": "The Ghiscari religion",
     "Description": "The major religion in Slaver\u0027s Bay, run by priestesses known as Graces.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "152",
     "Title": "The Golden Company",
     "Description": "The Golden Company is a sellsword company known for its discipline and effectiveness in battle. They are composed of exiles, outlaws, and other fighters who seek fortune and glory. They are hired by various factions throughout the series.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "254",
     "Title": "The Good Masters",
     "Description": "The ruling class of Astapor, known for their involvement in the slave trade.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "274",
     "Title": "The Graces",
     "Description": "An order of priestesses in the Ghiscari religion, dedicated to various aspects of life and society.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "269",
     "Title": "The Great Masters",
     "Description": "The ruling class of the city of Meereen, they are wealthy slavers.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "104",
     "Title": "The Great Stallion",
     "Description": "The Great Stallion is the primary deity worshipped by the Dothraki, a nomadic horse-riding culture. They believe that a warrior who dies in battle joins the Great Stallion in the afterlife.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "156",
     "Title": "The Guild of Alchemists",
     "Description": "The Guild of Alchemists is an organization of alchemists based in King\u0027s Landing. They are responsible for the production and management of wildfire, a highly volatile and dangerous substance. They play a role in the Battle of the Blackwater and subsequent events.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "280",
     "Title": "The Hooded Wayfarer",
     "Description": "A deity favored by poor men.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "265",
     "Title": "The Hornfoot",
     "Description": "A clan of the Free Folk from beyond the Wall, known for their hardened feet.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "270",
     "Title": "The House of Black and White",
     "Description": "The temple in Braavos dedicated to the Many-Faced God and home to the Faceless Men.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "264",
     "Title": "The Ice-river Clans",
     "Description": "A clan of the Free Folk beyond the Wall, known for their savage and cannibalistic tendencies.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "149",
     "Title": "The Iron Bank of Braavos",
     "Description": "The Iron Bank of Braavos is a powerful financial institution that lends money to kings, lords, and other influential figures. They are known for their strict policies and ruthless pursuit of repayment. Their influence extends throughout the known world.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "93",
     "Title": "The Iron Throne",
     "Description": "The symbolic seat of power in the Seven Kingdoms, the Iron Throne is located within the Red Keep. It is made from the swords of defeated enemies and serves as the ultimate symbol of authority.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "162",
     "Title": "The Iron Throne",
     "Description": "The Iron Throne is the ultimate symbol of power and authority in Westeros. It is the seat of the ruler who sits upon it, governing the Seven Kingdoms and wielding immense influence over the realm.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "361",
     "Title": "The Iron Throne is mine by right",
     "Description": "A common claim made by those seeking to take control of the Seven Kingdoms, often said by Stannis Baratheon.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "127",
     "Title": "The King in the North",
     "Description": "The proclamation of Jon Snow as the King in the North by the Northern lords, solidifying his position as a key player in the power struggles of Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "306",
     "Title": "The king in the north!",
     "Description": "This is a rallying cry of House Stark, often used to acknowledge the leader of the North.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "243",
     "Title": "The Kingsguard",
     "Description": "An elite group of seven knights sworn to serve and protect the King of the Seven Kingdoms.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "129",
     "Title": "The Kingslayer\u0027s Betrayal",
     "Description": "The event where Jaime Lannister betrayed and killed King Aerys II Targaryen, earning him the nickname \u0027Kingslayer\u0027 and forever altering his reputation and role in the series.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "277",
     "Title": "The Lion of Night and Maiden-Made-of-Light",
     "Description": "Chief deities in the religion of Yi Ti, in the far east of Essos.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "369",
     "Title": "The lone wolf dies but the pack survives",
     "Description": "A quote from Ned Stark to Arya Stark emphasizing the importance of sticking together as a family.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "110",
     "Title": "The Long Night",
     "Description": "The legendary winter that lasted for a generation and brought the White Walkers to Westeros. It was ended by the Last Hero and the Children of the Forest.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "107",
     "Title": "The Lord of the Skies",
     "Description": "The Lord of the Skies is a deity worshipped by the inhabitants of the Sky Cells in the Eyrie. It is associated with the vast open sky and the heights of the mountains.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "111",
     "Title": "The Mad King\u0027s Reign",
     "Description": "The rule of King Aerys II Targaryen, known as the Mad King, characterized by his descent into madness and cruelty, ultimately leading to Robert\u0027s Rebellion.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "150",
     "Title": "The Maesters",
     "Description": "The Maesters are a learned order of scholars and healers who serve as advisors to the noble houses of Westeros. They study various subjects, including medicine, history, and science. They are based in the Citadel and are responsible for training new Maesters.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "380",
     "Title": "The man who passes the sentence should swing the sword",
     "Description": "This phrase was often repeated by Ned Stark as a code of justice and responsibility.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "103",
     "Title": "The Many-Faced God",
     "Description": "The Many-Faced God is worshipped by the Faceless Men of Braavos. They believe in the idea that all gods are essentially the same god, with different faces representing different aspects.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "108",
     "Title": "The Many-Faced God of a Thousand Faces",
     "Description": "The Many-Faced God of a Thousand Faces is a deity worshipped by the Faceless Men of Braavos. They believe that every person has many different identities and faces.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "106",
     "Title": "The Many-Faced God of Death",
     "Description": "The Many-Faced God of Death is a deity worshipped by the Faceless Men of Braavos. They believe that death is a natural part of life and see themselves as servants of this god.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "290",
     "Title": "The Massacre at Hardhome",
     "Description": "The Massacre at Hardhome was a surprise attack by the Night King and his army of White Walkers and wights on the free folk settlement of Hardhome.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "282",
     "Title": "The Merling King",
     "Description": "Also favored by sailors.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "262",
     "Title": "The Moon Brothers",
     "Description": "One of the mountain clans living in the Vale, recognized by their moon-and-stars sigil.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "281",
     "Title": "The Moon-Pale Maiden",
     "Description": "A deity favored by sailors.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "271",
     "Title": "The Moonsingers",
     "Description": "The primary religion of the people of Braavos, the Moonsingers led the original slaves to their new city.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "287",
     "Title": "The Mutiny at Craster\u0027s Keep",
     "Description": "The mutiny was a severe internal conflict within the Night\u0027s Watch, at the homestead of Craster north of the Wall.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "231",
     "Title": "The night is dark and full of terrors",
     "Description": "The night is dark and full of terrors is a phrase often associated with the followers of the Lord of Light, emphasizing the dangers that lurk in the shadows.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "409",
     "Title": "The night is dark and full of terrors, but the fire burns them all away",
     "Description": "A quote by Melisandre, expressing her faith in the Lord of Light\u0027s power to vanquish darkness.",
-    "Image": null
-  },
-  {
-    "Id": "475",
-    "Title": "The Nightfort",
-    "Description": "The oldest and largest castle on the Wall, now abandoned and filled with legends and ghost stories.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "143",
     "Title": "The Night\u0027s Watch",
     "Description": "The Night\u0027s Watch is a sworn brotherhood of men who guard the realms of men from the dangers beyond the Wall. They are tasked with defending the Seven Kingdoms from wildlings, White Walkers, and other supernatural threats.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "163",
     "Title": "The Night\u0027s Watch",
     "Description": "The Night\u0027s Watch is an ancient order tasked with defending the realms of men from the threats beyond the Wall. Its members, known as the black brothers, serve as protectors of the realm, guarding against wildlings and supernatural dangers.",
-    "Image": null
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "475",
+    "Title": "The Nightfort",
+    "Description": "The oldest and largest castle on the Wall, now abandoned and filled with legends and ghost stories.",
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "227",
     "Title": "The North Remembers",
     "Description": "The North Remembers is a phrase associated with the people of the North, particularly House Stark, and signifies their enduring loyalty and determination.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "324",
     "Title": "The old gods and the new",
     "Description": "A common phrase referring to the faiths in Westeros, both the new faith of the Seven and the old faith of the Children of the Forest.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "100",
     "Title": "The Old Gods of the Forest",
     "Description": "The Old Gods of the Forest are worshipped by the people of the North. They represent the spirits of nature, trees, and the land. Weirwood trees serve as sacred symbols and places of worship.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "157",
     "Title": "The Order of the Maesters",
     "Description": "The Order of the Maesters is a council of scholars and healers who serve as advisors to the Night\u0027s Watch. They possess knowledge in various fields and provide guidance to the Lord Commander and other members of the Night\u0027s Watch.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "263",
     "Title": "The Painted Dogs",
     "Description": "A clan of the Free Folk beyond the Wall, recognized by their body paintings.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "255",
     "Title": "The Pureborn",
     "Description": "Descendants of the ancient kings and queens of Qarth, they hold a significant amount of power in the city.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "115",
     "Title": "The Purple Wedding",
     "Description": "The wedding of King Joffrey Baratheon and Margaery Tyrell, which ended in Joffrey\u0027s death, likely due to poisoning, leading to further political turmoil in King\u0027s Landing.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "142",
     "Title": "The Purple Wedding",
     "Description": "The wedding of King Joffrey Baratheon and Margaery Tyrell, which ended in Joffrey\u0027s death, likely due to poisoning, leading to further political turmoil in King\u0027s Landing.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "374",
     "Title": "The Queen in the North",
     "Description": "A phrase recognizing Sansa Stark\u0027s claim to rule the North.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "244",
     "Title": "The Queensguard",
     "Description": "A protective detail established for the reigning Queen Regent in Meereen.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "302",
     "Title": "The Rains of Castamere",
     "Description": "Not a battle but a massacre. House Reyne rebelled against their liege lord, House Lannister, and were utterly destroyed.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "92",
     "Title": "The Red Keep",
     "Description": "The royal palace located within King\u0027s Landing, the Red Keep is the residence of the ruling monarch of the Seven Kingdoms. It is a massive fortress with iconic red walls and towers.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "153",
     "Title": "The Red Priests/Priestesses",
     "Description": "The Red Priests and Priestesses are followers of the Lord of Light, a deity who represents fire, light, and life. They possess magical abilities and often act as religious leaders, advisors, and agents of change. They are prominent in Essos, particularly in the city of Volantis.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "113",
     "Title": "The Red Wedding",
     "Description": "The massacre of House Stark and its allies at the Twins during the War of the Five Kings, orchestrated by House Frey and House Bolton, resulting in the deaths of Robb Stark, Catelyn Stark, and many others..",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "174",
     "Title": "The Red Woman",
     "Description": "The Red Woman is a title given to Melisandre, a priestess of the Lord of Light. She possesses powerful magical abilities and is known for her prophecies and role in the War of the Five Kings.",
-    "Image": null
+    "Image": null,
+    "Weight": 10
   },
   {
     "Id": "122",
     "Title": "The Sack of King\u0027s Landing",
     "Description": "The event during Robert\u0027s Rebellion when the Lannister forces, led by Jaime Lannister, attacked King\u0027s Landing, resulting in the deaths of King Aerys II Targaryen and his family.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "305",
     "Title": "The Sack of King\u0027s Landing",
     "Description": "During Robert\u0027s Rebellion, House Lannister sacked King\u0027s Landing, ending the Targaryen rule.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "291",
     "Title": "The Second Siege of Riverrun",
     "Description": "This siege saw the return of House Frey control after a successful negotiation between Jaime Lannister and Edmure Tully.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "247",
     "Title": "The Second Sons",
     "Description": "A sellsword company operating in Essos, named for the societal norm of second sons having fewer inheritance rights.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "474",
     "Title": "The Shadow Tower",
     "Description": "A castle on the Wall, at the western end. It\u0027s one of three manned castles of the Night\u0027s Watch.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "260",
     "Title": "The Shadowbinders",
     "Description": "Mysterious and feared practitioners of magic, most commonly found in Asshai.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "131",
     "Title": "The Siege of Meereen",
     "Description": "The siege of the city of Meereen by the forces of the Wise Masters and the Sons of the Harpy, which was ultimately repelled by Daenerys Targaryen and her allies.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "285",
     "Title": "The Siege of Riverrun",
     "Description": "The Siege of Riverrun was a prolonged conflict where House Frey and House Lannister besieged the ancestral home of House Tully.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "158",
     "Title": "The Silent Sisters",
     "Description": "The Silent Sisters are a religious order of women who are responsible for preparing the dead for burial. They dress in grey robes and take vows of silence. They play a role in funerals and mourning customs throughout the Seven Kingdoms.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "257",
     "Title": "The Slavers of Slaver\u0027s Bay",
     "Description": "Groups who engage in the slave trade, operating out of Yunkai, Meereen, and Astapor.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "245",
     "Title": "The Small Council",
     "Description": "A body of advisors to the monarch, consisting of the highest officers of the realm.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "256",
     "Title": "The Sons of the Harpy",
     "Description": "A resistance movement against Daenerys Targaryen\u0027s rule in Meereen.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "261",
     "Title": "The Sorrowful Men",
     "Description": "An infamous guild of assassins based in Qarth, known to offer an apology to their victims.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "146",
     "Title": "The Sparrows",
     "Description": "The Sparrows are a religious movement in Westeros led by the High Sparrow. They follow the Faith of the Seven and seek to purify the realm by eradicating corruption and decadence. They gain power and influence during Cersei Lannister\u0027s rule as Queen Regent.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "248",
     "Title": "The Stone Crows",
     "Description": "One of the hill tribes living in the west of the Vale of Arryn, known for their aggressive nature.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "258",
     "Title": "The Stone Men",
     "Description": "People afflicted with greyscale, considered \u0027unclean\u0027 and are exiled to live in the ruins of Valyria.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "249",
     "Title": "The Stormcrows",
     "Description": "A company of sellswords who sell their combat skills to the highest bidder, operating in Essos.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "259",
     "Title": "The Thenns",
     "Description": "A Free Folk clan living beyond the Wall, they are known for their discipline and organization.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "241",
     "Title": "The things I do for love",
     "Description": "The things I do for love is a recurring quote, representing the complex motivations and actions driven by love and desire in Game of Thrones.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "355",
     "Title": "The things I do for love",
     "Description": "This phrase is said by Jaime Lannister in reference to his dedication to his sister, Cersei.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "240",
     "Title": "The things we do for love",
     "Description": "The things we do for love is a variation of Jaime Lannister\u0027s quote, illustrating the motivations behind characters\u0027 actions in the name of love.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "384",
     "Title": "The things we love destroy us every time, lad",
     "Description": "A quote from Jeor Mormont to Jon Snow, warning about the dangers of love and attachment.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "250",
     "Title": "The Thirteen",
     "Description": "The rulers of Qarth, consisting of thirteen individuals who govern the city.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "168",
     "Title": "The Three-Eyed Raven",
     "Description": "The Three-Eyed Raven is an ancient mystical entity who possesses the knowledge of the past, present, and future. The title is passed down to individuals who become the vessel for this powerful being.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "464",
     "Title": "The Tor",
     "Description": "A Dornish castle near the mouth of the river Scourge, ruled by House Jordayne. It has a town around it.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "119",
     "Title": "The Trial by Combat - Tyrion\u0027s Trial",
     "Description": "The trial by combat held to determine Tyrion Lannister\u0027s guilt or innocence in the murder of King Joffrey, with Tyrion\u0027s champion, Oberyn Martell, ultimately losing to Ser Gregor Clegane.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "371",
     "Title": "The true king of Westeros",
     "Description": "A phrase often used in reference to those with legitimate claims to the throne, such as Stannis Baratheon and Daenerys Targaryen.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "83",
     "Title": "The Twins",
     "Description": "A pair of castles located at the crossing of the Green Fork and the Trident rivers. The Twins are held by House Frey and are infamous for their role in the Red Wedding.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "147",
     "Title": "The Unsullied",
     "Description": "The Unsullied are a highly trained army of slave soldiers who were originally taken from their families at a young age and subjected to brutal training. They serve as an elite military force for Daenerys Targaryen and play a crucial role in her quest for power.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "372",
     "Title": "The Wall protects us",
     "Description": "A common saying in reference to the enormous wall of ice protecting the realm from the threats of the far north.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "151",
     "Title": "The Warlocks of Qarth",
     "Description": "The Warlocks of Qarth are a group of sorcerers who possess powerful magical abilities. They reside in the city of Qarth and are known for their enigmatic nature. They play a significant role in Daenerys Targaryen\u0027s storyline in Essos.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "279",
     "Title": "The Weeping Lady",
     "Description": "A deity worshiped by a cult in the Free City of Lys.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "219",
     "Title": "The Winds of Winter",
     "Description": "The Winds of Winter is the forthcoming sixth novel in the A Song of Ice and Fire series. As of the knowledge cutoff in September 2021, the book has not been released. It is highly anticipated by fans and will continue the complex narrative of the series.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "268",
     "Title": "The Wise Masters",
     "Description": "The ruling class of the city of Yunkai, known for their involvement in the slave trade.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "221",
     "Title": "The World of Ice \u0026 Fire",
     "Description": "The World of Ice \u0026 Fire is a companion book to the A Song of Ice and Fire series. It provides additional background information and history about the world of Westeros, including details about the major houses, events, and locations. The book is written from an in-universe perspective.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "26",
@@ -2673,49 +3088,57 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_26_20230801201837.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_26_20230801201837_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "381",
     "Title": "There\u0027s no cure for being a c*nt",
     "Description": "A quote from Bronn, used to describe people with malicious intentions or actions.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "351",
     "Title": "Thorough",
     "Description": "This is the motto of House Sarsfield, a noble house from the Westerlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "467",
     "Title": "Three Towers",
     "Description": "A castle in the Reach, the seat of House Costayne. It overlooks the Sunset Sea.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "484",
     "Title": "Title",
     "Description": "In Game of Thrones titles and prestigious designations are given to characters, such as Mother of Dragons, King in the North, and Lord Commander, representing their positions, accomplishments, and influence in the realm.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "347",
     "Title": "To Tread on Us is to Tread on Stone",
     "Description": "This is the motto of House Royce, a noble house from the Vale.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "422",
     "Title": "Toad Stone",
     "Description": "An island city on the Basilisk Isles off the coast of Sothoryos, inhabited by pirates and slavers.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "428",
     "Title": "Tolos",
     "Description": "A city of Slaver\u0027s Bay in Essos, famous for its lockstep legions of trained slave soldiers.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "49",
@@ -2724,37 +3147,43 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_49_20230731152056.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_49_20230731152056_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "39",
     "Title": "Tormund Giantsbane",
     "Description": "Tormund Giantsbane is a fearless and loyal character in Game of Thrones. He is a renowned warrior and leader of the Free Folk. Tormund\u0027s larger-than-life personality and his role in the fight against the Night King make him a beloved character.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "328",
     "Title": "Touch Me Not",
     "Description": "This is the motto of House Allyrion, a noble house from Dorne.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "341",
     "Title": "Tread Lightly Here",
     "Description": "This is the motto of House Lefford, a noble house from the Westerlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "349",
     "Title": "True to the Mark",
     "Description": "This is the motto of House Tarth, a noble house from the Stormlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "445",
     "Title": "Tumbleton",
     "Description": "A town in the Reach, known for being the site of two major battles during the Dance of the Dragons.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "13",
@@ -2763,13 +3192,15 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_13_20230731143523.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_13_20230731143523_preview.jpeg"
-    }
+    },
+    "Weight": 10
   },
   {
     "Id": "420",
     "Title": "Tyrosh",
     "Description": "A bustling Free City of Essos, famed for its dye works and flamboyant fashions.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "22",
@@ -2778,67 +3209,78 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_22_20230731143633.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_22_20230731143633_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "309",
     "Title": "Unbowed, Unbent, Unbroken",
     "Description": "This is the motto of House Martell, one of the Great Houses of Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "385",
     "Title": "Unbowed, Unbent, Unbroken",
     "Description": "The motto of House Martell, symbolizing their indomitable spirit.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "70",
     "Title": "Vaes Dothrak",
     "Description": "A sacred city of the Dothraki people, located in the vast central plains of Essos. Vaes Dothrak is the only permanent settlement of the nomadic horse-riding Dothraki and serves as their cultural and religious center.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "456",
     "Title": "Vaes Jini",
     "Description": "An abandoned city in Essos, known as the \u0027City of the Winged Men\u0027 in Dothraki.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "451",
     "Title": "Vaes Khadokh",
     "Description": "City in Essos deserted by the Dothraki, known as the \u0027City of Corpses\u0027.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "457",
     "Title": "Vaes Leqse",
     "Description": "Another abandoned city in Essos, known as the \u0027City of the Shattered Idols\u0027 in Dothraki.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "458",
     "Title": "Vaes Qosar",
     "Description": "City in Essos, abandoned and destroyed by the Dothraki, known as the \u0027City of Spiders\u0027.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "459",
     "Title": "Vaes Tolorro",
     "Description": "An abandoned city in the Red Waste of Essos, discovered by Daenerys Targaryen during her journey through the desert.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "311",
     "Title": "Valar Dohaeris",
     "Description": "This phrase is a traditional response to \u0027Valar Morghulis\u0027, it translates to \u0027All men must serve\u0027 in High Valyrian.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "225",
     "Title": "Valar Morghulis",
     "Description": "Valar Morghulis is a High Valyrian phrase meaning \u0027All men must die.\u0027 It is often used as a greeting or a farewell in the world of Game of Thrones.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "28",
@@ -2847,198 +3289,224 @@
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_28_20230801202026.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_28_20230801202026_preview.jpeg"
-    }
+    },
+    "Weight": null
   },
   {
     "Id": "196",
     "Title": "Vhagar",
     "Description": "Vhagar was one of the three dragons ridden by Aegon the Conqueror. She was named after Aegon\u0027s sister-wife, Visenya Targaryen. Vhagar participated in numerous battles during Aegon\u0027s reign.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "193",
     "Title": "Viserion",
     "Description": "Viserion is one of the three dragons born to Daenerys Targaryen. He is named after Daenerys\u0027 deceased brother Viserys. Viserion is initially under Daenerys\u0027 control but later falls under the Night King\u0027s power and becomes an ice dragon.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "72",
     "Title": "Volantis",
     "Description": "One of the Free Cities, Volantis is a major trading hub and a stronghold of the slave trade. It is characterized by its huge bronze gates, towering monuments, and the presence of the Triarch\u0027s Palace.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "184",
     "Title": "Warden of the East",
     "Description": "The Warden of the East is a title given to the noble who assumes the responsibility of defending the eastern lands and upholding law and order within the region. This title signifies military authority and loyalty to the ruling house of the Vale.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "182",
     "Title": "Warden of the North",
     "Description": "The Warden of the North is a title bestowed upon the noble who holds the responsibility of defending the northern lands against external threats. This title signifies military authority and loyalty to the ruling house of the North.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "185",
     "Title": "Warden of the South",
     "Description": "The Warden of the South is a title bestowed upon the noble who is charged with protecting the southern lands and preserving stability within the region. This title represents military authority and allegiance to the ruling house of the Reach.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "183",
     "Title": "Warden of the West",
     "Description": "The Warden of the West is a title granted to the noble who is tasked with protecting the western lands and maintaining order within the region. This title symbolizes military authority and allegiance to the ruling house of the Westerlands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "406",
     "Title": "We are ironborn. We\u0027re not subjects, we\u0027re not slaves. We do not plow the field or toil in the mine. We take what is ours",
     "Description": "A quote by Yara Greyjoy, capturing the fierce independence and warlike culture of the Iron Islands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "359",
     "Title": "We are the watchers on the wall",
     "Description": "A part of the oath taken by the Night\u0027s Watch, the protectors of the realm against the threats beyond the Wall.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "393",
     "Title": "We do not sow",
     "Description": "The motto of House Greyjoy, indicating their reputation for reaving and pillaging.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "310",
     "Title": "We Do Not Sow",
     "Description": "This is the motto of House Greyjoy, one of the Great Houses of Westeros.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "357",
     "Title": "We light the way",
     "Description": "This is the motto of House Hightower, a noble house from the Reach.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "414",
     "Title": "We never stop playing, make-believe",
     "Description": "A quote by Petyr Baelish to Sansa Stark, suggesting that everyone is pretending to be something they\u0027re not in the game of thrones.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "480",
     "Title": "Westeros",
     "Description": "\nWesteros is a large, westernmost continent in the fictional universe of the \u0022Game of Thrones\u0022 series. It is situated to the west of the Narrow Sea, separating it from the continent of Essos. The series predominantly unfolds in Westeros, which is characterized by diverse landscapes and complex sociopolitical dynamics.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "386",
     "Title": "What do we say to the God of Death? Not today",
     "Description": "A quote from Syrio Forel to Arya Stark, teaching her to defy death and fight for her life.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "312",
     "Title": "What is dead may never die",
     "Description": "A common saying in the Iron Islands, usually in reference to the Drowned God.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "383",
     "Title": "When the snows fall and the white winds blow, the lone wolf dies, but the pack survives",
     "Description": "A quote from Sansa Stark remembering her father\u0027s lessons on the strength of unity.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "230",
     "Title": "When You Play the Game of Thrones, You Win or You Die",
     "Description": "When You Play the Game of Thrones, You Win or You Die is a quote by Cersei Lannister, encapsulating the ruthless nature of the struggle for power in the Seven Kingdoms.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "402",
     "Title": "When you tear out a man\u0027s tongue, you are not proving him a liar, you\u0027re only telling the world that you fear what he might say",
     "Description": "A quote by Tyrion Lannister, condemning censorship and suppression of truth.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "416",
     "Title": "White Harbor",
     "Description": "The largest city in the North, located on the eastern coast. Governed by House Manderly, it\u0027s renowned for its busy seaport.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "224",
     "Title": "Winter is Coming",
     "Description": "Winter is Coming is the motto of House Stark, one of the noble families in Game of Thrones. It serves as a warning and reminder that harsh times are approaching.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "67",
     "Title": "Winterfell",
     "Description": "The ancestral home of House Stark and the seat of the Warden of the North. Winterfell is located in the North of Westeros and is known for its strong fortifications and its association with the Stark family.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "345",
     "Title": "Wisdom and Strength",
     "Description": "This is the motto of House Harlaw, a noble house from the Iron Islands.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "61",
     "Title": "Yara Greyjoy",
     "Description": "Yara Greyjoy, also known as Asha Greyjoy in the books, is a bold and determined character in Game of Thrones. She is the daughter of Balon Greyjoy and an influential leader of the Ironborn. Yara\u0027s role in the series involves her efforts to assert her power and independence in a male-dominated society.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "38",
     "Title": "Ygritte",
     "Description": "Ygritte is a fierce and wild character in Game of Thrones. She is a skilled archer and a member of the Free Folk. Ygritte\u0027s relationship with Jon Snow is marked by love and conflict as they navigate the divide between the Night\u0027s Watch and the Free Folk.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "403",
     "Title": "You are the blood of the dragon",
     "Description": "A quote by Viserys Targaryen to his sister Daenerys, reminding her of their royal Targaryen lineage.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "234",
     "Title": "You know nothing, Jon Snow",
     "Description": "You know nothing, Jon Snow is a recurring line spoken by Ygritte to Jon Snow, highlighting his lack of knowledge and experience in matters beyond the Wall.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "401",
     "Title": "You\u0027re going to die tomorrow, Lord Bolton. Sleep well",
     "Description": "A chilling promise from Sansa Stark to Ramsay Bolton on the eve of the Battle of the Bastards.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "411",
     "Title": "You\u0027re not a knight? Women can\u0027t be knights",
     "Description": "A quote by Brienne of Tarth expressing the gender restrictions and norms in the Seven Kingdoms.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "476",
     "Title": "Yronwood",
     "Description": "A castle in Dorne, the seat of House Yronwood. Known as the \u0027Wayward Daughter of Starfall\u0027.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "79",
     "Title": "Yunkai",
     "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery.",
-    "Image": null
-  },
-  {
-    "Id": "96",
-    "Title": "Yunkai",
-    "Description": "A city located in Slaver\u0027s Bay, Yunkai is another major hub of the slave trade. It becomes a target of Daenerys Targaryen\u0027s forces in her campaign to abolish slavery.",
-    "Image": null
+    "Image": null,
+    "Weight": null
   }
 ]
