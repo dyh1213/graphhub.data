@@ -943,8 +943,8 @@
     "Title": "House Stark",
     "Description": "Noble house of Winterfell, ruling the North. Defined by their honor, loyalty, and connection to nature. Sigil is a direwolf, motto: \u0022Winter is Coming.\u0022",
     "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_2_20230731140345.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_2_20230731140345_preview.jpeg"
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_house-stark_2_20230803094324.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_house-stark_2_20230803094324_preview.jpeg"
     },
     "Weight": 10
   },
@@ -952,7 +952,10 @@
     "Id": "5",
     "Title": "House Targaryen",
     "Description": "Former rulers of Westeros, with Valyrian roots. Known for their silver hair, purple eyes, and dragons. Sigil is a dragon, motto: \u0022Fire and Blood.\u0022",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_house-targaryen_5_20230803094338.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_house-targaryen_5_20230803094338_preview.jpeg"
+    },
     "Weight": 10
   },
   {
