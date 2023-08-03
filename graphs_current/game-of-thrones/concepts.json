@@ -1206,7 +1206,10 @@
     "Id": "90",
     "Title": "Lannisport",
     "Description": "The largest city on the western coast of Westeros, Lannisport is the seat of House Lannister\u0027s power. It is known for its bustling port, its wealthy residents, and its connection to Casterly Rock.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_lannisport_90_20230803114226.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/game-of-thrones/CON_lannisport_90_20230803114226_preview.jpeg"
+    },
     "Weight": 10
   },
   {
