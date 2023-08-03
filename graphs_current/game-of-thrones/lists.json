@@ -130,7 +130,7 @@
     "Title": "Locations",
     "Description": "List of the notable locations in the Game of Thrones universe which includes cities, castles, towns and more.",
     "ParentConceptId": null,
-    "ImageConceptId": null,
+    "ImageConceptId": "89",
     "PullFromListsIds": [
       "3"
     ],
