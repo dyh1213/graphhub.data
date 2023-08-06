@@ -5969,15 +5969,5 @@
     ],
     "DisableDirectMembers": false,
     "Type": 1
-  },
-  {
-    "Id": "EVENTS_COUTRY_ALL",
-    "Title": null,
-    "Description": "bla bla bla",
-    "ParentConceptId": null,
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false,
-    "Type": null
   }
 ]
