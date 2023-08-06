@@ -1,21 +1,11 @@
 [
   {
     "Id": "EVENTS_COUTRY_ALL",
-    "Title": null,
+    "Title": All UFC Events by Country,
     "Description": "bla bla bla",
     "ParentConceptId": null,
     "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false,
-    "Type": 1
-  },
-  {
-    "Id": "EVENTS_COUTRY_ALL",
-    "Title": null,
-    "Description": "bla bla bla",
-    "ParentConceptId": null,
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
+    "PullFromListsIds": ["EVENTS_COUTRY_1","EVENTS_COUTRY_2","EVENTS_COUTRY_3","EVENTS_COUTRY_4","EVENTS_COUTRY_5","EVENTS_COUTRY_6","EVENTS_COUTRY_7","EVENTS_COUTRY_8","EVENTS_COUTRY_9","EVENTS_COUTRY_10","EVENTS_COUTRY_11","EVENTS_COUTRY_12","EVENTS_COUTRY_13","EVENTS_COUTRY_14","EVENTS_COUTRY_15","EVENTS_COUTRY_16","EVENTS_COUTRY_17","EVENTS_COUTRY_18","EVENTS_COUTRY_19","EVENTS_COUTRY_20","EVENTS_COUTRY_21","EVENTS_COUTRY_22","EVENTS_COUTRY_24","EVENTS_COUTRY_25","EVENTS_COUTRY_26","EVENTS_COUTRY_27","EVENTS_COUTRY_28","EVENTS_COUTRY_29","EVENTS_COUTRY_30"],
     "DisableDirectMembers": false,
     "Type": 1
   },
