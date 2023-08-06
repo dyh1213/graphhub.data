@@ -219,7 +219,7 @@
   {
     "Id": "EVENTS_STATE_ALL",
     "Title": "All UFC Events by State",
-    "Description": "bla bla bla",
+    "Description": "List of all the UFC Events that took place broken down by the state in which they happened.",
     "ParentConceptId": null,
     "ImageConceptId": null,
     "PullFromListsIds": [
