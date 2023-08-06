@@ -6240,7 +6240,7 @@
   },
   {
     "Id": "EVENTS_VENUE_ALL",
-    "Title": null,
+    "Title": "All UFC Events by Venue",
     "Description": "bla bla bla",
     "ParentConceptId": null,
     "ImageConceptId": null,
