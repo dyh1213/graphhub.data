@@ -42,7 +42,7 @@
   {
     "Id": "EVENTS_LOCATION_ALL",
     "Title": "All UFC Events by Location",
-    "Description": "bla bla bla",
+    "Description": "List of all the UFC Events that took place broken down by the location (city) in which they happened.",
     "ParentConceptId": null,
     "ImageConceptId": null,
     "PullFromListsIds": [
