@@ -45,7 +45,10 @@
     "Id": "Style",
     "Title": "Style",
     "Description": "An art style",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_element_Element_20230807192425.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_element_Element_20230807192425_preview.jpeg"
+    },
     "Weight": null
   },
   {
