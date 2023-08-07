@@ -43,21 +43,21 @@
   },
   {
     "Id": "Style",
-    "Title": null,
+    "Title": "Style",
     "Description": "An art style",
     "Image": null,
     "Weight": null
   },
   {
     "Id": "Element",
-    "Title": null,
+    "Title": "Element",
     "Description": "An art medium",
     "Image": null,
     "Weight": null
   },
   {
     "Id": "Entitie",
-    "Title": null,
+    "Title": "Entitie",
     "Description": "An art entity",
     "Image": null,
     "Weight": null
