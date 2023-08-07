@@ -386,7 +386,10 @@
       "Lighting-S",
       "Color-S",
       "Mood-S",
-      "Composition-S"
+      "Composition-S",
+      "Style-S",
+      "Element-S",
+      "Entitie-S"
     ],
     "DisableDirectMembers": false,
     "Type": null
@@ -593,6 +596,96 @@
     "Title": "Composition - Styles",
     "Description": "List of \u0027Composition\u0027 art styles. List of the diverse tapestry of artistic compositions. From the bold, dynamic and geometric designs to the serene, harmonious and naturalistic forms. It includes abstract and surrealistic patterns, fluid and symmetrical structures, and extends into the detail-oriented world of anatomical, mechanical, and text-based compositions. Discover the artistry in three-dimensional space, layered imagery, or in the simplicity of a monospace canvas. Get specific like an organized grid, the or generic like an expansive landscape.",
     "ParentConceptId": "Composition",
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Style-P",
+    "Title": "Style - Prompts",
+    "Description": "List of prompts using the concept \u0027Style\u0027. An art style",
+    "ParentConceptId": "Style",
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Style-U",
+    "Title": "Style - Usages",
+    "Description": "List of artists or entities related to the concept \u0027Style\u0027. An art style",
+    "ParentConceptId": "Style",
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Style-S",
+    "Title": "Style - Styles",
+    "Description": "List of \u0027Style\u0027 art styles. An art style",
+    "ParentConceptId": "Style",
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Element-P",
+    "Title": "Element - Prompts",
+    "Description": "List of prompts using the concept \u0027Element\u0027. An art medium",
+    "ParentConceptId": "Element",
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Element-U",
+    "Title": "Element - Usages",
+    "Description": "List of artists or entities related to the concept \u0027Element\u0027. An art medium",
+    "ParentConceptId": "Element",
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Element-S",
+    "Title": "Element - Styles",
+    "Description": "List of \u0027Element\u0027 art styles. An art medium",
+    "ParentConceptId": "Element",
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Entitie-P",
+    "Title": "Entitie - Prompts",
+    "Description": "List of prompts using the concept \u0027Entitie\u0027. An art entity",
+    "ParentConceptId": "Entitie",
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Entitie-U",
+    "Title": "Entitie - Usages",
+    "Description": "List of artists or entities related to the concept \u0027Entitie\u0027. An art entity",
+    "ParentConceptId": "Entitie",
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Entitie-S",
+    "Title": "Entitie - Styles",
+    "Description": "List of \u0027Entitie\u0027 art styles. An art entity",
+    "ParentConceptId": "Entitie",
     "ImageConceptId": null,
     "PullFromListsIds": null,
     "DisableDirectMembers": false,
