@@ -4,7 +4,7 @@
     "Title": "Styles",
     "Description": "List of all art styles pulled from other lists related to specific domains like Painting, Architercture, Graphic Design etc.",
     "ParentConceptId": "Style",
-    "ImageConceptId": null,
+    "ImageConceptId": "Style",
     "PullFromListsIds": [
       "1350-S",
       "327-S",
