@@ -4,14 +4,17 @@
     "Title": "Art Styles",
     "Description": "A list that contains all art styles pulled from other lists related to specific domains like Painting, Architercture, Graphic Design etc.",
     "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "2",
-    "Title": "Art Properties",
-    "Description": "A list that contains artisitc concepts like color, lighting, moods and more that can be used as additional information for a prompt.",
+    "Title": "Artistic Elements",
+    "Description": "List of all elements and techniques that offer a structured way to analyze an image. It includes items such as medium which identifies the tool canvas or material used, environment indicates the setting, lighting style illuminates the subject, color defines the palette used, mood captures the emotional tone, while composition refers to how the image elements are arranged. Each of these attributes can help to understand and describe an image\u0027s unique artistic qualities and the intentions behind it.",
     "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
+    "ImageConceptId": null,
     "PullFromListsIds": [
       "4",
       "5",
@@ -20,98 +23,113 @@
       "8",
       "9"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "3",
     "Title": "Art Entities",
     "Description": "A collection of entities that have a definitive art style, this could be artists from a spefici field or other entities like tv-shows, games, studios etc.",
     "ParentConceptId": "10000000-024a-44e5-8844-998342022971",
+    "ImageConceptId": null,
     "PullFromListsIds": [
       "999",
       "1010",
       "1016",
       "1019",
-      "1032",
-      "1034",
-      "1040",
-      "1047",
-      "1050",
+      "1031",
+      "1033",
+      "1039",
+      "1045",
+      "1048",
+      "1051",
       "1053",
-      "1055",
-      "1056",
+      "1054",
       "1059",
-      "1063",
-      "1066",
-      "1068",
-      "1073",
-      "1078",
-      "1082",
-      "1084"
+      "1062",
+      "1065",
+      "1032",
+      "1068"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "999",
     "Title": "UnmappedEntities",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "4",
     "Title": "Art Mediums",
-    "Description": "This can range from conventional mediums like oil, acrylic, watercolor, charcoal, to more contemporary ones like digital, mixed media, or installations.",
+    "Description": "List of artistic mediums used by creators across the world. It spans traditional classics like oil, acrylic, watercolor, and charcoal, alongside contemporary innovations such as digital art, mixed media, and installations. Embrace the diverse array of mediums employed by artists to express their creativity and vision, representing a rich tapestry of human ingenuity in the world of art.",
     "ParentConceptId": null,
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "5",
     "Title": "Environments",
-    "Description": "AThis is a catalogue of different environmental settings within art. This could include forests, cityscapes, seascapes, deserts, or abstract backgrounds, depicting the context and backdrop of the artwork.",
+    "Description": "List of art environments, from urban cityscapes to fantastical realms, post-apocalyptic wastelands to serene nature scenes. Delve into historical eras, futuristic worlds, and underwater wonders, as artists depict captivating backdrops that enrich their artworks with imaginative contexts and emotions. Whether it\u0027s the charm of Victorian elegance or the allure of cybernetic futurism, this collection showcases the boundless creativity of human expression through various captivating landscapes.",
     "ParentConceptId": null,
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "6",
     "Title": "Lighting Styles",
-    "Description": "The lightings list explores different types of illumination used in an artwork. This could be soft morning light, harsh midday light, artificial light, or magical surrealistic light, playing crucial roles in the art\u0027s ambiance and focus.",
+    "Description": "List of the diverse lighting styles that breathe life into artworks. From soft morning light to dramatic chiaroscuro, each style plays a crucial role in setting the ambiance and focus. Explore the enchanting glow of natural, artificial, and ultraviolet lights, as well as vibrant and high-contrast illuminations. Delight in surrealistic and electro-illuminated effects, as artists masterfully wield lighting to evoke emotions and accentuate their artistic creations.",
     "ParentConceptId": null,
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "7",
     "Title": "Colors",
-    "Description": "This list describes the myriad of colors artists employ in their work. From primary, secondary, and tertiary hues, to monochrome or vibrant palettes, colors breathe life and emotion into the artwork.",
+    "Description": "This list is a vibrant preview of the expansive world of color. It offers a glimpse into the variety of color schemes, from bold and high-contrast, to subdued and muted, painting a picture of possibilities. It explores the broad spectrum from monochrome to multi-color, and from vintage to modern palettes. You\u0027ll encounter warm, cool, natural, and period-specific tones, setting the stage for a more in-depth exploration.",
     "ParentConceptId": null,
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "8",
     "Title": "Moods",
-    "Description": "The moods list represents the range of emotions or feelings an artwork can evoke, like happiness, sadness, tranquility, mystery, anger or nostalgia. It\u0027s about the emotional resonance of an artwork.",
+    "Description": "List of the diverse landscape of moods and themes in art. It illustrates a vast range from the playful and whimsical, to the introspective and contemplative, from the joyful and vibrant, to the mysterious and surreal. The list hints at the potential for art to be political, satirical, rebellious, or fantastical, reflecting the complexities of the human experience. Whether you\u0027re seeking the calm and tranquil, the edgy and dystopian, or the humorous and quirky, this list provides a glimpse into the powerful moods that art can evoke.",
     "ParentConceptId": null,
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "9",
     "Title": "Compositions",
-    "Description": "This list details different compositional techniques used in art. These may include rules like the Golden Ratio, Rule of Thirds, Symmetry or Asymmetry, leading lines, or framing, influencing the viewer\u0027s focus and the overall balance of the piece.",
+    "Description": "List of the diverse tapestry of artistic compositions. From the bold, dynamic and geometric designs to the serene, harmonious and naturalistic forms. It includes abstract and surrealistic patterns, fluid and symmetrical structures, and extends into the detail-oriented world of anatomical, mechanical, and text-based compositions. Discover the artistry in three-dimensional space, layered imagery, or in the simplicity of a monospace canvas. Get specific like an organized grid, the or generic like an expansive landscape.",
     "ParentConceptId": null,
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1010",
     "Title": "Person",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
       "1011",
       "1012",
@@ -126,718 +144,693 @@
       "1027",
       "1028",
       "1029",
-      "1030",
+      "1035",
       "1036",
       "1037",
       "1038",
-      "1039",
+      "1040",
       "1041",
       "1042",
       "1043",
       "1044",
-      "1045",
-      "1046",
-      "1049",
-      "1052",
+      "1047",
+      "1050",
+      "1055",
+      "1056",
       "1057",
-      "1058"
+      "1058",
+      "1061",
+      "1064"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1011",
     "Title": "Street Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1012",
     "Title": "Painter",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1013",
     "Title": "Comic Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1014",
     "Title": "Illustrator",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1015",
     "Title": "Digital Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1016",
     "Title": "Game",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
       "1017",
       "1018",
       "1025",
-      "1031",
-      "1034"
+      "1030",
+      "1033"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1017",
     "Title": "Video Game",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1018",
     "Title": "Manga",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1019",
     "Title": "Company",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
       "1020"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1020",
     "Title": "Design Studio",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1021",
     "Title": "Photographer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1022",
     "Title": "Sculptor",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1023",
     "Title": "Concept Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1024",
     "Title": "Architect",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1025",
     "Title": "Anime/Manga",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1026",
     "Title": "Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1027",
-    "Title": "Comic writer",
+    "Title": "Comic Writer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1028",
-    "Title": "Comic artist",
+    "Title": "Video Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1029",
-    "Title": "Video artist",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1030",
     "Title": "Film Director",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1031",
+    "Id": "1030",
     "Title": "Visual Novel",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1032",
+    "Id": "1031",
     "Title": "Culture",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
-      "1033"
+      "1032"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1033",
+    "Id": "1032",
     "Title": "Subculture",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "ImageConceptId": null,
+    "PullFromListsIds": [
+      "1067",
+      "1070",
+      "1071"
+    ],
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1034",
+    "Id": "1033",
     "Title": "Anime",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
-      "1035"
+      "1034"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1035",
+    "Id": "1034",
     "Title": "Science Fiction",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1036",
+    "Id": "1035",
     "Title": "Graphic Designer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1037",
+    "Id": "1036",
     "Title": "Typographer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1038",
+    "Id": "1037",
     "Title": "Comic Book Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1039",
+    "Id": "1038",
     "Title": "Designer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1040",
+    "Id": "1039",
     "Title": "Entity",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
       "1025"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1041",
+    "Id": "1040",
     "Title": "Street Artists",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1042",
+    "Id": "1041",
     "Title": "Manga Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1043",
+    "Id": "1042",
     "Title": "Fashion Designer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1044",
+    "Id": "1043",
     "Title": "Animator",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1045",
-    "Title": "Comic book artist",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1046",
+    "Id": "1044",
     "Title": "Fashion Photographer",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1047",
+    "Id": "1045",
     "Title": "Studio",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
-      "1048"
+      "1046"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1048",
+    "Id": "1046",
     "Title": "Animation Studio",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1049",
+    "Id": "1047",
     "Title": "Installation Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1050",
+    "Id": "1048",
     "Title": "Animation",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
-      "1051"
+      "1049"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1051",
+    "Id": "1049",
     "Title": "Anime Series",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1052",
+    "Id": "1050",
     "Title": "Director",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1053",
+    "Id": "1051",
     "Title": "Brand",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
-      "1054"
+      "1052"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1054",
+    "Id": "1052",
     "Title": "Fashion",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1055",
+    "Id": "1053",
     "Title": "Character",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
-      "1034"
+      "1033"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1056",
+    "Id": "1054",
     "Title": "Movie",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
-      "1034"
+      "1033"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1057",
+    "Id": "1055",
     "Title": "Ceramicist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
-    "Id": "1058",
+    "Id": "1056",
     "Title": "Digital Painter",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "1057",
+    "Title": "Filmmaker",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "1058",
+    "Title": "Cartoonist",
+    "Description": null,
+    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1059",
-    "Title": "person",
+    "Title": "Object",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
       "1060",
-      "1061",
-      "1062",
-      "1065",
-      "1070",
-      "1071",
-      "1072",
-      "1075",
-      "1076",
-      "1077",
-      "1080",
-      "1081",
-      "1090"
+      "1073"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1060",
-    "Title": "filmmaker",
+    "Title": "Art Supply",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1061",
-    "Title": "cartoonist",
+    "Title": "Author",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1062",
-    "Title": "illustrator",
+    "Title": "Art Technique",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "ImageConceptId": null,
+    "PullFromListsIds": [
+      "1063"
+    ],
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1063",
-    "Title": "animation",
+    "Title": "Dyeing Technique",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [
-      "1064"
-    ],
-    "DisableDirectMembers": false
+    "ImageConceptId": null,
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1064",
-    "Title": "anime series",
+    "Title": "Video Game Artist",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1065",
-    "Title": "graphic designer",
+    "Title": "Genre",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "ImageConceptId": null,
+    "PullFromListsIds": [
+      "1066"
+    ],
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1066",
-    "Title": "game",
+    "Title": "Anime Genre",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [
-      "1067"
-    ],
-    "DisableDirectMembers": false
+    "ImageConceptId": null,
+    "PullFromListsIds": [],
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1067",
-    "Title": "video game",
+    "Title": "Music and Fashion Subculture",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1068",
-    "Title": "object",
+    "Title": "Technique",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [
       "1069",
-      "1089"
+      "1072"
     ],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1069",
-    "Title": "art supply",
+    "Title": "Visual Note-taking Technique",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1070",
-    "Title": "photographer",
+    "Title": "Fashion Subculture",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1071",
-    "Title": "artist",
+    "Title": "Art Subculture",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1072",
-    "Title": "author",
+    "Title": "Photography Technique",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   },
   {
     "Id": "1073",
-    "Title": "art technique",
+    "Title": "Decorative Object",
     "Description": null,
     "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [
-      "1074"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1074",
-    "Title": "dyeing technique",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
+    "ImageConceptId": null,
     "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1075",
-    "Title": "video game artist",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1076",
-    "Title": "architect",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1077",
-    "Title": "manga artist",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1078",
-    "Title": "genre",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [
-      "1079"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1079",
-    "Title": "anime genre",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1080",
-    "Title": "painter",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1081",
-    "Title": "comic book artist",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1082",
-    "Title": "subculture",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [
-      "1083",
-      "1086",
-      "1087"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1083",
-    "Title": "music and fashion subculture",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1084",
-    "Title": "technique",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [
-      "1085",
-      "1088"
-    ],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1085",
-    "Title": "visual note-taking technique",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1086",
-    "Title": "fashion subculture",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1087",
-    "Title": "art subculture",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1088",
-    "Title": "photography technique",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1089",
-    "Title": "decorative object",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
-  },
-  {
-    "Id": "1090",
-    "Title": "street artist",
-    "Description": null,
-    "ParentConceptId": "10000000-0000-0000-0000-000000000000",
-    "PullFromListsIds": [],
-    "DisableDirectMembers": false
+    "DisableDirectMembers": false,
+    "Type": null
   }
 ]
