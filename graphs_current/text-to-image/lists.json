@@ -386,10 +386,7 @@
       "Lighting-S",
       "Color-S",
       "Mood-S",
-      "Composition-S",
-      "Style-S",
-      "Element-S",
-      "Entity-S"
+      "Composition-S"
     ],
     "DisableDirectMembers": false,
     "Type": null
@@ -598,98 +595,6 @@
     "ParentConceptId": "Composition",
     "ImageConceptId": null,
     "PullFromListsIds": null,
-    "DisableDirectMembers": false,
-    "Type": null
-  },
-  {
-    "Id": "Style-P",
-    "Title": "Style - Prompts",
-    "Description": "List of prompts using the concept \u0027Style\u0027. An art style",
-    "ParentConceptId": "Style",
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false,
-    "Type": null
-  },
-  {
-    "Id": "Style-U",
-    "Title": "Style - Usages",
-    "Description": "List of artists or entities related to the concept \u0027Style\u0027. An art style",
-    "ParentConceptId": "Style",
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false,
-    "Type": null
-  },
-  {
-    "Id": "Style-S",
-    "Title": "Style - Styles",
-    "Description": "List of \u0027Style\u0027 art styles. An art style",
-    "ParentConceptId": "Style",
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false,
-    "Type": null
-  },
-  {
-    "Id": "Element-P",
-    "Title": "Element - Prompts",
-    "Description": "List of prompts using the concept \u0027Element\u0027. An art element",
-    "ParentConceptId": "Element",
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false,
-    "Type": null
-  },
-  {
-    "Id": "Element-U",
-    "Title": "Element - Usages",
-    "Description": "List of artists or entities related to the concept \u0027Element\u0027. An art element",
-    "ParentConceptId": "Element",
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false,
-    "Type": null
-  },
-  {
-    "Id": "Element-S",
-    "Title": "Element - Styles",
-    "Description": "List of \u0027Element\u0027 art styles. An art element",
-    "ParentConceptId": "Element",
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false,
-    "Type": null
-  },
-  {
-    "Id": "Entity-P",
-    "Title": "Entity - Prompts",
-    "Description": "List of prompts using the concept \u0027Entity\u0027. An art entity",
-    "ParentConceptId": "Entity",
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false,
-    "Type": null
-  },
-  {
-    "Id": "Entity-U",
-    "Title": "Entity - Usages",
-    "Description": "List of artists or entities related to the concept \u0027Entity\u0027. An art entity",
-    "ParentConceptId": "Entity",
-    "ImageConceptId": null,
-    "PullFromListsIds": null,
-    "DisableDirectMembers": false,
-    "Type": null
-  },
-  {
-    "Id": "Entity-S",
-    "Title": "Entity - Styles",
-    "Description": "List of \u0027Entity\u0027 art styles. An art entity",
-    "ParentConceptId": "Entity",
-    "ImageConceptId": null,
-    "PullFromListsIds": [
-      "1439-S"
-    ],
     "DisableDirectMembers": false,
     "Type": null
   },
@@ -7037,6 +6942,38 @@
     "ParentConceptId": "1557",
     "ImageConceptId": null,
     "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Entity-P",
+    "Title": "Entity - Prompts",
+    "Description": "List of prompts using the concept \u0027Entity\u0027. An art entity",
+    "ParentConceptId": "Entity",
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Entity-U",
+    "Title": "Entity - Usages",
+    "Description": "List of artists or entities related to the concept \u0027Entity\u0027. An art entity",
+    "ParentConceptId": "Entity",
+    "ImageConceptId": null,
+    "PullFromListsIds": null,
+    "DisableDirectMembers": false,
+    "Type": null
+  },
+  {
+    "Id": "Entity-S",
+    "Title": "Entity - Styles",
+    "Description": "List of \u0027Entity\u0027 art styles. An art entity",
+    "ParentConceptId": "Entity",
+    "ImageConceptId": null,
+    "PullFromListsIds": [
+      "1439-S"
+    ],
     "DisableDirectMembers": false,
     "Type": null
   },
