@@ -3,8 +3,8 @@
     "Id": "All_Styles",
     "Title": "Styles",
     "Description": "List of all art styles pulled from other lists related to specific domains like Painting, Architercture, Graphic Design etc.",
-    "ParentConceptId": null,
-    "ImageConceptId": null,
+    "ParentConceptId": "Style",
+    "ImageConceptId": "Style",
     "PullFromListsIds": [
       "1350-S",
       "327-S",
@@ -378,8 +378,8 @@
     "Id": "All_Elements",
     "Title": "Elements",
     "Description": "List of all elements and techniques that offer a structured way to analyze an image. It includes items such as medium which identifies the tool canvas or material used, environment indicates the setting, lighting style illuminates the subject, color defines the palette used, mood captures the emotional tone, while composition refers to how the image elements are arranged. Each of these attributes can help to understand and describe an image\u0027s unique artistic qualities and the intentions behind it.",
-    "ParentConceptId": null,
-    "ImageConceptId": null,
+    "ParentConceptId": "Element",
+    "ImageConceptId": "Element",
     "PullFromListsIds": [
       "Medium-S",
       "Environment-S",
@@ -398,8 +398,8 @@
     "Id": "All_Entities",
     "Title": "Entities",
     "Description": "List of entities entities that have a definitive art style, this could be artists from a spefici field or other entities like tv-shows, games, studios etc.",
-    "ParentConceptId": null,
-    "ImageConceptId": null,
+    "ParentConceptId": "Entity",
+    "ImageConceptId": "Entity",
     "PullFromListsIds": [
       "1348-S",
       "1375-S",
