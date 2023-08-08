@@ -6018,7 +6018,10 @@
     "Id": "271",
     "Title": "Steampunk",
     "Description": "Steampunk is an art style that blends Victorian-era aesthetics with steam-powered machinery and technology. It\u0027s part of speculative fiction and often showcases an alternative history or post-apocalyptic world. Artists use mixed media and warm tones to create complex compositions in an industrial setting. The mood is usually nostalgic and the lighting is often low.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_steampunk_271_20230808150954.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_steampunk_271_20230808150954_preview.jpeg"
+    },
     "Weight": null
   },
   {
