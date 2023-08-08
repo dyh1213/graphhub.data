@@ -45,7 +45,10 @@
     "Id": "Style",
     "Title": "Style",
     "Description": "An art style",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_style_Style_20230808110402.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_style_Style_20230808110402_preview.jpeg"
+    },
     "Weight": null
   },
   {
@@ -62,7 +65,10 @@
     "Id": "Entity",
     "Title": "Entity",
     "Description": "An art entity",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_entity_Entity_20230808104516.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_entity_Entity_20230808104516_preview.jpeg"
+    },
     "Weight": null
   },
   {
