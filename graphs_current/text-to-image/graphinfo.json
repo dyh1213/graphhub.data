@@ -5,41 +5,34 @@
   "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/text-to-image",
   "RootConcept": "10000000-024a-44e5-8844-998342022971",
   "Description": "The \u0027text-to-image\u0027 graph is a the definitive guide for users of tools such as Midjourney, DALLE-2, Stable Diffusion, or similar AIs. This chart presents a mapping of art styles, lighting, colors, moods, and renowned entities, assisting in crafting prompts that yield predictable and consistent results.",
-  "FeaturedLists": [
-    "4",
-    "5",
-    "6",
-    "7",
-    "8",
-    "9"
-  ],
+  "FeaturedLists": null,
   "FeaturedConcepts": null,
   "TopFeaturedLists": [
     {
-      "Id": "1",
-      "Base64Image": "text-to-image-artstyles.png"
+      "Id": "All_Styles",
+      "Base64Image": null
     },
     {
-      "Id": "2",
-      "Base64Image": "text-to-image-colors.png"
+      "Id": "All_Elements",
+      "Base64Image": null
     },
     {
-      "Id": "3",
-      "Base64Image": "frida-kahlo-portrait.png"
+      "Id": "All_Entities",
+      "Base64Image": null
     }
   ],
   "TopFeaturedConcepts": [
     {
       "Id": "185",
-      "Base64Image": "knolling-art-style.png"
+      "Base64Image": null
     },
     {
       "Id": "271",
-      "Base64Image": "steampunk-art-style.png"
+      "Base64Image": null
     },
     {
       "Id": "272",
-      "Base64Image": "banksy-art-style.png"
+      "Base64Image": null
     }
   ]
 }
