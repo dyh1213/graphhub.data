@@ -2313,8 +2313,11 @@
   {
     "Id": "1543",
     "Title": "Epic",
-    "Description": null,
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229_preview.jpeg"
+    },
     "Weight": null
   },
   {
