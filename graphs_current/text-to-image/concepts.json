@@ -2269,8 +2269,11 @@
   {
     "Id": "294",
     "Title": "Fluorescent",
-    "Description": "Fluorescent color style involves the use of bright, glowing colors, common in Pop Art, Neon Art, and Digital Art. This style, usually presented in indoor environments under artificial light, creates an exciting mood with bold and geometric compositions. Artists such as Keith Haring and Dan Flavin are associated with this style.",
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622_preview.jpeg"
+    },
     "Weight": null
   },
   {
