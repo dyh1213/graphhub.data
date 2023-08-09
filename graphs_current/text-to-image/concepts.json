@@ -2759,8 +2759,11 @@
   {
     "Id": "1384",
     "Title": "Fantastical",
-    "Description": null,
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531_preview.jpeg"
+    },
     "Weight": null
   },
   {
