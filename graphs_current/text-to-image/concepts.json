@@ -2274,7 +2274,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1200
   },
   {
     "Id": "295",
@@ -2767,7 +2767,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1100
   },
   {
     "Id": "1385",
@@ -6029,7 +6029,7 @@
     "Title": "Pastel Art",
     "Description": null,
     "Image": null,
-    "Weight": null
+    "Weight": 1150
   },
   {
     "Id": "1851",
