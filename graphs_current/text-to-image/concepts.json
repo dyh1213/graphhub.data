@@ -31,7 +31,10 @@
     "Id": "Mood",
     "Title": "Mood",
     "Description": "List of the diverse landscape of moods and themes in art. It illustrates a vast range from the playful and whimsical, to the introspective and contemplative, from the joyful and vibrant, to the mysterious and surreal. The list hints at the potential for art to be political, satirical, rebellious, or fantastical, reflecting the complexities of the human experience. Whether you\u0027re seeking the calm and tranquil, the edgy and dystopian, or the humorous and quirky, this list provides a glimpse into the powerful moods that art can evoke.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_mood_Mood_20230809121238.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_mood_Mood_20230809121238_preview.jpeg"
+    },
     "Weight": 3
   },
   {
@@ -2474,7 +2477,7 @@
     "Weight": null
   },
   {
-    "Id": "fe7c088e-8f78-4c8f-a23a-3dee53856d23",
+    "Id": "b7ce8205-d40e-42f8-9641-80b44e641e53",
     "Title": "Action",
     "Description": "The Action color style is characterized by bold and vivid colors that often represent movement and energy. This style is common in abstract, futurism, and expressionism art forms.",
     "Image": {
@@ -2484,7 +2487,7 @@
     "Weight": 100
   },
   {
-    "Id": "0fd3aeea-71db-4cfa-8093-c51a4de6c246",
+    "Id": "fdf0454b-a798-4959-a4ed-8d263d7977da",
     "Title": "Creepy",
     "Description": "The Creepy color style involves dark and unsettling color schemes. Often seen in Gothic, Surrealism, and Horror Art, this style evokes feelings of unease and fear.",
     "Image": {
@@ -2494,7 +2497,7 @@
     "Weight": 100
   },
   {
-    "Id": "d49a1b9c-b5ef-4ced-a7b4-2f7045410cc1",
+    "Id": "e345c3a7-d976-48ff-a22b-415cbfac7fad",
     "Title": "Epic",
     "Description": "The Epic color style is known for its grand and rich color schemes. It\u0027s primarily associated with historical paintings, mythological art, and murals, often depicting grand narratives.",
     "Image": {
@@ -2504,7 +2507,7 @@
     "Weight": 100
   },
   {
-    "Id": "9a580de7-e055-4c01-9fbb-6b935a6d47d0",
+    "Id": "fe996854-2742-4183-84b7-d34f5f5aef2a",
     "Title": "Playful",
     "Description": "The Playful color style features bright and cheerful colors. It\u0027s found in Pop Art, Cartoon Art, and Naive Art, reflecting a joyful and light-hearted mood.",
     "Image": {
@@ -2514,7 +2517,7 @@
     "Weight": 100
   },
   {
-    "Id": "046a26bf-e292-4731-b7d6-2a01bf679696",
+    "Id": "4a00b12b-9905-4700-9cd3-e4d6de94646a",
     "Title": "Serene",
     "Description": "The Serene color style is characterized by soft and subtle colors. Primarily seen in Landscape Painting and Minimalism, it conveys a peaceful and calming mood.",
     "Image": {
@@ -2524,7 +2527,7 @@
     "Weight": 100
   },
   {
-    "Id": "c1d716de-bfcc-422f-a1e1-8532851b6604",
+    "Id": "a4cfd37f-d0a5-438a-9279-42afc901340b",
     "Title": "Whimsical",
     "Description": "The Whimsical color style involves fantastical and quirky colors. It is often found in Fairy Tale Art, Surrealism, and Children\u0027s Book Illustration, reflecting a sense of wonder and fantasy.",
     "Image": {
