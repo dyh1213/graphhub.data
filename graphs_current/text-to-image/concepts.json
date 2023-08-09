@@ -4043,8 +4043,11 @@
   {
     "Id": "1570",
     "Title": "Paper Art",
-    "Description": null,
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518_preview.jpeg"
+    },
     "Weight": null
   },
   {
