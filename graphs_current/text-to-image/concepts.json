@@ -4941,8 +4941,11 @@
   {
     "Id": "1603",
     "Title": "Playful",
-    "Description": null,
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211_preview.jpeg"
+    },
     "Weight": null
   },
   {
