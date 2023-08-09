@@ -5897,8 +5897,11 @@
   {
     "Id": "1834",
     "Title": "Spray Paint",
-    "Description": null,
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619_preview.jpeg"
+    },
     "Weight": null
   },
   {
