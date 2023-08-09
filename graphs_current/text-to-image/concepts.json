@@ -1,145 +1,5 @@
 [
   {
-    "Id": "327",
-    "Title": "Sculpture",
-    "Description": "Sculpture is a three-dimensional art form. Styles range from Classical to Abstract, with renowned artists such as Michelangelo, Rodin, and Moore.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408_preview.jpeg"
-    },
-    "Weight": 2000
-  },
-  {
-    "Id": "da037d7b-3f86-4314-8c6a-286aa1f0af35",
-    "Title": "Paper Art",
-    "Description": "Paper Art color style encompasses a range of artistic forms made from paper. From Origami to Quilling, the color possibilities are varied and often incorporate a layered composition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518_preview.jpeg"
-    },
-    "Weight": 1300
-  },
-  {
-    "Id": "329",
-    "Title": "Animation",
-    "Description": "Animation is a dynamic medium style that brings art to life. Styles range from 2D Animation to Stop Motion, with pioneers like Hayao Miyazaki and Walt Disney.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716_preview.jpeg"
-    },
-    "Weight": 1100
-  },
-  {
-    "Id": "16ca2499-27e7-48d5-89e8-179e98378aae",
-    "Title": "Spray Paint",
-    "Description": "The Spray Paint color style is synonymous with vivid and expressive colors often seen in Street Art, Graffiti, and Abstract paintings. Using spray paint as a medium, artists achieve a freeform and energetic composition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "334",
-    "Title": "Stone Lithography",
-    "Description": "Stone Lithography is a printmaking medium style that involves etching on a smooth stone. It\u0027s been used by artists like Honor\u00E9 Daumier and Francisco Goya.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552_preview.jpeg"
-    },
-    "Weight": 900
-  },
-  {
-    "Id": "323",
-    "Title": "Photography",
-    "Description": "Photography is a diverse medium style capturing a wide range of artistic styles such as Photojournalism and Landscape Photography. Influential photographers include Ansel Adams and Dorothea Lange.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453_preview.jpeg"
-    },
-    "Weight": 800
-  },
-  {
-    "Id": "280",
-    "Title": "Dramatic",
-    "Description": "Dramatic style art typically has an intense mood brought out through high contrast lighting and a complex composition. It is often associated with Baroque, Expressionism, and Romanticism.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "291",
-    "Title": "Dark",
-    "Description": "The dark color style employs dark hues and is often associated with gothic and baroque art as well as film noir. Typically set in low-light indoor environments, it evokes a gloomy mood through its dramatic compositions. Caravaggio and Rembrandt are key artists in this style.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "b7ce8205-d40e-42f8-9641-80b44e641e53",
-    "Title": "Action",
-    "Description": "The Action color style is characterized by bold and vivid colors that often represent movement and energy. This style is common in abstract, futurism, and expressionism art forms.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "fdf0454b-a798-4959-a4ed-8d263d7977da",
-    "Title": "Creepy",
-    "Description": "The Creepy color style involves dark and unsettling color schemes. Often seen in Gothic, Surrealism, and Horror Art, this style evokes feelings of unease and fear.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "e345c3a7-d976-48ff-a22b-415cbfac7fad",
-    "Title": "Epic",
-    "Description": "The Epic color style is known for its grand and rich color schemes. It\u0027s primarily associated with historical paintings, mythological art, and murals, often depicting grand narratives.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "fe996854-2742-4183-84b7-d34f5f5aef2a",
-    "Title": "Playful",
-    "Description": "The Playful color style features bright and cheerful colors. It\u0027s found in Pop Art, Cartoon Art, and Naive Art, reflecting a joyful and light-hearted mood.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "4a00b12b-9905-4700-9cd3-e4d6de94646a",
-    "Title": "Serene",
-    "Description": "The Serene color style is characterized by soft and subtle colors. Primarily seen in Landscape Painting and Minimalism, it conveys a peaceful and calming mood.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "a4cfd37f-d0a5-438a-9279-42afc901340b",
-    "Title": "Whimsical",
-    "Description": "The Whimsical color style involves fantastical and quirky colors. It is often found in Fairy Tale Art, Surrealism, and Children\u0027s Book Illustration, reflecting a sense of wonder and fantasy.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
     "Id": "Medium",
     "Title": "Medium",
     "Description": "List of artistic mediums used by creators across the world. It spans traditional classics like oil, acrylic, watercolor, and charcoal, alongside contemporary innovations such as digital art, mixed media, and installations. Embrace the diverse array of mediums employed by artists to express their creativity and vision, representing a rich tapestry of human ingenuity in the world of art.",
@@ -2180,6 +2040,16 @@
     "Weight": null
   },
   {
+    "Id": "280",
+    "Title": "Dramatic",
+    "Description": "Dramatic style art typically has an intense mood brought out through high contrast lighting and a complex composition. It is often associated with Baroque, Expressionism, and Romanticism.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
     "Id": "281",
     "Title": "Electro-illuminated",
     "Description": "Electro-illuminated style is a form of art that uses artificial light as its main medium. The mood is often futuristic, with a dynamic composition. This style is related to Digital Art, Light Art, and Kinetic Art.",
@@ -2250,13 +2120,20 @@
     "Weight": null
   },
   {
+    "Id": "291",
+    "Title": "Dark",
+    "Description": "The dark color style employs dark hues and is often associated with gothic and baroque art as well as film noir. Typically set in low-light indoor environments, it evokes a gloomy mood through its dramatic compositions. Caravaggio and Rembrandt are key artists in this style.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
     "Id": "292",
     "Title": "Pastel",
     "Description": "The pastel color style is characterized by the use of soft and light colors, often seen in Impressionism, Post-Impressionism, and contemporary art. It typically creates a peaceful mood, with a loose and fluid composition. Notable artists include Edgar Degas and Mary Cassatt.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455_preview.jpeg"
-    },
+    "Image": null,
     "Weight": null
   },
   {
@@ -2267,14 +2144,11 @@
     "Weight": null
   },
   {
-    "Id": "294",
+    "Id": "2e6a61bd-3e45-4cf3-abe0-acf3193dc3a8",
     "Title": "Fluorescent",
-    "Description": "a",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622_preview.jpeg"
-    },
-    "Weight": 1200
+    "Description": "The Fluorescent color style is characterized by bright and glowing colors. Often used in Neon Art, Contemporary Art, and Digital Art, this style provides an illuminated and energetic visual experience.",
+    "Image": null,
+    "Weight": null
   },
   {
     "Id": "295",
@@ -2473,6 +2347,16 @@
     "Weight": null
   },
   {
+    "Id": "323",
+    "Title": "Photography",
+    "Description": "Photography is a diverse medium style capturing a wide range of artistic styles such as Photojournalism and Landscape Photography. Influential photographers include Ansel Adams and Dorothea Lange.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453_preview.jpeg"
+    },
+    "Weight": 800
+  },
+  {
     "Id": "324",
     "Title": "Ink",
     "Description": "Ink is a medium style associated with forms like Calligraphy and Sumi-e, where ink is the primary tool. Notable artists include Yoko Takenaka and Aubrey Beardsley.",
@@ -2494,11 +2378,31 @@
     "Weight": null
   },
   {
+    "Id": "327",
+    "Title": "Sculpture",
+    "Description": "Sculpture is a three-dimensional art form. Styles range from Classical to Abstract, with renowned artists such as Michelangelo, Rodin, and Moore.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408_preview.jpeg"
+    },
+    "Weight": 2000
+  },
+  {
     "Id": "328",
     "Title": "Architecture",
     "Description": "Architecture is an artistic and technical discipline, with styles from Modernist to Art Deco. Prominent architects include Frank Lloyd Wright, Zaha Hadid, and Le Corbusier.",
     "Image": null,
     "Weight": null
+  },
+  {
+    "Id": "329",
+    "Title": "Animation",
+    "Description": "Animation is a dynamic medium style that brings art to life. Styles range from 2D Animation to Stop Motion, with pioneers like Hayao Miyazaki and Walt Disney.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716_preview.jpeg"
+    },
+    "Weight": 1100
   },
   {
     "Id": "330",
@@ -2527,6 +2431,16 @@
     "Description": "Digital Painting is a style that replicates traditional painting techniques in a digital format. Styles range from Concept Art to Digital Realism, with artists such as Craig Mullins and Aaron Blaise making significant contributions.",
     "Image": null,
     "Weight": null
+  },
+  {
+    "Id": "334",
+    "Title": "Stone Lithography",
+    "Description": "Stone Lithography is a printmaking medium style that involves etching on a smooth stone. It\u0027s been used by artists like Honor\u00E9 Daumier and Francisco Goya.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552_preview.jpeg"
+    },
+    "Weight": 900
   },
   {
     "Id": "335",
@@ -2578,196 +2492,273 @@
     "Weight": null
   },
   {
-    "Id": "1358",
+    "Id": "b7ce8205-d40e-42f8-9641-80b44e641e53",
+    "Title": "Action",
+    "Description": "The Action color style is characterized by bold and vivid colors that often represent movement and energy. This style is common in abstract, futurism, and expressionism art forms.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "fdf0454b-a798-4959-a4ed-8d263d7977da",
+    "Title": "Creepy",
+    "Description": "The Creepy color style involves dark and unsettling color schemes. Often seen in Gothic, Surrealism, and Horror Art, this style evokes feelings of unease and fear.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "e345c3a7-d976-48ff-a22b-415cbfac7fad",
+    "Title": "Epic",
+    "Description": "The Epic color style is known for its grand and rich color schemes. It\u0027s primarily associated with historical paintings, mythological art, and murals, often depicting grand narratives.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "fe996854-2742-4183-84b7-d34f5f5aef2a",
+    "Title": "Playful",
+    "Description": "The Playful color style features bright and cheerful colors. It\u0027s found in Pop Art, Cartoon Art, and Naive Art, reflecting a joyful and light-hearted mood.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "4a00b12b-9905-4700-9cd3-e4d6de94646a",
+    "Title": "Serene",
+    "Description": "The Serene color style is characterized by soft and subtle colors. Primarily seen in Landscape Painting and Minimalism, it conveys a peaceful and calming mood.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "a4cfd37f-d0a5-438a-9279-42afc901340b",
+    "Title": "Whimsical",
+    "Description": "The Whimsical color style involves fantastical and quirky colors. It is often found in Fairy Tale Art, Surrealism, and Children\u0027s Book Illustration, reflecting a sense of wonder and fantasy.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "da037d7b-3f86-4314-8c6a-286aa1f0af35",
+    "Title": "Paper Art",
+    "Description": "Paper Art color style encompasses a range of artistic forms made from paper. From Origami to Quilling, the color possibilities are varied and often incorporate a layered composition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518_preview.jpeg"
+    },
+    "Weight": 1300
+  },
+  {
+    "Id": "16ca2499-27e7-48d5-89e8-179e98378aae",
+    "Title": "Spray Paint",
+    "Description": "The Spray Paint color style is synonymous with vivid and expressive colors often seen in Street Art, Graffiti, and Abstract paintings. Using spray paint as a medium, artists achieve a freeform and energetic composition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "2522769d-c7d2-46da-9d95-eb832baa180f",
+    "Title": "Fantastical",
+    "Description": "The Fantastical color style employs imaginative and dreamlike colors. It\u0027s common in Surrealism, Fantasy Art, and Illustration, reflecting a sense of wonder, whimsy, and magic.",
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "1359",
     "Title": "Person",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1359",
+    "Id": "1360",
     "Title": "Street Artist",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1360",
+    "Id": "1361",
     "Title": "Street Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1361",
+    "Id": "1362",
     "Title": "Urban",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1362",
+    "Id": "1363",
     "Title": "Three-dimensional",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1363",
+    "Id": "1364",
     "Title": "Painter",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1364",
+    "Id": "1365",
     "Title": "Impressionism",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1365",
+    "Id": "1366",
     "Title": "Cubism",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1366",
+    "Id": "1367",
     "Title": "Political",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1367",
+    "Id": "1368",
     "Title": "Figurative",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1368",
+    "Id": "1369",
     "Title": "Romanticism",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1369",
+    "Id": "1370",
     "Title": "Melancholic",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1370",
+    "Id": "1371",
     "Title": "Comic Artist",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1371",
+    "Id": "1372",
     "Title": "Graphic Novels",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1372",
+    "Id": "1373",
     "Title": "Comic Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1373",
+    "Id": "1374",
     "Title": "Satirical",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1374",
+    "Id": "1375",
     "Title": "Cartoonish",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1375",
+    "Id": "1376",
     "Title": "Digital Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1376",
+    "Id": "1377",
     "Title": "Abstract",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1377",
+    "Id": "1378",
     "Title": "Monospace",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1378",
+    "Id": "1379",
     "Title": "Cobra",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1379",
+    "Id": "1380",
     "Title": "Situationist",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1380",
+    "Id": "1381",
     "Title": "Rebellious",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1381",
+    "Id": "1382",
     "Title": "Illustrator",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1382",
+    "Id": "1383",
     "Title": "Concept Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1383",
+    "Id": "1384",
     "Title": "Digital Artist",
     "Description": null,
     "Image": null,
     "Weight": null
-  },
-  {
-    "Id": "1384",
-    "Title": "Fantastical",
-    "Description": "a",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531_preview.jpeg"
-    },
-    "Weight": 1100
   },
   {
     "Id": "1385",
@@ -6029,7 +6020,7 @@
     "Title": "Pastel Art",
     "Description": null,
     "Image": null,
-    "Weight": 1150
+    "Weight": null
   },
   {
     "Id": "1851",
@@ -6327,854 +6318,847 @@
   },
   {
     "Id": "1893",
-    "Title": "Keith Haring",
+    "Title": "Illuminated",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
     "Id": "1894",
-    "Title": "Dan Flavin",
+    "Title": "Bright, Glowing",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
     "Id": "1895",
-    "Title": "Glowing Colors",
-    "Description": null,
-    "Image": null,
-    "Weight": null
-  },
-  {
-    "Id": "1896",
-    "Title": "Exciting",
-    "Description": null,
-    "Image": null,
-    "Weight": null
-  },
-  {
-    "Id": "1897",
-    "Title": "Bold and Geometric",
-    "Description": null,
-    "Image": null,
-    "Weight": null
-  },
-  {
-    "Id": "1898",
     "Title": "Gustave Courbet",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1899",
+    "Id": "1896",
     "Title": "Naturalistic Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1900",
+    "Id": "1897",
     "Title": "Detailed and Precise",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1901",
+    "Id": "1898",
     "Title": "Yves Klein",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1902",
+    "Id": "1899",
     "Title": "Ad Reinhardt",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1903",
+    "Id": "1900",
     "Title": "One Color With Varying Tones",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1904",
+    "Id": "1901",
     "Title": "Dependent on the Chosen Color",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1905",
+    "Id": "1902",
     "Title": "Emphasis on Form and Texture",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1906",
+    "Id": "1903",
     "Title": "Multiple Vibrant Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1907",
+    "Id": "1904",
     "Title": "Mark Rothko",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1908",
+    "Id": "1905",
     "Title": "Barnett Newman",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1909",
+    "Id": "1906",
     "Title": "Color Field",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1910",
+    "Id": "1907",
     "Title": "All Hues of the Color Spectrum",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1911",
+    "Id": "1908",
     "Title": "Expansive",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1912",
+    "Id": "1909",
     "Title": "Josiah Wedgwood",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1913",
+    "Id": "1910",
     "Title": "Varies According to Period",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1914",
+    "Id": "1911",
     "Title": "Highly Saturated Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1915",
+    "Id": "1912",
+    "Title": "Keith Haring",
+    "Description": null,
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "1913",
     "Title": "Jean-Michel Basquiat",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1916",
+    "Id": "1914",
     "Title": "Contrasting Light",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1917",
+    "Id": "1915",
     "Title": "Black With Bright Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1918",
+    "Id": "1916",
     "Title": "Bold and Striking",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1919",
+    "Id": "1917",
     "Title": "Wide Range of Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1920",
+    "Id": "1918",
     "Title": "Vivid, High Contrast Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1921",
+    "Id": "1919",
     "Title": "Nan Goldin",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1922",
+    "Id": "1920",
     "Title": "Red and Warm Tones",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1923",
+    "Id": "1921",
     "Title": "Focused on Light and Shadow",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1924",
+    "Id": "1922",
     "Title": "William Eggleston",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1925",
+    "Id": "1923",
     "Title": "Desaturated, Vintage Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1926",
+    "Id": "1924",
     "Title": "Focused on Form and Texture",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1927",
+    "Id": "1925",
     "Title": "Muted, Low Saturation Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1928",
+    "Id": "1926",
     "Title": "Agnes Martin",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1929",
+    "Id": "1927",
     "Title": "Neutral Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1930",
+    "Id": "1928",
     "Title": "Simplicity",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1931",
+    "Id": "1929",
     "Title": "Gustav Klimt",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1932",
+    "Id": "1930",
     "Title": "Rococo",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1933",
+    "Id": "1931",
     "Title": "Soft, Reflective Light",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1934",
+    "Id": "1932",
     "Title": "Gold and Rich Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1935",
+    "Id": "1933",
     "Title": "Combination of Different Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1936",
+    "Id": "1934",
     "Title": "Diverse",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1937",
+    "Id": "1935",
     "Title": "Warm Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1938",
+    "Id": "1936",
     "Title": "Comforting",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1939",
+    "Id": "1937",
     "Title": "High Contrast Colors",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1940",
+    "Id": "1938",
     "Title": "Indigo and Cool Tones",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1941",
+    "Id": "1939",
     "Title": "Marcel Duchamp",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1942",
+    "Id": "1940",
     "Title": "Robert Rauschenberg",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1943",
+    "Id": "1941",
     "Title": "Dada",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1944",
+    "Id": "1942",
     "Title": "Maurice Sendak",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1945",
+    "Id": "1943",
     "Title": "Quentin Blake",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1946",
+    "Id": "1944",
     "Title": "Beatrix Potter",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1947",
+    "Id": "1945",
     "Title": "Children\u0027s Book",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1948",
+    "Id": "1946",
     "Title": "Barbara Kruger",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1949",
+    "Id": "1947",
     "Title": "Jenny Holzer",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1950",
+    "Id": "1948",
     "Title": "David Revoy",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1951",
+    "Id": "1949",
     "Title": "Wei Wei",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1952",
+    "Id": "1950",
     "Title": "Vector Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1953",
+    "Id": "1951",
     "Title": "3D Modeling",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1954",
+    "Id": "1952",
     "Title": "Richard Avedon",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1955",
+    "Id": "1953",
     "Title": "Dorothea Lange",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1956",
+    "Id": "1954",
     "Title": "Portrait Photography",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1957",
+    "Id": "1955",
     "Title": "Still Life Photography",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1958",
+    "Id": "1956",
     "Title": "Yoko Takenaka",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1959",
+    "Id": "1957",
     "Title": "Sumi-e",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1960",
+    "Id": "1958",
     "Title": "Line Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1961",
+    "Id": "1959",
     "Title": "Faith Ringgold",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1962",
+    "Id": "1960",
     "Title": "Weaving",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1963",
+    "Id": "1961",
     "Title": "Embroidery",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1964",
+    "Id": "1962",
     "Title": "Auguste Rodin",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1965",
+    "Id": "1963",
     "Title": "Henry Moore",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1966",
+    "Id": "1964",
     "Title": "Kinetic",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1967",
+    "Id": "1965",
     "Title": "Zaha Hadid",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1968",
+    "Id": "1966",
     "Title": "Le Corbusier",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1969",
+    "Id": "1967",
     "Title": "Modernist",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1970",
+    "Id": "1968",
     "Title": "Postmodern",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1971",
+    "Id": "1969",
     "Title": "Hayao Miyazaki",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1972",
+    "Id": "1970",
     "Title": "Walt Disney",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1973",
+    "Id": "1971",
     "Title": "2D Animation",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1974",
+    "Id": "1972",
     "Title": "3D Animation",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1975",
+    "Id": "1973",
     "Title": "Stop Motion",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1976",
+    "Id": "1974",
     "Title": "Julian Beever",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1977",
+    "Id": "1975",
     "Title": "Chalk Pastel",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1978",
+    "Id": "1976",
     "Title": "Katsushika Hokusai",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1979",
+    "Id": "1977",
     "Title": "Marina Abramovic",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1980",
+    "Id": "1978",
     "Title": "Experimental Film",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1981",
+    "Id": "1979",
     "Title": "Craig Mullins",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1982",
+    "Id": "1980",
     "Title": "Aaron Blaise",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1983",
+    "Id": "1981",
     "Title": "Pixel Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1984",
+    "Id": "1982",
     "Title": "Digital Realism",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1985",
+    "Id": "1983",
     "Title": "Honor\u00E9 Daumier",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1986",
+    "Id": "1984",
     "Title": "Francisco Goya",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1987",
+    "Id": "1985",
     "Title": "Peter Voulkos",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1988",
+    "Id": "1986",
     "Title": "Lucie Rie",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1989",
+    "Id": "1987",
     "Title": "Pottery",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1990",
+    "Id": "1988",
     "Title": "J.M.W. Turner",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1991",
+    "Id": "1989",
     "Title": "Georgia O\u2019Keeffe",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1992",
+    "Id": "1990",
     "Title": "Coco Chanel",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1993",
+    "Id": "1991",
     "Title": "Alexander McQueen",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1994",
+    "Id": "1992",
     "Title": "Costume Design",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1995",
+    "Id": "1993",
     "Title": "Diego Rivera",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1996",
+    "Id": "1994",
     "Title": "Silkscreen",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1997",
+    "Id": "1995",
     "Title": "Etching",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1998",
+    "Id": "1996",
     "Title": "Lithography",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1999",
+    "Id": "1997",
     "Title": "Adventure",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2000",
+    "Id": "1998",
     "Title": "Virtual Reality",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2001",
+    "Id": "1999",
     "Title": "Medieval Europe",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2002",
+    "Id": "2000",
     "Title": "Unease",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2003",
+    "Id": "2001",
     "Title": "Historical Painting",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2004",
+    "Id": "2002",
     "Title": "Mythological Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2005",
+    "Id": "2003",
     "Title": "Muralism",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2006",
+    "Id": "2004",
     "Title": "Rich",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2007",
+    "Id": "2005",
     "Title": "Grandiose",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2008",
+    "Id": "2006",
     "Title": "Cartoon Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2009",
+    "Id": "2007",
     "Title": "Landscape Painting",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2010",
+    "Id": "2008",
     "Title": "Fairy Tale Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2011",
+    "Id": "2009",
     "Title": "Quilling",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2012",
+    "Id": "2010",
     "Title": "Papercutting",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2013",
+    "Id": "2011",
     "Title": "Paper Mache",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "2014",
+    "Id": "2012",
     "Title": "Freeform",
+    "Description": null,
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "2013",
+    "Title": "Imaginative",
     "Description": null,
     "Image": null,
     "Weight": null
