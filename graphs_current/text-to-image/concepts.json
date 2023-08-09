@@ -5654,7 +5654,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "234",
