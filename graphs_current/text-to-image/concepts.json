@@ -5640,8 +5640,11 @@
   {
     "Id": "1876",
     "Title": "Serene",
-    "Description": null,
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307_preview.jpeg"
+    },
     "Weight": null
   },
   {
