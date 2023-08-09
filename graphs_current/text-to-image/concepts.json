@@ -2455,7 +2455,10 @@
     "Id": "329",
     "Title": "Animation",
     "Description": "Animation is a dynamic medium style that brings art to life. Styles range from 2D Animation to Stop Motion, with pioneers like Hayao Miyazaki and Walt Disney.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716_preview.jpeg"
+    },
     "Weight": null
   },
   {
