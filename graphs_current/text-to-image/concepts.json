@@ -1741,8 +1741,11 @@
   {
     "Id": "1794",
     "Title": "Creepy",
-    "Description": null,
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331_preview.jpeg"
+    },
     "Weight": null
   },
   {
