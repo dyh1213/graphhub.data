@@ -1,5 +1,85 @@
 [
   {
+    "Id": "280",
+    "Title": "Dramatic",
+    "Description": "Dramatic style art typically has an intense mood brought out through high contrast lighting and a complex composition. It is often associated with Baroque, Expressionism, and Romanticism.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "291",
+    "Title": "Dark",
+    "Description": "The dark color style employs dark hues and is often associated with gothic and baroque art as well as film noir. Typically set in low-light indoor environments, it evokes a gloomy mood through its dramatic compositions. Caravaggio and Rembrandt are key artists in this style.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "b7ce8205-d40e-42f8-9641-80b44e641e53",
+    "Title": "Action",
+    "Description": "The Action color style is characterized by bold and vivid colors that often represent movement and energy. This style is common in abstract, futurism, and expressionism art forms.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "fdf0454b-a798-4959-a4ed-8d263d7977da",
+    "Title": "Creepy",
+    "Description": "The Creepy color style involves dark and unsettling color schemes. Often seen in Gothic, Surrealism, and Horror Art, this style evokes feelings of unease and fear.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "e345c3a7-d976-48ff-a22b-415cbfac7fad",
+    "Title": "Epic",
+    "Description": "The Epic color style is known for its grand and rich color schemes. It\u0027s primarily associated with historical paintings, mythological art, and murals, often depicting grand narratives.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "fe996854-2742-4183-84b7-d34f5f5aef2a",
+    "Title": "Playful",
+    "Description": "The Playful color style features bright and cheerful colors. It\u0027s found in Pop Art, Cartoon Art, and Naive Art, reflecting a joyful and light-hearted mood.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "4a00b12b-9905-4700-9cd3-e4d6de94646a",
+    "Title": "Serene",
+    "Description": "The Serene color style is characterized by soft and subtle colors. Primarily seen in Landscape Painting and Minimalism, it conveys a peaceful and calming mood.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "a4cfd37f-d0a5-438a-9279-42afc901340b",
+    "Title": "Whimsical",
+    "Description": "The Whimsical color style involves fantastical and quirky colors. It is often found in Fairy Tale Art, Surrealism, and Children\u0027s Book Illustration, reflecting a sense of wonder and fantasy.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
     "Id": "Medium",
     "Title": "Medium",
     "Description": "List of artistic mediums used by creators across the world. It spans traditional classics like oil, acrylic, watercolor, and charcoal, alongside contemporary innovations such as digital art, mixed media, and installations. Embrace the diverse array of mediums employed by artists to express their creativity and vision, representing a rich tapestry of human ingenuity in the world of art.",
@@ -2037,16 +2117,6 @@
     "Weight": null
   },
   {
-    "Id": "280",
-    "Title": "Dramatic",
-    "Description": "Dramatic style art typically has an intense mood brought out through high contrast lighting and a complex composition. It is often associated with Baroque, Expressionism, and Romanticism.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
     "Id": "281",
     "Title": "Electro-illuminated",
     "Description": "Electro-illuminated style is a form of art that uses artificial light as its main medium. The mood is often futuristic, with a dynamic composition. This style is related to Digital Art, Light Art, and Kinetic Art.",
@@ -2115,16 +2185,6 @@
     "Description": "Monochrome color style is a visual approach using a single hue, often seen in photography and minimalist art. The style places a strong emphasis on lines and shapes, with the mood largely dependent on the subject. Notable artists include Cindy Sherman and Ansel Adams.",
     "Image": null,
     "Weight": null
-  },
-  {
-    "Id": "291",
-    "Title": "Dark",
-    "Description": "The dark color style employs dark hues and is often associated with gothic and baroque art as well as film noir. Typically set in low-light indoor environments, it evokes a gloomy mood through its dramatic compositions. Caravaggio and Rembrandt are key artists in this style.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147_preview.jpeg"
-    },
-    "Weight": 100
   },
   {
     "Id": "292",
@@ -2347,7 +2407,10 @@
     "Id": "323",
     "Title": "Photography",
     "Description": "Photography is a diverse medium style capturing a wide range of artistic styles such as Photojournalism and Landscape Photography. Influential photographers include Ansel Adams and Dorothea Lange.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453_preview.jpeg"
+    },
     "Weight": null
   },
   {
@@ -2475,66 +2538,6 @@
     "Description": "1100s Fashion is an artistic style of clothing originating from the medieval period in Europe. It was heavily influenced by the Gothic and Romantic styles, and featured intricate designs and patterns in textiles. Popular fashion designers of this period include Giorgio Armani and Dolce \u0026 Gabbana.",
     "Image": null,
     "Weight": null
-  },
-  {
-    "Id": "b7ce8205-d40e-42f8-9641-80b44e641e53",
-    "Title": "Action",
-    "Description": "The Action color style is characterized by bold and vivid colors that often represent movement and energy. This style is common in abstract, futurism, and expressionism art forms.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "fdf0454b-a798-4959-a4ed-8d263d7977da",
-    "Title": "Creepy",
-    "Description": "The Creepy color style involves dark and unsettling color schemes. Often seen in Gothic, Surrealism, and Horror Art, this style evokes feelings of unease and fear.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "e345c3a7-d976-48ff-a22b-415cbfac7fad",
-    "Title": "Epic",
-    "Description": "The Epic color style is known for its grand and rich color schemes. It\u0027s primarily associated with historical paintings, mythological art, and murals, often depicting grand narratives.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "fe996854-2742-4183-84b7-d34f5f5aef2a",
-    "Title": "Playful",
-    "Description": "The Playful color style features bright and cheerful colors. It\u0027s found in Pop Art, Cartoon Art, and Naive Art, reflecting a joyful and light-hearted mood.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "4a00b12b-9905-4700-9cd3-e4d6de94646a",
-    "Title": "Serene",
-    "Description": "The Serene color style is characterized by soft and subtle colors. Primarily seen in Landscape Painting and Minimalism, it conveys a peaceful and calming mood.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "a4cfd37f-d0a5-438a-9279-42afc901340b",
-    "Title": "Whimsical",
-    "Description": "The Whimsical color style involves fantastical and quirky colors. It is often found in Fairy Tale Art, Surrealism, and Children\u0027s Book Illustration, reflecting a sense of wonder and fantasy.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255_preview.jpeg"
-    },
-    "Weight": 100
   },
   {
     "Id": "1356",
