@@ -79,8 +79,11 @@
   {
     "Id": "1444",
     "Title": "Action",
-    "Description": null,
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351_preview.jpeg"
+    },
     "Weight": null
   },
   {
