@@ -2411,7 +2411,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 800
   },
   {
     "Id": "324",
@@ -2442,7 +2442,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 2000
   },
   {
     "Id": "328",
@@ -2459,7 +2459,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1100
   },
   {
     "Id": "330",
@@ -2497,7 +2497,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 900
   },
   {
     "Id": "335",
@@ -4054,7 +4054,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1300
   },
   {
     "Id": "1571",
@@ -5905,7 +5905,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1000
   },
   {
     "Id": "1835",
