@@ -84,7 +84,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1792",
@@ -1749,7 +1749,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1357",
@@ -1808,7 +1808,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1875",
@@ -2084,7 +2084,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1739",
@@ -2324,7 +2324,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "65",
@@ -4958,7 +4958,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1775",
@@ -6846,7 +6846,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1919",
