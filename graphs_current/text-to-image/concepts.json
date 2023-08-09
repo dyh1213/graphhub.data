@@ -2407,7 +2407,10 @@
     "Id": "323",
     "Title": "Photography",
     "Description": "Photography is a diverse medium style capturing a wide range of artistic styles such as Photojournalism and Landscape Photography. Influential photographers include Ansel Adams and Dorothea Lange.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453_preview.jpeg"
+    },
     "Weight": null
   },
   {
