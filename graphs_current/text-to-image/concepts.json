@@ -81,7 +81,7 @@
     "Title": "Action",
     "Description": null,
     "Image": null,
-    "Weight": 100
+    "Weight": null
   },
   {
     "Id": "1792",
@@ -1743,7 +1743,7 @@
     "Title": "Creepy",
     "Description": null,
     "Image": null,
-    "Weight": 100
+    "Weight": null
   },
   {
     "Id": "1357",
@@ -1799,7 +1799,7 @@
     "Title": "Dark",
     "Description": "The dark color style employs dark hues and is often associated with gothic and baroque art as well as film noir. Typically set in low-light indoor environments, it evokes a gloomy mood through its dramatic compositions. Caravaggio and Rembrandt are key artists in this style.",
     "Image": null,
-    "Weight": 100
+    "Weight": null
   },
   {
     "Id": "1875",
@@ -2072,7 +2072,7 @@
     "Title": "Dramatic",
     "Description": "Dramatic style art typically has an intense mood brought out through high contrast lighting and a complex composition. It is often associated with Baroque, Expressionism, and Romanticism.",
     "Image": null,
-    "Weight": 100
+    "Weight": null
   },
   {
     "Id": "1739",
@@ -2309,7 +2309,7 @@
     "Title": "Epic",
     "Description": null,
     "Image": null,
-    "Weight": 100
+    "Weight": null
   },
   {
     "Id": "65",
@@ -3131,15 +3131,15 @@
     "Weight": null
   },
   {
-    "Id": "1914",
-    "Title": "Highly Saturated Colors",
+    "Id": "1617",
+    "Title": "High-tech Architecture",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1617",
-    "Title": "High-tech Architecture",
+    "Id": "1914",
+    "Title": "Highly Saturated Colors",
     "Description": null,
     "Image": null,
     "Weight": null
@@ -4261,15 +4261,15 @@
     "Weight": null
   },
   {
-    "Id": "1872",
-    "Title": "Neon Art",
+    "Id": "1829",
+    "Title": "Neo-Victorian",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1829",
-    "Title": "Neo-Victorian",
+    "Id": "1872",
+    "Title": "Neon Art",
     "Description": null,
     "Image": null,
     "Weight": null
@@ -4935,9 +4935,12 @@
   {
     "Id": "1603",
     "Title": "Playful",
-    "Description": null,
-    "Image": null,
-    "Weight": 100
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809114836.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809114836_preview.jpeg"
+    },
+    "Weight": null
   },
   {
     "Id": "1775",
@@ -5038,6 +5041,13 @@
     "Weight": null
   },
   {
+    "Id": "1406",
+    "Title": "Post-War Era",
+    "Description": null,
+    "Image": null,
+    "Weight": null
+  },
+  {
     "Id": "1970",
     "Title": "Postmodern",
     "Description": null,
@@ -5061,13 +5071,6 @@
   {
     "Id": "1689",
     "Title": "Postmodernism",
-    "Description": null,
-    "Image": null,
-    "Weight": null
-  },
-  {
-    "Id": "1406",
-    "Title": "Post-War Era",
     "Description": null,
     "Image": null,
     "Weight": null
@@ -5528,6 +5531,13 @@
     "Weight": null
   },
   {
+    "Id": "1397",
+    "Title": "Sci-Fi",
+    "Description": null,
+    "Image": null,
+    "Weight": null
+  },
+  {
     "Id": "1827",
     "Title": "Science Fantasy",
     "Description": null,
@@ -5558,13 +5568,6 @@
   {
     "Id": "1471",
     "Title": "Scientific Illustration",
-    "Description": null,
-    "Image": null,
-    "Weight": null
-  },
-  {
-    "Id": "1397",
-    "Title": "Sci-Fi",
     "Description": null,
     "Image": null,
     "Weight": null
@@ -5630,7 +5633,7 @@
     "Title": "Serene",
     "Description": null,
     "Image": null,
-    "Weight": 100
+    "Weight": null
   },
   {
     "Id": "234",
@@ -6819,7 +6822,7 @@
     "Title": "Whimsical",
     "Description": null,
     "Image": null,
-    "Weight": 100
+    "Weight": null
   },
   {
     "Id": "1919",
@@ -6878,6 +6881,13 @@
     "Weight": null
   },
   {
+    "Id": "164",
+    "Title": "X-ray",
+    "Description": "X-ray style refers to a technique used primarily in Medical and Scientific Art, utilizing radiography as a medium. The composition typically reveals an anatomical structure of the subject. Notable artists in this field include Nick Veasey and Hugh Turvey.",
+    "Image": null,
+    "Weight": null
+  },
+  {
     "Id": "165",
     "Title": "Xavier Dolan",
     "Description": "Xavier Dolan is a Canadian film director and actor known for his intense cinematic style often categorized within Drama and Psychological genres. His style has a unique intensity that captivates audiences.",
@@ -6888,13 +6898,6 @@
     "Id": "166",
     "Title": "Xerography",
     "Description": "The Xerography style pertains to the use of photocopiers in art and is often seen in printmaking and copy art. The medium is typically paper, and compositions tend to be repetitive due to the nature of copying. Artists like Bruno Munari and Eduardo Paolozzi have utilized this style.",
-    "Image": null,
-    "Weight": null
-  },
-  {
-    "Id": "164",
-    "Title": "X-ray",
-    "Description": "X-ray style refers to a technique used primarily in Medical and Scientific Art, utilizing radiography as a medium. The composition typically reveals an anatomical structure of the subject. Notable artists in this field include Nick Veasey and Hugh Turvey.",
     "Image": null,
     "Weight": null
   },
