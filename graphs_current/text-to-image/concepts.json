@@ -81,7 +81,7 @@
     "Title": "Action",
     "Description": null,
     "Image": null,
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1792",
@@ -1743,7 +1743,7 @@
     "Title": "Creepy",
     "Description": null,
     "Image": null,
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1357",
@@ -1799,7 +1799,7 @@
     "Title": "Dark",
     "Description": "The dark color style employs dark hues and is often associated with gothic and baroque art as well as film noir. Typically set in low-light indoor environments, it evokes a gloomy mood through its dramatic compositions. Caravaggio and Rembrandt are key artists in this style.",
     "Image": null,
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1875",
@@ -2072,7 +2072,7 @@
     "Title": "Dramatic",
     "Description": "Dramatic style art typically has an intense mood brought out through high contrast lighting and a complex composition. It is often associated with Baroque, Expressionism, and Romanticism.",
     "Image": null,
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1739",
@@ -2309,7 +2309,7 @@
     "Title": "Epic",
     "Description": null,
     "Image": null,
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "65",
@@ -4937,7 +4937,7 @@
     "Title": "Playful",
     "Description": null,
     "Image": null,
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1775",
@@ -5630,7 +5630,7 @@
     "Title": "Serene",
     "Description": null,
     "Image": null,
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "234",
@@ -6819,7 +6819,7 @@
     "Title": "Whimsical",
     "Description": null,
     "Image": null,
-    "Weight": null
+    "Weight": 100
   },
   {
     "Id": "1919",
