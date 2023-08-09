@@ -6829,8 +6829,11 @@
   {
     "Id": "1769",
     "Title": "Whimsical",
-    "Description": null,
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255_preview.jpeg"
+    },
     "Weight": null
   },
   {
