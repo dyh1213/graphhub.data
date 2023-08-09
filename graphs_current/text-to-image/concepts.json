@@ -27,7 +27,10 @@
     "Id": "Color",
     "Title": "Color",
     "Description": "This list is a vibrant preview of the expansive world of color. It offers a glimpse into the variety of color schemes, from bold and high-contrast, to subdued and muted, painting a picture of possibilities. It explores the broad spectrum from monochrome to multi-color, and from vintage to modern palettes. You\u0027ll encounter warm, cool, natural, and period-specific tones, setting the stage for a more in-depth exploration.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_color_Color_20230809185029.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_color_Color_20230809185029_preview.jpeg"
+    },
     "Weight": 3
   },
   {
