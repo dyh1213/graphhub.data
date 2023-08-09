@@ -2490,7 +2490,10 @@
     "Id": "334",
     "Title": "Stone Lithography",
     "Description": "Stone Lithography is a printmaking medium style that involves etching on a smooth stone. It\u0027s been used by artists like Honor\u00E9 Daumier and Francisco Goya.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552_preview.jpeg"
+    },
     "Weight": null
   },
   {
