@@ -2136,8 +2136,11 @@
     "Id": "292",
     "Title": "Pastel",
     "Description": "The pastel color style is characterized by the use of soft and light colors, often seen in Impressionism, Post-Impressionism, and contemporary art. It typically creates a peaceful mood, with a loose and fluid composition. Notable artists include Edgar Degas and Mary Cassatt.",
-    "Image": null,
-    "Weight": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455_preview.jpeg"
+    },
+    "Weight": 1100
   },
   {
     "Id": "293",
@@ -2150,8 +2153,11 @@
     "Id": "06cbcde0-282d-4f20-b491-5928b34b73bb",
     "Title": "Fluorescent",
     "Description": "The Fluorescent color style is characterized by bright and glowing colors. Often used in Neon Art, Contemporary Art, and Digital Art, this style provides an illuminated and energetic visual experience.",
-    "Image": null,
-    "Weight": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622_preview.jpeg"
+    },
+    "Weight": 1100
   },
   {
     "Id": "295",
@@ -2578,8 +2584,11 @@
     "Id": "75d40719-6506-476a-815d-24db450a90e3",
     "Title": "Fantastical",
     "Description": "The Fantastical color style employs imaginative and dreamlike colors. It\u0027s common in Surrealism, Fantasy Art, and Illustration, reflecting a sense of wonder, whimsy, and magic.",
-    "Image": null,
-    "Weight": null
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531_preview.jpeg"
+    },
+    "Weight": 1000
   },
   {
     "Id": "1359",
