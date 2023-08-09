@@ -2074,7 +2074,10 @@
     "Id": "280",
     "Title": "Dramatic",
     "Description": "Dramatic style art typically has an intense mood brought out through high contrast lighting and a complex composition. It is often associated with Baroque, Expressionism, and Romanticism.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159_preview.jpeg"
+    },
     "Weight": null
   },
   {
