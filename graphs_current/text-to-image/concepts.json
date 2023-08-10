@@ -7076,8 +7076,11 @@
   {
     "Id": "1999",
     "Title": "Medieval Europe",
-    "Description": null,
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_medieval-europe_1999_20230810071247.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_medieval-europe_1999_20230810071247_preview.jpeg"
+    },
     "Weight": null
   },
   {
