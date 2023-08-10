@@ -2603,8 +2603,11 @@
   {
     "Id": "3e079a17-b07b-416a-923f-b0b17c4895c0",
     "Title": "Fantastical Landscape",
-    "Description": "Fantastical Landscape art style conveys an imaginary, often otherworldly scene, merging reality with surreal elements to evoke a sense of wonder and dream-like ambiance.",
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical-landscape_3e079a17-b07b-416a-923f-b0b17c4895c0_20230810100951.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical-landscape_3e079a17-b07b-416a-923f-b0b17c4895c0_20230810100951_preview.jpeg"
+    },
     "Weight": null
   },
   {
