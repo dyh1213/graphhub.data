@@ -2594,7 +2594,10 @@
     "Id": "9ef1e74f-b3bf-46e5-9578-c596dec580f2",
     "Title": "Desert",
     "Description": "Desert art style captures the vast, dry, and often barren landscape, utilizing earthy tones and realistic or impressionistic techniques to portray a sense of isolation and harsh beauty.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_desert_9ef1e74f-b3bf-46e5-9578-c596dec580f2_20230810100806.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_desert_9ef1e74f-b3bf-46e5-9578-c596dec580f2_20230810100806_preview.jpeg"
+    },
     "Weight": null
   },
   {
