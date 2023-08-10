@@ -3485,8 +3485,11 @@
   {
     "Id": "1486",
     "Title": "War Zones",
-    "Description": null,
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_war-zones_1486_20230810071331.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_war-zones_1486_20230810071331_preview.jpeg"
+    },
     "Weight": null
   },
   {
