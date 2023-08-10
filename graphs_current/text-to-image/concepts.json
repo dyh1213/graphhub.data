@@ -2630,8 +2630,11 @@
   {
     "Id": "91be853b-471e-478e-ae20-d6efe1a00a2d",
     "Title": "Post Apocalyptic",
-    "Description": "Post Apocalyptic art style portrays a world after a catastrophic event, depicting ruin, chaos, and desolation. It often involves dystopian and cyberpunk elements with harsh, artificial lighting.",
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_post-apocalyptic_91be853b-471e-478e-ae20-d6efe1a00a2d_20230810101045.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_post-apocalyptic_91be853b-471e-478e-ae20-d6efe1a00a2d_20230810101045_preview.jpeg"
+    },
     "Weight": null
   },
   {
