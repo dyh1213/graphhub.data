@@ -2677,7 +2677,10 @@
     "Id": "c3fe8302-e573-481d-b013-f162655d853a",
     "Title": "Leading Lines",
     "Description": "Leading Lines art style employs lines to guide the viewer\u0027s eye towards a particular point of interest. These lines often create a sense of movement, direction, or perspective within the composition.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165005.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165005_preview.jpeg"
+    },
     "Weight": null
   },
   {
