@@ -503,7 +503,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1000
   },
   {
     "Id": "28",
@@ -2664,7 +2664,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_symmetrical_44377748-2eaa-48fb-bdf3-3846cc679c77_20230813164135.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_symmetrical_44377748-2eaa-48fb-bdf3-3846cc679c77_20230813164135_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1000
   },
   {
     "Id": "41d62043-35ed-44b4-84c7-6f21755de357",
@@ -2674,7 +2674,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_frame-within-frame_51c549f3-df80-4945-93fe-a826830e778e_20230813164616.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_frame-within-frame_51c549f3-df80-4945-93fe-a826830e778e_20230813164616_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1000
   },
   {
     "Id": "16886558-70d7-4ad0-a85e-ea72b8ba88e2",
@@ -2684,7 +2684,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165028.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165028_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1100
   },
   {
     "Id": "2021f302-f145-49a4-805a-fad32d62b879",
@@ -2701,7 +2701,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 900
   },
   {
     "Id": "8702722b-fbbd-4794-a8ad-13cda5b6457e",
@@ -2711,7 +2711,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_depth-of-field_31e18b14-f51f-40ca-a7e1-21cbe556fb3b_20230813165423.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_depth-of-field_31e18b14-f51f-40ca-a7e1-21cbe556fb3b_20230813165423_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1200
   },
   {
     "Id": "083c774c-87ee-4ada-8110-10cf5cd76435",
@@ -2721,7 +2721,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_underwater_083c774c-87ee-4ada-8110-10cf5cd76435_20230813165704.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_underwater_083c774c-87ee-4ada-8110-10cf5cd76435_20230813165704_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1200
   },
   {
     "Id": "1372",
