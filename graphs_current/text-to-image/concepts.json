@@ -40,6 +40,26 @@
     "Weight": 1200
   },
   {
+    "Id": "8702722b-fbbd-4794-a8ad-13cda5b6457e",
+    "Title": "Depth of Field",
+    "Description": "Depth of Field art style involves a specific focus on the foreground with a gradually blurred background. This technique creates a sense of depth and directs the viewer\u0027s attention to specific elements.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_depth-of-field_31e18b14-f51f-40ca-a7e1-21cbe556fb3b_20230813165423.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_depth-of-field_31e18b14-f51f-40ca-a7e1-21cbe556fb3b_20230813165423_preview.jpeg"
+    },
+    "Weight": 1200
+  },
+  {
+    "Id": "083c774c-87ee-4ada-8110-10cf5cd76435",
+    "Title": "Underwater",
+    "Description": "Under Water art style explores the mysterious and fluid world beneath the water\u0027s surface, utilizing blue tones and diffused lighting to create ethereal and dream-like representations.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_underwater_083c774c-87ee-4ada-8110-10cf5cd76435_20230813165704.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_underwater_083c774c-87ee-4ada-8110-10cf5cd76435_20230813165704_preview.jpeg"
+    },
+    "Weight": 1200
+  },
+  {
     "Id": "9ef1e74f-b3bf-46e5-9578-c596dec580f2",
     "Title": "Desert",
     "Description": "Desert art style captures the vast, dry, and often barren landscape, utilizing earthy tones and realistic or impressionistic techniques to portray a sense of isolation and harsh beauty.",
@@ -100,6 +120,16 @@
     "Weight": 1100
   },
   {
+    "Id": "16886558-70d7-4ad0-a85e-ea72b8ba88e2",
+    "Title": "Leading Lines",
+    "Description": "Leading Lines art style employs lines to guide the viewer\u0027s eye towards a particular point of interest. These lines often create a sense of movement, direction, or perspective within the composition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165028.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165028_preview.jpeg"
+    },
+    "Weight": 1100
+  },
+  {
     "Id": "16ca2499-27e7-48d5-89e8-179e98378aae",
     "Title": "Spray Paint",
     "Description": "The Spray Paint color style is synonymous with vivid and expressive colors often seen in Street Art, Graffiti, and Abstract paintings. Using spray paint as a medium, artists achieve a freeform and energetic composition.",
@@ -130,12 +160,52 @@
     "Weight": 1000
   },
   {
+    "Id": "b90d2d55-986b-4176-b741-30096a123d85",
+    "Title": "Bird\u0027s Eye View",
+    "Description": "Bird\u0027s Eye View art style captures a scene from an elevated or overhead perspective. It often conveys a grand sense of scale and provides a unique view of landscapes or cityscapes.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "fcc3d23c-1a4e-4ab3-8ae0-db0de7a2304d",
+    "Title": "Symmetrical",
+    "Description": "Symmetrical art style refers to a balanced and harmonious arrangement, where elements on one side of the composition mirror those on the other. It often conveys a sense of stability and formality.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_symmetrical_44377748-2eaa-48fb-bdf3-3846cc679c77_20230813164135.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_symmetrical_44377748-2eaa-48fb-bdf3-3846cc679c77_20230813164135_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "41d62043-35ed-44b4-84c7-6f21755de357",
+    "Title": "Frame Within Frame",
+    "Description": "Frame within Frame art style involves the use of nested frames within a composition to draw attention to a specific subject or create depth. It\u0027s a technique that adds layers and complexity to the artwork.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_frame-within-frame_51c549f3-df80-4945-93fe-a826830e778e_20230813164616.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_frame-within-frame_51c549f3-df80-4945-93fe-a826830e778e_20230813164616_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
     "Id": "334",
     "Title": "Stone Lithography",
     "Description": "Stone Lithography is a printmaking medium style that involves etching on a smooth stone. It\u0027s been used by artists like Honor\u00E9 Daumier and Francisco Goya.",
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552_preview.jpeg"
+    },
+    "Weight": 900
+  },
+  {
+    "Id": "65a96428-92c1-4141-af1a-ef4b45aaa19a",
+    "Title": "Negative Space",
+    "Description": "Negative Space art style emphasizes the space around and between the subjects of an image. It\u0027s often used in minimalism and abstract art to create intriguing shapes and a balanced composition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402_preview.jpeg"
     },
     "Weight": 900
   },
@@ -280,7 +350,10 @@
     "Id": "Composition",
     "Title": "Composition",
     "Description": "List of the diverse tapestry of artistic compositions. From the bold, dynamic and geometric designs to the serene, harmonious and naturalistic forms. It includes abstract and surrealistic patterns, fluid and symmetrical structures, and extends into the detail-oriented world of anatomical, mechanical, and text-based compositions. Discover the artistry in three-dimensional space, layered imagery, or in the simplicity of a monospace canvas. Get specific like an organized grid, the or generic like an expansive landscape.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_composition_Composition_20230813173244.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_composition_Composition_20230813173244_preview.jpeg"
+    },
     "Weight": 3
   },
   {
@@ -494,16 +567,6 @@
     "Description": "Bioshock is a popular video game known for its distinct Art Deco inspired style. The game\u0027s artwork, primarily in digital medium, features an underwater environment with muted colors, mysterious mood, and a narrative-driven composition. Ken Levine, the game\u0027s creator, is a significant figure associated with this style.",
     "Image": null,
     "Weight": null
-  },
-  {
-    "Id": "b90d2d55-986b-4176-b741-30096a123d85",
-    "Title": "Bird\u0027s Eye View",
-    "Description": "Bird\u0027s Eye View art style captures a scene from an elevated or overhead perspective. It often conveys a grand sense of scale and provides a unique view of landscapes or cityscapes.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336_preview.jpeg"
-    },
-    "Weight": 1000
   },
   {
     "Id": "28",
@@ -2657,71 +2720,11 @@
     "Weight": null
   },
   {
-    "Id": "fcc3d23c-1a4e-4ab3-8ae0-db0de7a2304d",
-    "Title": "Symmetrical",
-    "Description": "Symmetrical art style refers to a balanced and harmonious arrangement, where elements on one side of the composition mirror those on the other. It often conveys a sense of stability and formality.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_symmetrical_44377748-2eaa-48fb-bdf3-3846cc679c77_20230813164135.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_symmetrical_44377748-2eaa-48fb-bdf3-3846cc679c77_20230813164135_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "41d62043-35ed-44b4-84c7-6f21755de357",
-    "Title": "Frame Within Frame",
-    "Description": "Frame within Frame art style involves the use of nested frames within a composition to draw attention to a specific subject or create depth. It\u0027s a technique that adds layers and complexity to the artwork.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_frame-within-frame_51c549f3-df80-4945-93fe-a826830e778e_20230813164616.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_frame-within-frame_51c549f3-df80-4945-93fe-a826830e778e_20230813164616_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "16886558-70d7-4ad0-a85e-ea72b8ba88e2",
-    "Title": "Leading Lines",
-    "Description": "Leading Lines art style employs lines to guide the viewer\u0027s eye towards a particular point of interest. These lines often create a sense of movement, direction, or perspective within the composition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165028.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165028_preview.jpeg"
-    },
-    "Weight": 1100
-  },
-  {
     "Id": "2021f302-f145-49a4-805a-fad32d62b879",
     "Title": "Under Water",
     "Description": "Under Water art style explores the mysterious and fluid world beneath the water\u0027s surface, utilizing blue tones and diffused lighting to create ethereal and dream-like representations.",
     "Image": null,
     "Weight": null
-  },
-  {
-    "Id": "65a96428-92c1-4141-af1a-ef4b45aaa19a",
-    "Title": "Negative Space",
-    "Description": "Negative Space art style emphasizes the space around and between the subjects of an image. It\u0027s often used in minimalism and abstract art to create intriguing shapes and a balanced composition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402_preview.jpeg"
-    },
-    "Weight": 900
-  },
-  {
-    "Id": "8702722b-fbbd-4794-a8ad-13cda5b6457e",
-    "Title": "Depth of Field",
-    "Description": "Depth of Field art style involves a specific focus on the foreground with a gradually blurred background. This technique creates a sense of depth and directs the viewer\u0027s attention to specific elements.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_depth-of-field_31e18b14-f51f-40ca-a7e1-21cbe556fb3b_20230813165423.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_depth-of-field_31e18b14-f51f-40ca-a7e1-21cbe556fb3b_20230813165423_preview.jpeg"
-    },
-    "Weight": 1200
-  },
-  {
-    "Id": "083c774c-87ee-4ada-8110-10cf5cd76435",
-    "Title": "Underwater",
-    "Description": "Under Water art style explores the mysterious and fluid world beneath the water\u0027s surface, utilizing blue tones and diffused lighting to create ethereal and dream-like representations.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_underwater_083c774c-87ee-4ada-8110-10cf5cd76435_20230813165704.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_underwater_083c774c-87ee-4ada-8110-10cf5cd76435_20230813165704_preview.jpeg"
-    },
-    "Weight": 1200
   },
   {
     "Id": "1372",
