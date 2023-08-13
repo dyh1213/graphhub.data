@@ -1,235 +1,5 @@
 [
   {
-    "Id": "327",
-    "Title": "Sculpture",
-    "Description": "Sculpture is a three-dimensional art form. Styles range from Classical to Abstract, with renowned artists such as Michelangelo, Rodin, and Moore.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408_preview.jpeg"
-    },
-    "Weight": 2000
-  },
-  {
-    "Id": "da037d7b-3f86-4314-8c6a-286aa1f0af35",
-    "Title": "Paper Art",
-    "Description": "Paper Art color style encompasses a range of artistic forms made from paper. From Origami to Quilling, the color possibilities are varied and often incorporate a layered composition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518_preview.jpeg"
-    },
-    "Weight": 1300
-  },
-  {
-    "Id": "a082f3e0-35aa-47ba-8b46-0402ac4f1b77",
-    "Title": "Outer Space",
-    "Description": "Outer Space art style represents the celestial and unknown, often in a futuristic or science fiction context. Stark lighting contrasts and the inclusion of planets, stars, and galaxies are common.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_outer-space_1401_20230810071210.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_outer-space_1401_20230810071210_preview.jpeg"
-    },
-    "Weight": 1200
-  },
-  {
-    "Id": "91be853b-471e-478e-ae20-d6efe1a00a2d",
-    "Title": "Post Apocalyptic",
-    "Description": "Post Apocalyptic art style portrays a world after a catastrophic event, depicting ruin, chaos, and desolation. It often involves dystopian and cyberpunk elements with harsh, artificial lighting.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_post-apocalyptic_91be853b-471e-478e-ae20-d6efe1a00a2d_20230810101045.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_post-apocalyptic_91be853b-471e-478e-ae20-d6efe1a00a2d_20230810101045_preview.jpeg"
-    },
-    "Weight": 1200
-  },
-  {
-    "Id": "9ef1e74f-b3bf-46e5-9578-c596dec580f2",
-    "Title": "Desert",
-    "Description": "Desert art style captures the vast, dry, and often barren landscape, utilizing earthy tones and realistic or impressionistic techniques to portray a sense of isolation and harsh beauty.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_desert_9ef1e74f-b3bf-46e5-9578-c596dec580f2_20230810100806.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_desert_9ef1e74f-b3bf-46e5-9578-c596dec580f2_20230810100806_preview.jpeg"
-    },
-    "Weight": 1150
-  },
-  {
-    "Id": "3e079a17-b07b-416a-923f-b0b17c4895c0",
-    "Title": "Fantastical Landscape",
-    "Description": "Fantastical Landscape art style conveys an imaginary, often otherworldly scene, merging reality with surreal elements to evoke a sense of wonder and dream-like ambiance.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical-landscape_3e079a17-b07b-416a-923f-b0b17c4895c0_20230810100951.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical-landscape_3e079a17-b07b-416a-923f-b0b17c4895c0_20230810100951_preview.jpeg"
-    },
-    "Weight": 1150
-  },
-  {
-    "Id": "292",
-    "Title": "Pastel",
-    "Description": "The pastel color style is characterized by the use of soft and light colors, often seen in Impressionism, Post-Impressionism, and contemporary art. It typically creates a peaceful mood, with a loose and fluid composition. Notable artists include Edgar Degas and Mary Cassatt.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455_preview.jpeg"
-    },
-    "Weight": 1100
-  },
-  {
-    "Id": "06cbcde0-282d-4f20-b491-5928b34b73bb",
-    "Title": "Fluorescent",
-    "Description": "The Fluorescent color style is characterized by bright and glowing colors. Often used in Neon Art, Contemporary Art, and Digital Art, this style provides an illuminated and energetic visual experience.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622_preview.jpeg"
-    },
-    "Weight": 1100
-  },
-  {
-    "Id": "329",
-    "Title": "Animation",
-    "Description": "Animation is a dynamic medium style that brings art to life. Styles range from 2D Animation to Stop Motion, with pioneers like Hayao Miyazaki and Walt Disney.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716_preview.jpeg"
-    },
-    "Weight": 1100
-  },
-  {
-    "Id": "3982b71c-fa4c-4032-861a-e751ef08bcee",
-    "Title": "Medieval Europe",
-    "Description": "Medieval European art style encompasses various styles like Gothic and Romanesque, often characterized by religious themes, muted colors, and a hierarchical arrangement of figures.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_medieval-europe_1999_20230810071247.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_medieval-europe_1999_20230810071247_preview.jpeg"
-    },
-    "Weight": 1100
-  },
-  {
-    "Id": "16ca2499-27e7-48d5-89e8-179e98378aae",
-    "Title": "Spray Paint",
-    "Description": "The Spray Paint color style is synonymous with vivid and expressive colors often seen in Street Art, Graffiti, and Abstract paintings. Using spray paint as a medium, artists achieve a freeform and energetic composition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "75d40719-6506-476a-815d-24db450a90e3",
-    "Title": "Fantastical",
-    "Description": "The Fantastical color style employs imaginative and dreamlike colors. It\u0027s common in Surrealism, Fantasy Art, and Illustration, reflecting a sense of wonder, whimsy, and magic.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "b551c80f-573d-44c9-b470-585994dc5a32",
-    "Title": "Warzone",
-    "Description": "Warzone art style illustrates the intensity and conflict of warfare. Utilizing realism and expressionism, it depicts dramatic scenes on the battlefield, capturing emotions, chaos, and the human condition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_war-zones_1486_20230810071331.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_war-zones_1486_20230810071331_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "334",
-    "Title": "Stone Lithography",
-    "Description": "Stone Lithography is a printmaking medium style that involves etching on a smooth stone. It\u0027s been used by artists like Honor\u00E9 Daumier and Francisco Goya.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552_preview.jpeg"
-    },
-    "Weight": 900
-  },
-  {
-    "Id": "323",
-    "Title": "Photography",
-    "Description": "Photography is a diverse medium style capturing a wide range of artistic styles such as Photojournalism and Landscape Photography. Influential photographers include Ansel Adams and Dorothea Lange.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453_preview.jpeg"
-    },
-    "Weight": 800
-  },
-  {
-    "Id": "280",
-    "Title": "Dramatic",
-    "Description": "Dramatic style art typically has an intense mood brought out through high contrast lighting and a complex composition. It is often associated with Baroque, Expressionism, and Romanticism.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "291",
-    "Title": "Dark",
-    "Description": "The dark color style employs dark hues and is often associated with gothic and baroque art as well as film noir. Typically set in low-light indoor environments, it evokes a gloomy mood through its dramatic compositions. Caravaggio and Rembrandt are key artists in this style.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "b7ce8205-d40e-42f8-9641-80b44e641e53",
-    "Title": "Action",
-    "Description": "The Action color style is characterized by bold and vivid colors that often represent movement and energy. This style is common in abstract, futurism, and expressionism art forms.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "fdf0454b-a798-4959-a4ed-8d263d7977da",
-    "Title": "Creepy",
-    "Description": "The Creepy color style involves dark and unsettling color schemes. Often seen in Gothic, Surrealism, and Horror Art, this style evokes feelings of unease and fear.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "e345c3a7-d976-48ff-a22b-415cbfac7fad",
-    "Title": "Epic",
-    "Description": "The Epic color style is known for its grand and rich color schemes. It\u0027s primarily associated with historical paintings, mythological art, and murals, often depicting grand narratives.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "fe996854-2742-4183-84b7-d34f5f5aef2a",
-    "Title": "Playful",
-    "Description": "The Playful color style features bright and cheerful colors. It\u0027s found in Pop Art, Cartoon Art, and Naive Art, reflecting a joyful and light-hearted mood.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "4a00b12b-9905-4700-9cd3-e4d6de94646a",
-    "Title": "Serene",
-    "Description": "The Serene color style is characterized by soft and subtle colors. Primarily seen in Landscape Painting and Minimalism, it conveys a peaceful and calming mood.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "a4cfd37f-d0a5-438a-9279-42afc901340b",
-    "Title": "Whimsical",
-    "Description": "The Whimsical color style involves fantastical and quirky colors. It is often found in Fairy Tale Art, Surrealism, and Children\u0027s Book Illustration, reflecting a sense of wonder and fantasy.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
     "Id": "Medium",
     "Title": "Medium",
     "Description": "List of artistic mediums used by creators across the world. It spans traditional classics like oil, acrylic, watercolor, and charcoal, alongside contemporary innovations such as digital art, mixed media, and installations. Embrace the diverse array of mediums employed by artists to express their creativity and vision, representing a rich tapestry of human ingenuity in the world of art.",
@@ -496,9 +266,9 @@
     "Weight": null
   },
   {
-    "Id": "7e38e549-f038-498a-b602-e7dd19aede8b",
+    "Id": "b90d2d55-986b-4176-b741-30096a123d85",
     "Title": "Bird\u0027s Eye View",
-    "Description": "aa",
+    "Description": "Bird\u0027s Eye View art style captures a scene from an elevated or overhead perspective. It often conveys a grand sense of scale and provides a unique view of landscapes or cityscapes.",
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336_preview.jpeg"
@@ -2279,6 +2049,16 @@
     "Weight": null
   },
   {
+    "Id": "280",
+    "Title": "Dramatic",
+    "Description": "Dramatic style art typically has an intense mood brought out through high contrast lighting and a complex composition. It is often associated with Baroque, Expressionism, and Romanticism.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
     "Id": "281",
     "Title": "Electro-illuminated",
     "Description": "Electro-illuminated style is a form of art that uses artificial light as its main medium. The mood is often futuristic, with a dynamic composition. This style is related to Digital Art, Light Art, and Kinetic Art.",
@@ -2349,11 +2129,41 @@
     "Weight": null
   },
   {
+    "Id": "291",
+    "Title": "Dark",
+    "Description": "The dark color style employs dark hues and is often associated with gothic and baroque art as well as film noir. Typically set in low-light indoor environments, it evokes a gloomy mood through its dramatic compositions. Caravaggio and Rembrandt are key artists in this style.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "292",
+    "Title": "Pastel",
+    "Description": "The pastel color style is characterized by the use of soft and light colors, often seen in Impressionism, Post-Impressionism, and contemporary art. It typically creates a peaceful mood, with a loose and fluid composition. Notable artists include Edgar Degas and Mary Cassatt.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455_preview.jpeg"
+    },
+    "Weight": 1100
+  },
+  {
     "Id": "293",
     "Title": "Bright",
     "Description": "The bright color style is associated with high saturation colors, typically found in Pop Art, Abstract Expressionism, and Fauvism. It\u0027s characterized by a joyful mood, dynamic composition, and can be set in both indoor and outdoor environments. Prominent artists include Roy Lichtenstein and Piet Mondrian.",
     "Image": null,
     "Weight": null
+  },
+  {
+    "Id": "06cbcde0-282d-4f20-b491-5928b34b73bb",
+    "Title": "Fluorescent",
+    "Description": "The Fluorescent color style is characterized by bright and glowing colors. Often used in Neon Art, Contemporary Art, and Digital Art, this style provides an illuminated and energetic visual experience.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622_preview.jpeg"
+    },
+    "Weight": 1100
   },
   {
     "Id": "295",
@@ -2552,6 +2362,16 @@
     "Weight": null
   },
   {
+    "Id": "323",
+    "Title": "Photography",
+    "Description": "Photography is a diverse medium style capturing a wide range of artistic styles such as Photojournalism and Landscape Photography. Influential photographers include Ansel Adams and Dorothea Lange.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453_preview.jpeg"
+    },
+    "Weight": 800
+  },
+  {
     "Id": "324",
     "Title": "Ink",
     "Description": "Ink is a medium style associated with forms like Calligraphy and Sumi-e, where ink is the primary tool. Notable artists include Yoko Takenaka and Aubrey Beardsley.",
@@ -2573,11 +2393,31 @@
     "Weight": null
   },
   {
+    "Id": "327",
+    "Title": "Sculpture",
+    "Description": "Sculpture is a three-dimensional art form. Styles range from Classical to Abstract, with renowned artists such as Michelangelo, Rodin, and Moore.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408_preview.jpeg"
+    },
+    "Weight": 2000
+  },
+  {
     "Id": "328",
     "Title": "Architecture",
     "Description": "Architecture is an artistic and technical discipline, with styles from Modernist to Art Deco. Prominent architects include Frank Lloyd Wright, Zaha Hadid, and Le Corbusier.",
     "Image": null,
     "Weight": null
+  },
+  {
+    "Id": "329",
+    "Title": "Animation",
+    "Description": "Animation is a dynamic medium style that brings art to life. Styles range from 2D Animation to Stop Motion, with pioneers like Hayao Miyazaki and Walt Disney.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716_preview.jpeg"
+    },
+    "Weight": 1100
   },
   {
     "Id": "330",
@@ -2606,6 +2446,16 @@
     "Description": "Digital Painting is a style that replicates traditional painting techniques in a digital format. Styles range from Concept Art to Digital Realism, with artists such as Craig Mullins and Aaron Blaise making significant contributions.",
     "Image": null,
     "Weight": null
+  },
+  {
+    "Id": "334",
+    "Title": "Stone Lithography",
+    "Description": "Stone Lithography is a printmaking medium style that involves etching on a smooth stone. It\u0027s been used by artists like Honor\u00E9 Daumier and Francisco Goya.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552_preview.jpeg"
+    },
+    "Weight": 900
   },
   {
     "Id": "335",
@@ -2657,7 +2507,157 @@
     "Weight": null
   },
   {
-    "Id": "a3bd43fa-c969-440f-adf6-964f8f4aaf14",
+    "Id": "b7ce8205-d40e-42f8-9641-80b44e641e53",
+    "Title": "Action",
+    "Description": "The Action color style is characterized by bold and vivid colors that often represent movement and energy. This style is common in abstract, futurism, and expressionism art forms.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "fdf0454b-a798-4959-a4ed-8d263d7977da",
+    "Title": "Creepy",
+    "Description": "The Creepy color style involves dark and unsettling color schemes. Often seen in Gothic, Surrealism, and Horror Art, this style evokes feelings of unease and fear.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "e345c3a7-d976-48ff-a22b-415cbfac7fad",
+    "Title": "Epic",
+    "Description": "The Epic color style is known for its grand and rich color schemes. It\u0027s primarily associated with historical paintings, mythological art, and murals, often depicting grand narratives.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "fe996854-2742-4183-84b7-d34f5f5aef2a",
+    "Title": "Playful",
+    "Description": "The Playful color style features bright and cheerful colors. It\u0027s found in Pop Art, Cartoon Art, and Naive Art, reflecting a joyful and light-hearted mood.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "4a00b12b-9905-4700-9cd3-e4d6de94646a",
+    "Title": "Serene",
+    "Description": "The Serene color style is characterized by soft and subtle colors. Primarily seen in Landscape Painting and Minimalism, it conveys a peaceful and calming mood.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "a4cfd37f-d0a5-438a-9279-42afc901340b",
+    "Title": "Whimsical",
+    "Description": "The Whimsical color style involves fantastical and quirky colors. It is often found in Fairy Tale Art, Surrealism, and Children\u0027s Book Illustration, reflecting a sense of wonder and fantasy.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "da037d7b-3f86-4314-8c6a-286aa1f0af35",
+    "Title": "Paper Art",
+    "Description": "Paper Art color style encompasses a range of artistic forms made from paper. From Origami to Quilling, the color possibilities are varied and often incorporate a layered composition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518_preview.jpeg"
+    },
+    "Weight": 1300
+  },
+  {
+    "Id": "16ca2499-27e7-48d5-89e8-179e98378aae",
+    "Title": "Spray Paint",
+    "Description": "The Spray Paint color style is synonymous with vivid and expressive colors often seen in Street Art, Graffiti, and Abstract paintings. Using spray paint as a medium, artists achieve a freeform and energetic composition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "75d40719-6506-476a-815d-24db450a90e3",
+    "Title": "Fantastical",
+    "Description": "The Fantastical color style employs imaginative and dreamlike colors. It\u0027s common in Surrealism, Fantasy Art, and Illustration, reflecting a sense of wonder, whimsy, and magic.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "9ef1e74f-b3bf-46e5-9578-c596dec580f2",
+    "Title": "Desert",
+    "Description": "Desert art style captures the vast, dry, and often barren landscape, utilizing earthy tones and realistic or impressionistic techniques to portray a sense of isolation and harsh beauty.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_desert_9ef1e74f-b3bf-46e5-9578-c596dec580f2_20230810100806.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_desert_9ef1e74f-b3bf-46e5-9578-c596dec580f2_20230810100806_preview.jpeg"
+    },
+    "Weight": 1150
+  },
+  {
+    "Id": "3e079a17-b07b-416a-923f-b0b17c4895c0",
+    "Title": "Fantastical Landscape",
+    "Description": "Fantastical Landscape art style conveys an imaginary, often otherworldly scene, merging reality with surreal elements to evoke a sense of wonder and dream-like ambiance.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical-landscape_3e079a17-b07b-416a-923f-b0b17c4895c0_20230810100951.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical-landscape_3e079a17-b07b-416a-923f-b0b17c4895c0_20230810100951_preview.jpeg"
+    },
+    "Weight": 1150
+  },
+  {
+    "Id": "3982b71c-fa4c-4032-861a-e751ef08bcee",
+    "Title": "Medieval Europe",
+    "Description": "Medieval European art style encompasses various styles like Gothic and Romanesque, often characterized by religious themes, muted colors, and a hierarchical arrangement of figures.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_medieval-europe_1999_20230810071247.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_medieval-europe_1999_20230810071247_preview.jpeg"
+    },
+    "Weight": 1100
+  },
+  {
+    "Id": "a082f3e0-35aa-47ba-8b46-0402ac4f1b77",
+    "Title": "Outer Space",
+    "Description": "Outer Space art style represents the celestial and unknown, often in a futuristic or science fiction context. Stark lighting contrasts and the inclusion of planets, stars, and galaxies are common.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_outer-space_1401_20230810071210.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_outer-space_1401_20230810071210_preview.jpeg"
+    },
+    "Weight": 1200
+  },
+  {
+    "Id": "91be853b-471e-478e-ae20-d6efe1a00a2d",
+    "Title": "Post Apocalyptic",
+    "Description": "Post Apocalyptic art style portrays a world after a catastrophic event, depicting ruin, chaos, and desolation. It often involves dystopian and cyberpunk elements with harsh, artificial lighting.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_post-apocalyptic_91be853b-471e-478e-ae20-d6efe1a00a2d_20230810101045.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_post-apocalyptic_91be853b-471e-478e-ae20-d6efe1a00a2d_20230810101045_preview.jpeg"
+    },
+    "Weight": 1200
+  },
+  {
+    "Id": "b551c80f-573d-44c9-b470-585994dc5a32",
+    "Title": "Warzone",
+    "Description": "Warzone art style illustrates the intensity and conflict of warfare. Utilizing realism and expressionism, it depicts dramatic scenes on the battlefield, capturing emotions, chaos, and the human condition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_war-zones_1486_20230810071331.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_war-zones_1486_20230810071331_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "fcc3d23c-1a4e-4ab3-8ae0-db0de7a2304d",
     "Title": "Symmetrical",
     "Description": "Symmetrical art style refers to a balanced and harmonious arrangement, where elements on one side of the composition mirror those on the other. It often conveys a sense of stability and formality.",
     "Image": {
@@ -2667,7 +2667,7 @@
     "Weight": null
   },
   {
-    "Id": "51c549f3-df80-4945-93fe-a826830e778e",
+    "Id": "41d62043-35ed-44b4-84c7-6f21755de357",
     "Title": "Frame Within Frame",
     "Description": "Frame within Frame art style involves the use of nested frames within a composition to draw attention to a specific subject or create depth. It\u0027s a technique that adds layers and complexity to the artwork.",
     "Image": {
@@ -2677,7 +2677,7 @@
     "Weight": null
   },
   {
-    "Id": "c3fe8302-e573-481d-b013-f162655d853a",
+    "Id": "16886558-70d7-4ad0-a85e-ea72b8ba88e2",
     "Title": "Leading Lines",
     "Description": "Leading Lines art style employs lines to guide the viewer\u0027s eye towards a particular point of interest. These lines often create a sense of movement, direction, or perspective within the composition.",
     "Image": {
@@ -2694,9 +2694,9 @@
     "Weight": null
   },
   {
-    "Id": "6015a60f-35cd-47a7-b51b-da1a2947a796",
+    "Id": "65a96428-92c1-4141-af1a-ef4b45aaa19a",
     "Title": "Negative Space",
-    "Description": "aa",
+    "Description": "Negative Space art style emphasizes the space around and between the subjects of an image. It\u0027s often used in minimalism and abstract art to create intriguing shapes and a balanced composition.",
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402_preview.jpeg"
@@ -2704,9 +2704,9 @@
     "Weight": null
   },
   {
-    "Id": "31e18b14-f51f-40ca-a7e1-21cbe556fb3b",
+    "Id": "8702722b-fbbd-4794-a8ad-13cda5b6457e",
     "Title": "Depth of Field",
-    "Description": "aa",
+    "Description": "Depth of Field art style involves a specific focus on the foreground with a gradually blurred background. This technique creates a sense of depth and directs the viewer\u0027s attention to specific elements.",
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_depth-of-field_31e18b14-f51f-40ca-a7e1-21cbe556fb3b_20230813165423.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_depth-of-field_31e18b14-f51f-40ca-a7e1-21cbe556fb3b_20230813165423_preview.jpeg"
@@ -2714,575 +2714,575 @@
     "Weight": null
   },
   {
-    "Id": "1371",
+    "Id": "083c774c-87ee-4ada-8110-10cf5cd76435",
+    "Title": "Underwater",
+    "Description": "Under Water art style explores the mysterious and fluid world beneath the water\u0027s surface, utilizing blue tones and diffused lighting to create ethereal and dream-like representations.",
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "1372",
     "Title": "Person",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1372",
+    "Id": "1373",
     "Title": "Street Artist",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1373",
+    "Id": "1374",
     "Title": "Street Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1374",
+    "Id": "1375",
     "Title": "Urban",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1375",
+    "Id": "1376",
     "Title": "Three-dimensional",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1376",
+    "Id": "1377",
     "Title": "Painter",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1377",
+    "Id": "1378",
     "Title": "Impressionism",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1378",
+    "Id": "1379",
     "Title": "Cubism",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1379",
+    "Id": "1380",
     "Title": "Political",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1380",
+    "Id": "1381",
     "Title": "Figurative",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1381",
+    "Id": "1382",
     "Title": "Romanticism",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1382",
+    "Id": "1383",
     "Title": "Melancholic",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1383",
+    "Id": "1384",
     "Title": "Comic Artist",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1384",
+    "Id": "1385",
     "Title": "Graphic Novels",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1385",
+    "Id": "1386",
     "Title": "Comic Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1386",
+    "Id": "1387",
     "Title": "Satirical",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1387",
+    "Id": "1388",
     "Title": "Cartoonish",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1388",
+    "Id": "1389",
     "Title": "Digital Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1389",
+    "Id": "1390",
     "Title": "Abstract",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1390",
+    "Id": "1391",
     "Title": "Monospace",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1391",
+    "Id": "1392",
     "Title": "Cobra",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1392",
+    "Id": "1393",
     "Title": "Situationist",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1393",
+    "Id": "1394",
     "Title": "Rebellious",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1394",
+    "Id": "1395",
     "Title": "Illustrator",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1395",
+    "Id": "1396",
     "Title": "Concept Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1396",
+    "Id": "1397",
     "Title": "Digital Artist",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1397",
+    "Id": "1398",
     "Title": "Game",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1398",
+    "Id": "1399",
     "Title": "Video Game",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1399",
+    "Id": "1400",
     "Title": "Video Game Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1400",
+    "Id": "1401",
     "Title": "Historical",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1401",
+    "Id": "1402",
     "Title": "Adventurous",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1402",
+    "Id": "1403",
     "Title": "Immersive",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1403",
+    "Id": "1404",
     "Title": "Joseph Cornell",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1404",
+    "Id": "1405",
     "Title": "Louise Nevelson",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1405",
+    "Id": "1406",
     "Title": "Modern Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1406",
+    "Id": "1407",
     "Title": "Abstract Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1407",
+    "Id": "1408",
     "Title": "Manga",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1408",
+    "Id": "1409",
     "Title": "Anime",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1409",
+    "Id": "1410",
     "Title": "Futuristic",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1410",
+    "Id": "1411",
     "Title": "Panel",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1411",
+    "Id": "1412",
     "Title": "Michael Shainblum",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1412",
+    "Id": "1413",
     "Title": "David Malin",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1413",
+    "Id": "1414",
     "Title": "Celestial",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1414",
+    "Id": "1415",
     "Title": "Moebius",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1415",
+    "Id": "1416",
     "Title": "H.R. Giger",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1416",
+    "Id": "1417",
     "Title": "Sci-Fi",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1417",
+    "Id": "1418",
     "Title": "Punk",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1418",
+    "Id": "1419",
     "Title": "Various",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1419",
+    "Id": "1420",
     "Title": "Company",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1420",
+    "Id": "1421",
     "Title": "Design Studio",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1421",
+    "Id": "1422",
     "Title": "Experimental",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1422",
+    "Id": "1423",
     "Title": "Geometric",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1423",
+    "Id": "1424",
     "Title": "Fantasy",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1424",
+    "Id": "1425",
     "Title": "Norman Bel Geddes",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1425",
+    "Id": "1426",
     "Title": "Post-War Era",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1426",
+    "Id": "1427",
     "Title": "Optimistic",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1427",
+    "Id": "1428",
     "Title": "Dystopian",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1428",
+    "Id": "1429",
     "Title": "Intense",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1429",
+    "Id": "1430",
     "Title": "Dynamic",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1430",
+    "Id": "1431",
     "Title": "Art Nouveau",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1431",
+    "Id": "1432",
     "Title": "Provocative",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1432",
+    "Id": "1433",
     "Title": "Stylized",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1433",
+    "Id": "1434",
     "Title": "Jean Lur\u00E7at",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1434",
+    "Id": "1435",
     "Title": "Michel Tourli\u00E8re",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1435",
+    "Id": "1436",
     "Title": "Tapestry Art",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1436",
+    "Id": "1437",
     "Title": "Narrative",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1437",
+    "Id": "1438",
     "Title": "Mysterious",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1438",
+    "Id": "1439",
     "Title": "Expressionism",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1439",
+    "Id": "1440",
     "Title": "Emotional",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1440",
+    "Id": "1441",
     "Title": "Photographer",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1441",
+    "Id": "1442",
     "Title": "Portraiture",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1442",
+    "Id": "1443",
     "Title": "Sculptor",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1443",
+    "Id": "1444",
     "Title": "Harlem Renaissance",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1444",
+    "Id": "1445",
     "Title": "Concept Artist",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1445",
+    "Id": "1446",
     "Title": "Futurism",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1446",
+    "Id": "1447",
     "Title": "Mechanical",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1447",
+    "Id": "1448",
     "Title": "William Gibson",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1448",
+    "Id": "1449",
     "Title": "Paolo Bacigalupi",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1449",
+    "Id": "1450",
     "Title": "Science Fiction",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1450",
+    "Id": "1451",
     "Title": "Grim",
     "Description": null,
     "Image": null,
     "Weight": null
   },
   {
-    "Id": "1451",
-    "Title": "Art Deco",
-    "Description": null,
-    "Image": null,
-    "Weight": null
-  },
-  {
     "Id": "1452",
-    "Title": "Underwater",
+    "Title": "Art Deco",
     "Description": null,
     "Image": null,
     "Weight": null
