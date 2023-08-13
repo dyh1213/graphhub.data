@@ -2696,8 +2696,11 @@
   {
     "Id": "6015a60f-35cd-47a7-b51b-da1a2947a796",
     "Title": "Negative Space",
-    "Description": "Negative Space art style emphasizes the space around and between the subjects of an image. It\u0027s often used in minimalism and abstract art to create intriguing shapes and a balanced composition.",
-    "Image": null,
+    "Description": "aa",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402_preview.jpeg"
+    },
     "Weight": null
   },
   {
