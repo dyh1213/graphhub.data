@@ -2706,8 +2706,11 @@
   {
     "Id": "31e18b14-f51f-40ca-a7e1-21cbe556fb3b",
     "Title": "Depth of Field",
-    "Description": "Depth of Field art style involves a specific focus on the foreground with a gradually blurred background. This technique creates a sense of depth and directs the viewer\u0027s attention to specific elements.",
-    "Image": null,
+    "Description": "aa",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_depth-of-field_31e18b14-f51f-40ca-a7e1-21cbe556fb3b_20230813165423.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_depth-of-field_31e18b14-f51f-40ca-a7e1-21cbe556fb3b_20230813165423_preview.jpeg"
+    },
     "Weight": null
   },
   {
