@@ -498,8 +498,11 @@
   {
     "Id": "7e38e549-f038-498a-b602-e7dd19aede8b",
     "Title": "Bird\u0027s Eye View",
-    "Description": "Bird\u0027s Eye View art style captures a scene from an elevated or overhead perspective. It often conveys a grand sense of scale and provides a unique view of landscapes or cityscapes.",
-    "Image": null,
+    "Description": "aa",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336_preview.jpeg"
+    },
     "Weight": null
   },
   {
