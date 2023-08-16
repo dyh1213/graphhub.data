@@ -2742,8 +2742,11 @@
   {
     "Id": "51f35b8b-4a12-435e-93d2-7efb335d9bcd",
     "Title": "Split Lighting",
-    "Description": "Split Lighting art style is a technique where half of the subject\u0027s face or form is illuminated, while the other half is in shadow. Predominantly used in portraiture, it gives a mysterious and dramatic look to the subject.",
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_split-lighting_51f35b8b-4a12-435e-93d2-7efb335d9bcd_20230816093610.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_split-lighting_51f35b8b-4a12-435e-93d2-7efb335d9bcd_20230816093610_preview.jpeg"
+    },
     "Weight": null
   },
   {
