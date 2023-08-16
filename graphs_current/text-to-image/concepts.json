@@ -2732,8 +2732,11 @@
   {
     "Id": "0005d0fe-c807-42cf-b7cd-5fb9770e9244",
     "Title": "High Contrast Light",
-    "Description": "High Contrast Light art style utilizes sharp differences between light and dark to create dramatic and mood-heavy compositions. Often seen in Film Noir and expressionist works, it evokes intense emotions and depth.",
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_high-contrast-light_0005d0fe-c807-42cf-b7cd-5fb9770e9244_20230816093548.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_high-contrast-light_0005d0fe-c807-42cf-b7cd-5fb9770e9244_20230816093548_preview.jpeg"
+    },
     "Weight": null
   },
   {
