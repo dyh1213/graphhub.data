@@ -2375,8 +2375,11 @@
   {
     "Id": "285",
     "Title": "Natural Light",
-    "Description": "Natural Light style art primarily captures scenes under natural light, often creating a calm mood. The composition is typically open, capturing wide landscapes or outdoor scenes. It is closely associated with Impressionism, Realism, and Landscape Art.",
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_natural-light_285_20230816093634.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_natural-light_285_20230816093634_preview.jpeg"
+    },
     "Weight": null
   },
   {
