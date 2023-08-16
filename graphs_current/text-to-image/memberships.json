@@ -3473,18 +3473,18 @@
   },
   {
     "ConceptId": "2061",
-    "ListId": "b3053fd5-dc29-49af-b40e-7e6f571cb739-A"
+    "ListId": "4b874ef1-eed0-4af7-85e2-c63188a6cf4c-A"
   },
   {
     "ConceptId": "2047",
-    "ListId": "b3053fd5-dc29-49af-b40e-7e6f571cb739-A"
+    "ListId": "4b874ef1-eed0-4af7-85e2-c63188a6cf4c-A"
   },
   {
-    "ConceptId": "2063",
+    "ConceptId": "4b874ef1-eed0-4af7-85e2-c63188a6cf4c",
     "ListId": "Lighting-S"
   },
   {
-    "ConceptId": "b3053fd5-dc29-49af-b40e-7e6f571cb739",
+    "ConceptId": "2063",
     "ListId": "Color-S"
   }
 ]
