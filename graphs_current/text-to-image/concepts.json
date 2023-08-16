@@ -7598,7 +7598,10 @@
     "Id": "27",
     "Title": "Steampunk Engineer - Image",
     "Description": "Prompt: steampunk engineer fixing her airship, cinematic, steampunk city in background, very detailed, shallow depth of field --ar 7:4",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_steampunk-engineer---image_27_20230816112711.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_steampunk-engineer---image_27_20230816112711_preview.jpeg"
+    },
     "Weight": null
   }
 ]
