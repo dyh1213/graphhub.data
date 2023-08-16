@@ -2755,8 +2755,11 @@
   {
     "Id": "387a70ae-92c9-4e97-8555-a21094052fce",
     "Title": "Diffused Light",
-    "Description": "Diffused Light art style involves the use of softened light that doesn\u0027t cast harsh shadows, creating a calm and dreamy atmosphere. Impressionists, like Monet, often used this technique to capture the nuances of natural light.",
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_diffused-light_387a70ae-92c9-4e97-8555-a21094052fce_20230816093707.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_diffused-light_387a70ae-92c9-4e97-8555-a21094052fce_20230816093707_preview.jpeg"
+    },
     "Weight": null
   },
   {
