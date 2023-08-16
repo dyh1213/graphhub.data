@@ -2765,8 +2765,11 @@
   {
     "Id": "bef2658b-9aac-4599-9d42-f260332e428c",
     "Title": "Bright Light",
-    "Description": "Bright Light art style features intense illumination, often amplifying vivid colors and dynamic compositions. Artists in Pop Art and Fauvism often embraced this technique to make their subjects pop and convey energy.",
-    "Image": null,
+    "Description": "a",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_bright-light_bef2658b-9aac-4599-9d42-f260332e428c_20230816093731.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_bright-light_bef2658b-9aac-4599-9d42-f260332e428c_20230816093731_preview.jpeg"
+    },
     "Weight": null
   },
   {
