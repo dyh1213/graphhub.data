@@ -23,7 +23,10 @@
     "Id": "Lighting",
     "Title": "Lighting",
     "Description": "List of the diverse lighting styles that breathe life into artworks. From soft morning light to dramatic chiaroscuro, each style plays a crucial role in setting the ambiance and focus. Explore the enchanting glow of natural, artificial, and ultraviolet lights, as well as vibrant and high-contrast illuminations. Delight in surrealistic and electro-illuminated effects, as artists masterfully wield lighting to evoke emotions and accentuate their artistic creations.",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_lighting_Lighting_20230816095135.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_lighting_Lighting_20230816095135_preview.jpeg"
+    },
     "Weight": 3
   },
   {
