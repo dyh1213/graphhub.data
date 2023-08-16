@@ -418,7 +418,7 @@
   {
     "Id": "All_Elements",
     "Title": "Elements",
-    "Description": "List of all elements and techniques that offer a structured way to analyze an image. It includes items such as medium which identifies the tool canvas or material used, environment indicates the setting, lighting style illuminates the subject, color defines the palette used, mood captures the emotional tone, while composition refers to how the image elements are arranged. Each of these attributes can help to understand and describe an image\u0027s unique artistic qualities and the intentions behind it.",
+    "Description": "List of all elements and techniques that offer a structured way to analyze an image. It includes items such as medium which identifies the tool canvas or material used, environment indicates the setting, lighting style illuminates the subject, color defines the palette used, mood captures the emotional tone, while composition refers to how the image elements are arranged.",
     "ParentConceptId": "Element",
     "ImageConceptId": "Element",
     "PullFromListsIds": [
@@ -20324,8 +20324,8 @@
   },
   {
     "Id": "8702722b-fbbd-4794-a8ad-13cda5b6457e-P",
-    "Title": "Depth of Field - Prompts",
-    "Description": "List of prompts using the concept \u0027Depth of Field\u0027. Depth of Field art style involves a specific focus on the foreground with a gradually blurred background. This technique creates a sense of depth and directs the viewer\u0027s attention to specific elements.",
+    "Title": "Shallow Depth of Field - Prompts",
+    "Description": "List of prompts using the concept \u0027Shallow Depth of Field\u0027. Depth of Field art style involves a specific focus on the foreground with a gradually blurred background. This technique creates a sense of depth and directs the viewer\u0027s attention to specific elements.",
     "ParentConceptId": "8702722b-fbbd-4794-a8ad-13cda5b6457e",
     "ImageConceptId": "8702722b-fbbd-4794-a8ad-13cda5b6457e",
     "PullFromListsIds": null,
@@ -20334,8 +20334,8 @@
   },
   {
     "Id": "8702722b-fbbd-4794-a8ad-13cda5b6457e-A",
-    "Title": "Depth of Field - Artists",
-    "Description": "List of artists or entities related to the concept \u0027Depth of Field\u0027. Depth of Field art style involves a specific focus on the foreground with a gradually blurred background. This technique creates a sense of depth and directs the viewer\u0027s attention to specific elements.",
+    "Title": "Shallow Depth of Field - Artists",
+    "Description": "List of artists or entities related to the concept \u0027Shallow Depth of Field\u0027. Depth of Field art style involves a specific focus on the foreground with a gradually blurred background. This technique creates a sense of depth and directs the viewer\u0027s attention to specific elements.",
     "ParentConceptId": "8702722b-fbbd-4794-a8ad-13cda5b6457e",
     "ImageConceptId": "8702722b-fbbd-4794-a8ad-13cda5b6457e",
     "PullFromListsIds": null,
@@ -20344,8 +20344,8 @@
   },
   {
     "Id": "8702722b-fbbd-4794-a8ad-13cda5b6457e-S",
-    "Title": "Depth of Field - Styles",
-    "Description": "List of \u0027Depth of Field\u0027 art styles. Depth of Field art style involves a specific focus on the foreground with a gradually blurred background. This technique creates a sense of depth and directs the viewer\u0027s attention to specific elements.",
+    "Title": "Shallow Depth of Field - Styles",
+    "Description": "List of \u0027Shallow Depth of Field\u0027 art styles. Depth of Field art style involves a specific focus on the foreground with a gradually blurred background. This technique creates a sense of depth and directs the viewer\u0027s attention to specific elements.",
     "ParentConceptId": "8702722b-fbbd-4794-a8ad-13cda5b6457e",
     "ImageConceptId": "8702722b-fbbd-4794-a8ad-13cda5b6457e",
     "PullFromListsIds": null,
