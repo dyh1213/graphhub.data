@@ -2069,7 +2069,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_electro-illuminated_281_20230816092804.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_electro-illuminated_281_20230816092804_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1000
   },
   {
     "Id": "282",
@@ -2100,7 +2100,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_natural-light_285_20230816093634.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_natural-light_285_20230816093634_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1100
   },
   {
     "Id": "286",
@@ -2740,7 +2740,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_high-contrast-light_0005d0fe-c807-42cf-b7cd-5fb9770e9244_20230816093548.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_high-contrast-light_0005d0fe-c807-42cf-b7cd-5fb9770e9244_20230816093548_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1000
   },
   {
     "Id": "51f35b8b-4a12-435e-93d2-7efb335d9bcd",
@@ -2750,7 +2750,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_split-lighting_51f35b8b-4a12-435e-93d2-7efb335d9bcd_20230816093610.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_split-lighting_51f35b8b-4a12-435e-93d2-7efb335d9bcd_20230816093610_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1200
   },
   {
     "Id": "387a70ae-92c9-4e97-8555-a21094052fce",
@@ -2760,7 +2760,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_diffused-light_387a70ae-92c9-4e97-8555-a21094052fce_20230816093707.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_diffused-light_387a70ae-92c9-4e97-8555-a21094052fce_20230816093707_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1050
   },
   {
     "Id": "bef2658b-9aac-4599-9d42-f260332e428c",
@@ -2770,7 +2770,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_bright-light_bef2658b-9aac-4599-9d42-f260332e428c_20230816093731.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_bright-light_bef2658b-9aac-4599-9d42-f260332e428c_20230816093731_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1000
   },
   {
     "Id": "4b874ef1-eed0-4af7-85e2-c63188a6cf4c",
@@ -2780,7 +2780,7 @@
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_ultraviolet-light_4b874ef1-eed0-4af7-85e2-c63188a6cf4c_20230816093357.jpeg",
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_ultraviolet-light_4b874ef1-eed0-4af7-85e2-c63188a6cf4c_20230816093357_preview.jpeg"
     },
-    "Weight": null
+    "Weight": 1000
   },
   {
     "Id": "1377",
