@@ -4,35 +4,35 @@
   "GraphUrlName": "text-to-image",
   "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/text-to-image",
   "RootConcept": "10000000-024a-44e5-8844-998342022971",
-  "Description": "The \u0027text-to-image\u0027 graph is a the definitive guide for users of tools such as Midjourney, DALLE-2, Stable Diffusion, or similar AIs. This chart presents a mapping of art styles, lighting, colors, moods, and renowned entities, assisting in crafting prompts that yield predictable and consistent results.",
-  "FeaturedLists": null,
-  "FeaturedConcepts": null,
+  "Description": "The \u0027text-to-image\u0027 graph is a the definitive guide for users of tools such as Midjourney, DALLE-2, Stable Diffusion, or similar AIs. This chart presents a mapping of art styles, lighting, colors, moods, and renowned entities, assisting in crafting prompts that yield predictable and consistent results. ",
+  "FeaturedLists": [],
+  "FeaturedConcepts": [],
   "TopFeaturedLists": [
     {
       "Id": "All_Elements",
-      "Base64Image": null
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_element_Element_20230809162556_preview.jpeg"
     },
     {
       "Id": "All_Entities",
-      "Base64Image": null
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_entity_Entity_20230808104516_preview.jpeg"
     },
     {
       "Id": "All_Styles",
-      "Base64Image": null
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_style_Style_20230808110402_preview.jpeg"
     }
   ],
   "TopFeaturedConcepts": [
     {
       "Id": "185",
-      "Base64Image": null
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_knolling_185_20230808150423_preview.jpeg"
     },
     {
       "Id": "29f20c7c-d59d-44f7-8a9c-b999e60b2187",
-      "Base64Image": null
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_steampunk_271_20230808150954_preview.jpeg"
     },
     {
       "Id": "272",
-      "Base64Image": null
+      "Base64Image": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_banksy_272_20230808180146_preview.jpeg"
     }
   ]
 }
