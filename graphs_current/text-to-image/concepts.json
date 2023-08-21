@@ -34684,7 +34684,10 @@
     "Id": "342",
     "Title": "Futuristic Skyscraper Design",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_futuristic-skyscraper-design_342_20230821123447.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_futuristic-skyscraper-design_342_20230821123447_preview.jpeg"
+    },
     "Weight": null
   },
   {
