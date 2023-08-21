@@ -34694,7 +34694,10 @@
     "Id": "343",
     "Title": "Hyperdrive Concept Sheet",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_hyperdrive-concept-sheet_343_20230821123534.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_hyperdrive-concept-sheet_343_20230821123534_preview.jpeg"
+    },
     "Weight": null
   },
   {
