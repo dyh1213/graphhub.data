@@ -34730,7 +34730,10 @@
     "Id": "349",
     "Title": "Naive Art Helicopter",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_naive-art-helicopter_349_20230821123322.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_naive-art-helicopter_349_20230821123322_preview.jpeg"
+    },
     "Weight": null
   }
 ]
