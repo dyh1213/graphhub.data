@@ -34654,7 +34654,10 @@
     "Id": "338",
     "Title": "Cyberpunk City Nightlife",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_cyberpunk-city-nightlife_338_20230821123404.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_cyberpunk-city-nightlife_338_20230821123404_preview.jpeg"
+    },
     "Weight": null
   },
   {
