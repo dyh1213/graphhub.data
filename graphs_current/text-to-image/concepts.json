@@ -34774,7 +34774,10 @@
     "Id": "351",
     "Title": "Isometric Submarine",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_isometric-submarine_351_20230821124829.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_isometric-submarine_351_20230821124829_preview.jpeg"
+    },
     "Weight": null
   }
 ]
