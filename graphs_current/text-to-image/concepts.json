@@ -34720,7 +34720,10 @@
     "Id": "348",
     "Title": "Blacklight Hamster",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_blacklight-hamster_348_20230821123248.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_blacklight-hamster_348_20230821123248_preview.jpeg"
+    },
     "Weight": null
   },
   {
