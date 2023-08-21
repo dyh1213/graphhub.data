@@ -34755,7 +34755,10 @@
     "Id": "350",
     "Title": "Gear Mandalla",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_gear-mandalla_350_20230821123622.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_gear-mandalla_350_20230821123622_preview.jpeg"
+    },
     "Weight": null
   }
 ]
