@@ -34674,7 +34674,10 @@
     "Id": "341",
     "Title": "Future City by Sid Mead",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_future-city-by-sid-mead_341_20230821123424.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_future-city-by-sid-mead_341_20230821123424_preview.jpeg"
+    },
     "Weight": null
   },
   {
