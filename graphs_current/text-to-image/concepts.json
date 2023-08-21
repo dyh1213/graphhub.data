@@ -34624,7 +34624,10 @@
     "Id": "106",
     "Title": "Double Exposure Cowboy",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_double-exposure-cowboy_106_20230821122839.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_double-exposure-cowboy_106_20230821122839_preview.jpeg"
+    },
     "Weight": null
   },
   {
