@@ -34724,7 +34724,10 @@
     "Id": "346",
     "Title": "Mars Rocket by Kurzgesagt",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_mars-rocket-by-kurzgesagt_346_20230821123721.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_mars-rocket-by-kurzgesagt_346_20230821123721_preview.jpeg"
+    },
     "Weight": null
   },
   {
