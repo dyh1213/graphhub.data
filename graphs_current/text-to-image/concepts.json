@@ -34644,7 +34644,10 @@
     "Id": "294",
     "Title": "Fire Department Knoliing",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fire-department-knoliing_294_20230821123022.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fire-department-knoliing_294_20230821123022_preview.jpeg"
+    },
     "Weight": null
   },
   {
