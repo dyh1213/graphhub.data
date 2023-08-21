@@ -34714,7 +34714,10 @@
     "Id": "345",
     "Title": "Dreamcore Tractor",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dreamcore-tractor_345_20230821123651.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dreamcore-tractor_345_20230821123651_preview.jpeg"
+    },
     "Weight": null
   },
   {
