@@ -34661,7 +34661,10 @@
     "Id": "340",
     "Title": "Close-Up Raindrop",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_close-up-raindrop_340_20230821123212.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_close-up-raindrop_340_20230821123212_preview.jpeg"
+    },
     "Weight": null
   },
   {
