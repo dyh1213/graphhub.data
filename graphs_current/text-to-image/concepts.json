@@ -34704,7 +34704,10 @@
     "Id": "344",
     "Title": "Stained Glass Steamboat",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stained-glass-steamboat_344_20230821123556.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stained-glass-steamboat_344_20230821123556_preview.jpeg"
+    },
     "Weight": null
   },
   {
