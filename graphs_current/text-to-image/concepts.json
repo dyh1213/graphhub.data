@@ -34734,7 +34734,10 @@
     "Id": "347",
     "Title": "Maximalist Flea Market",
     "Description": "x",
-    "Image": null,
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_maximalist-flea-market_347_20230821123749.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_maximalist-flea-market_347_20230821123749_preview.jpeg"
+    },
     "Weight": null
   },
   {
