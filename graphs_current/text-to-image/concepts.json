@@ -1,5 +1,365 @@
 [
   {
+    "Id": "327",
+    "Title": "Sculpture",
+    "Description": "Sculpture is a three-dimensional art form. Styles range from Classical to Abstract, with renowned artists such as Michelangelo, Rodin, and Moore.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408_preview.jpeg"
+    },
+    "Weight": 2000
+  },
+  {
+    "Id": "da037d7b-3f86-4314-8c6a-286aa1f0af35",
+    "Title": "Paper Art",
+    "Description": "Paper Art color style encompasses a range of artistic forms made from paper. From Origami to Quilling, the color possibilities are varied and often incorporate a layered composition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518_preview.jpeg"
+    },
+    "Weight": 1300
+  },
+  {
+    "Id": "a082f3e0-35aa-47ba-8b46-0402ac4f1b77",
+    "Title": "Outer Space",
+    "Description": "Outer Space art style represents the celestial and unknown, often in a futuristic or science fiction context. Stark lighting contrasts and the inclusion of planets, stars, and galaxies are common.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_outer-space_1401_20230810071210.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_outer-space_1401_20230810071210_preview.jpeg"
+    },
+    "Weight": 1200
+  },
+  {
+    "Id": "91be853b-471e-478e-ae20-d6efe1a00a2d",
+    "Title": "Post Apocalyptic",
+    "Description": "Post Apocalyptic art style portrays a world after a catastrophic event, depicting ruin, chaos, and desolation. It often involves dystopian and cyberpunk elements with harsh, artificial lighting.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_post-apocalyptic_91be853b-471e-478e-ae20-d6efe1a00a2d_20230810101045.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_post-apocalyptic_91be853b-471e-478e-ae20-d6efe1a00a2d_20230810101045_preview.jpeg"
+    },
+    "Weight": 1200
+  },
+  {
+    "Id": "083c774c-87ee-4ada-8110-10cf5cd76435",
+    "Title": "Underwater",
+    "Description": "Under Water art style explores the mysterious and fluid world beneath the water\u0027s surface, utilizing blue tones and diffused lighting to create ethereal and dream-like representations.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_underwater_083c774c-87ee-4ada-8110-10cf5cd76435_20230813165704.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_underwater_083c774c-87ee-4ada-8110-10cf5cd76435_20230813165704_preview.jpeg"
+    },
+    "Weight": 1200
+  },
+  {
+    "Id": "51f35b8b-4a12-435e-93d2-7efb335d9bcd",
+    "Title": "Split Lighting",
+    "Description": "Split Lighting art style is a technique where half of the subject\u0027s face or form is illuminated, while the other half is in shadow. Predominantly used in portraiture, it gives a mysterious and dramatic look to the subject.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_split-lighting_51f35b8b-4a12-435e-93d2-7efb335d9bcd_20230816093610.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_split-lighting_51f35b8b-4a12-435e-93d2-7efb335d9bcd_20230816093610_preview.jpeg"
+    },
+    "Weight": 1200
+  },
+  {
+    "Id": "9ef1e74f-b3bf-46e5-9578-c596dec580f2",
+    "Title": "Desert",
+    "Description": "Desert art style captures the vast, dry, and often barren landscape, utilizing earthy tones and realistic or impressionistic techniques to portray a sense of isolation and harsh beauty.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_desert_9ef1e74f-b3bf-46e5-9578-c596dec580f2_20230810100806.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_desert_9ef1e74f-b3bf-46e5-9578-c596dec580f2_20230810100806_preview.jpeg"
+    },
+    "Weight": 1150
+  },
+  {
+    "Id": "3e079a17-b07b-416a-923f-b0b17c4895c0",
+    "Title": "Fantastical Landscape",
+    "Description": "Fantastical Landscape art style conveys an imaginary, often otherworldly scene, merging reality with surreal elements to evoke a sense of wonder and dream-like ambiance.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical-landscape_3e079a17-b07b-416a-923f-b0b17c4895c0_20230810100951.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical-landscape_3e079a17-b07b-416a-923f-b0b17c4895c0_20230810100951_preview.jpeg"
+    },
+    "Weight": 1150
+  },
+  {
+    "Id": "285",
+    "Title": "Natural Light",
+    "Description": "Natural Light style art primarily captures scenes under natural light, often creating a calm mood. The composition is typically open, capturing wide landscapes or outdoor scenes. It is closely associated with Impressionism, Realism, and Landscape Art.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_natural-light_285_20230816093634.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_natural-light_285_20230816093634_preview.jpeg"
+    },
+    "Weight": 1100
+  },
+  {
+    "Id": "292",
+    "Title": "Pastel",
+    "Description": "The pastel color style is characterized by the use of soft and light colors, often seen in Impressionism, Post-Impressionism, and contemporary art. It typically creates a peaceful mood, with a loose and fluid composition. Notable artists include Edgar Degas and Mary Cassatt.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455_preview.jpeg"
+    },
+    "Weight": 1100
+  },
+  {
+    "Id": "06cbcde0-282d-4f20-b491-5928b34b73bb",
+    "Title": "Fluorescent",
+    "Description": "The Fluorescent color style is characterized by bright and glowing colors. Often used in Neon Art, Contemporary Art, and Digital Art, this style provides an illuminated and energetic visual experience.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622_preview.jpeg"
+    },
+    "Weight": 1100
+  },
+  {
+    "Id": "329",
+    "Title": "Animation",
+    "Description": "Animation is a dynamic medium style that brings art to life. Styles range from 2D Animation to Stop Motion, with pioneers like Hayao Miyazaki and Walt Disney.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716_preview.jpeg"
+    },
+    "Weight": 1100
+  },
+  {
+    "Id": "3982b71c-fa4c-4032-861a-e751ef08bcee",
+    "Title": "Medieval Europe",
+    "Description": "Medieval European art style encompasses various styles like Gothic and Romanesque, often characterized by religious themes, muted colors, and a hierarchical arrangement of figures.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_medieval-europe_1999_20230810071247.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_medieval-europe_1999_20230810071247_preview.jpeg"
+    },
+    "Weight": 1100
+  },
+  {
+    "Id": "16886558-70d7-4ad0-a85e-ea72b8ba88e2",
+    "Title": "Leading Lines",
+    "Description": "Leading Lines art style employs lines to guide the viewer\u0027s eye towards a particular point of interest. These lines often create a sense of movement, direction, or perspective within the composition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165028.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165028_preview.jpeg"
+    },
+    "Weight": 1100
+  },
+  {
+    "Id": "387a70ae-92c9-4e97-8555-a21094052fce",
+    "Title": "Diffused Light",
+    "Description": "Diffused Light art style involves the use of softened light that doesn\u0027t cast harsh shadows, creating a calm and dreamy atmosphere. Impressionists, like Monet, often used this technique to capture the nuances of natural light.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_diffused-light_387a70ae-92c9-4e97-8555-a21094052fce_20230816093707.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_diffused-light_387a70ae-92c9-4e97-8555-a21094052fce_20230816093707_preview.jpeg"
+    },
+    "Weight": 1050
+  },
+  {
+    "Id": "b90d2d55-986b-4176-b741-30096a123d85",
+    "Title": "Bird\u0027s Eye View",
+    "Description": "Bird\u0027s Eye View art style captures a scene from an elevated or overhead perspective. It often conveys a grand sense of scale and provides a unique view of landscapes or cityscapes.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "281",
+    "Title": "Electro-illuminated",
+    "Description": "Electro-illuminated style is a form of art that uses artificial light as its main medium. The mood is often futuristic, with a dynamic composition. This style is related to Digital Art, Light Art, and Kinetic Art.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_electro-illuminated_281_20230816092804.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_electro-illuminated_281_20230816092804_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "16ca2499-27e7-48d5-89e8-179e98378aae",
+    "Title": "Spray Paint",
+    "Description": "The Spray Paint color style is synonymous with vivid and expressive colors often seen in Street Art, Graffiti, and Abstract paintings. Using spray paint as a medium, artists achieve a freeform and energetic composition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "75d40719-6506-476a-815d-24db450a90e3",
+    "Title": "Fantastical",
+    "Description": "The Fantastical color style employs imaginative and dreamlike colors. It\u0027s common in Surrealism, Fantasy Art, and Illustration, reflecting a sense of wonder, whimsy, and magic.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "b551c80f-573d-44c9-b470-585994dc5a32",
+    "Title": "Warzone",
+    "Description": "Warzone art style illustrates the intensity and conflict of warfare. Utilizing realism and expressionism, it depicts dramatic scenes on the battlefield, capturing emotions, chaos, and the human condition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_war-zones_1486_20230810071331.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_war-zones_1486_20230810071331_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "fcc3d23c-1a4e-4ab3-8ae0-db0de7a2304d",
+    "Title": "Symmetrical",
+    "Description": "Symmetrical art style refers to a balanced and harmonious arrangement, where elements on one side of the composition mirror those on the other. It often conveys a sense of stability and formality.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_symmetrical_44377748-2eaa-48fb-bdf3-3846cc679c77_20230813164135.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_symmetrical_44377748-2eaa-48fb-bdf3-3846cc679c77_20230813164135_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "41d62043-35ed-44b4-84c7-6f21755de357",
+    "Title": "Frame Within Frame",
+    "Description": "Frame within Frame art style involves the use of nested frames within a composition to draw attention to a specific subject or create depth. It\u0027s a technique that adds layers and complexity to the artwork.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_frame-within-frame_51c549f3-df80-4945-93fe-a826830e778e_20230813164616.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_frame-within-frame_51c549f3-df80-4945-93fe-a826830e778e_20230813164616_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "0005d0fe-c807-42cf-b7cd-5fb9770e9244",
+    "Title": "High Contrast Light",
+    "Description": "High Contrast Light art style utilizes sharp differences between light and dark to create dramatic and mood-heavy compositions. Often seen in Film Noir and expressionist works, it evokes intense emotions and depth.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_high-contrast-light_0005d0fe-c807-42cf-b7cd-5fb9770e9244_20230816093548.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_high-contrast-light_0005d0fe-c807-42cf-b7cd-5fb9770e9244_20230816093548_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "bef2658b-9aac-4599-9d42-f260332e428c",
+    "Title": "Bright Light",
+    "Description": "Bright Light art style features intense illumination, often amplifying vivid colors and dynamic compositions. Artists in Pop Art and Fauvism often embraced this technique to make their subjects pop and convey energy.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_bright-light_bef2658b-9aac-4599-9d42-f260332e428c_20230816093731.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_bright-light_bef2658b-9aac-4599-9d42-f260332e428c_20230816093731_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "4b874ef1-eed0-4af7-85e2-c63188a6cf4c",
+    "Title": "Ultraviolet Light",
+    "Description": "Ultraviolet Light art style employs ultraviolet illumination, revealing fluorescent colors and hidden details that are not visible under regular light. This style often gives a mystical or psychedelic ambiance, popular in modern installations and party aesthetics.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_ultraviolet-light_4b874ef1-eed0-4af7-85e2-c63188a6cf4c_20230816093357.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_ultraviolet-light_4b874ef1-eed0-4af7-85e2-c63188a6cf4c_20230816093357_preview.jpeg"
+    },
+    "Weight": 1000
+  },
+  {
+    "Id": "334",
+    "Title": "Stone Lithography",
+    "Description": "Stone Lithography is a printmaking medium style that involves etching on a smooth stone. It\u0027s been used by artists like Honor\u00E9 Daumier and Francisco Goya.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552_preview.jpeg"
+    },
+    "Weight": 900
+  },
+  {
+    "Id": "65a96428-92c1-4141-af1a-ef4b45aaa19a",
+    "Title": "Negative Space",
+    "Description": "Negative Space art style emphasizes the space around and between the subjects of an image. It\u0027s often used in minimalism and abstract art to create intriguing shapes and a balanced composition.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402_preview.jpeg"
+    },
+    "Weight": 900
+  },
+  {
+    "Id": "323",
+    "Title": "Photography",
+    "Description": "Photography is a diverse medium style capturing a wide range of artistic styles such as Photojournalism and Landscape Photography. Influential photographers include Ansel Adams and Dorothea Lange.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453_preview.jpeg"
+    },
+    "Weight": 800
+  },
+  {
+    "Id": "280",
+    "Title": "Dramatic",
+    "Description": "Dramatic style art typically has an intense mood brought out through high contrast lighting and a complex composition. It is often associated with Baroque, Expressionism, and Romanticism.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "291",
+    "Title": "Dark",
+    "Description": "The dark color style employs dark hues and is often associated with gothic and baroque art as well as film noir. Typically set in low-light indoor environments, it evokes a gloomy mood through its dramatic compositions. Caravaggio and Rembrandt are key artists in this style.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "b7ce8205-d40e-42f8-9641-80b44e641e53",
+    "Title": "Action",
+    "Description": "The Action color style is characterized by bold and vivid colors that often represent movement and energy. This style is common in abstract, futurism, and expressionism art forms.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "fdf0454b-a798-4959-a4ed-8d263d7977da",
+    "Title": "Creepy",
+    "Description": "The Creepy color style involves dark and unsettling color schemes. Often seen in Gothic, Surrealism, and Horror Art, this style evokes feelings of unease and fear.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "e345c3a7-d976-48ff-a22b-415cbfac7fad",
+    "Title": "Epic",
+    "Description": "The Epic color style is known for its grand and rich color schemes. It\u0027s primarily associated with historical paintings, mythological art, and murals, often depicting grand narratives.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "fe996854-2742-4183-84b7-d34f5f5aef2a",
+    "Title": "Playful",
+    "Description": "The Playful color style features bright and cheerful colors. It\u0027s found in Pop Art, Cartoon Art, and Naive Art, reflecting a joyful and light-hearted mood.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "4a00b12b-9905-4700-9cd3-e4d6de94646a",
+    "Title": "Serene",
+    "Description": "The Serene color style is characterized by soft and subtle colors. Primarily seen in Landscape Painting and Minimalism, it conveys a peaceful and calming mood.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
+    "Id": "a4cfd37f-d0a5-438a-9279-42afc901340b",
+    "Title": "Whimsical",
+    "Description": "The Whimsical color style involves fantastical and quirky colors. It is often found in Fairy Tale Art, Surrealism, and Children\u0027s Book Illustration, reflecting a sense of wonder and fantasy.",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255_preview.jpeg"
+    },
+    "Weight": 100
+  },
+  {
     "Id": "Medium",
     "Title": "Medium",
     "Description": "List of artistic mediums used by creators across the world. It spans traditional classics like oil, acrylic, watercolor, and charcoal, alongside contemporary innovations such as digital art, mixed media, and installations. Embrace the diverse array of mediums employed by artists to express their creativity and vision, representing a rich tapestry of human ingenuity in the world of art.",
@@ -270,16 +630,6 @@
     "Description": "Bioshock is a popular video game known for its distinct Art Deco inspired style. The game\u0027s artwork, primarily in digital medium, features an underwater environment with muted colors, mysterious mood, and a narrative-driven composition. Ken Levine, the game\u0027s creator, is a significant figure associated with this style.",
     "Image": null,
     "Weight": null
-  },
-  {
-    "Id": "b90d2d55-986b-4176-b741-30096a123d85",
-    "Title": "Bird\u0027s Eye View",
-    "Description": "Bird\u0027s Eye View art style captures a scene from an elevated or overhead perspective. It often conveys a grand sense of scale and provides a unique view of landscapes or cityscapes.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_birds-eye-view_7e38e549-f038-498a-b602-e7dd19aede8b_20230813165336_preview.jpeg"
-    },
-    "Weight": 1000
   },
   {
     "Id": "28",
@@ -2055,26 +2405,6 @@
     "Weight": null
   },
   {
-    "Id": "280",
-    "Title": "Dramatic",
-    "Description": "Dramatic style art typically has an intense mood brought out through high contrast lighting and a complex composition. It is often associated with Baroque, Expressionism, and Romanticism.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dramatic_280_20230809115159_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "281",
-    "Title": "Electro-illuminated",
-    "Description": "Electro-illuminated style is a form of art that uses artificial light as its main medium. The mood is often futuristic, with a dynamic composition. This style is related to Digital Art, Light Art, and Kinetic Art.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_electro-illuminated_281_20230816092804.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_electro-illuminated_281_20230816092804_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
     "Id": "282",
     "Title": "Artificial",
     "Description": "Artificial style art often uses artificial light and mixed media, with an abstract mood and a geometric composition. It is commonly associated with Pop Art, Digital Art, and Postmodern Art.",
@@ -2094,16 +2424,6 @@
     "Description": "Varied style art is marked by a dynamic and complex mood, often incorporating mixed lighting conditions. The composition is usually dynamic and non-uniform. This style is associated with Cubism, Abstract Expressionism, and Surrealism.",
     "Image": null,
     "Weight": null
-  },
-  {
-    "Id": "285",
-    "Title": "Natural Light",
-    "Description": "Natural Light style art primarily captures scenes under natural light, often creating a calm mood. The composition is typically open, capturing wide landscapes or outdoor scenes. It is closely associated with Impressionism, Realism, and Landscape Art.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_natural-light_285_20230816093634.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_natural-light_285_20230816093634_preview.jpeg"
-    },
-    "Weight": 1100
   },
   {
     "Id": "286",
@@ -2141,41 +2461,11 @@
     "Weight": null
   },
   {
-    "Id": "291",
-    "Title": "Dark",
-    "Description": "The dark color style employs dark hues and is often associated with gothic and baroque art as well as film noir. Typically set in low-light indoor environments, it evokes a gloomy mood through its dramatic compositions. Caravaggio and Rembrandt are key artists in this style.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_dark_291_20230809115147_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "292",
-    "Title": "Pastel",
-    "Description": "The pastel color style is characterized by the use of soft and light colors, often seen in Impressionism, Post-Impressionism, and contemporary art. It typically creates a peaceful mood, with a loose and fluid composition. Notable artists include Edgar Degas and Mary Cassatt.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_pastel_292_20230809153455_preview.jpeg"
-    },
-    "Weight": 1100
-  },
-  {
     "Id": "293",
     "Title": "Bright",
     "Description": "The bright color style is associated with high saturation colors, typically found in Pop Art, Abstract Expressionism, and Fauvism. It\u0027s characterized by a joyful mood, dynamic composition, and can be set in both indoor and outdoor environments. Prominent artists include Roy Lichtenstein and Piet Mondrian.",
     "Image": null,
     "Weight": null
-  },
-  {
-    "Id": "06cbcde0-282d-4f20-b491-5928b34b73bb",
-    "Title": "Fluorescent",
-    "Description": "The Fluorescent color style is characterized by bright and glowing colors. Often used in Neon Art, Contemporary Art, and Digital Art, this style provides an illuminated and energetic visual experience.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fluorescent_294_20230809153622_preview.jpeg"
-    },
-    "Weight": 1100
   },
   {
     "Id": "295",
@@ -2374,16 +2664,6 @@
     "Weight": null
   },
   {
-    "Id": "323",
-    "Title": "Photography",
-    "Description": "Photography is a diverse medium style capturing a wide range of artistic styles such as Photojournalism and Landscape Photography. Influential photographers include Ansel Adams and Dorothea Lange.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_photography_323_20230809143453_preview.jpeg"
-    },
-    "Weight": 800
-  },
-  {
     "Id": "324",
     "Title": "Ink",
     "Description": "Ink is a medium style associated with forms like Calligraphy and Sumi-e, where ink is the primary tool. Notable artists include Yoko Takenaka and Aubrey Beardsley.",
@@ -2405,31 +2685,11 @@
     "Weight": null
   },
   {
-    "Id": "327",
-    "Title": "Sculpture",
-    "Description": "Sculpture is a three-dimensional art form. Styles range from Classical to Abstract, with renowned artists such as Michelangelo, Rodin, and Moore.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_sculpture_327_20230809143408_preview.jpeg"
-    },
-    "Weight": 2000
-  },
-  {
     "Id": "328",
     "Title": "Architecture",
     "Description": "Architecture is an artistic and technical discipline, with styles from Modernist to Art Deco. Prominent architects include Frank Lloyd Wright, Zaha Hadid, and Le Corbusier.",
     "Image": null,
     "Weight": null
-  },
-  {
-    "Id": "329",
-    "Title": "Animation",
-    "Description": "Animation is a dynamic medium style that brings art to life. Styles range from 2D Animation to Stop Motion, with pioneers like Hayao Miyazaki and Walt Disney.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_animation_329_20230809143716_preview.jpeg"
-    },
-    "Weight": 1100
   },
   {
     "Id": "330",
@@ -2458,16 +2718,6 @@
     "Description": "Digital Painting is a style that replicates traditional painting techniques in a digital format. Styles range from Concept Art to Digital Realism, with artists such as Craig Mullins and Aaron Blaise making significant contributions.",
     "Image": null,
     "Weight": null
-  },
-  {
-    "Id": "334",
-    "Title": "Stone Lithography",
-    "Description": "Stone Lithography is a printmaking medium style that involves etching on a smooth stone. It\u0027s been used by artists like Honor\u00E9 Daumier and Francisco Goya.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_stone-lithography_334_20230809143552_preview.jpeg"
-    },
-    "Weight": 900
   },
   {
     "Id": "335",
@@ -2519,201 +2769,11 @@
     "Weight": null
   },
   {
-    "Id": "b7ce8205-d40e-42f8-9641-80b44e641e53",
-    "Title": "Action",
-    "Description": "The Action color style is characterized by bold and vivid colors that often represent movement and energy. This style is common in abstract, futurism, and expressionism art forms.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_action_1444_20230809115351_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "fdf0454b-a798-4959-a4ed-8d263d7977da",
-    "Title": "Creepy",
-    "Description": "The Creepy color style involves dark and unsettling color schemes. Often seen in Gothic, Surrealism, and Horror Art, this style evokes feelings of unease and fear.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_creepy_1794_20230809115331_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "e345c3a7-d976-48ff-a22b-415cbfac7fad",
-    "Title": "Epic",
-    "Description": "The Epic color style is known for its grand and rich color schemes. It\u0027s primarily associated with historical paintings, mythological art, and murals, often depicting grand narratives.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_epic_1543_20230809115229_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "fe996854-2742-4183-84b7-d34f5f5aef2a",
-    "Title": "Playful",
-    "Description": "The Playful color style features bright and cheerful colors. It\u0027s found in Pop Art, Cartoon Art, and Naive Art, reflecting a joyful and light-hearted mood.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_playful_1603_20230809115211_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "4a00b12b-9905-4700-9cd3-e4d6de94646a",
-    "Title": "Serene",
-    "Description": "The Serene color style is characterized by soft and subtle colors. Primarily seen in Landscape Painting and Minimalism, it conveys a peaceful and calming mood.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_serene_1876_20230809115307_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "a4cfd37f-d0a5-438a-9279-42afc901340b",
-    "Title": "Whimsical",
-    "Description": "The Whimsical color style involves fantastical and quirky colors. It is often found in Fairy Tale Art, Surrealism, and Children\u0027s Book Illustration, reflecting a sense of wonder and fantasy.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_whimsical_1769_20230809115255_preview.jpeg"
-    },
-    "Weight": 100
-  },
-  {
-    "Id": "da037d7b-3f86-4314-8c6a-286aa1f0af35",
-    "Title": "Paper Art",
-    "Description": "Paper Art color style encompasses a range of artistic forms made from paper. From Origami to Quilling, the color possibilities are varied and often incorporate a layered composition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_paper-art_1570_20230809143518_preview.jpeg"
-    },
-    "Weight": 1300
-  },
-  {
-    "Id": "16ca2499-27e7-48d5-89e8-179e98378aae",
-    "Title": "Spray Paint",
-    "Description": "The Spray Paint color style is synonymous with vivid and expressive colors often seen in Street Art, Graffiti, and Abstract paintings. Using spray paint as a medium, artists achieve a freeform and energetic composition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_spray-paint_1834_20230809143619_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "75d40719-6506-476a-815d-24db450a90e3",
-    "Title": "Fantastical",
-    "Description": "The Fantastical color style employs imaginative and dreamlike colors. It\u0027s common in Surrealism, Fantasy Art, and Illustration, reflecting a sense of wonder, whimsy, and magic.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical_1384_20230809153531_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "9ef1e74f-b3bf-46e5-9578-c596dec580f2",
-    "Title": "Desert",
-    "Description": "Desert art style captures the vast, dry, and often barren landscape, utilizing earthy tones and realistic or impressionistic techniques to portray a sense of isolation and harsh beauty.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_desert_9ef1e74f-b3bf-46e5-9578-c596dec580f2_20230810100806.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_desert_9ef1e74f-b3bf-46e5-9578-c596dec580f2_20230810100806_preview.jpeg"
-    },
-    "Weight": 1150
-  },
-  {
-    "Id": "3e079a17-b07b-416a-923f-b0b17c4895c0",
-    "Title": "Fantastical Landscape",
-    "Description": "Fantastical Landscape art style conveys an imaginary, often otherworldly scene, merging reality with surreal elements to evoke a sense of wonder and dream-like ambiance.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical-landscape_3e079a17-b07b-416a-923f-b0b17c4895c0_20230810100951.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_fantastical-landscape_3e079a17-b07b-416a-923f-b0b17c4895c0_20230810100951_preview.jpeg"
-    },
-    "Weight": 1150
-  },
-  {
-    "Id": "3982b71c-fa4c-4032-861a-e751ef08bcee",
-    "Title": "Medieval Europe",
-    "Description": "Medieval European art style encompasses various styles like Gothic and Romanesque, often characterized by religious themes, muted colors, and a hierarchical arrangement of figures.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_medieval-europe_1999_20230810071247.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_medieval-europe_1999_20230810071247_preview.jpeg"
-    },
-    "Weight": 1100
-  },
-  {
-    "Id": "a082f3e0-35aa-47ba-8b46-0402ac4f1b77",
-    "Title": "Outer Space",
-    "Description": "Outer Space art style represents the celestial and unknown, often in a futuristic or science fiction context. Stark lighting contrasts and the inclusion of planets, stars, and galaxies are common.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_outer-space_1401_20230810071210.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_outer-space_1401_20230810071210_preview.jpeg"
-    },
-    "Weight": 1200
-  },
-  {
-    "Id": "91be853b-471e-478e-ae20-d6efe1a00a2d",
-    "Title": "Post Apocalyptic",
-    "Description": "Post Apocalyptic art style portrays a world after a catastrophic event, depicting ruin, chaos, and desolation. It often involves dystopian and cyberpunk elements with harsh, artificial lighting.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_post-apocalyptic_91be853b-471e-478e-ae20-d6efe1a00a2d_20230810101045.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_post-apocalyptic_91be853b-471e-478e-ae20-d6efe1a00a2d_20230810101045_preview.jpeg"
-    },
-    "Weight": 1200
-  },
-  {
-    "Id": "b551c80f-573d-44c9-b470-585994dc5a32",
-    "Title": "Warzone",
-    "Description": "Warzone art style illustrates the intensity and conflict of warfare. Utilizing realism and expressionism, it depicts dramatic scenes on the battlefield, capturing emotions, chaos, and the human condition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_war-zones_1486_20230810071331.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_war-zones_1486_20230810071331_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "fcc3d23c-1a4e-4ab3-8ae0-db0de7a2304d",
-    "Title": "Symmetrical",
-    "Description": "Symmetrical art style refers to a balanced and harmonious arrangement, where elements on one side of the composition mirror those on the other. It often conveys a sense of stability and formality.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_symmetrical_44377748-2eaa-48fb-bdf3-3846cc679c77_20230813164135.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_symmetrical_44377748-2eaa-48fb-bdf3-3846cc679c77_20230813164135_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "41d62043-35ed-44b4-84c7-6f21755de357",
-    "Title": "Frame Within Frame",
-    "Description": "Frame within Frame art style involves the use of nested frames within a composition to draw attention to a specific subject or create depth. It\u0027s a technique that adds layers and complexity to the artwork.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_frame-within-frame_51c549f3-df80-4945-93fe-a826830e778e_20230813164616.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_frame-within-frame_51c549f3-df80-4945-93fe-a826830e778e_20230813164616_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "16886558-70d7-4ad0-a85e-ea72b8ba88e2",
-    "Title": "Leading Lines",
-    "Description": "Leading Lines art style employs lines to guide the viewer\u0027s eye towards a particular point of interest. These lines often create a sense of movement, direction, or perspective within the composition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165028.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_leading-lines_c3fe8302-e573-481d-b013-f162655d853a_20230813165028_preview.jpeg"
-    },
-    "Weight": 1100
-  },
-  {
     "Id": "2021f302-f145-49a4-805a-fad32d62b879",
     "Title": "Under Water",
     "Description": "Under Water art style explores the mysterious and fluid world beneath the water\u0027s surface, utilizing blue tones and diffused lighting to create ethereal and dream-like representations.",
     "Image": null,
     "Weight": null
-  },
-  {
-    "Id": "65a96428-92c1-4141-af1a-ef4b45aaa19a",
-    "Title": "Negative Space",
-    "Description": "Negative Space art style emphasizes the space around and between the subjects of an image. It\u0027s often used in minimalism and abstract art to create intriguing shapes and a balanced composition.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_negative-space_6015a60f-35cd-47a7-b51b-da1a2947a796_20230813165402_preview.jpeg"
-    },
-    "Weight": 900
   },
   {
     "Id": "8702722b-fbbd-4794-a8ad-13cda5b6457e",
@@ -2724,66 +2784,6 @@
       "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_shallow-depth-of-field_8702722b-fbbd-4794-a8ad-13cda5b6457e_20230816111132_preview.jpeg"
     },
     "Weight": null
-  },
-  {
-    "Id": "083c774c-87ee-4ada-8110-10cf5cd76435",
-    "Title": "Underwater",
-    "Description": "Under Water art style explores the mysterious and fluid world beneath the water\u0027s surface, utilizing blue tones and diffused lighting to create ethereal and dream-like representations.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_underwater_083c774c-87ee-4ada-8110-10cf5cd76435_20230813165704.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_underwater_083c774c-87ee-4ada-8110-10cf5cd76435_20230813165704_preview.jpeg"
-    },
-    "Weight": 1200
-  },
-  {
-    "Id": "0005d0fe-c807-42cf-b7cd-5fb9770e9244",
-    "Title": "High Contrast Light",
-    "Description": "High Contrast Light art style utilizes sharp differences between light and dark to create dramatic and mood-heavy compositions. Often seen in Film Noir and expressionist works, it evokes intense emotions and depth.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_high-contrast-light_0005d0fe-c807-42cf-b7cd-5fb9770e9244_20230816093548.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_high-contrast-light_0005d0fe-c807-42cf-b7cd-5fb9770e9244_20230816093548_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "51f35b8b-4a12-435e-93d2-7efb335d9bcd",
-    "Title": "Split Lighting",
-    "Description": "Split Lighting art style is a technique where half of the subject\u0027s face or form is illuminated, while the other half is in shadow. Predominantly used in portraiture, it gives a mysterious and dramatic look to the subject.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_split-lighting_51f35b8b-4a12-435e-93d2-7efb335d9bcd_20230816093610.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_split-lighting_51f35b8b-4a12-435e-93d2-7efb335d9bcd_20230816093610_preview.jpeg"
-    },
-    "Weight": 1200
-  },
-  {
-    "Id": "387a70ae-92c9-4e97-8555-a21094052fce",
-    "Title": "Diffused Light",
-    "Description": "Diffused Light art style involves the use of softened light that doesn\u0027t cast harsh shadows, creating a calm and dreamy atmosphere. Impressionists, like Monet, often used this technique to capture the nuances of natural light.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_diffused-light_387a70ae-92c9-4e97-8555-a21094052fce_20230816093707.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_diffused-light_387a70ae-92c9-4e97-8555-a21094052fce_20230816093707_preview.jpeg"
-    },
-    "Weight": 1050
-  },
-  {
-    "Id": "bef2658b-9aac-4599-9d42-f260332e428c",
-    "Title": "Bright Light",
-    "Description": "Bright Light art style features intense illumination, often amplifying vivid colors and dynamic compositions. Artists in Pop Art and Fauvism often embraced this technique to make their subjects pop and convey energy.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_bright-light_bef2658b-9aac-4599-9d42-f260332e428c_20230816093731.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_bright-light_bef2658b-9aac-4599-9d42-f260332e428c_20230816093731_preview.jpeg"
-    },
-    "Weight": 1000
-  },
-  {
-    "Id": "4b874ef1-eed0-4af7-85e2-c63188a6cf4c",
-    "Title": "Ultraviolet Light",
-    "Description": "Ultraviolet Light art style employs ultraviolet illumination, revealing fluorescent colors and hidden details that are not visible under regular light. This style often gives a mystical or psychedelic ambiance, popular in modern installations and party aesthetics.",
-    "Image": {
-      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_ultraviolet-light_4b874ef1-eed0-4af7-85e2-c63188a6cf4c_20230816093357.jpeg",
-      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_ultraviolet-light_4b874ef1-eed0-4af7-85e2-c63188a6cf4c_20230816093357_preview.jpeg"
-    },
-    "Weight": 1000
   },
   {
     "Id": "f525af94-93a1-4ce6-aef4-20d35a8f6e1b",
@@ -34622,7 +34622,7 @@
   },
   {
     "Id": "5924",
-    "Title": "Native Art Helicopter",
+    "Title": "Naive Art Helicopter",
     "Description": "helicopter naive art --ar 7:4",
     "Image": {
       "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/text-to-image/CON_naive-art-helicopter_349_20230821123322.jpeg",
