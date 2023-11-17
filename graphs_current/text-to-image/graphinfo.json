@@ -9,15 +9,15 @@
   "FeaturedConcepts": null,
   "TopFeaturedLists": [
     {
-      "Id": "All_Styles",
-      "Base64Image": null
-    },
-    {
       "Id": "All_Elements",
       "Base64Image": null
     },
     {
       "Id": "All_Entities",
+      "Base64Image": null
+    },
+    {
+      "Id": "All_Styles",
       "Base64Image": null
     }
   ],
