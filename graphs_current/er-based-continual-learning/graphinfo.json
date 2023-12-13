@@ -1,0 +1,17 @@
+{
+  "GraphId": "cf81e23e-ea72-45cf-a0d5-37a4659f34f0",
+  "GraphDisplayName": "ER based continual learning",
+  "GraphUrlName": "er-based-continual-learning",
+  "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/er-based-continual-learning",
+  "RootConcept": null,
+  "Description": "Welcome to your new knowledge graph! To get started add your first concept through the graph menu. Once you have a few concepts you can combine them into a list. To get you started this graph already includes a two concepts and a list for reference.",
+  "FeaturedLists": [
+    "1"
+  ],
+  "FeaturedConcepts": [
+    "1",
+    "2"
+  ],
+  "TopFeaturedLists": null,
+  "TopFeaturedConcepts": null
+}
