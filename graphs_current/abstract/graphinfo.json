@@ -1,0 +1,17 @@
+{
+  "GraphId": "3f3f68b4-844a-4138-9767-d0bfd2913666",
+  "GraphDisplayName": "abstract",
+  "GraphUrlName": "abstract",
+  "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/abstract",
+  "RootConcept": null,
+  "Description": "Welcome to your new knowledge graph! To get started add your first concept through the graph menu. Once you have a few concepts you can combine them into a list. To get you started this graph already includes a two concepts and a list for reference.",
+  "FeaturedLists": [
+    "1"
+  ],
+  "FeaturedConcepts": [
+    "1",
+    "2"
+  ],
+  "TopFeaturedLists": null,
+  "TopFeaturedConcepts": null
+}
