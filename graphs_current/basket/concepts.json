@@ -1,8 +1,8 @@
 [
   {
     "Id": "1",
-    "Title": "X Concept",
-    "Description": "This is an example concept! To get started create your own through the graph menu and delete this one though the edit tab.",
+    "Title": "guard",
+    "Description": "This is the player that controls all the game",
     "Image": null,
     "Weight": null
   },
