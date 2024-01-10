@@ -12,5 +12,12 @@
     "Description": "This is an example concept! To get started create your own through the graph menu and delete this one though the edit tab.",
     "Image": null,
     "Weight": null
+  },
+  {
+    "Id": "3",
+    "Title": "escolta",
+    "Description": "Acompa\u00F1a al base tiene un rol mas anotador",
+    "Image": null,
+    "Weight": null
   }
 ]
