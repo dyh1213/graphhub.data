@@ -1,0 +1,17 @@
+{
+  "GraphId": "73a0585a-8aa8-4ec6-bcea-18a2ef00a889",
+  "GraphDisplayName": "chemical materials",
+  "GraphUrlName": "chemical-materials",
+  "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/chemical-materials",
+  "RootConcept": null,
+  "Description": "Welcome to your new knowledge graph! To get started add your first concept through the graph menu. Once you have a few concepts you can combine them into a list. To get you started this graph already includes a two concepts and a list for reference.",
+  "FeaturedLists": [
+    "1"
+  ],
+  "FeaturedConcepts": [
+    "1",
+    "2"
+  ],
+  "TopFeaturedLists": null,
+  "TopFeaturedConcepts": null
+}
