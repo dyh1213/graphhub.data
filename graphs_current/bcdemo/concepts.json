@@ -12,5 +12,26 @@
     "Description": "This is an example concept! To get started create your own through the graph menu and delete this one though the edit tab.",
     "Image": null,
     "Weight": null
+  },
+  {
+    "Id": "3",
+    "Title": "President Biden\u0027s Supply Chain Actions",
+    "Description": "Initiative to bolster supply chains and reduce costs.",
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "4",
+    "Title": "President Biden\u0027s Supply Chain Actions",
+    "Description": "Initiative to bolster supply chains and reduce costs.",
+    "Image": null,
+    "Weight": null
+  },
+  {
+    "Id": "5",
+    "Title": "President Biden\u0027s Supply Chain Actions",
+    "Description": "President Biden\u0027s initiative to bolster supply chains and reduce costs.",
+    "Image": null,
+    "Weight": null
   }
 ]
