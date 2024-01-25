@@ -5,5 +5,12 @@
     "Description": "comprises all service industry sectors",
     "Image": null,
     "Weight": null
+  },
+  {
+    "Id": "2",
+    "Title": "Manufacturing industries",
+    "Description": "collection of industries",
+    "Image": null,
+    "Weight": null
   }
 ]
