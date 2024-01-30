@@ -12,5 +12,12 @@
     "Description": "This is an example concept! To get started create your own through the graph menu and delete this one though the edit tab.",
     "Image": null,
     "Weight": null
+  },
+  {
+    "Id": "3",
+    "Title": "Beratung",
+    "Description": "Ein Treffen mit mit der Beteiligung von einem oder mehreren Unternehmen. Ziel ist es ihnen bei der Erstellung eines KI-Produkters zur Seite zu stehen",
+    "Image": null,
+    "Weight": null
   }
 ]
