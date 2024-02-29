@@ -1,0 +1,17 @@
+{
+  "GraphId": "8b6dbfbe-9676-4729-971e-9d4c4fcdab97",
+  "GraphDisplayName": "KK test",
+  "GraphUrlName": "kk-test",
+  "GraphGitHubDatabaseUrl": "https://github.com/dyh1213/graphhub.data/tree/main/graphs_current/kk-test",
+  "RootConcept": null,
+  "Description": "Welcome to your new knowledge graph! To get started add your first concept through the graph menu. Once you have a few concepts you can combine them into a list. To get you started this graph already includes a two concepts and a list for reference.",
+  "FeaturedLists": [
+    "1"
+  ],
+  "FeaturedConcepts": [
+    "1",
+    "2"
+  ],
+  "TopFeaturedLists": null,
+  "TopFeaturedConcepts": null
+}
