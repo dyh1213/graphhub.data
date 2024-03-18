@@ -1,9 +1,12 @@
 [
   {
     "Id": "1",
-    "Title": "X Concept",
-    "Description": "This is an example concept! To get started create your own through the graph menu and delete this one though the edit tab.",
-    "Image": null,
+    "Title": "X Concept adenocarcinoma",
+    "Description": "masa",
+    "Image": {
+      "imageURL": "https://graphhub.blob.core.windows.net/graphhub-images/lung-cancer/CON_x-concept-adenocarcinoma_1_20240318194733.jpeg",
+      "imagePrviewUrl": "https://graphhub.blob.core.windows.net/graphhub-images/lung-cancer/CON_x-concept-adenocarcinoma_1_20240318194733_preview.jpeg"
+    },
     "Weight": null
   },
   {
