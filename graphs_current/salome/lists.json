@@ -1,10 +1,10 @@
 [
   {
     "Id": "1",
-    "Title": "Letters List",
-    "Description": "This is an example list! To get started create your own through the graph menu and delete this one though the edit tab.",
+    "Title": "Pr\u00FCfgr\u00FCnde",
+    "Description": "Gr\u00FCnde, die ein Kostentr\u00E4ger f\u00FCr die Pr\u00FCfung einer Krankenhausrechnung haben kann",
     "ParentConceptId": null,
-    "ImageConceptId": null,
+    "ImageConceptId": "2",
     "PullFromListsIds": null,
     "DisableDirectMembers": false,
     "Type": null
