@@ -12,5 +12,12 @@
     "Description": "This is an example concept! To get started create your own through the graph menu and delete this one though the edit tab.",
     "Image": null,
     "Weight": null
+  },
+  {
+    "Id": "3",
+    "Title": "Pr\u00FCfgr\u00FCnde",
+    "Description": "Gr\u00FCnde, die ein Kostentr\u00E4ger f\u00FCr eine Pr\u00FCfung haben kann",
+    "Image": null,
+    "Weight": null
   }
 ]
